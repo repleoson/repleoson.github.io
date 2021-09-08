@@ -6,9 +6,9 @@ url: "https://repleoson.github.io"  #
 title_slog: "" # 
 title_sep: "" # Home
 # verification
-bing: ""
-yandex: ""
-google: ""
+bing: "B8A25537AAF9937E20F7D91657E6264D"
+yandex: "4fbd47676dc8c0ae"
+google: "rQqb6AA5bVlMq3k9Xv-GWec-Bsuc1TIrOnYqHSwzCUw"
 # encoding timezone
 encoding: "utf-8"
 timezone: UTC
