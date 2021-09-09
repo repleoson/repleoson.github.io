@@ -1,0 +1,15 @@
+---
+title: "TheFatRat - Electrified"
+image: "https:\/\/i.ytimg.com\/vi\/p-LOXXGGeAc\/hqdefault.jpg"
+vid_id: "p-LOXXGGeAc"
+categories: "Music"
+tags: ["thefatrat","the fat rat","fatrat"]
+date: "2021-09-09T10:18:25+03:00"
+vid_date: "2020-04-17T14:00:12Z"
+duration: "PT3M11S"
+viewcount: "6666952"
+likeCount: "180552"
+dislikeCount: "2726"
+channel: "TheFatRat"
+---
+{% raw %}PRE-SAVE my new single &quot;Let Love Win&quot; here 👉 <a rel="nofollow" target="blank" href="https://lnk.to/tfrletlovewinyt">https://lnk.to/tfrletlovewinyt</a><br />PRE-SAVE my album PARALLAX here 👉 <a rel="nofollow" target="blank" href="https://lnk.to/TFRPARALLAXYT">https://lnk.to/TFRPARALLAXYT</a><br />Check out the &quot;Electrified&quot; here 👉 <a rel="nofollow" target="blank" href="https://lnk.to/electrified">https://lnk.to/electrified</a><br /><br />Electrified is copyright FREE on YouTube. Please make sure to credit me and link to this video.<br /><br />Subscribe for more FREE MUSIC <a rel="nofollow" target="blank" href="https://www.youtube.com/thefatrat">https://www.youtube.com/thefatrat</a><br />Check out my SOCIALS, MERCH, STREAMING and song STEMS here <a rel="nofollow" target="blank" href="https://linktr.ee/TheFatRat">https://linktr.ee/TheFatRat</a><br /><br />Follow me on Instagram for updates, personal stuff and extra content like new stems and creator videos, playlists and The Arcadium music.<br /><br />#TheFatRat #Electrified #CopyrightFreeMusic #House<br /><br /><br />LYRICS ////////// TheFatRat - Electrified ////////// LYRICS<br /><br />VERSE 1<br />No warning<br />In a flash of light<br />Don’t need no warning<br />This feeling’s right<br />Vibrations<br />Chill through my bones<br />Sensations<br />Flow through your glow<br /><br />PRECHORUS<br />So incredible<br />The way I feel with you<br />So phenomenal<br />How you always push me through<br />Unforgettable<br />The way I feel with you<br />Unbelievable<br />How you always push me through<br /><br />CHORUS<br />Electrified<br />Electrified with you<br />Electrified<br />Electrified with you<br /><br />VERSE 2<br />I’m pulsing in a flash of light<br />My heart’s convulsing<br />This feeling’s right<br />Vibrations<br />Chill through my bones<br />Sensations<br />Flow through your glow<br /><br />////////////////////////////<br />Art by gtgraphics<br />Animation by @RefractArt <br />Make sure to check out how they made the video here <a rel="nofollow" target="blank" href="https://youtu.be/8WGcE-i7WVw">https://youtu.be/8WGcE-i7WVw</a><br /><br />////////////////////////////<br />Submit your demos to my label The Arcadium via LabelRadar<br />Send your creations featuring TheFatRat's or The Arcadium's music to fanmail@the-arcadium.de<br /><br />#TheFatRat #Electrified #CopyrightFreeMusic #GamingMusic #Orchestra #GlitchHop #Soundtrack #EpicMusic #FreeMusic #NoCopyrightMusic #Marshmello #AlanWalker #K-391<br /><br />GamingMusic | Copyright Free Music | FreeMusic | TheFatRat | Orchestra | Cinematic | Glitch Hop | Soundtrack | Marshmello | Alan Walker | K-391{% endraw %}
