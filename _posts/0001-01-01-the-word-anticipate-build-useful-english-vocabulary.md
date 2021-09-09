@@ -1,0 +1,15 @@
+---
+title: "The Word ANTICIPATE | Build Useful English Vocabulary"
+image: "https:\/\/i.ytimg.com\/vi\/XIM2Tewr29U\/hqdefault.jpg"
+vid_id: "XIM2Tewr29U"
+categories: "Education"
+tags: ["Interactive English","Learn English Free","Practice English"]
+date: "2021-09-09T15:36:43+03:00"
+vid_date: "2017-04-11T07:00:02Z"
+duration: "PT6M7S"
+viewcount: "5351"
+likeCount: "323"
+dislikeCount: "3"
+channel: "Interactive English"
+---
+{% raw %}Learn and practice building your English vocabulary! In this lesson, we will teach you all about the word &quot;anticipate,&quot; as well as additional words in the word family. Finally, we'll practice what you've learned with several interactive questions.<br /><br />This is a great way to build vocabulary and enhance your overall English fluency!<br /><br />LINKS TO PRACTICE &amp; IMPROVE YOUR ENGLISH<br /><br />Improve Your Listening w/ Audiobooks. FREE TRAIL!<br /><a rel="nofollow" target="blank" href="http://www.audibletrial.com/InteractiveEnglish">http://www.audibletrial.com/InteractiveEnglish</a><br /><br />Find an English Teacher/Tutor (Recommended Sites)<br />italki: <a rel="nofollow" target="blank" href="http://bit.ly/italki_InteractiveEnglish">http://bit.ly/italki_InteractiveEnglish</a><br />Lingoda: <a rel="nofollow" target="blank" href="http://bit.ly/Lingoda_InteractiveEnglish">http://bit.ly/Lingoda_InteractiveEnglish</a><br />Verbling: <a rel="nofollow" target="blank" href="http://bit.ly/Verbling_InteractiveEnglish">http://bit.ly/Verbling_InteractiveEnglish</a><br /><br />Eliminate Writing Mistakes<br />Grammarly: <a rel="nofollow" target="blank" href="http://bit.ly/Grammarly_InteractiveEnglish">http://bit.ly/Grammarly_InteractiveEnglish</a><br /><br />Read about Wes’ Teaching Adventures<br />Happy Time Go Fast (South Korea): <a rel="nofollow" target="blank" href="http://amzn.to/2FmYhSS">http://amzn.to/2FmYhSS</a><br />Watermelon Is Life (Namibia): <a rel="nofollow" target="blank" href="http://amzn.to/2FEjE1j">http://amzn.to/2FEjE1j</a><br /><br />Learn English with Us on Social Media:<br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/InteractiveEng/">https://www.facebook.com/InteractiveEng/</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/interactiveeng/">https://www.instagram.com/interactiveeng/</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/interactiveeng">https://twitter.com/interactiveeng</a><br />Snapchat: <a rel="nofollow" target="blank" href="https://www.snapchat.com/add/interactiveeng">https://www.snapchat.com/add/interactiveeng</a><br /><br />Other Shout-Outs:<br />Royalty-free images provided by Pixabay<br />Music: Jazzy Frenchy - Bensound.com<br />Emoji provided free by <a rel="nofollow" target="blank" href="http://emojione.com">http://emojione.com</a><br /><br />**Affiliate Links:<br />Please know that links to Audible, italki, Lingoda, Verbling, Grammarly, as well as any Amazon products are affiliate links. We earn commission through these links. <br /><br />THANKS FOR WATCHING!{% endraw %}
