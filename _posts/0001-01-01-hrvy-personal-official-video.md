@@ -1,0 +1,15 @@
+---
+title: "HRVY - Personal (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/2YvG0NbYJpE\/hqdefault.jpg"
+vid_id: "2YvG0NbYJpE"
+categories: "Music"
+tags: ["HRVY","Personal","Hasta Luego"]
+date: "2021-09-09T03:01:14+03:00"
+vid_date: "2017-11-30T20:00:01Z"
+duration: "PT3M29S"
+viewcount: "304869516"
+likeCount: "3739920"
+dislikeCount: "113735"
+channel: "HRVYVEVO"
+---
+{% raw %}Go watch the official video for ‘Me Because of You…out now! 🖤 Listen everywhere here: <a rel="nofollow" target="blank" href="https://HRVY.lnk.to/MEBCOFUID">https://HRVY.lnk.to/MEBCOFUID</a> <br /><br />‘Personal' is out now<br />Listen here: <a rel="nofollow" target="blank" href="https://HRVY.lnk.to/Personal">https://HRVY.lnk.to/Personal</a><br />---------------------------------<br />Follow me on Socials:<br />Instagram - <a rel="nofollow" target="blank" href="https://www.instagram.com/hrvy">https://www.instagram.com/hrvy</a><br />Facebook - <a rel="nofollow" target="blank" href="https://www.facebook.com/HRVY">https://www.facebook.com/HRVY</a><br />Twitter - <a rel="nofollow" target="blank" href="https://twitter.com/HRVY">https://twitter.com/HRVY</a><br />---------------------------------<br />Lyrics<br />Personal <br /><br />I Don’t know why’d do this to me<br />your so cold <br />you’d be playing like <br />ye ye ye ye ye ye ye ye ye<br />i got told danger follows every where you go <br />but i still be like <br />ye ye ye ye ye ye ye ye ye<br /><br />This the part where I’m gonna get hurt<br />i never listened and but didn’t deserve it<br />i was young and she was my first love<br />so they say that you live and you learn<br /><br />Like ye she gone mess with you head<br />oh ye and she’ll flirt with your friends oh ye<br />make you wish you were dead<br />Everytime she moves on she says <br />Don’t take it personal<br />Don’t take it personal<br />Everytime she moves on she says <br /><br />Who else knows, <br />all my friends are blowing up my phone <br />Somethings telling <br />no no no no no no no no no<br /><br />This the part where I’m gonna get hurt<br />i never listened and but didn’t deserve it<br />i was young and she was my first love<br />so they say that you live and you learn<br /><br />Like ye she gone mess with you head<br />oh ye and she’ll flirt with your friends oh ye<br />make you wish you were dead<br />Everytime she moves on she says <br />Don’t take it personal<br />Don’t take it personal<br />Everytime she moves on she says <br /><br />she won’t don’t no favours <br />beautiful but she dangerous<br />she was only gone break you<br />drive me crazy like<br />ye ye ye ye ye ye ye ye ye<br />she won’t don’t no favours <br />beautiful but she dangerous<br />she was only gone break you<br />drive me crazy like<br />ye ye ye ye ye ye ye ye ye<br /><br />Like ye she gone mess with you head<br />oh ye and she’ll flirt with your friends oh ye<br />make you wish you were dead<br />Everytime she moves on she says <br />Don’t take it personal<br />Don’t take it personal<br />Everytime she moves on she says<br /><br />#HRVY #Personal #Vevo{% endraw %}
