@@ -1,0 +1,15 @@
+---
+title: "The Cost of Concordia"
+image: "https:\/\/i.ytimg.com\/vi\/Qh9KBwqGxTI\/hqdefault.jpg"
+vid_id: "Qh9KBwqGxTI"
+categories: "Comedy"
+tags: ["costa concordia","cruise ships","schettino"]
+date: "2021-09-10T11:38:51+03:00"
+vid_date: "2021-02-17T03:31:04Z"
+duration: "PT46M49S"
+viewcount: "9718237"
+likeCount: "523691"
+dislikeCount: "3754"
+channel: "Internet Historian"
+---
+{% raw %}Go to <a rel="nofollow" target="blank" href="https://NordVPN.com/internethistorian">https://NordVPN.com/internethistorian</a> and use code INTERNETHISTORIAN to get a 2-year plan plus 1 additional month with a huge discount. It’s risk free with Nord’s 30 day money-back guarantee!<br /><br />--------<br />Ship-a go sink.<br />--------<br /><br />Patreon: <a rel="nofollow" target="blank" href="https://www.patreon.com/internethistorian">https://www.patreon.com/internethistorian</a><br />Incognito Mode: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC8Q7XEy86Q7T-3kNpNjYgwA">https://www.youtube.com/channel/UC8Q7XEy86Q7T-3kNpNjYgwA</a><br />Twitch: twitch.tv/internethistorian<br />Twitter: @nethistorian<br />Q&amp;A: <a rel="nofollow" target="blank" href="https://youtu.be/U6Crdz7Uo7c">https://youtu.be/U6Crdz7Uo7c</a><br />---------------<br /><br />Music:<br /><br />Benjamin Symons - My Myocardium Will Continue<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC337A-7uDoyeUR46o4mTISg">https://www.youtube.com/channel/UC337A-7uDoyeUR46o4mTISg</a><br />Dido - White Flag Cover provided courtesy of Fall of Envy and Octave Match Records.<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCpnsd1EfZERCQYvOzuqexxw">https://www.youtube.com/channel/UCpnsd1EfZERCQYvOzuqexxw</a><br />(Down with this ship scene)<br /><br />--<br /><br />Ipanema Daydream - Bird Creek<br />SOXX - Trouble with Love<br />Gran Turismo 6 OST - Garage Extended: Vision GT<br />Payday 2 - Calling All Units<br />Savana - Vendredi<br />Montserrat Caballe - O mio babbino caro<br />Film Noir Background Music - No Copyright Music<br />L.A Noire - Chase 03<br />Metal Gear Solid 4 - Guns of The Patriots<br />Kid Icarus: Uprising - Boss Battle 2<br />Classic Italian Music - No Copyright Sounds<br />Metal Gear Solid 2 - Tanker Incident<br />Folklore OST - Collapse<br />Dead Space - Cyanide Systems Offline<br />Hollow Knight OST - Hornet<br />Halo Combat Evolved - Undercover of Night<br />Synergy - Geographer<br />The Heist - Free No Copyright Music<br />Cartoon Bank Heist<br />Ron Meixsell - Non Piu Andrai<br />Van Bree - Allegro: Janine Jansen<br />Dead Island Soundtrack - Main Theme<br />GTA Vice City - Main Theme Extended<br />Halo 2 Volume 2 OST - Mausoleum Suite<br />Non Piu Andrai - Wolfgang Amadeus Mozart<br />Scott Buckley - In Dreams<br />Skullgirls OST - Pedestrians Crossing<br />Silent Partner - The Messenger<br />Bensound - Ukulele<br />Vadim Krakhmal - Copyright Free Adventure Music<br />Fall of Liberty OST - Turning Point<br />Cyberpunk - Oblivion<br />Twin Musicom - Italian Morning<br /><br />-------<br /><br />Exec Producer Mitch Duffy missed the credits list so he's down here.{% endraw %}
