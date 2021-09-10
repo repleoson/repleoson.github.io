@@ -1,0 +1,15 @@
+---
+title: "Taylor Swift - You Need To Calm Down"
+image: "https:\/\/i.ytimg.com\/vi\/Dkk9gvTmCXY\/hqdefault.jpg"
+vid_id: "Dkk9gvTmCXY"
+categories: "Music"
+tags: ["taylor swift","you need to calm down","calm down taylor swift"]
+date: "2021-09-11T01:03:53+03:00"
+vid_date: "2019-06-17T12:13:12Z"
+duration: "PT3M31S"
+viewcount: "260377528"
+likeCount: "4167010"
+dislikeCount: "321786"
+channel: "TaylorSwiftVEVO"
+---
+{% raw %}Music video by Taylor Swift performing “You Need To Calm Down” – off her upcoming new album ‘Lover’ (out August 23). Support the Equality Act: <a rel="nofollow" target="blank" href="https://taylorswift.lnk.to/petition">https://taylorswift.lnk.to/petition</a><br /><br />►Download “You Need To Calm Down&quot; here: <a rel="nofollow" target="blank" href="https://TaylorSwift.lnk.to/YNTCDsu">https://TaylorSwift.lnk.to/YNTCDsu</a><br />►Pre-Order ‘Lover’ here: <a rel="nofollow" target="blank" href="https://TaylorSwift.lnk.to/Loversu">https://TaylorSwift.lnk.to/Loversu</a><br /><br />►Exclusive Merch: <a rel="nofollow" target="blank" href="https://store.taylorswift.com">https://store.taylorswift.com</a><br /><br />►Follow Taylor Swift Online<br />Instagram: <a rel="nofollow" target="blank" href="http://www.instagram.com/taylorswift">http://www.instagram.com/taylorswift</a><br />Facebook: <a rel="nofollow" target="blank" href="http://www.facebook.com/taylorswift">http://www.facebook.com/taylorswift</a><br />Tumblr: <a rel="nofollow" target="blank" href="http://taylorswift.tumblr.com">http://taylorswift.tumblr.com</a><br />Twitter: <a rel="nofollow" target="blank" href="http://www.twitter.com/taylorswift13">http://www.twitter.com/taylorswift13</a><br />Website: <a rel="nofollow" target="blank" href="http://www.taylorswift.com">http://www.taylorswift.com</a><br /><br />►Follow Taylor Nation Online<br />Instagram: <a rel="nofollow" target="blank" href="http://www.instagram.com/taylornation">http://www.instagram.com/taylornation</a><br />Tumblr: <a rel="nofollow" target="blank" href="http://taylornation.tumblr.com">http://taylornation.tumblr.com</a><br />Twitter: <a rel="nofollow" target="blank" href="http://www.twitter.com/taylornation13">http://www.twitter.com/taylornation13</a><br /><br />Featuring appearances by (in alphabetical order):<br />A'keria Davenport<br />Adam Lambert<br />Adam Rippon<br />Adore Delano<br />Antoni Porowski<br />Billy Porter<br />Bobby Berk<br />Chester Lockhart<br />Ciara<br />Delta Work<br />Dexter Mayfield<br />Ellen Degeneres<br />Hannah Hart<br />Hayley Kiyoko<br />Jade Jolie<br />Jesse Tyler Ferguson<br />Jonathan Van Ness<br />Justin Mikita<br />Karamo Brown<br />Katy Perry<br />Laverne Cox<br />Riley Knoxx<br />Rupaul<br />Ryan Reynolds<br />Tan France<br />Tatianna<br />Todrick Hall<br />Trinity K Bonet<br />Trinity Taylor<br /><br />Director: Drew Kirsch &amp; Taylor Swift<br />Executive Producers: Todrick Hall &amp; Taylor Swift <br />Producers: Tara Razavi &amp; Fuliane Petikyan for Happy Place, Inc.<br /><br />© 2019 Taylor Swift<br /><br />#TaylorSwift #YouNeedToCalmDown #TaylorSwiftLover{% endraw %}
