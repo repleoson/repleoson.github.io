@@ -1,0 +1,15 @@
+---
+title: "Lee Jun Young(이준영) - Curious About U  [Music Bank \/ 2019.12.13]"
+image: "https:\/\/i.ytimg.com\/vi\/PPgQOxtnUao\/hqdefault.jpg"
+vid_id: "PPgQOxtnUao"
+categories: "Entertainment"
+tags: ["kbs","kbsworld","kbs world"]
+date: "2021-09-11T20:39:38+03:00"
+vid_date: "2019-12-13T09:04:27Z"
+duration: "PT3M9S"
+viewcount: "76434"
+likeCount: "3864"
+dislikeCount: "14"
+channel: "KBS WORLD TV"
+---
+{% raw %}▶Full Episodes<br /><br />Dogs are incredible:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLMf7VY8La5RHyRoQL25aDHMIyqG6qmvbs">https://www.youtube.com/playlist?list=PLMf7VY8La5RHyRoQL25aDHMIyqG6qmvbs</a><br /><br />Music Bank clips:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLEC6C5307EE979510">https://www.youtube.com/playlist?list=PLEC6C5307EE979510</a><br /><br />Music Bank interviews &amp; winning moments:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLMf7VY8La5RHEIZ71XBEU9t9HQNKqm83Y">https://www.youtube.com/playlist?list=PLMf7VY8La5RHEIZ71XBEU9t9HQNKqm83Y</a><br /><br />The Return of Superman:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLMf7VY8La5RFIeOyIZ5IOm68WVb7c2dyT">https://www.youtube.com/playlist?list=PLMf7VY8La5RFIeOyIZ5IOm68WVb7c2dyT</a><br /><br />Star’s Top Recipe at Fun-Staurant:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLMf7VY8La5RGn0amdjSh8_3rU4zcApL3N">https://www.youtube.com/playlist?list=PLMf7VY8La5RGn0amdjSh8_3rU4zcApL3N</a><br /><br />Unasked Family:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLMf7VY8La5RHOrGquk0-VpaVNW1J1vLh5">https://www.youtube.com/playlist?list=PLMf7VY8La5RHOrGquk0-VpaVNW1J1vLh5</a><br /><br />The Miracle We Met:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLMf7VY8La5RFRfeoLBQ-VtoLB3oPlMeTt">https://www.youtube.com/playlist?list=PLMf7VY8La5RFRfeoLBQ-VtoLB3oPlMeTt</a><br /><br />▶Subscribe KBS World Official Pages<br />Youtube Subscribe：<a rel="nofollow" target="blank" href="https://www.youtube.com/kbsworld">https://www.youtube.com/kbsworld</a><br />Homepage: <a rel="nofollow" target="blank" href="http://www.kbsworld.co.kr">http://www.kbsworld.co.kr</a> <br />Facebook: <a rel="nofollow" target="blank" href="http://www.facebook.com/kbsworld">http://www.facebook.com/kbsworld</a><br />Twitter: <a rel="nofollow" target="blank" href="http://twitter.com/kbsworldtv">http://twitter.com/kbsworldtv</a> <br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/kbsworldtv/">https://www.instagram.com/kbsworldtv/</a><br />Line: <a rel="nofollow" target="blank" href="https://goo.gl/g5iRQV">https://goo.gl/g5iRQV</a><br />Android Download : <a rel="nofollow" target="blank" href="http://bit.ly/1NOZFKr">http://bit.ly/1NOZFKr</a><br />IOS Download : <a rel="nofollow" target="blank" href="http://apple.co/1NktctW">http://apple.co/1NktctW</a>{% endraw %}
