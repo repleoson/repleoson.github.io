@@ -1,0 +1,15 @@
+---
+title: "Prosperous Riddim Mix (2019) Popcaan,Bugle,Chronic Law,Quada,Vershon,JaFrass & More (Markus Records)"
+image: "https:\/\/i.ytimg.com\/vi\/POEj5Kqmocc\/hqdefault.jpg"
+vid_id: "POEj5Kqmocc"
+categories: "Music"
+tags: ["Prosperous Riddim","popcaan","vershon"]
+date: "2021-09-11T21:41:06+03:00"
+vid_date: "2019-04-12T15:16:40Z"
+duration: "PT19M49S"
+viewcount: "480995"
+likeCount: "3813"
+dislikeCount: "230"
+channel: "Djeasy MuzikRyder"
+---
+{% raw %}Produced by Markus Records<br />Distributed by Zojakworldwide<br />Buy/Stream Full Album <a rel="nofollow" target="blank" href="https://itunes.apple.com/kg/album/switcher/1459075107?i=1459075114">https://itunes.apple.com/kg/album/switcher/1459075107?i=1459075114</a><br />Download Promo Mix <a rel="nofollow" target="blank" href="http://bit.ly/ProsperousRiddimMix">http://bit.ly/ProsperousRiddimMix</a><br /><br />(((█▬█ █ ▀█▀ subscribe, █▬█ █ ▀█▀ like &amp; comment))))<br /><br />All Featured Content Is Monetized By The Respective Copyright Owners &amp; Record Labels.<br />All Mixes,Mixtapes is only for Promotional Use Only<br /><br /><br />For All your Riddim Mixes And Mixtapes Download check out : <a rel="nofollow" target="blank" href="https://djeasypromos.com/">https://djeasypromos.com/</a><br /><br />Don't forget to Subscribe to Djeasy Muzikryder and turn on notifications Bell 🔔 to stay updated with all new and Future uploads<br /><br /><br />SUPPORT THE CHANNEL (DONATION)<br />►PayPal : <a rel="nofollow" target="blank" href="https://www.paypal.me/Djeasy">https://www.paypal.me/Djeasy</a><br /><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/user/djeasyy">https://www.youtube.com/user/djeasyy</a> - check out my other channel<br /><a rel="nofollow" target="blank" href="https://twitter.com/djeasyy">https://twitter.com/djeasyy</a> - follow me on twitter<br /> <a rel="nofollow" target="blank" href="https://www.instagram.com/djeasyy/">https://www.instagram.com/djeasyy/</a>  - Follow Me On Instagram<br /><a rel="nofollow" target="blank" href="https://www.facebook.com/DJEASYY">https://www.facebook.com/DJEASYY</a> - join me on Facebook<br /><a rel="nofollow" target="blank" href="https://soundcloud.com/djeasyyy">https://soundcloud.com/djeasyyy</a> - check soundcloud for your downloaded mixes<br />EMAIL : dj.easyy@gmail.com<br />EMAIL : djeasypromos@gmail.com<br />CONTACT ME 📞+330782799541<br />________________________________________­_________<br /><br />PLAYLIST<br /><br />Popcaan - Level Up<br />Bugle - Encouragement<br />Projexx - Rise Man a Rise<br />G Whizz - Keep Dem Off<br />Chronic Law;Sanity Dsane1 - Nuttn Don't Nice<br />D'Angel - Start from Scratch<br />Vershon - Switcher<br />Quada - Team<br />Frahcess One - Hungry Nuh Nice<br />Negus - Nuh Beg Friend<br />Jafrass - Wrong Move<br />Prohgres - Nothing A Hide<br />Jahazeil Myrie - Best of Me<br />Navino - Prosper<br />Gage - Run In<br />Vanessa Bling - Jesus Wife<br />Zamunda - Marijuana<br /><br /><br /><br /><br /><br />#ProsperousRiddim,#Dancehall2019,#DjeasyPromoMix{% endraw %}
