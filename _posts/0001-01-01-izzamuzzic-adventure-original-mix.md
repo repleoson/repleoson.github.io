@@ -1,0 +1,15 @@
+---
+title: "Izzamuzzic - Adventure (Original Mix)"
+image: "https:\/\/i.ytimg.com\/vi\/h3EEhWecuoA\/hqdefault.jpg"
+vid_id: "h3EEhWecuoA"
+categories: "Music"
+tags: ["Izzamuzzic","Adventure","Original"]
+date: "2021-09-11T16:53:12+03:00"
+vid_date: "2016-06-24T20:43:21Z"
+duration: "PT5M28S"
+viewcount: "84500945"
+likeCount: "363663"
+dislikeCount: "9661"
+channel: "DailySounds"
+---
+{% raw %}►DailySounds - Quality Music Makes Your Day<br />✔Facebook: <a rel="nofollow" target="blank" href="http://bit.ly/2dezkuk">http://bit.ly/2dezkuk</a><br />✔Soundcloud: <a rel="nofollow" target="blank" href="http://bit.ly/1OWxJkX">http://bit.ly/1OWxJkX</a><br />✔Follow: <a rel="nofollow" target="blank" href="http://on.fb.me/1RLCF1R">http://on.fb.me/1RLCF1R</a><br /><br />✔Donation:Support DailySounds<br /><a rel="nofollow" target="blank" href="https://www.paypal.com/paypalme/DailySounds">https://www.paypal.com/paypalme/DailySounds</a><br /><br />#Coldplay #Adventure #Izzamuzzic <br /><br />Follow Izzamuzzic:<br /><a rel="nofollow" target="blank" href="https://new.vk.com/izzamuzzic">https://new.vk.com/izzamuzzic</a><br /><a rel="nofollow" target="blank" href="https://soundcloud.com/izzamuzzic">https://soundcloud.com/izzamuzzic</a><br /><br />Follow Three Dot House:<br /><a rel="nofollow" target="blank" href="https://soundcloud.com/threedothouse">https://soundcloud.com/threedothouse</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/ThreeDotHouseRecords">https://www.facebook.com/ThreeDotHouseRecords</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/threedothouse">https://twitter.com/threedothouse</a><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/user/threedothouse">https://www.youtube.com/user/threedothouse</a><br /><br />Itunes: <a rel="nofollow" target="blank" href="https://itunes.apple.com/us/album/adventure-single/id1102870646">https://itunes.apple.com/us/album/adventure-single/id1102870646</a><br />Spotify: <a rel="nofollow" target="blank" href="https://play.spotify.com/album/3cp7zy47OEnxEEaqNDtSkz">https://play.spotify.com/album/3cp7zy47OEnxEEaqNDtSkz</a><br />Beatport: <a rel="nofollow" target="blank" href="https://www.beatport.com/track/adventure-original-mix/7858637">https://www.beatport.com/track/adventure-original-mix/7858637</a><br /><br />Photo By C-Heads Magazine:<br /><a rel="nofollow" target="blank" href="http://www.c-heads.com/2015/08/17/meet-you-at-the-sziget-festival-the-island-of-freedom-1/">http://www.c-heads.com/2015/08/17/meet-you-at-the-sziget-festival-the-island-of-freedom-1/</a><br /><br />#Izzamuzzic #Adventure #Dailysounds<br /><br />We do not own all of these songs. All songs found on the YouTube Channel DailySounds are for promotional reasons only. Any artistic perspective portrayed in any of the songs comes from the artist of the song only. No views expressed in the songs come from DailySounds, Only the artists themselves. <br />The contents published at this channel are copyright protected{% endraw %}
