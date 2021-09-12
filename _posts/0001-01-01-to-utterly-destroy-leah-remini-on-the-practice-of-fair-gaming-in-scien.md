@@ -1,0 +1,15 @@
+---
+title: "'To Utterly Destroy': Leah Remini On The Practice Of “Fair Gaming” In Scientology"
+image: "https:\/\/i.ytimg.com\/vi\/zLSpSSUPKHA\/hqdefault.jpg"
+vid_id: "zLSpSSUPKHA"
+categories: "Entertainment"
+tags: ["Larry King","Larry King Now","Ora"]
+date: "2021-09-12T10:50:36+03:00"
+vid_date: "2019-08-05T13:00:10Z"
+duration: "PT3M14S"
+viewcount: "5019"
+likeCount: "103"
+dislikeCount: "3"
+channel: "Larry King"
+---
+{% raw %}Leah Remini explains that the practice of 'Fair Gaming' in Scientology is still happening and the organization has been doing it to her for years. <br /><br /><br />Leah Remini And Michelle Visage Explore Their Different Parenting Styles: <a rel="nofollow" target="blank" href="https://youtu.be/_VbXjlDLxv0">https://youtu.be/_VbXjlDLxv0</a><br /><br /><br />SUBSCRIBE to get the latest from #LarryKingNow: <a rel="nofollow" target="blank" href="http://bit.ly/LKNSubscribe">http://bit.ly/LKNSubscribe</a><br /><br /><br />Watch If You Only Knew: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PL_aM6zT_VC5YGGrVL6zGjxxD1SQsG3KkI">https://www.youtube.com/playlist?list=PL_aM6zT_VC5YGGrVL6zGjxxD1SQsG3KkI</a><br /><br /><br />CONNECT WITH LARRY KING<br /><br />Like Larry King Now on Facebook:<a rel="nofollow" target="blank" href="http://www.facebook.com/LarryKing">http://www.facebook.com/LarryKing</a><br /><br />Follow @kingsthings on Twitter: <a rel="nofollow" target="blank" href="http://twitter.com/kingsthings">http://twitter.com/kingsthings</a><br /><br />Use #LarryKingNow to make comments &amp; ask us questions on Twitter!<br /><br />Follow Larry King Now on Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/larrykingnow/">https://www.instagram.com/larrykingnow/</a><br /><br />Watch the Full Interview Here: <a rel="nofollow" target="blank" href="http://www.ora.tv/larrykingnow">http://www.ora.tv/larrykingnow</a><br /><br /><br />ABOUT LARRY KING NOW:<br /><br />After over 60 years of radio and television, Larry King dominates the internet with his new Emmy nominated and Webby Award winning shows Larry King Now and Politicking with Larry King.<br /><br />On Larry King Now, the legendary broadcaster sits down with the worlds most interesting celebrities, actors, musicians, world leaders and internet stars to interview them as only the King can.<br /><br />Now in it's 7th season, Larry's guests have included: Oprah Winfrey, Harrison Ford, Snoop Dog, Jeff Bridges, Neil deGrasse Tyson, Marilyn Manson, Tyler the Creator, Celine Dion, Bill Maher, Mac Miller, Russell Peters, G-Eazy, 50 Cent, Craig Furguson, Jenna Marbles, Shawn Mendes, Joel McHale, John Mulaney, Morrissey, Mike Tyson, Anthony Jeselnik, Keegan-Michael Key, Alison Brie and countless others.<br /><br /><br />Want to see more Leah Remini? Check out this video: <a rel="nofollow" target="blank" href="https://youtu.be/dAfdPFWiF9U">https://youtu.be/dAfdPFWiF9U</a><br /><br /> 'To Utterly Destroy': Leah Remini On The Practice Of “Fair Gaming” In Scientology <br /><a rel="nofollow" target="blank" href="https://youtu.be/zLSpSSUPKHA">https://youtu.be/zLSpSSUPKHA</a>{% endraw %}
