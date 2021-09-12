@@ -1,0 +1,15 @@
+---
+title: "Billie Eilish - lovely (Lyrics) ft. Khalid"
+image: "https:\/\/i.ytimg.com\/vi\/xirk18P889U\/hqdefault.jpg"
+vid_id: "xirk18P889U"
+categories: "Music"
+tags: ["syrebralvibes","syrebral vibes","pop"]
+date: "2021-09-12T11:47:59+03:00"
+vid_date: "2018-05-29T20:45:29Z"
+duration: "PT3M21S"
+viewcount: "163657986"
+likeCount: "2311799"
+dislikeCount: "33858"
+channel: "SyrebralVibes"
+---
+{% raw %}» Download Billie Eilish - lovely (Lyrics) ft. Khalid: <a rel="nofollow" target="blank" href="http://smarturl.it/lovelysingle">http://smarturl.it/lovelysingle</a><br />🎵 Spotify Playlist: <a rel="nofollow" target="blank" href="http://spotify.syrebralvibes.com">http://spotify.syrebralvibes.com</a><br /><br />» Support SyrebralVibes:<br /><a rel="nofollow" target="blank" href="https://open.spotify.com/user/syrebralvibes">https://open.spotify.com/user/syrebralvibes</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/SyrebralsVibes">https://www.facebook.com/SyrebralsVibes</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/SyrebralVibes">https://twitter.com/SyrebralVibes</a><br /><br />» Support Billie Eilish:<br /><a rel="nofollow" target="blank" href="https://www.facebook.com/billieeilish">https://www.facebook.com/billieeilish</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/billieeilish">https://twitter.com/billieeilish</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/wherearetheavocados/">https://www.instagram.com/wherearetheavocados/</a><br /><br />» Support Khalid:<br /><a rel="nofollow" target="blank" href="https://www.facebook.com/thegreatkhalid">https://www.facebook.com/thegreatkhalid</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/thegreatkhalid">https://twitter.com/thegreatkhalid</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/thegr8khalid">https://www.instagram.com/thegr8khalid</a><br /><br />🎧 My Gear:<br />Headphones (Low/High-End) - <a rel="nofollow" target="blank" href="https://amzn.to/2yBZSS5">https://amzn.to/2yBZSS5</a> / <a rel="nofollow" target="blank" href="https://amzn.to/2yNwUhU">https://amzn.to/2yNwUhU</a><br />Speakers (Low/High-End) - <a rel="nofollow" target="blank" href="https://amzn.to/2K37p1q">https://amzn.to/2K37p1q</a> / <a rel="nofollow" target="blank" href="https://amzn.to/2N6xtX9">https://amzn.to/2N6xtX9</a><br /><br />» Visuals by UniqueVibes:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/c/UniqueVibesMusic">https://www.youtube.com/c/UniqueVibesMusic</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/unique_vibes_official/">https://www.instagram.com/unique_vibes_official/</a><br />Buy his art: <a rel="nofollow" target="blank" href="https://society6.com/uniquevibes">https://society6.com/uniquevibes</a><br /><br />» Wallpaper - unsplash.com<br /><br />Submission Form: <a rel="nofollow" target="blank" href="http://goo.gl/forms/fcFkjgFKmpzy59GH2">http://goo.gl/forms/fcFkjgFKmpzy59GH2</a><br />Buisness Inquires: erik@syrebralvibes.com{% endraw %}
