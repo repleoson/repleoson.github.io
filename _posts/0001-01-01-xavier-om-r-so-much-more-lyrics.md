@@ -1,0 +1,15 @@
+---
+title: "Xavier Omär - So Much More (Lyrics)"
+image: "https:\/\/i.ytimg.com\/vi\/mmk6Rn3Az8Q\/hqdefault.jpg"
+vid_id: "mmk6Rn3Az8Q"
+categories: "Music"
+tags: ["Dream Music","dream music","Music Dream"]
+date: "2021-09-12T23:01:12+03:00"
+vid_date: "2020-08-27T16:09:06Z"
+duration: "PT4M16S"
+viewcount: "47916"
+likeCount: "1009"
+dislikeCount: "12"
+channel: "Dream Music"
+---
+{% raw %}Xavier Omär - So Much More (Lyrics)<br /><br />request for subscribe and press icon which means a lot for us. Thank You 😊<br /><br />For Businesses Inquiry Contact : Email : satishamabaliya@gmail.com<br /><br />©️If any producer or label has an issue with this song or picture, please get in contact with us and we will delete it immediately<br /><br />📝 Lyrics<br /><br />[Verse 1]<br />Who would've thought that we would make it here?<br />Knew that our hearts would overtake our fears<br />So we grow and we learn from each other<br />From &quot;Hello&quot;, to just friends into lovers<br />So glad you took a chance on me<br /><br />[Pre-Chorus]<br />I'm not saying that I<br />I'm not the perfect man, you don't ask me to be<br />You're not a perfect girl, but somehow<br /><br />[Chorus]<br />Baby you're so much more<br />So much more<br />Than anything I dreamed of<br />I prayed a thousand prayers<br />I found someone who cares<br />And so much more than anything I dream of<br /><br />[Verse 2]<br />We had our phases, we've been through changes<br />Hard to be patient, it was worth waiting<br />They can't erase it, baby we've come so far<br />And I want you to know that I'm here (Here)<br />By your side (By your side)<br />Come day (Come day)<br />Or night (Or night)<br />Whatever you do make sure your love don't ever change<br /><br />[Pre-Chorus]<br />I'm not saying that I<br />I'm not the perfect man, you don't ask me to be<br />You're not a perfect girl, but somehow<br /><br />[Chorus]<br />Baby you're so much more<br />So much more<br />Than anything I dreamed of<br />I prayed a thousand prayers<br />I found someone who cares<br />And so much more<br /><br />[Bridge]<br />A love this strong deserves to last forever long<br />You're the only one I call<br />You've loved me through it all<br /><br />[Chorus]<br />So much more<br />(You've been my closest friend)<br />So much more<br />(And I only wanna love you)<br />I prayed a thousand prayers<br />I found someone who cares<br />And so much more<br /><br />[Outro]<br />If you feel it, come on sing it with me<br />Ooh-oh-ooh-oh-ooh-oh<br />Ooh-oh-ooh-oh-ooh-oh<br />Ooh-oh-ooh-oh-ooh-oh<br />If you feel it, come on sing it with me<br />Ooh-oh-ooh-oh-ooh-oh<br />Ooh-oh-ooh-oh-ooh-oh<br />Ooh-oh-ooh-oh-ooh-oh<br /><br /><br />📝Tag<br />Xavier Omar, So Much More, Xavier Omar So Much More, So Much More Xavier Omar, So Much More lyrics, lyrics So Much More, Xavier Omar So Much More lyrics, So Much More Xavier Omar lyrics, Xavier Omar lyrics So Much More, So Much More lyrics Xavier Omar, lyrics Xavier Omar So Much More, lyrics So Much More Xavier Omar, Xavier Omar lyrics, lyrics Xavier Omar{% endraw %}
