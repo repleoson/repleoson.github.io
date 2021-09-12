@@ -1,0 +1,15 @@
+---
+title: "THE FAVOURITE | Official Trailer | FOX Searchlight"
+image: "https:\/\/i.ytimg.com\/vi\/SYb-wkehT1g\/hqdefault.jpg"
+vid_id: "SYb-wkehT1g"
+categories: "Film-Animation"
+tags: ["Fox Searchlight","The Favourite","The Lobster"]
+date: "2021-09-13T02:18:59+03:00"
+vid_date: "2018-09-04T13:01:53Z"
+duration: "PT2M10S"
+viewcount: "11198203"
+likeCount: "44787"
+dislikeCount: "1529"
+channel: "SearchlightPictures"
+---
+{% raw %}Now on Digital <a rel="nofollow" target="blank" href="http://bit.ly/TheFavourite-Digital">http://bit.ly/TheFavourite-Digital</a><br />On Blu-ray March 5 <a rel="nofollow" target="blank" href="http://bit.ly/TheFavouriteBlu-ray">http://bit.ly/TheFavouriteBlu-ray</a><br />Early 18th century. England is at war with the French. Nevertheless, duck racing and pineapple eating are thriving. A frail Queen Anne (Olivia Colman) occupies the throne and her close friend Lady Sarah (Rachel Weisz) governs the country in her stead while tending to Anne’s ill health and mercurial temper. When a new servant Abigail (Emma Stone) arrives, her charm endears her to Sarah. Sarah takes Abigail under her wing and Abigail sees a chance at a return to her aristocratic roots. As the politics of war become quite time consuming for Sarah, Abigail steps into the breach to fill in as the Queen’s companion. Their burgeoning friendship gives her a chance to fulfil her ambitions and she will not let woman, man, politics or rabbit stand in her way.<br /><br />Now Playing<br /><br />A Film By Yorgos Lanthimos<br />Written by: Deborah Davis, Tony McNamara<br />Produced by: Ceci Dempsey, Ed Guiney, Lee Magiday, Yorgos Lanthimos<br />Cast: Olivia Colman, Emma Stone, Rachel Weisz, Nicholas Hoult , Joe Alwyn, James Smith, Mark Gatiss<br /><br />Visit The Favourite on our WEBSITE: <a rel="nofollow" target="blank" href="http://www.foxsearchlight.com/thefavourite">http://www.foxsearchlight.com/thefavourite</a><br />Like The Favourite on FACEBOOK: <a rel="nofollow" target="blank" href="https://www.facebook.com/TheFavouriteMovie/">https://www.facebook.com/TheFavouriteMovie/</a><br />Follow The Favourite on TWITTER: <a rel="nofollow" target="blank" href="https://twitter.com/the_favourite">https://twitter.com/the_favourite</a><br />Follow The Favourite on INSTAGRAM: <a rel="nofollow" target="blank" href="https://www.instagram.com/thefavouritemovie/">https://www.instagram.com/thefavouritemovie/</a><br /><br />#TheFavourite<br /><br />Connect with Fox Searchlight Online<br />Visit the Fox Searchlight WEBSITE: <a rel="nofollow" target="blank" href="http://foxsearchlight.com/">http://foxsearchlight.com/</a><br />Like Fox Searchlight on FACEBOOK: <a rel="nofollow" target="blank" href="https://www.facebook.com/foxsearchlight">https://www.facebook.com/foxsearchlight</a><br />Follow Fox Searchlight on TWITTER: <a rel="nofollow" target="blank" href="https://twitter.com/foxsearchlight">https://twitter.com/foxsearchlight</a><br /><br />THE FAVOURITE | Official Trailer | FOX Searchlight<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/user/FoxSearchlight">https://www.youtube.com/user/FoxSearchlight</a>{% endraw %}
