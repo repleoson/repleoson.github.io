@@ -1,0 +1,15 @@
+---
+title: "Prismo - Weakness [NCS Release]"
+image: "https:\/\/i.ytimg.com\/vi\/SvRFNNbxuAk\/hqdefault.jpg"
+vid_id: "SvRFNNbxuAk"
+categories: "Music"
+tags: ["Prismo - Weakness","Prismo Weakness","Prismo"]
+date: "2021-09-12T03:07:07+03:00"
+vid_date: "2017-02-25T17:19:38Z"
+duration: "PT3M18S"
+viewcount: "23354978"
+likeCount: "451138"
+dislikeCount: "5111"
+channel: "NoCopyrightSounds"
+---
+{% raw %}NCS: Music Without Limitations<br />NCS Spotify: <a rel="nofollow" target="blank" href="http://spoti.fi/NCS">http://spoti.fi/NCS</a><br /><br />Free Download / Stream: <a rel="nofollow" target="blank" href="http://ncs.io/weaknessprismo">http://ncs.io/weaknessprismo</a><br /><br />[Connect with NCS]<br />• <a rel="nofollow" target="blank" href="http://soundcloud.com/nocopyrightsounds">http://soundcloud.com/nocopyrightsounds</a><br />• <a rel="nofollow" target="blank" href="http://instagram.com/nocopyrightsounds">http://instagram.com/nocopyrightsounds</a><br />• <a rel="nofollow" target="blank" href="http://facebook.com/NoCopyrightSounds">http://facebook.com/NoCopyrightSounds</a><br />• <a rel="nofollow" target="blank" href="http://twitter.com/NCSounds">http://twitter.com/NCSounds</a><br />• <a rel="nofollow" target="blank" href="http://spoti.fi/NCS">http://spoti.fi/NCS</a><br /><br />[Prismo]<br />• <a rel="nofollow" target="blank" href="https://soundcloud.com/prismomusic">https://soundcloud.com/prismomusic</a><br />• <a rel="nofollow" target="blank" href="https://www.facebook.com/PrismoMusic">https://www.facebook.com/PrismoMusic</a><br />• <a rel="nofollow" target="blank" href="https://twitter.com/PrismoMusic">https://twitter.com/PrismoMusic</a><br />• <a rel="nofollow" target="blank" href="https://www.youtube.com/user/PrismoMusic">https://www.youtube.com/user/PrismoMusic</a><br /><br />[NCS YouTube Playlists]<br />Trap: <a rel="nofollow" target="blank" href="http://bit.ly/NCStrap">http://bit.ly/NCStrap</a><br />House: <a rel="nofollow" target="blank" href="http://bit.ly/NCShouse">http://bit.ly/NCShouse</a><br />Dubstep: <a rel="nofollow" target="blank" href="http://bit.ly/NCSdubstep">http://bit.ly/NCSdubstep</a><br />Drumstep: <a rel="nofollow" target="blank" href="http://bit.ly/NCSdrumstep">http://bit.ly/NCSdrumstep</a><br />Hardstyle: <a rel="nofollow" target="blank" href="http://bit.ly/NCShardstyle">http://bit.ly/NCShardstyle</a><br />Drum&amp;Bass: <a rel="nofollow" target="blank" href="http://bit.ly/NCSdrumandbass">http://bit.ly/NCSdrumandbass</a><br />Electronic: <a rel="nofollow" target="blank" href="http://bit.ly/NCSelectronic">http://bit.ly/NCSelectronic</a><br />Full NCS Playlist: <a rel="nofollow" target="blank" href="http://bit.ly/ALLNCSmusic">http://bit.ly/ALLNCSmusic</a><br /><br />© Check out our Usage Policy on how to use NCS music in your videos: <a rel="nofollow" target="blank" href="http://ncs.io/UsagePolicy">http://ncs.io/UsagePolicy</a><br /><br />To request a commercial license visit: <a rel="nofollow" target="blank" href="http://ncs.io/Commercial">http://ncs.io/Commercial</a>{% endraw %}
