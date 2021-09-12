@@ -1,0 +1,15 @@
+---
+title: "Jonas Blue, HRVY - Younger (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/WGB0UpLNK8I\/hqdefault.jpg"
+vid_id: "WGB0UpLNK8I"
+categories: "Music"
+tags: ["Jonas Blue","HRVY","Harvey"]
+date: "2021-09-12T06:36:29+03:00"
+vid_date: "2019-09-22T18:00:07Z"
+duration: "PT3M16S"
+viewcount: "13967413"
+likeCount: "153212"
+dislikeCount: "3189"
+channel: "JonasBlueVEVO"
+---
+{% raw %}Listen to my latest release: <a rel="nofollow" target="blank" href="https://JonasBlue.lnk.to/LatestReleaseID">https://JonasBlue.lnk.to/LatestReleaseID</a><br />Follow me on socials: <a rel="nofollow" target="blank" href="https://JonasBlue.lnk.to/FollowID">https://JonasBlue.lnk.to/FollowID</a><br /><br />#SommerRay #JonasBlue #HRVY #Younger #YoungerTogether<br /><br />Check out the official video for our track YOUNGER starring myself, HRVY and Sommer Ray! Stream here: <a rel="nofollow" target="blank" href="https://JonasBlueHRVY.lnk.to/YoungerVD">https://JonasBlueHRVY.lnk.to/YoungerVD</a><br />---------------------------------<br />Follow Jonas Blue : <a rel="nofollow" target="blank" href="https://JonasBlue.lnk.to/Follow">https://JonasBlue.lnk.to/Follow</a> <br />Follow HRVY: <a rel="nofollow" target="blank" href="https://HRVY.lnk.to/Follow">https://HRVY.lnk.to/Follow</a><br />---------------------------------<br />Lyrics:<br />Someday, we’ll be a million miles away<br />Waking up on Monday morning, wishing it was Saturday<br />Kids screaming out, no warning<br />This will be a distant memory<br />I can hear the future calling, let it wait<br /><br />‘Cause you know that we got time to get ourselves together<br />We got time for us<br />So baby let’s waste our time like we’ll be young forever<br />Stay forever young<br /><br />When we were 17<br />Feels like just yesterday<br />Living a lucid dream<br />Those years just fall away<br />One day we’ll be 33, before we’re old and grey<br />Let’s still be 17, like yesterday<br /><br />Let’s stay younger together, let’s stay younger together<br />Let’s stay younger together, let’s stay younger together (x3)<br />Let’s stay younger together<br /><br />Always, you’ll always be my fantasy<br />Even when we’re grown up, know that, I’ll love you better than today<br />One day we’ll be dancing slowly, but for now we’ll make it rain<br />I can see the future calling, let it wait<br /><br />‘Cause you know that we got time to get ourselves together<br />We got time for us<br />So baby lets waste our time like we’ll be young forever<br />Stay forever young<br /><br />When we were 17<br />Feels like just yesterday<br />Living a lucid dream<br />Those years just fall away<br />One day we’ll be 33, before we’re old and grey<br />Let’s still be 17, like yesterday<br /><br />Let’s stay younger together, let’s stay younger together<br />Let’s stay younger together, let’s stay younger together (x3)<br />Let’s stay younger together<br /><br />Music video by Jonas Blue, HRVY performing Younger (Official Video). © 2019 Universal Music Operations Limited{% endraw %}
