@@ -1,0 +1,15 @@
+---
+title: "How to use continuous and continual in English - Learn English - English Lesson with Mr Duncan"
+image: "https:\/\/i.ytimg.com\/vi\/lZm78naAHFk\/hqdefault.jpg"
+vid_id: "lZm78naAHFk"
+categories: "Education"
+tags: ["learn English","speak English","English"]
+date: "2021-09-12T05:17:03+03:00"
+vid_date: "2017-02-21T23:31:28Z"
+duration: "PT3M17S"
+viewcount: "15593"
+likeCount: "266"
+dislikeCount: "5"
+channel: "English Addict"
+---
+{% raw %}Learn English. How to use Continuous and Continual. What is the difference? Also the adverbs - Continuously and Continually. Learn English with Duncan in England. <br /><br />Misterduncan's PLAYLISTS -  on   youtube.com/duncaninchina<br /><br />Ask Misterduncan - <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLAD0A8CFF102D5CF2">https://www.youtube.com/playlist?list=PLAD0A8CFF102D5CF2</a><br /><br />Lessons 1 to 91- <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLF467B6C12B713A03">https://www.youtube.com/playlist?list=PLF467B6C12B713A03</a><br /><br />Full English - <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLbvnlSJNf_DYX8jVA_kcIpQuRBXcf2XIZ">https://www.youtube.com/playlist?list=PLbvnlSJNf_DYX8jVA_kcIpQuRBXcf2XIZ</a><br /><br />English Topic - <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLbvnlSJNf_DaUGBc2dP0bSbgCtpkiCnT7">https://www.youtube.com/playlist?list=PLbvnlSJNf_DaUGBc2dP0bSbgCtpkiCnT7</a><br /><br />WORD STOP - <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PL8AC561C1AE953017">https://www.youtube.com/playlist?list=PL8AC561C1AE953017</a><br /><br />May days - <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLbvnlSJNf_DaKQi3YG30D_NyX881Wsiln">https://www.youtube.com/playlist?list=PLbvnlSJNf_DaKQi3YG30D_NyX881Wsiln</a><br /><br />Dunctober - <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLbvnlSJNf_DY7Olv13JrMwgdKsJ0Xwohq">https://www.youtube.com/playlist?list=PLbvnlSJNf_DY7Olv13JrMwgdKsJ0Xwohq</a><br /><br />December drop in - <a rel="nofollow" target="blank" href="https://www.youtube.com/playlistlist=PLbvnlSJNf_DY7bb_xeLDzKPEJLzN4Z3io">https://www.youtube.com/playlistlist=PLbvnlSJNf_DY7bb_xeLDzKPEJLzN4Z3io</a><br /><br />Xmas lessons - <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLbvnlSJNf_DYGEKPZ5Q1_CVxLbsH4tjVv">https://www.youtube.com/playlist?list=PLbvnlSJNf_DYGEKPZ5Q1_CVxLbsH4tjVv</a><br /><br />LIVE STREAMS - <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLbvnlSJNf_DaI8vtS20jjBlb9mzIuQQvo">https://www.youtube.com/playlist?list=PLbvnlSJNf_DaI8vtS20jjBlb9mzIuQQvo</a><br /><br />My life in China and England - <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PL44BC10EEFAC0AF40">https://www.youtube.com/playlist?list=PL44BC10EEFAC0AF40</a><br /><br />Other English lessons - <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PL8B3F18AC104C9F46">https://www.youtube.com/playlist?list=PL8B3F18AC104C9F46</a>{% endraw %}
