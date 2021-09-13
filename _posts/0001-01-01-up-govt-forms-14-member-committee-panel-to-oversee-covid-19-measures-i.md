@@ -1,0 +1,15 @@
+---
+title: "UP Govt Forms 14-Member Committee Panel To Oversee COVID-19 Measures In The State"
+image: "https:\/\/i.ytimg.com\/vi\/s-mYSSrnuPw\/hqdefault.jpg"
+vid_id: "s-mYSSrnuPw"
+categories: "News-Politics"
+tags: ["committee meetings","up govt","india battles second wave"]
+date: "2021-09-13T12:36:15+03:00"
+vid_date: "2021-05-05T04:50:21Z"
+duration: "PT2M16S"
+viewcount: "984"
+likeCount: ""
+dislikeCount: ""
+channel: "Republic World"
+---
+{% raw %}#UPGovt #Coronavirus #COVIDEmergency #COVIDMeasuresInSate #RepublicTV <br /><br />Republic Bangla is now LIVE ► <a rel="nofollow" target="blank" href="https://youtu.be/ZbqFXifTAUw">https://youtu.be/ZbqFXifTAUw</a><br /><br />Subscribe to Republic Bangla and press THE BELL ICON to never miss any updates ► <a rel="nofollow" target="blank" href="http://bit.ly/3c8wPWN">http://bit.ly/3c8wPWN</a><br /><br />Also subscribe to Republic TV &amp; press THE BELL ICON to be updated with the latest news ► <a rel="nofollow" target="blank" href="http://bit.ly/RepublicWorld">http://bit.ly/RepublicWorld</a><br /><br />Official Website - <a rel="nofollow" target="blank" href="https://www.republicworld.com/">https://www.republicworld.com/</a><br /><br />Republic TV is India's no.1 English news channel since its launch. It is your one-stop destination for all the live news updates from India and around the world. Republic TV makes news accessible for you at your convenience, at all times and across devices. At Republic we keep you updated with up-to-the-minute news on politics, sports, entertainment, lifestyle, gadgets and much more. <br /><br />We believe in Breaking the story and Breaking the Silence. But most importantly, for us ‘You Are Republic, We Are Your Voice.’<br /><br />Also, Watch ► <br />Republic TV Live News Updates ►<a rel="nofollow" target="blank" href="http://bit.ly/RepublicTVLiveNews">http://bit.ly/RepublicTVLiveNews</a><br />The Debate With Arnab Goswami ► <a rel="nofollow" target="blank" href="http://bit.ly/TheDebateWithArnabGoswami">http://bit.ly/TheDebateWithArnabGoswami</a><br />Biggest Story Tonight ► <a rel="nofollow" target="blank" href="http://bit.ly/BiggestStoryTonight">http://bit.ly/BiggestStoryTonight</a><br />Burning Question Debates ► <a rel="nofollow" target="blank" href="http://bit.ly/BurningQuestionDebate">http://bit.ly/BurningQuestionDebate</a><br />Patriot With Major Gaurav Arya ► <a rel="nofollow" target="blank" href="http://bit.ly/PatriotFullEpisodes">http://bit.ly/PatriotFullEpisodes</a><br />Exclusive Sunday Debate With Arnab Goswami ► <a rel="nofollow" target="blank" href="http://bit.ly/SundayDebate">http://bit.ly/SundayDebate</a><br /><br />You can stay connected with Republic TV on -<br /><br />Facebook - <a rel="nofollow" target="blank" href="https://www.facebook.com/RepublicWorld/">https://www.facebook.com/RepublicWorld/</a><br />Follow us on Twitter - <a rel="nofollow" target="blank" href="https://twitter.com/republic">https://twitter.com/republic</a><br />Official Website - <a rel="nofollow" target="blank" href="https://www.republicworld.com/">https://www.republicworld.com/</a>{% endraw %}
