@@ -1,0 +1,15 @@
+---
+title: "The Greater Than Less Than Song | Inequalities Song for Kids | Silly School Songs"
+image: "https:\/\/i.ytimg.com\/vi\/ka9zbPcqXBI\/hqdefault.jpg"
+vid_id: "ka9zbPcqXBI"
+categories: "Education"
+tags: ["greater than","less than","greater than less than"]
+date: "2021-09-13T08:05:58+03:00"
+vid_date: "2018-03-19T06:42:38Z"
+duration: "PT2M45S"
+viewcount: "1667119"
+likeCount: "9963"
+dislikeCount: "1398"
+channel: "Silly School Songs"
+---
+{% raw %}We have MERCH! <a rel="nofollow" target="blank" href="https://www.sillyschoolsongs.store/">https://www.sillyschoolsongs.store/</a> and more to come!<br /><a rel="nofollow" target="blank" href="http://www.sillyschoolsongs.education">http://www.sillyschoolsongs.education</a><br />Kids will have fun learning about greater than, less than and equal to with this inequalities song for children. This song not only teaches the infamous &quot;hungry alligator&quot;, but it takes the time to explain what the symbols actually mean, so that kids can connect the symbol with the concept. Enjoy!<br /><br />Lyrics:<br /><br />Greater than, less than, equal to<br />Greater than, less than, equal to<br />These symbols are the ones you use<br />For greater than, less than and equal to HEY!<br />Greater than, less than, equal to<br /><br />Once upon a time there was a hungry alligator<br />He loved to eat numbers so he figured out a way to<br />Always get the biggest bite when the numbers were there<br />He would stop for a second, take a look and compare<br />Whichever number was the biggest of the two<br />Was the one that he would eat, so just to review <br />Here's the main thing to know about the hungry alligator<br />He always eats the number that's greater, GREATER!<br /><br />Greater than, less than, equal to<br />Greater than, less than, equal to<br />These symbols are the ones you use<br />For greater than, less than and equal to HEY!<br />Greater than, less than, equal to<br /><br />The greater than symbol points to the right<br />The less than symbol points to the left<br />The symbol always points to the number that's smaller<br />I would like to tell you more but I'm running out of breath<br />Sometimes it can be hard to remember which symbol is which<br />So here's a simple little tip:<br />The less than symbol is shaped like an &quot;L&quot; <br />Just remember &quot;L&quot; for &quot;less&quot; that's how you can tell<br /><br />&quot;But what about the equal sign?&quot;<br /><br />Now here's what it means when you see the equal sign:<br />The value of the numbers is the same on both sides<br />But on the other hand, greater than and less than<br />Are called inequalities because they're not equal, man!<br /><br />Greater than, less than, equal to<br />Greater than, less than, equal to<br />These symbols are the ones you use<br />For greater than, less than and equal to HEY!<br />Greater than, less than, equal to<br /><br />Copyright 2018 Silly School Songs. All Rights Reserved.<br />#math #greaterthanlessthansong #inequalities #sillyschoolsongs{% endraw %}
