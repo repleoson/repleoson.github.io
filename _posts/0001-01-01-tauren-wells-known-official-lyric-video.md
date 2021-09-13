@@ -1,0 +1,15 @@
+---
+title: "Tauren Wells - Known (Official Lyric Video)"
+image: "https:\/\/i.ytimg.com\/vi\/xckDgX8xNfg\/hqdefault.jpg"
+vid_id: "xckDgX8xNfg"
+categories: "Music"
+tags: ["Gospel\/Christian","Known (Official Lyric Video)","Reunion Records"]
+date: "2021-09-13T14:35:38+03:00"
+vid_date: "2018-06-01T07:00:04Z"
+duration: "PT3M18S"
+viewcount: "17839193"
+likeCount: "99668"
+dislikeCount: "2838"
+channel: "taurenwellsVEVO"
+---
+{% raw %}Get #Known on the album #HillsandValleys below: <br />iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/hillsandvalleysdlx?IQid=knownLV">http://smarturl.it/hillsandvalleysdlx?IQid=knownLV</a><br />Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/hillsandvalleysdlxsp?IQid=knownLV">http://smarturl.it/hillsandvalleysdlxsp?IQid=knownLV</a><br />Apple Music: <a rel="nofollow" target="blank" href="http://smarturl.it/handvapplemusic?IQid=knownLV">http://smarturl.it/handvapplemusic?IQid=knownLV</a><br />Amazon: <a rel="nofollow" target="blank" href="http://smarturl.it/hillsandvalleysamaz?IQid=knownLV">http://smarturl.it/hillsandvalleysamaz?IQid=knownLV</a><br /><br /><br />Connect with Tauren: <br />Facebook: <a rel="nofollow" target="blank" href="http://smarturl.it/taurenfb">http://smarturl.it/taurenfb</a> <br />Twitter: <a rel="nofollow" target="blank" href="http://smarturl.it/v5dv42">http://smarturl.it/v5dv42</a> <br />Instagram: <a rel="nofollow" target="blank" href="http://smarturl.it/taureninstagram">http://smarturl.it/taureninstagram</a> <br />Website: <a rel="nofollow" target="blank" href="http://smarturl.it/taurenweb">http://smarturl.it/taurenweb</a> <br />YouTube: <a rel="nofollow" target="blank" href="http://smarturl.it/taurensub">http://smarturl.it/taurensub</a><br />Email: <a rel="nofollow" target="blank" href="https://TaurenWells.lnk.to/emaillistID">https://TaurenWells.lnk.to/emaillistID</a><br />  <br /><br /><br />Known <br /><br />It's so unusual it's frightening <br />You see right through the mess inside me<br />And you call me out to pull me in <br />You tell me I can start again <br />And I don’t need to keep on hiding <br /><br />I’m fully known and loved by You <br />You won’t let go no matter what I do <br />And it’s not one or the other <br />It’s hard truth and ridiculous grace <br />To be known fully known and loved by You <br />I’m fully known and loved by You <br /><br />It’s so like You to keep pursuing <br />It’s so like me to go astray <br />But You guard my heart with Your truth <br />A kind of love that’s bullet proof <br />And I surrender to Your kindness <br /><br />How real, how wide <br />How rich, how high is Your heart <br />I cannot find the reasons why <br />You give me so much <br /><br />It's so unusual it's frightening <br />I’m fully known and loved by You <br /><br />Music by Tauren Wells performing Known (Official Lyric Video). (C) 2018 Provident Label Group LLC, a division of Sony Music Entertainment<br />#TaurenWells #ChristianMusic #Known #Vevo{% endraw %}
