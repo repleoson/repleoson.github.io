@@ -1,0 +1,15 @@
+---
+title: "KITSCHKRIEG FEAT. TRETTMANN, GRINGO, UFO361 & GZUZ - \"STANDARD\" (OFFICIAL VIDEO)"
+image: "https:\/\/i.ytimg.com\/vi\/Sou-nPU6VK4\/hqdefault.jpg"
+vid_id: "Sou-nPU6VK4"
+categories: "Music"
+tags: ["Deutschrap","German Hip-Hop","Gringo"]
+date: "2021-09-14T08:48:33+03:00"
+vid_date: "2018-10-19T11:58:38Z"
+duration: "PT3M23S"
+viewcount: "60183343"
+likeCount: "576798"
+dislikeCount: "23466"
+channel: "SoulForce Records"
+---
+{% raw %}&quot;Standard&quot; von KitschKrieg feat. Trettmann, Gringo, Ufo361 &amp; Gzuz, vom Album &quot;KitschKrieg&quot;.<br />Shop: <a rel="nofollow" target="blank" href="https://kitschkrieg.de/shop">https://kitschkrieg.de/shop</a><br />Album streamen: <a rel="nofollow" target="blank" href="https://kitschkrieg.lnk.to/kitschkrieg">https://kitschkrieg.lnk.to/kitschkrieg</a><br />Song streamen: <a rel="nofollow" target="blank" href="https://kitschkrieg.lnk.to/Standard">https://kitschkrieg.lnk.to/Standard</a><br />Kanal abonnieren: <a rel="nofollow" target="blank" href="https://goo.gl/uky5si">https://goo.gl/uky5si</a><br /><br />KitschKrieg: <a rel="nofollow" target="blank" href="https://www.instagram.com/KitschKrieg/">https://www.instagram.com/KitschKrieg/</a><br />Trettmann: <a rel="nofollow" target="blank" href="https://www.instagram.com/realtrettmann">https://www.instagram.com/realtrettmann</a><br />Gringo: <a rel="nofollow" target="blank" href="https://www.instagram.com/44gringo">https://www.instagram.com/44gringo</a><br />Ufo361: <a rel="nofollow" target="blank" href="https://www.instagram.com/ufo361">https://www.instagram.com/ufo361</a><br />Gzuz: <a rel="nofollow" target="blank" href="https://www.instagram.com/gzuz187_official">https://www.instagram.com/gzuz187_official</a><br /><br />Folge unseren Playlists:<br />KitschKrieg FM /  Spotify: <a rel="nofollow" target="blank" href="https://spoti.fi/3bb4nmy​">https://spoti.fi/3bb4nmy​</a><br />This is KitschKrieg / Spotify: <a rel="nofollow" target="blank" href="https://spoti.fi/2CZqMU0">https://spoti.fi/2CZqMU0</a><br />This is Trettmann / Spotify: <a rel="nofollow" target="blank" href="https://spoti.fi/2AEQnjk">https://spoti.fi/2AEQnjk</a><br />KitschKrieg: Selects / Apple Music: <a rel="nofollow" target="blank" href="https://apple.co/2N32LTZ">https://apple.co/2N32LTZ</a><br />Trettmann Essentials / Apple Music: <a rel="nofollow" target="blank" href="https://apple.co/2QtBKEN">https://apple.co/2QtBKEN</a><br />An den Reglern: KitschKrieg / Apple Music: <a rel="nofollow" target="blank" href="https://apple.co/2H1NC1h">https://apple.co/2H1NC1h</a><br /><br />Musik und Video: KitschKrieg<br />Kamera: Michael Breyer: <a rel="nofollow" target="blank" href="https://www.michaelbreyer.com/">https://www.michaelbreyer.com/</a><br />Maske: Maria Ehrlich <a rel="nofollow" target="blank" href="https://www.mariaehrlich.de">https://www.mariaehrlich.de</a> <br />Ufo361 Altar Set Design: Kotti Cane <a rel="nofollow" target="blank" href="https://www.kotticane.de">https://www.kotticane.de</a><br /><br />Danke an alle, die das Video und den Song möglich gemacht haben. <br /><br />#KitschKrieg #Standard{% endraw %}
