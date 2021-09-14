@@ -1,0 +1,15 @@
+---
+title: "Little Do You Know || Alex & Sierra Lyrics"
+image: "https:\/\/i.ytimg.com\/vi\/GP4okspbfMM\/hqdefault.jpg"
+vid_id: "GP4okspbfMM"
+categories: "People-Blogs"
+tags: ["Little Do You Know"]
+date: "2021-09-15T02:33:01+03:00"
+vid_date: "2018-12-27T06:57:47Z"
+duration: "PT3M5S"
+viewcount: "94335060"
+likeCount: "1137939"
+dislikeCount: "13021"
+channel: "Rachel Gardner"
+---
+{% raw %}Anyone listen to music on spotify?<br />I created Sad Songs Playlist :<br /><a rel="nofollow" target="blank" href="https://open.spotify.com/playlist/2iEAMCE5j5PF7sWxoJQoyV">https://open.spotify.com/playlist/2iEAMCE5j5PF7sWxoJQoyV</a><br /><br />“Little Do You Know” available on Alex &amp; Sierra’s album ‘It’s About Us’: <a rel="nofollow" target="blank" href="http://smarturl.it/ItsAboutUS">http://smarturl.it/ItsAboutUS</a>  <br /><br /> Follow Alex &amp; Sierra on socials: <br /><a rel="nofollow" target="blank" href="https://twitter.com/AlexandSierra">https://twitter.com/AlexandSierra</a> <a rel="nofollow" target="blank" href="https://www.facebook.com/alexandsierr...">https://www.facebook.com/alexandsierr...</a> <a rel="nofollow" target="blank" href="http://instagram.com/alexandsierramusic">http://instagram.com/alexandsierramusic</a> <br /><br />***Contace with me <br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/Rachel-Gardner-BI-301372474080462/">https://www.facebook.com/Rachel-Gardner-BI-301372474080462/</a><br /> <br />*Background: <a rel="nofollow" target="blank" href="https://imgur.com/gallery/feFrbxk">https://imgur.com/gallery/feFrbxk</a><br /><br />-  Little Do You Know || Alex &amp; Sierra Lyrics<br />Little do you know<br />How I’m breaking while you fall asleep<br />Little do you know<br />I’m still haunted by the memory<br />Little do you know<br />I’m trying to pick myself up piece by piece<br />Little do you know<br />I need a little more time<br />Underneath it all I’m held captive by the hole inside<br />I’ve been holding back<br />For the fear that you might change your mind<br />I’m ready to forgive you but forgetting is a harder fight<br />Little do you know<br />I need a little more time<br />I'll wait, I'll wait<br />I love you like you've never felt the pain, I'll wait<br />I promise you don’t have to be afraid, I'll wait<br />The love you see right here stays so lay your head on me<br />Little do you know<br />I know you’re hurt while I'm sound asleep<br />Little do you know<br />All my mistakes are slowly drowning me<br />Little do you know<br />I’m trying to make it better piece by piece<br />Little do you know<br />I, I love you till the sun dies<br />I'll wait, just wait<br />I love you like I've never felt the pain, just wait<br />I love you like I’ve never been afraid, just wait<br />Our love we see right here stays so lay your head on me<br />I'll wait, I'll wait<br />I love you like you've never felt the pain, I'll wait<br />I promise you don’t have to be afraid, I'll wait<br />The love you see right here stays so lay your head on me<br />Lay your head on me<br />So lay your head on me<br />'Cause little do you know<br />I love you till the sun dies{% endraw %}
