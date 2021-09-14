@@ -1,0 +1,15 @@
+---
+title: "Alessia Cara - Comfortable (Official Audio)"
+image: "https:\/\/i.ytimg.com\/vi\/28AJOggP0Jg\/hqdefault.jpg"
+vid_id: "28AJOggP0Jg"
+categories: "Music"
+tags: ["Alessia","Cara","Comfortable"]
+date: "2021-09-14T22:04:57+03:00"
+vid_date: "2018-11-30T05:00:00Z"
+duration: "PT4M19S"
+viewcount: "1675219"
+likeCount: "24440"
+dislikeCount: "304"
+channel: "AlessiaCaraVEVO"
+---
+{% raw %}in case you didn't know, The Pains of Growing is out. 👔<br /><a rel="nofollow" target="blank" href="https://alessiacara.lnk.to/ThePainsOfGrowing">https://alessiacara.lnk.to/ThePainsOfGrowing</a> <br /><br />More from Alessia Cara: <br /><a rel="nofollow" target="blank" href="http://www.alessiacara.com">http://www.alessiacara.com</a><br /><a rel="nofollow" target="blank" href="http://twitter.com/AlessiaCara">http://twitter.com/AlessiaCara</a><br /><a rel="nofollow" target="blank" href="http://instagram.com/alessiasmusic">http://instagram.com/alessiasmusic</a><br /><a rel="nofollow" target="blank" href="http://www.facebook.com/AlessiaCara">http://www.facebook.com/AlessiaCara</a> <br /><br /><br />(verse 1)<br />what happens to a flame <br />when it burns out?<br />what happens to a love that's not new?<br />what happens when I'm no longer impressive?<br />or when there's nothing left to learn <br />about you?<br /><br />(pre-chorus)<br />see I used to wonder ‘bout you<br />what it would be like to love you <br />now I've seen every hole in your heart <br /><br />I’m used to loving slowly<br />but this time you already know me <br />I hope you like all the broken parts <br /><br />(chorus)<br />oh, we can't run away<br />from the comfortable <br />‘cause it's inevitable <br />in love, in love<br />oh, it’s time we make way <br />for the comfortable <br />‘cause it's already comfortable <br />in us, in us<br /><br />(verse 2)<br />they say the honeymoon<br />is just a puppet show <br />they say nobody<br />really makes it through<br />and though a part of me wishes <br />that this was two July’s ago <br />the rest of me <br />is safer here with you <br /><br />(pre-chorus)<br />see I used to wonder bout you <br />what it'd be like to love you <br />but now I know you inside out <br />see, I'm used to loving slowly <br />and it took you nothing to know me <br />what happens when I run out of parts? <br /><br />(chorus)<br />oh, I guess you could say i<br />that it's comfortable <br />and it's inevitable <br />in love, in love<br />oh, it’s time we make way <br />for the comfortable <br />‘cause it's already comfortable <br />in us, in us<br /><br />(bridge)<br />turns out <br />you think my favourite song’s annoying<br />turns out no one makes me sensitive <br />like you<br />used to be sad <br />that the honeymoons behind us <br />until I realized <br />that it means we made it through <br /><br />(chorus)<br /><br />Music video by Alessia Cara performing Comfortable (Audio). © 2018 Def Jam Recordings, a division of UMG Recordings, Inc.<br /><br /><a rel="nofollow" target="blank" href="http://vevo.ly/Zduf88">http://vevo.ly/Zduf88</a>{% endraw %}
