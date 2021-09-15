@@ -1,0 +1,15 @@
+---
+title: "English Phrases -- Where something is Located -- In the Kitchen"
+image: "https:\/\/i.ytimg.com\/vi\/Mk-fZbHnPpM\/hqdefault.jpg"
+vid_id: "Mk-fZbHnPpM"
+categories: "Education"
+tags: ["American","English","Pronunciation"]
+date: "2021-09-15T21:59:27+03:00"
+vid_date: "2016-07-12T23:39:22Z"
+duration: "PT13M45S"
+viewcount: "233058"
+likeCount: "4253"
+dislikeCount: "73"
+channel: "Rachel's English"
+---
+{% raw %}Study English Phrases and Daily Expressions -- how to locate something.  Where's the file? It's in a drawer next to the bookcase.  Learn the basics of speaking English with these useful phrases and study English Pronunciation.  <br /><br />Video on TO THE:  <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=0nwbzoIP14E">https://www.youtube.com/watch?v=0nwbzoIP14E</a><br />QUARTER:  <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=qClHsqoMbh0">https://www.youtube.com/watch?v=qClHsqoMbh0</a><br />The Word TO:  <a rel="nofollow" target="blank" href="https://youtu.be/yWV6gMhMOyM">https://youtu.be/yWV6gMhMOyM</a><br /><br />Sign up for Rachel's FREE 10-day mini-course in Accent Reduction and mailing list:  <a rel="nofollow" target="blank" href="http://www.RachelsEnglish.com/newsletter">http://www.RachelsEnglish.com/newsletter</a><br /><br />New to Rachel's English?  Where to Start Playlist:  <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLrqHrGoMJdTRwaQFCCDp4G88yX5D3gOdP">https://www.youtube.com/playlist?list=PLrqHrGoMJdTRwaQFCCDp4G88yX5D3gOdP</a><br /><br />Get Rachel's Book:  <a rel="nofollow" target="blank" href="http://RachelsEnglish.com/book">http://RachelsEnglish.com/book</a>  <br />SUBSCRIBE!: <a rel="nofollow" target="blank" href="http://bit.ly/RE_sub,">http://bit.ly/RE_sub,</a> <br />Fan! <a rel="nofollow" target="blank" href="http://bit.ly/RE_FB">http://bit.ly/RE_FB</a> <br />Follow!  <a rel="nofollow" target="blank" href="http://www.twitter.com/Rachels_English">http://www.twitter.com/Rachels_English</a><br /><br />Improve your American Accent / spoken English at Rachel's English with video-based lessons and exercises.  Rachel uses real life English conversation as the basis for teaching how to speak English and how to sound American -- improve listening comprehension skills.  Study English vocabulary and English phrases such as phrasal verbs, as well as common expressions in English.  Learn American idioms and American slang.  <br /><br />Cải thiện nói tiếng Anh Mỹ   /  改善美式英語的發音   /   미국 영어 발음 향상  /  アメリカ英語の話し言葉のアクセントを向上させる    /   Улучшение произношения американского английского языка   /   Meningkatkan berbicara bahasa Inggris Amerika   /   Melhore sua pronúncia do inglês americano   /   Mejora tu pronunciación en Inglés Americano   /   बात अमेरिकी अंग्रेजी में सुधार   /  تحسين لهجتك الأمريكية الإنجليزية / שפר את המבטא האמריקאי שלך<br /><br />...with Rachel's English!<br /><br />470<br /><br />Help us caption &amp; translate this video!<br /><br /><a rel="nofollow" target="blank" href="http://amara.org/v/Q3Tt/">http://amara.org/v/Q3Tt/</a>{% endraw %}
