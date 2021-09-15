@@ -1,0 +1,15 @@
+---
+title: "Davido - Intro (Audio)"
+image: "https:\/\/i.ytimg.com\/vi\/LFiQJ24wZj0\/hqdefault.jpg"
+vid_id: "LFiQJ24wZj0"
+categories: "Music"
+tags: ["davido","davido ft chris brown","davido if"]
+date: "2021-09-15T16:44:07+03:00"
+vid_date: "2019-11-22T08:00:02Z"
+duration: "PT3M26S"
+viewcount: "769048"
+likeCount: "7303"
+dislikeCount: "146"
+channel: "DavidoVEVO"
+---
+{% raw %}Davido - Intro (Audio)<br />The new album, 'A Good Time,' is out now: <a rel="nofollow" target="blank" href="http://smarturl.it/DavidoAGT?IQid=yt">http://smarturl.it/DavidoAGT?IQid=yt</a> <br /><br />---------------------------------------------------<br /><br />More from Davido:<br /><br />Risky (feat. Popcaan) - <a rel="nofollow" target="blank" href="https://smarturl.it/DavidoRisky?IQid=YT">https://smarturl.it/DavidoRisky?IQid=YT</a><br />Assurance - <a rel="nofollow" target="blank" href="http://smarturl.it/DavidoAssurance?!IQid=YT">http://smarturl.it/DavidoAssurance?!IQid=YT</a><br />Blow My Mind - <a rel="nofollow" target="blank" href="http://smarturl.it/BlowMyMind?IQid=YT">http://smarturl.it/BlowMyMind?IQid=YT</a> <br />Flora My Flawa - <a rel="nofollow" target="blank" href="http://smarturl.it/FloraMyFlawa?IQid=YT">http://smarturl.it/FloraMyFlawa?IQid=YT</a><br />FIA: <a rel="nofollow" target="blank" href="http://smarturl.it/Davido-FIA?IQid=YT">http://smarturl.it/Davido-FIA?IQid=YT</a><br />FIA (Remix): <a rel="nofollow" target="blank" href="http://smarturl.it/Davido-FIARemix?IQid=YT">http://smarturl.it/Davido-FIARemix?IQid=YT</a><br />Like Dat - <a rel="nofollow" target="blank" href="http://smarturl.it/Davido-LikeDat?IQid=YT">http://smarturl.it/Davido-LikeDat?IQid=YT</a><br />Pere (feat. Rae Sremmurd &amp; Young Thug) - <a rel="nofollow" target="blank" href="http://smarturl.it/Davido-Pere?IQid=YT">http://smarturl.it/Davido-Pere?IQid=YT</a><br />Fall - <a rel="nofollow" target="blank" href="http://smarturl.it/Davido-Fall?IQid=YT">http://smarturl.it/Davido-Fall?IQid=YT</a><br />If - <a rel="nofollow" target="blank" href="http://smarturl.it/Davido-If?IQid=YT">http://smarturl.it/Davido-If?IQid=YT</a><br />Son Of Mercy (EP) - <a rel="nofollow" target="blank" href="http://smarturl.it/Davido-SonOfMercy?IQid=YT">http://smarturl.it/Davido-SonOfMercy?IQid=YT</a><br />Skelewu - <a rel="nofollow" target="blank" href="http://smarturl.it/Davido-Skelewu?IQid=YT">http://smarturl.it/Davido-Skelewu?IQid=YT</a><br /><br />---------------------------------------------------<br /><br />Follow Davido:<br /><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/davidoofficial2">https://www.facebook.com/davidoofficial2</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/iam_davido">https://twitter.com/iam_davido</a><br /><a rel="nofollow" target="blank" href="https://instagram.com/davidoofficial">https://instagram.com/davidoofficial</a><br /><a rel="nofollow" target="blank" href="http://iamdavido.com">http://iamdavido.com</a><br /><br />---------------------------------------------------<br /><br />#Davido #Intro #Audio #AGoodTime{% endraw %}
