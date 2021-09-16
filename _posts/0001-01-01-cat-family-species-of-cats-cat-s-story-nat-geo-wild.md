@@ -1,0 +1,15 @@
+---
+title: "Cat Family - Species of Cats | Cat’s Story (Nat Geo Wild)"
+image: "https:\/\/i.ytimg.com\/vi\/F6tqpv74uRY\/hqdefault.jpg"
+vid_id: "F6tqpv74uRY"
+categories: "Pets-Animals"
+tags: ["national geographic","national geographic documentary","national geographic documentaries"]
+date: "2021-09-16T09:56:06+03:00"
+vid_date: "2018-03-07T01:00:02Z"
+duration: "PT43M57S"
+viewcount: "174242"
+likeCount: "1934"
+dislikeCount: "115"
+channel: "WD Wildlife Documentary"
+---
+{% raw %}We discover how the first cats arose in the forests of Asia how they spread across the continent and later came to conquer Africa.  We reveal how they evolved flexible limbs to climb giant bodies to survive in the cold and super senses to catch prey.  Ultimately we discover how becoming social made the lion king of the savannah.  Also featured in this Documentary are other larger cats such as the clouded snow and African leopards the Bengal and Siberian tigers and the cheetah.  However the introductions of smaller and lesser-known species like the serval the caracal and the fishing Pallas’s and sand cats are just as fascinating.<br /><br />we discover how cats first crossed from Asia into North America and how they went on to become the top predators of the continent.  Today there are 13 feline species in the Americas – from the mighty jaguar to the urban mountain lion to the curious ocelot and from the Canada lynx to the nimble margay.  The story of how all these cats came to be is an epic tapestry of pioneering spirit powerful natural forces and a battle for supremacy with their age-old rivals the Canids.  Then a few brave wildcats moved into our villages in pursuit of the hungry mice that followed the farmers’ grain.  There are now more than 40 different breeds of domestic cat – from the exotic Siamese cat to the hairless Sphynx – who are still evolving.<br /><br /><br />Cats are among the most feared and revered creatures on the planet.  Their power strength and enigmatic nature have fascinated us for centuries.  They’ve dominated human culture since the dawn of civilization.  Go from the rainforests to the savannah to the mountain peaks all the way into the comfort of our homes.  Get an in-depth look at this unique species and the evolutionary and adaptations that truly make a cat a cat.<br /><br />In this conclusion we discover how cats first crossed from Asia into North America and how they went on to become the top predators of the continent.  Today there are 13 feline species in the Americas – from the mighty jaguar to the urban mountain lion to the curious ocelot and from the Canada lynx to the nimble margay.  The story of how all these cats came to be is an epic tapestry of pioneering spirit powerful natural forces and a battle for supremacy with their age-old rivals the Canids.  Then a few brave wildcats moved into our villages in pursuit of the hungry mice that followed the farmers’ grain.  There are now more than 40 different breeds of domestic cat – from the exotic Siamese cat to the hairless Sphynx – who are still evolving.{% endraw %}
