@@ -1,0 +1,15 @@
+---
+title: "Brandi Carlile - The Story (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/o8pQLtHTPaI\/hqdefault.jpg"
+vid_id: "o8pQLtHTPaI"
+categories: "Music"
+tags: ["The Story lyrics","Brandi Carlile The Story official","acoustic"]
+date: "2021-09-16T13:06:39+03:00"
+vid_date: "2009-10-03T04:48:22Z"
+duration: "PT3M58S"
+viewcount: "41368124"
+likeCount: "259082"
+dislikeCount: "7362"
+channel: "BrandiCarlileVEVO"
+---
+{% raw %}Brandi Carlile's official music video for 'The Story'. Click to listen to Brandi Carlile on Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/BrandiCSpotify?IQid=BrandiCTS">http://smarturl.it/BrandiCSpotify?IQid=BrandiCTS</a><br /><br />As featured on The Story. Click to buy the track or album via<br />iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/BCTheStory?IQid=BrandiCTS">http://smarturl.it/BCTheStory?IQid=BrandiCTS</a><br />Google Play: <a rel="nofollow" target="blank" href="http://smarturl.it/TSGPlay?IQid=BrandiCTS">http://smarturl.it/TSGPlay?IQid=BrandiCTS</a><br />Amazon: <a rel="nofollow" target="blank" href="http://smarturl.it/TSAmazon?IQid=BrandiCTS">http://smarturl.it/TSAmazon?IQid=BrandiCTS</a><br /><br />More From Brandi Carlile<br />Turpentine: <a rel="nofollow" target="blank" href="https://youtu.be/SSmE0BBOwSg">https://youtu.be/SSmE0BBOwSg</a><br />Dreams: <a rel="nofollow" target="blank" href="https://youtu.be/MSBl8zD9J_M">https://youtu.be/MSBl8zD9J_M</a><br />That Year: <a rel="nofollow" target="blank" href="https://youtu.be/4R2efYK36z8">https://youtu.be/4R2efYK36z8</a><br /><br />More great Country videos here: <a rel="nofollow" target="blank" href="http://smarturl.it/CCountry?IQid=BrandiCTS">http://smarturl.it/CCountry?IQid=BrandiCTS</a><br /><br />Follow Brandi Carlile<br />Website: <a rel="nofollow" target="blank" href="http://brandicarlile.com/">http://brandicarlile.com/</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/brandicarlile">https://www.facebook.com/brandicarlile</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/brandicarlile">https://twitter.com/brandicarlile</a><br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/brandicarlile/">https://instagram.com/brandicarlile/</a><br /><br />Subscribe to Brandi Carlile on YouTube:<a rel="nofollow" target="blank" href="http://smarturl.it/BrandiCSub?IQid=BrandiCTS">http://smarturl.it/BrandiCSub?IQid=BrandiCTS</a><br /><br />---------<br /><br />Lyrics:<br /><br />All of these lines across my face<br />Tell you the story of who I am<br />So many stories of where I've been<br />And how I got to where I am<br />But these stories don't mean anything<br />When you've got no one to tell them to<br />It's true... I was made for you<br /><br />I climbed across the mountain tops<br />Swam all across the ocean blue<br />I crossed all the lines and I broke all the rules<br />But baby I broke them all for you<br />Because even when I was flat broke<br />You made me feel like a million bucks<br />You do and I was made for you<br /><br />#BrandiCarlile #TheStory #Vevo{% endraw %}
