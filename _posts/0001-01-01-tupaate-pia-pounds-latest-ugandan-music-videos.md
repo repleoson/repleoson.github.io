@@ -1,0 +1,15 @@
+---
+title: "TUPAATE - Pia Pounds (Latest Ugandan music Videos)"
+image: "https:\/\/i.ytimg.com\/vi\/A3LH5NVIFyo\/hqdefault.jpg"
+vid_id: "A3LH5NVIFyo"
+categories: "Music"
+tags: ["Tupaate","twende tupaate","Tunyumilwe"]
+date: "2021-09-17T01:22:55+03:00"
+vid_date: "2020-09-23T15:45:22Z"
+duration: "PT2M31S"
+viewcount: "609531"
+likeCount: "10752"
+dislikeCount: "299"
+channel: "Pia Pounds"
+---
+{% raw %}Follow Pia Pounds On:<br /><br />Twitter : <a rel="nofollow" target="blank" href="https://twitter.com/piapounds/">https://twitter.com/piapounds/</a> <br /><br />Facebook : <a rel="nofollow" target="blank" href="https://web.facebook.com/piapounds">https://web.facebook.com/piapounds</a> <br /><br />Instagram : <a rel="nofollow" target="blank" href="https://www.instagram.com/pia_pounds">https://www.instagram.com/pia_pounds</a> <br /><br />Soundcloud : <a rel="nofollow" target="blank" href="https://soundcloud.com/pia-pounds">https://soundcloud.com/pia-pounds</a><br /><br /><br /><br />For Bookings: Call: +256704183273 <br /><br />Email: piapounds@gmail.com<br /><br />Lyrics<br /><br />Fresh <br />(Handle) <br />I handle your body huh <br />I handle your heart <br />(Handle) <br />I handle your body uuuh <br />Eh <br /><br />Owomukwano this be the date <br />Gimme yo heart don’t close the gate<br />Nze gw’obadde ononya, jubilate <br />I won yah heart so mi won the bet <br />Baby boy don’t you delay <br />Jangu ngukuwe no more sweating <br />Njagala nkulage ma magic <br />Binyuma byokya you can relate <br /><br /><br />Twende tupaate <br />(Pa pa pa pa paate) tupaate <br />Twende tupaate <br />(Pa pa pa pa paate) tupaate <br />Twende tupaate <br />(Pa pa pa pa paate) tupaate <br />Twende tupaate, tupaate <br /><br /><br />hmm Twende tunyumirwe <br />Tunyimirwe tugende tunyumirwe <br />tunyumirwe tugende tunyumirwe tunyumirwe tugende tunyumirwe (tunyumirwe) <br /><br /><br />Njagala nkukakase <br />Nti olwaleero so steady steady <br />Era kankubulire <br />Nti byona leero so steady, steady <br />(Kati party) <br />Obitaddemu answer <br />(Kati party) <br />Nkwagala mu center <br />(Kati party) <br />Ebyo byomanyi nedda <br />(Kati party)<br />Eeeh <br /><br /><br />Twende tupaate <br />(Pa pa pa pa paate) tupaate <br />Twende tupaate <br />(Pa pa pa pa paate) tupaate <br />Twende tupaate <br />(Pa pa pa pa paate) tupaate <br />Twende tupaate, tupaate <br /><br /><br />hhmmn Twende tunyumirwe <br />Tunyimirwe tugende tunyumirwe <br />tunyumirwe tugende tunyumirwe tunyumirwe tugende tunyumirwe (tunyumirwe) <br /><br /><br />Njagala nkukakase <br />Nkukakase nkukakase <br />Hhm njagala onkakase <br />Onkakase onkakase <br /><br /><br />Pa pa pa pa paate<br />Pa pa pa pa paate<br />Pa pa pa pa paate<br />Pa pa pa pa paate<br /><br />(Handle) <br />I handle your body huh <br />I handle your heart <br />(Handle) <br />I handle your body uuuh <br />Eh <br /><br />Twende tunyumirwe <br />Tunyimirwe tugende tunyumirwe <br />tunyumirwe tugende tunyumirwe tunyumirwe tugende tunyumirwe (tunyumirwe){% endraw %}
