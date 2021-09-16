@@ -1,0 +1,15 @@
+---
+title: "G-Eazy - Provide (Official Video) ft. Chris Brown, Mark Morrison"
+image: "https:\/\/i.ytimg.com\/vi\/kmMOASvXa9U\/hqdefault.jpg"
+vid_id: "kmMOASvXa9U"
+categories: "Music"
+tags: ["GEazy","Geasy","G Eazy"]
+date: "2021-09-16T17:55:24+03:00"
+vid_date: "2021-02-05T17:00:26Z"
+duration: "PT3M17S"
+viewcount: "16528694"
+likeCount: "268158"
+dislikeCount: "7036"
+channel: "GEazyMusicVEVO"
+---
+{% raw %}G-Eazy “Provide” feat. Chris Brown &amp; Mark Morrison<br />Out Now: <a rel="nofollow" target="blank" href="https://smarturl.it/GxProvide">https://smarturl.it/GxProvide</a><br /> <br />Directed by Edgar Esteves  <br />Production Company: Blank Square Productions<br />Producer: Andres Garcia<br />DP: Josh Hill<br />Edited by Joan Pabon<br />Color by Bryan Smaller<br /> <br />Subscribe for more exclusive G-Eazy footage: <a rel="nofollow" target="blank" href="http://bit.ly/GEazyYTSub">http://bit.ly/GEazyYTSub</a><br /> <br />Check Out More from G-Eazy:<br />G-Eazy Official Music Videos: <a rel="nofollow" target="blank" href="http://bit.ly/2b1rjqy">http://bit.ly/2b1rjqy</a><br />G-Eazy B-Sides: <a rel="nofollow" target="blank" href="http://bit.ly/2aZTEAd">http://bit.ly/2aZTEAd</a><br /> <br />Follow G-Eazy:<br />G-Eazy Official Site: <a rel="nofollow" target="blank" href="http://g-eazy.com">http://g-eazy.com</a><br />G-Eazy On Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/G_Eazy">https://twitter.com/G_Eazy</a><br />G-Eazy On Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/G.Eazy">https://www.facebook.com/G.Eazy</a><br />G-Eazy On Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/g_eazy">https://www.instagram.com/g_eazy</a><br /> <br />Follow Chris Brown:<br />Chris Brown Official Site: <a rel="nofollow" target="blank" href="https://slimenb.chrisbrownworld.com/">https://slimenb.chrisbrownworld.com/</a><br />Chris Brown On Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/chrisbrown">https://twitter.com/chrisbrown</a><br />Chris Brown On Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/chrisbrown">https://www.facebook.com/chrisbrown</a><br />Chris Brown On Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/chrisbrownofficial">https://www.instagram.com/chrisbrownofficial</a><br /> <br />Follow Mark Morrison:<br />Mark Morrison Official Site: <a rel="nofollow" target="blank" href="http://www.markmorrison.com/">http://www.markmorrison.com/</a><br />Mark Morrison On Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/_markmorrison">https://twitter.com/_markmorrison</a><br />Mark Morrison On Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/markmorrisonofficial">https://www.facebook.com/markmorrisonofficial</a><br />Mark Morrison On Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/markmorrisonofficial">https://www.instagram.com/markmorrisonofficial</a><br /><br />#GEazy #ChrisBrown #ReturnOfTheMack #HipHop{% endraw %}
