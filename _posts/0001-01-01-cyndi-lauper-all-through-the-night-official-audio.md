@@ -1,0 +1,15 @@
+---
+title: "Cyndi Lauper - All Through the Night (Official Audio)"
+image: "https:\/\/i.ytimg.com\/vi\/ZONKoKIQ9RY\/hqdefault.jpg"
+vid_id: "ZONKoKIQ9RY"
+categories: "Music"
+tags: ["Cyndi Lauper All Through The Night","acoustic","music"]
+date: "2021-09-16T04:15:08+03:00"
+vid_date: "2013-08-23T10:00:21Z"
+duration: "PT4M36S"
+viewcount: "12317904"
+likeCount: "96938"
+dislikeCount: "3444"
+channel: "CyndiLauperVEVO"
+---
+{% raw %}Cyndi Lauper's official audio for 'All Through The Night'. Click to listen to Cyndi Lauper on Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/CyndiLauperSpotify?IQid=CyndiLATN">http://smarturl.it/CyndiLauperSpotify?IQid=CyndiLATN</a><br /><br />As featured on The Essential Cyndi Lauper. Click to buy the track or album via iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/TECY?IQid=CyndiLATN">http://smarturl.it/TECY?IQid=CyndiLATN</a><br />Google Play: <a rel="nofollow" target="blank" href="http://smarturl.it/ATTNGPlay?IQid=CyndiLATN">http://smarturl.it/ATTNGPlay?IQid=CyndiLATN</a><br />Amazon: <a rel="nofollow" target="blank" href="http://smarturl.it/ECLAmazon?IQid=CyndiLATN">http://smarturl.it/ECLAmazon?IQid=CyndiLATN</a><br /><br />More From Cyndi Lauper<br />Girls Just Want To Have Fun: <a rel="nofollow" target="blank" href="https://youtu.be/PIb6AZdTr-A">https://youtu.be/PIb6AZdTr-A</a><br />True Colors: <a rel="nofollow" target="blank" href="https://youtu.be/LPn0KFlbqX8">https://youtu.be/LPn0KFlbqX8</a><br />Time After Time: <a rel="nofollow" target="blank" href="https://youtu.be/VdQY7BusJNU">https://youtu.be/VdQY7BusJNU</a><br /><br />More great 80s videos here: <a rel="nofollow" target="blank" href="http://smarturl.it/Ultimate80?IQid=CyndiLATN">http://smarturl.it/Ultimate80?IQid=CyndiLATN</a><br /><br />Follow Cyndi Lauper<br />Website: <a rel="nofollow" target="blank" href="http://cyndilauper.com/">http://cyndilauper.com/</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/officialcyndilauper">https://www.facebook.com/officialcyndilauper</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/cyndilauper">https://twitter.com/cyndilauper</a><br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/cyndilauper/">https://instagram.com/cyndilauper/</a><br /><br />Subscribe to Cyndi Lauper on YouTube: <a rel="nofollow" target="blank" href="http://smarturl.it/CyndiLauperSub?IQid=CyndiLATN">http://smarturl.it/CyndiLauperSub?IQid=CyndiLATN</a><br /><br />---------<br /><br />Lyrics:<br /><br />All through the night<br />I'll be awake and I'll be with you<br />All through the night <br />This precious time when time is new<br />Oh, all through the night today<br />Knowing that we feel the same without saying<br /><br />We have no past we won't reach back<br />Keep with me forward all through the night<br />And once we start the meter clicks<br />And it goes running all through the night<br />Until it ends there is no end<br /><br />#CyndiLauper #AllThroughTheNight #Vevo{% endraw %}
