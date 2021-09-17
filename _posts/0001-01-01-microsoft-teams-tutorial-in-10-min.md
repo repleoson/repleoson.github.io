@@ -1,0 +1,15 @@
+---
+title: "🏫 Microsoft Teams Tutorial in 10 min"
+image: "https:\/\/i.ytimg.com\/vi\/VDDPoYOQYfM\/hqdefault.jpg"
+vid_id: "VDDPoYOQYfM"
+categories: "Science-Technology"
+tags: ["kevin stratvert","microsoft teams","how to use microsoft teams"]
+date: "2021-09-17T10:49:09+03:00"
+vid_date: "2021-01-08T11:00:08Z"
+duration: "PT9M47S"
+viewcount: "493883"
+likeCount: "12244"
+dislikeCount: "177"
+channel: "Kevin Stratvert"
+---
+{% raw %}In this step-by-step tutorial in under 10 minutes, learn how you can use Microsoft Teams to meet, chat, and collaborate with others.<br /><br />👋 Additional resources:<br />- Sign up for Microsoft Teams: <a rel="nofollow" target="blank" href="https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/group-chat-software">https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/group-chat-software</a><br />- Sign into Microsoft Teams: <a rel="nofollow" target="blank" href="https://teams.microsoft.com">https://teams.microsoft.com</a><br /><br />⌚ Timestamps<br />0:00 Introduction<br />0:24 Sign up for Microsoft Teams<br />0:42 Sign in<br />0:55 Download desktop app<br />1:28 Navigation bar<br />1:48 Join or create team<br />3:18 Edit team settings<br />3:34 Channels<br />3:57 Posts &amp; conversations<br />5:55 Organizing channels<br />6:15 Activity<br />6:38 Chat<br />7:12 Calendar &amp; schedule meetings<br />7:44 Join meeting<br />8:46 Calls<br />9:04 Files<br />9:15 Wrap up<br /><br />📃 Watch related playlists and videos<br />- Playlist with all my Microsoft Teams videos: <a rel="nofollow" target="blank" href="https://youtube.com/playlist?list=PLlKpQrBME6xJ4Mxv00syl8iOSgL-GVLMG">https://youtube.com/playlist?list=PLlKpQrBME6xJ4Mxv00syl8iOSgL-GVLMG</a><br /><br />🚩 Connect with me on social:<br />- LinkedIn: <a rel="nofollow" target="blank" href="https://www.linkedin.com/in/kevinstratvert/">https://www.linkedin.com/in/kevinstratvert/</a><br />- Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/kevstrat">https://twitter.com/kevstrat</a><br />- Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/Kevin-Stratvert-101912218227818">https://www.facebook.com/Kevin-Stratvert-101912218227818</a><br />- TikTok: <a rel="nofollow" target="blank" href="https://www.tiktok.com/@kevinstratvert">https://www.tiktok.com/@kevinstratvert</a><br /><br />🔔 Subscribe to my YouTube channel<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/user/kevlers?sub_confirmation=1">https://www.youtube.com/user/kevlers?sub_confirmation=1</a><br /><br />🎬 Want to watch again? Navigate back to my YouTube channel quickly<br /><a rel="nofollow" target="blank" href="http://www.kevinstratvert.com">http://www.kevinstratvert.com</a><br /><br />🛍 Support me with your Amazon purchases: <a rel="nofollow" target="blank" href="https://amzn.to/3kCP2yz">https://amzn.to/3kCP2yz</a><br /><br />⚖ As full disclosure, I use affiliate links above. Purchasing through these links gives me a small commission to support videos on this channel -- the price to you is the same.<br /><br />#teams #microsoft{% endraw %}
