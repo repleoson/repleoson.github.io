@@ -1,0 +1,15 @@
+---
+title: "U2 - I Still Haven't Found What I'm Looking For (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/e3-5YC_oHjE\/hqdefault.jpg"
+vid_id: "e3-5YC_oHjE"
+categories: "Music"
+tags: ["U2 Music","I Still Haven't Found What I'm Looking For","I Still Haven't Found What I'm Looking For Official Video"]
+date: "2021-09-17T11:23:35+03:00"
+vid_date: "2016-10-17T16:00:02Z"
+duration: "PT4M36S"
+viewcount: "110677296"
+likeCount: "534191"
+dislikeCount: "21507"
+channel: "U2VEVO"
+---
+{% raw %}REMASTERED IN HD!<br />The official music video for I Still Haven't Found What I'm Looking For by U2.<br /><br />Filmed by Barry Devlin on the streets of Las Vegas in April 1987 after the band’s first show in the city, for the release of I Still Haven’t Found What I’m Looking For as the second single from The Joshua Tree album.<br /><br />Subscribe to the U2 channel: <a rel="nofollow" target="blank" href="https://U2.lnk.to/YTSubscribeID">https://U2.lnk.to/YTSubscribeID</a><br /><br />Watch more U2 videos: <a rel="nofollow" target="blank" href="https://U2.lnk.to/WatchMoreID">https://U2.lnk.to/WatchMoreID</a><br /> <br />Sign up to the U2 mailing list: <a rel="nofollow" target="blank" href="https://U2.lnk.to/MailingListID">https://U2.lnk.to/MailingListID</a><br /> <br />Follow U2 on…<br />Facebook: <a rel="nofollow" target="blank" href="https://U2.lnk.to/FacebookID">https://U2.lnk.to/FacebookID</a><br />Twitter: <a rel="nofollow" target="blank" href="https://U2.lnk.to/TwitterID">https://U2.lnk.to/TwitterID</a><br />Instagram: <a rel="nofollow" target="blank" href="https://U2.lnk.to/InstagramID">https://U2.lnk.to/InstagramID</a><br /> <br />Official Website: <a rel="nofollow" target="blank" href="https://U2.lnk.to/WebsiteID">https://U2.lnk.to/WebsiteID</a><br /><br />#U2 #IStillHaventFoundWhatImLookingFor #Remastered<br /><br />Lyrics:<br /><br />I have climbed the highest mountains<br />I have run through the fields<br />Only to be with you<br />Only to be with you.<br /><br />I have run, I have crawled<br />I have scaled these city walls<br />These city walls<br />Only to be with you.<br /><br />But I still haven't found<br />What I'm looking for.<br />But I still haven't found<br />What I'm looking for.<br /><br />I have kissed honey lips<br />Felt the healing in her finger tips<br />It burned like fire<br />(I was) burning inside her.<br /><br />I have spoke with the tongue of angels<br />I have held the hand of a devil<br />It was warm in the night<br />I was cold as a stone.<br /><br />But I still haven't found<br />What I'm looking for.<br />But I still haven't found<br />What I'm looking for.<br /><br />I believe in the Kingdom Come<br />Then all the colours will bleed into one<br />Bleed into one.<br />But yes, I'm still running.<br /><br />You broke the bonds<br />And you loosed the chains<br />Carried the cross of my shame<br />Oh my shame, you know I believe it.<br /><br />But I still haven't found<br />What I'm looking for.<br />But I still haven't found<br />What I'm looking for.<br /><br />But I still haven't found<br />What I'm looking for.<br />But I still haven't found<br />What I'm looking for.{% endraw %}
