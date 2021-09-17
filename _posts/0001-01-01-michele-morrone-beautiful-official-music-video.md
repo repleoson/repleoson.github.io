@@ -1,0 +1,15 @@
+---
+title: "Michele Morrone - Beautiful (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/N45Z1uWR75s\/hqdefault.jpg"
+vid_id: "N45Z1uWR75s"
+categories: "Music"
+tags: ["Michele","Morrone","Beautiful"]
+date: "2021-09-17T08:03:52+03:00"
+vid_date: "2021-03-07T14:00:16Z"
+duration: "PT2M45S"
+viewcount: "8169069"
+likeCount: "237160"
+dislikeCount: "2427"
+channel: "MicheleMorroneVEVO"
+---
+{% raw %}Michele Morrone - Beautiful (Official Music Video)<br /><br />Stream and download the Single BEAUTIFUL here: <a rel="nofollow" target="blank" href="https://umg.lnk.to/_Beautiful">https://umg.lnk.to/_Beautiful</a><br /><br />Follow Michele Morrone:<br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/iammichelemorroneofficial">https://www.instagram.com/iammichelemorroneofficial</a><br />TikTok: <a rel="nofollow" target="blank" href="https://www.tiktok.com/@michelemorrone?">https://www.tiktok.com/@michelemorrone?</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/Michele-Morrone-1437605259803816">https://www.facebook.com/Michele-Morrone-1437605259803816</a><br />Official Website: <a rel="nofollow" target="blank" href="https://www.michele-morrone.com/">https://www.michele-morrone.com/</a><br /><br />Video Production:<br /><br />A Borotalco.tv production<br />WRITTEN &amp; DIRECTED by: Fabrizio Conte<br />EXECUTIVE PRODUCER: Matteo Stefani<br /><br />With: Michele Morrone &amp; Rebecca Greco Zeru <br /><br />LINE PRODUCERS: Elena Andreutti, Alessandro Guida<br />PRODUCER/CASTING DIRECTOR: Monica Conte<br />PRODUCTION MANAGER: Enrico Di Paola<br />1ST ASS. DIRECTOR: Alessandro Guida<br /><br />Cinematographer: Francesco Di Pierro<br /><br />STEADYCAM OPERATOR: Nicola Daino<br />FOCUS PULLER: Luca Onofri<br />SECOND ASSISTANT CAMERA: Lucio Casellatto<br />GAFFER: Giuseppe Savoca<br />BEST BOY: Marco Alagia<br />DATA MANAGER: Niccolò Casini<br />PRODUCTION DESIGNER: Mauro Neglia<br />DRONE OPERATOR: Shadi Soloh<br />ASSISTANT DRONE OPERATOR: Fausto Masi<br />SPECIAL EFFECTS: Galiano SFX<br />Special effects technician: Giovanni Antonini<br /><br />EDITING: Fabrizio Conte<br />COLOR CORRECTION: Claudio Beltrami<br />VFX: Andrea Ferrarello <br /><br />COSTUME DESIGNER: Arianna Tersigni <br />SPECIAL MUA: Silvia Castellucci<br />MUA assistant: Giorgia Marra<br />HAIR STYLIST: Giovanni Salaris<br /><br />PRODUCTION SUPERVISOR: Andrea Biscaro <br />ACCOUNTANT: Agnese Incurvati, Annamaria Modica<br />Production assistant: Anthony Mignoni<br /><br />BACKSTAGE: Giuseppe Foglia<br />UNIT STILL PHOTOGRAPHER: Raffaele Cerracchio<br /><br />RENTAL: Cartocci<br />TRUCKS: B. TRUCKS<br />NCC service: Rome Limousine Tour<br />LOCATION: Circolo Ippico, Tenuta L'Ambrosia<br /><br />Thanks to:<br />Universal Music (Germany) &amp; Stefanie Zoll.<br />Antonio, Sofia, Siria e Katia della Tenuta L'Ambrosia per il prezioso supporto.<br /><br /><br />A Polydor release; (P) &amp; (C) 2021 Michele Morrone, under exclusive license to Universal Music GmbH<br /><br />#MicheleMorrone #Beautiful{% endraw %}
