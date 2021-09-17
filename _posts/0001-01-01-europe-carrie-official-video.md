@@ -1,0 +1,15 @@
+---
+title: "Europe - Carrie (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/KmWE9UBFwtY\/hqdefault.jpg"
+vid_id: "KmWE9UBFwtY"
+categories: "Music"
+tags: ["europe live","acoustic","carrie"]
+date: "2021-09-17T22:18:11+03:00"
+vid_date: "2009-10-25T20:24:18Z"
+duration: "PT4M31S"
+viewcount: "175640595"
+likeCount: "824475"
+dislikeCount: "33712"
+channel: "EuropeVEVO"
+---
+{% raw %}Europe's official music video for 'Carrie'. Click to listen to Europe on Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/EuropeSpot?IQid=EuropeCa">http://smarturl.it/EuropeSpot?IQid=EuropeCa</a><br /><br />As featured on 1982-1992. Click to buy the track or album via iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/Europe1982iTunes?IQid=EuropeCa">http://smarturl.it/Europe1982iTunes?IQid=EuropeCa</a><br />Google Play: <a rel="nofollow" target="blank" href="http://smarturl.it/EuropeCaPlay?IQid=EuropeCa">http://smarturl.it/EuropeCaPlay?IQid=EuropeCa</a><br />Amazon: <a rel="nofollow" target="blank" href="http://smarturl.it/Europe1982Amz?IQid=EuropeCa">http://smarturl.it/Europe1982Amz?IQid=EuropeCa</a><br /><br />More from Europe<br />The Final Countdown: <a rel="nofollow" target="blank" href="https://youtu.be/9jK-NcRmVcw">https://youtu.be/9jK-NcRmVcw</a><br />Open Your Heart: <a rel="nofollow" target="blank" href="https://youtu.be/qX4LC1HBmag">https://youtu.be/qX4LC1HBmag</a><br />Rock The Night: <a rel="nofollow" target="blank" href="https://youtu.be/ELtpTBf-pMU">https://youtu.be/ELtpTBf-pMU</a><br /><br />More great classic rock videos here: <a rel="nofollow" target="blank" href="http://smarturl.it/ClassicRocks?IQid=EuropeCa">http://smarturl.it/ClassicRocks?IQid=EuropeCa</a><br /><br />Follow Europe<br />Website: <a rel="nofollow" target="blank" href="http://www.europetheband.com/">http://www.europetheband.com/</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/europetheband">https://www.facebook.com/europetheband</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/europetheband">https://twitter.com/europetheband</a><br />Myspace: <a rel="nofollow" target="blank" href="http://myspace.com/europe/">http://myspace.com/europe/</a><br /><br />Subscribe to Europe on YouTube: <a rel="nofollow" target="blank" href="http://smarturl.it/EuropeSub?IQid=EuropeCa">http://smarturl.it/EuropeSub?IQid=EuropeCa</a><br /><br />---------<br /><br />Lyrics:<br /><br />When light goes down, I see no reason<br />For you to cry. We've been through this before<br />In every time, in every season,<br />God knows I've tried<br />So please don't ask for more.<br /><br />Can't you see it in my eyes<br />This might be our last goodbye<br /><br />Carrie, Carrie, things they change my friend<br />Carrie, Carrie, maybe we'll meet again<br /><br />I read your mind, with no intentions<br />Of being unkind, I wish I could explain<br />It all takes time, a whole lot of patience<br />If it's a crime, how come I feel no pain.{% endraw %}
