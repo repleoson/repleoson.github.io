@@ -1,0 +1,15 @@
+---
+title: "Lil Nas X - THATS WHAT I WANT (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/QDYDRA5JPLE\/hqdefault.jpg"
+vid_id: "QDYDRA5JPLE"
+categories: "Music"
+tags: ["lil nas x montero album","lil nas x dead right now","lil nas x thats what I want"]
+date: "2021-09-17T20:35:17+03:00"
+vid_date: "2021-09-17T04:00:12Z"
+duration: "PT2M42S"
+viewcount: "4185098"
+likeCount: "494683"
+dislikeCount: "17119"
+channel: "LilNasXVEVO"
+---
+{% raw %}Official video for &quot;THATS WHAT I WANT&quot; by Lil Nas X<br /> <br />Listen &amp; Download ‘MONTERO’ the album out now: <a rel="nofollow" target="blank" href="https://lilnasx.lnk.to/MonteroAlbum">https://lilnasx.lnk.to/MonteroAlbum</a><br /><br />Story By: Lil Nas X<br />Director: STILLZ<br />Exec Producer: Esteban Zuluaga, Juan Vasquez <br />Prod. Company: WeOwnTheCity<br />Producer: Esteban Zuluaga, Fabien Colas, Malcolm Duncan<br />Producer/Commissioner: Saul Levitz<br />Creative Director/Stylist: Hodo Musa<br />DP: Christopher Ripley<br />Production Design: Terry Watson<br />Editor: Miles Trahan<br />Colorist: Aubrey Woodiwiss<br />VFX: Cameo FX &amp; Straynge<br /> <br />Amazon Music - <a rel="nofollow" target="blank" href="https://lilnasx.lnk.to/MonteroAlbum/amazonmusic">https://lilnasx.lnk.to/MonteroAlbum/amazonmusic</a><br />Apple Music - <a rel="nofollow" target="blank" href="https://lilnasx.lnk.to/MonteroAlbum/applemusic">https://lilnasx.lnk.to/MonteroAlbum/applemusic</a><br />Audiomack - <a rel="nofollow" target="blank" href="https://lilnasx.lnk.to/MonteroAlbum/audiomack">https://lilnasx.lnk.to/MonteroAlbum/audiomack</a><br />Deezer - <a rel="nofollow" target="blank" href="https://lilnasx.lnk.to/MonteroAlbum/deezer">https://lilnasx.lnk.to/MonteroAlbum/deezer</a><br />iTunes - <a rel="nofollow" target="blank" href="https://lilnasx.lnk.to/MonteroAlbum/itunes">https://lilnasx.lnk.to/MonteroAlbum/itunes</a><br />SoundCloud - <a rel="nofollow" target="blank" href="https://lilnasx.lnk.to/MonteroAlbum/soundcloud">https://lilnasx.lnk.to/MonteroAlbum/soundcloud</a><br />Spotify - <a rel="nofollow" target="blank" href="https://lilnasx.lnk.to/MonteroAlbum/spotify">https://lilnasx.lnk.to/MonteroAlbum/spotify</a><br />Tidal - <a rel="nofollow" target="blank" href="https://lilnasx.lnk.to/MonteroAlbum/tidal">https://lilnasx.lnk.to/MonteroAlbum/tidal</a><br />YouTube Music - <a rel="nofollow" target="blank" href="https://lilnasx.lnk.to/MonteroAlbum/youtubemusic">https://lilnasx.lnk.to/MonteroAlbum/youtubemusic</a><br /> <br />Follow Lil Nas X<br />Facebook - <a rel="nofollow" target="blank" href="https://www.facebook.com/LilNasX/">https://www.facebook.com/LilNasX/</a><br />Instagram - <a rel="nofollow" target="blank" href="https://www.instagram.com/lilnasx/">https://www.instagram.com/lilnasx/</a><br />Twitter - <a rel="nofollow" target="blank" href="https://twitter.com/LilNasX">https://twitter.com/LilNasX</a><br />TikTok - <a rel="nofollow" target="blank" href="https://www.tiktok.com/@lilnasx">https://www.tiktok.com/@lilnasx</a><br /><br />#LilNasX #MonterotheAlbum #THATSWHATIWANT{% endraw %}
