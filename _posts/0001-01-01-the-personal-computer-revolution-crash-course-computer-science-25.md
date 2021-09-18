@@ -1,0 +1,15 @@
+---
+title: "The Personal Computer Revolution: Crash Course Computer Science #25"
+image: "https:\/\/i.ytimg.com\/vi\/M5BZou6C01w\/hqdefault.jpg"
+vid_id: "M5BZou6C01w"
+categories: "Education"
+tags: ["John Green","Hank Green","vlogbrothers"]
+date: "2021-09-18T11:52:22+03:00"
+vid_date: "2017-08-23T21:08:52Z"
+duration: "PT10M15S"
+viewcount: "227325"
+likeCount: "4867"
+dislikeCount: "64"
+channel: "CrashCourse"
+---
+{% raw %}Today we're going to talk about the birth of personal computing. Up until the early 1970s components were just too expensive, or underpowered, for making a useful computer for an individual,  but this would begin to change with the introduction of the Altair 8800 in 1975. In the years that follow, we'll see the founding of Microsoft and Apple and the creation of the 1977 Trinity: The Apple II, Tandy TRS-80, and Commodore PET 2001. These new consumer oriented computers would become a huge hit, but arguably the biggest success of the era came with the release of the IBM PC in 1981. IBM completely changed the industry as its &quot;IBM compatible&quot; open architecture consolidated most of the industry except for, notably, Apple. Apple chose a closed architecture forming the basis of the Mac Vs PC debate that rages today. But in 1984, when Apple was losing marketshare fast it looked for a way to offer a new user experience like none other - which we'll discuss next week. <br /><br />Pre-order our limited edition Crash Course: Computer Science Floppy Disk Coasters here! <br /><a rel="nofollow" target="blank" href="https://store.dftba.com/products/computer-science-coasters">https://store.dftba.com/products/computer-science-coasters</a><br /><br />Produced in collaboration with PBS Digital Studios: <a rel="nofollow" target="blank" href="http://youtube.com/pbsdigitalstudios">http://youtube.com/pbsdigitalstudios</a> <br /><br />Want to know more about Carrie Anne?<br /><a rel="nofollow" target="blank" href="https://about.me/carrieannephilbin">https://about.me/carrieannephilbin</a><br /><br />The Latest from PBS Digital Studios: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PL1mtdjDVOoOqJzeaJAV15Tq0tZ1vKj7ZV">https://www.youtube.com/playlist?list=PL1mtdjDVOoOqJzeaJAV15Tq0tZ1vKj7ZV</a><br /><br />Want to find Crash Course elsewhere on the internet?<br />Facebook - <a rel="nofollow" target="blank" href="https://www.facebook.com/YouTubeCrash...">https://www.facebook.com/YouTubeCrash...</a><br />Twitter - <a rel="nofollow" target="blank" href="http://www.twitter.com/TheCrashCourse">http://www.twitter.com/TheCrashCourse</a><br />Tumblr - <a rel="nofollow" target="blank" href="http://thecrashcourse.tumblr.com">http://thecrashcourse.tumblr.com</a> <br />Support Crash Course on Patreon: <a rel="nofollow" target="blank" href="http://patreon.com/crashcourse">http://patreon.com/crashcourse</a><br />CC Kids: <a rel="nofollow" target="blank" href="http://www.youtube.com/crashcoursekids">http://www.youtube.com/crashcoursekids</a>{% endraw %}
