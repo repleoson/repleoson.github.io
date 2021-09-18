@@ -1,0 +1,15 @@
+---
+title: "Ο Υπουργός Εργασίας της Κυβερνήσεως Παπαδόπουλου, Παύλος Μανωλόπουλος στο Politically Incorrect"
+image: "https:\/\/i.ytimg.com\/vi\/kj08RzD5x3w\/hqdefault.jpg"
+vid_id: "kj08RzD5x3w"
+categories: "News-Politics"
+tags: ["Υπουργός","Εργασίας","της"]
+date: "2021-09-19T01:07:17+03:00"
+vid_date: "2021-09-18T19:28:53Z"
+duration: "PT1H3M47S"
+viewcount: "89"
+likeCount: "6"
+dislikeCount: "0"
+channel: "Politically Incorrect"
+---
+{% raw %}Το Politically Incorrect φιλοξενεί τον πρ. Υπουργό Εργασίας κ. Παύλο Μανωλόπουλο, ο οποίος διετέλεσε Υπουργός την περίοδο της Κυβερνήσεως Παπαδόπουλου.<br /><br />Μια ταραγμένη και άγνωστη περίοδο, που διαμόρφωσε τη Σύγχρονη Ελληνική Ιστορία. Ένα Στρατιωτικό Καθεστώς που μετέβαλε τα δεδομένα μιας εποχής<br /><br />Η συνέντευξη πραγματοποιήθηκε από τον αρθρογράγο Αθανάσιο Κατσικίδη το Μάιο 2021.<br /><br />Στη συνέντευξη καταγράφονται μεταξύ άλλων:<br />1) Τα πρώτα χρόνια του κ. Μανωλόπουλου και η συμμετοχή του στην ΕΚΟΦ και στην ΕΡΕ.<br />2) Η σύμπραξη του με το Καθεστώς Παπαδόπουλου.<br />3) Έργα και Ημέρες του Παύλου Μανωλόπουλου στην Κυβέρνηση Παπαδόπουλου.<br />4) Η Μεταπολίτευση και εσωκομματικές συζητήσεις-αναζητήσεις.<br />5) Στα χρόνια της Μεταπολίτευσης και οι πολιτικές μεταρρυθμίσεις του 21ου αιώνα.<br /><br />Πηγές:<br /><br />Βίντεο:<br /><br />1) Γεώργιος Παπαδόπουλος Βουλή 15-12-1969 - Gregory Papadopoulos<br />2) 21 Απριλίου 1968 Η πρώτη επέτειος του πραξικοπήματος<br />3) 24 Ιουλίου 1974: Επιστροφή Κωνσταντίνου Καραμανλή - Kostas Karamanlis<br />4) Athens: The day of the Coup d'état of 21 April 1967 - Aylon Film Archives<br /><br />Μουσική - Ήχος:<br /><br />1) Lone Harvest by Kevin MacLeod is licensed under a Creative Commons Attribution 4.0 license. <a rel="nofollow" target="blank" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a><br />Source: <a rel="nofollow" target="blank" href="http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100409">http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100409</a><br />Artist: <a rel="nofollow" target="blank" href="http://incompetech.com/">http://incompetech.com/</a><br />2) Music from Uppbeat (free for Creators!):<br /><a rel="nofollow" target="blank" href="https://uppbeat.io/t/anuch/our-champion">https://uppbeat.io/t/anuch/our-champion</a><br />License code: JY8VWGMYIYCJNF3M<br />3) No.2 Remembering Her - Esther Abrami<br />4) No.4 Piano Journey - Esther Abrami<br />5) Tank moving sound effect 3<br />6) AKOUSTIKO ARMATA<br /><br />Εικόνες-Στοιχεία:<br /><br />ethnos.gr, news247.gr, lifo.gr, tanea.gr, in.gr,<br />alfavita.gr, imerodromos.gr, polignosi.com, atexnos.gr,<br />onalert.gr, eretikos.gr, tovima.gr, koutipandoras.gr,<br />mixanitouxronou.gr, protothema.gr, thetoc.gr,<br />militaire.gr, sansimera.gr, thecaller.gr, makeleio.gr,<br />apopseis.gr, slpress.gr, maxmag.gr, kathimerini.gr,<br />ert.gr, infognomonpolitics.gr, defence-point.gr,<br />openarchives.gr, pergamos.lib.uoa.gr, el.metapedia.org{% endraw %}
