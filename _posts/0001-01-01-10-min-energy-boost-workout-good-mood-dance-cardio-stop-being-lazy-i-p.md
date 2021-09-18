@@ -1,0 +1,15 @@
+---
+title: "10 MIN ENERGY BOOST WORKOUT - good mood dance cardio, stop being lazy I Pamela Reif"
+image: "https:\/\/i.ytimg.com\/vi\/fLQjj1DrJz8\/hqdefault.jpg"
+vid_id: "fLQjj1DrJz8"
+categories: "Sports"
+tags: ["workout","training","abs"]
+date: "2021-09-19T01:41:27+03:00"
+vid_date: "2021-09-18T03:30:07Z"
+duration: "PT10M8S"
+viewcount: "144996"
+likeCount: "7175"
+dislikeCount: "83"
+channel: "Pamela Reif"
+---
+{% raw %}an absolute MOOD BOOSTER ♥︎ Feeling lazy? Unmotivated? A bit sad? Or just looking for a FUN Cardio session? / Werbung<br /><br />Welcome to the ENERGY BOOST workout. First song, second move &amp; I am already smiling from ear to ear :))) I would say the style is a mix between: <br />- 12min Happy Sweat <br />- 15min Happy Dance<br />- 15min Boxing Cardio <br /><br />The music is super cool &amp; it's definitely an intense and sweaty Dance Cardio Routine - but for some reason I have more energy afterwards than before :D Plus, you don't notice that you did a hundred squats during those 10min. I know - sneaky. <br /><br />The moves are more &quot;classic&quot; than the ones of a dance workout, easier to follow &amp; definitely more high energy from start till finish. I hope you like it!  <br />__<br /><br />Apart form the good mood &amp; I can also guarantee a serious number of burned calories here. <br /><br />▸ I burned 70kcal in those 10min.<br />Depending on your height, weight and fitness level this might vary between 70-150kcal. <br /><br />__<br /><br />▸  my Pam App ♥︎ Free workout plans, recipes &amp; tips: <br />➞ <a rel="nofollow" target="blank" href="https://www.pam-app.de/app">https://www.pam-app.de/app</a><br /><br />▸ you can find FREE WORKOUT PLANS on my Instagram Channel. 30min, 45min and Beginner Friendly combinations. Check out the Highlight Bubble &quot;Workout Plans&quot; for that.  <br />➞ Instagram <a rel="nofollow" target="blank" href="http://www.instagram.com/pamela_rf/">http://www.instagram.com/pamela_rf/</a><br /><br />__<br /> <br />I update my workout playlist weekly &amp; it's available on Spotify, Apple Music, etc. ♥︎<br /><a rel="nofollow" target="blank" href="http://wmg.click/GetActive">http://wmg.click/GetActive</a><br /><br />1. farfetch'd - Afterlife (feat. Mougleta)<br />2. R3HAB &amp; Jonas Blue – Sad Boy (feat. Ava Max &amp; Kylie Cantrall)<br />3. Jason Derulo - Acapulco<br />4. Christopher - If It Weren't For You <br /><br />__<br /><br />Business Contact:<br />pamela_reif@icloud.com<br /><br />__<br />unterstützt durch Warner Music Germany<br /><br />Disclaimer:<br />When joining me for this workout video, you need to take some precautions as your health and safety is the most important. To avoid any injury or harm, you need to check your health with your doctor before exercising. By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Pamela Reif will not be responsible or liable for any injury or harm you sustain as a result of this video.{% endraw %}
