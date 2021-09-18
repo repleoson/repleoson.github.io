@@ -1,0 +1,15 @@
+---
+title: "my review of TikTok *booktok* recommended books! PART 2 (are they worth the hype?)"
+image: "https:\/\/i.ytimg.com\/vi\/jGs5w3cov7A\/hqdefault.jpg"
+vid_id: "jGs5w3cov7A"
+categories: "People-Blogs"
+tags: ["review","TikTok","*booktok*"]
+date: "2021-09-18T03:05:48+03:00"
+vid_date: "2021-09-17T16:00:11Z"
+duration: "PT13M59S"
+viewcount: "2392"
+likeCount: "253"
+dislikeCount: "1"
+channel: "Sara Carrolli"
+---
+{% raw %}part 1 to this video: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=-Mhh9RDdObk&amp;t=1s&amp;ab_channel=SaraCarrolli">https://www.youtube.com/watch?v=-Mhh9RDdObk&amp;t=1s&amp;ab_channel=SaraCarrolli</a><br /><br />books mentioned: <br />the song of achilles by madeline miller<br />(reading vlog to that ^ : <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=VRMTRZLoli8&amp;ab_channel=SaraCarrolli">https://www.youtube.com/watch?v=VRMTRZLoli8&amp;ab_channel=SaraCarrolli</a><br />the spanish love deception by elena armas<br />in five years by rebecca serle<br />punk 57 by penelope douglas<br />a thousand boy kisses by tillie cole<br />every last word by tamara ireland stone<br />malibu rising by taylor jenkins reid<br /><br />i made an amazon book wishlist! if you’d like to check it out/send anything here’s the link: <a rel="nofollow" target="blank" href="https://www.amazon.com/hz/wishlist/genericItemsPage/3J3SL68MLYUXE">https://www.amazon.com/hz/wishlist/genericItemsPage/3J3SL68MLYUXE</a><br /><br />thank you so much for watching!!!<br />i hope you guys enjoy <br />&amp; i'll see you in my next one!<br /><br />🧚🏼‍♀️ follow me!<br />instagram - <a rel="nofollow" target="blank" href="https://www.instagram.com/saracarrolli...">https://www.instagram.com/saracarrolli...</a><br />tik tok - <a rel="nofollow" target="blank" href="https://www.tiktok.com/@saracarrolli?">https://www.tiktok.com/@saracarrolli?</a><br />vsco: <a rel="nofollow" target="blank" href="https://vsco.co/saracarrolli/gallery​...">https://vsco.co/saracarrolli/gallery​...</a><br />pinterest: <a rel="nofollow" target="blank" href="https://www.pinterest.com/saracarrolli/">https://www.pinterest.com/saracarrolli/</a><br />goodreads: <a rel="nofollow" target="blank" href="https://www.goodreads.com/user/show/113964939-sara-carrolli">https://www.goodreads.com/user/show/113964939-sara-carrolli</a><br />amazon storefront: <a rel="nofollow" target="blank" href="https://www.amazon.com/shop/saracarro...">https://www.amazon.com/shop/saracarro...</a><br /><br />👼🏼email: carrollisara@gmail.com<br /><br />🤍 music used:<br />Music by Dan and Drum - DWYM - <a rel="nofollow" target="blank" href="https://thmatc.co/?l=B0D21395​​​​​​​​...">https://thmatc.co/?l=B0D21395​​​​​​​​...</a><br />Music by @dananddrum - DWYM via @hellothematic<br />Music by Gil Wanders - Dreams - <a rel="nofollow" target="blank" href="https://thmatc.co/?l=1032666F​​​​​​​​...">https://thmatc.co/?l=1032666F​​​​​​​​...</a><br />Music by @gilwanders - Dreams via @hellothematic<br /><br />#bookreview #booktokbooks{% endraw %}
