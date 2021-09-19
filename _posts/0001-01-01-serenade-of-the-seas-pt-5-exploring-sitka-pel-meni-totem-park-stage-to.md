@@ -1,0 +1,15 @@
+---
+title: "Serenade Of The Seas Pt.5: Exploring Sitka, Pel'Meni, Totem Park, Stage To Screen Show - ParoDeeJay"
+image: "https:\/\/i.ytimg.com\/vi\/zMWvx5_JRUw\/hqdefault.jpg"
+vid_id: "zMWvx5_JRUw"
+categories: "Travel-Events"
+tags: ["sitka alaska","sitka cruise port","sitka cruise ship dock"]
+date: "2021-09-19T05:49:54+03:00"
+vid_date: "2021-09-18T12:00:27Z"
+duration: "PT20M4S"
+viewcount: "8897"
+likeCount: "857"
+dislikeCount: "5"
+channel: "ParoDeeJay"
+---
+{% raw %}We've got more to see and do in Sitka! Join us as we wander through town, snacking on pel'menis, pastries, and coffee, before heading back to the complimentary shuttle to the ship. Back onboard, we hit Park Cafe gold with both a roast beef sandwich and coconut ranger cookies on the same day, then it's time for an evening full of live music and the Stage To Screen production show!! :D<br /><br />00:00 BOOM!<br />00:04 Snacking In Sitka<br />06:02 Back To The Shuttle<br />10:34 Park Cafe Snacktime<br />13:06 Dinner In The MDR<br />14:59 Music In The Centrum<br />16:05 Stage To Screen Show<br /><br />We're off on the first of two &quot;side-by-side&quot; cruises to Alaska, this time aboard Serenade Of The Seas from Royal Caribbean! We sailed from September 6-13, 2021 and our port call in Icy Strait Point was canceled due to weather, but join us for some fun in Sitka, Juneau, and Ketchikan, as well as the Endicott Arm and Dawes Glacier. Let's do this thing!<br /><br />Give us a Like, a Subscribe, and keep an eye here for more fun!!! :)<br /><br />Most-Used Social Media for ParoDeeJay:<br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/parodeejay">https://www.facebook.com/parodeejay</a><br />Twitter: <a rel="nofollow" target="blank" href="https://www.twitter.com/parodeejay">https://www.twitter.com/parodeejay</a><br />Instagram: parodeejay<br /><br />Contact Dee to start planning your own exciting adventures!<br />Dee-Lightful Destinations: <a rel="nofollow" target="blank" href="https://www.parodeejay.com/travel">https://www.parodeejay.com/travel</a><br /><br />Looking for travel goodies and tech toys?<br />Amazon Affiliate shop: <a rel="nofollow" target="blank" href="https://www.parodeejay.com/amazon">https://www.parodeejay.com/amazon</a><br /><br />Buy All Our Merch:<br /><a rel="nofollow" target="blank" href="https://teespring.com/stores/parodeejay">https://teespring.com/stores/parodeejay</a> (Shirts &amp; Mugs)<br /><a rel="nofollow" target="blank" href="https://www.zazzle.com/parodeejay+gifts">https://www.zazzle.com/parodeejay+gifts</a> (Hats &amp; BIG Mugs)<br /><br />Send Us All The Things:<br />ParoDeeJay • P.O. Box 117 • Grandy, NC 27939<br /><br />Camera Gear &amp; Stuff:<br />Main Vlog Video - Canon G7X Mark II<br />Underwater Video - GoPro Hero 7 Black<br />Dee's Photos - Canon Powershot SX730 HS<br /><br />Background Music:<br />Epidemic Sound (<a rel="nofollow" target="blank" href="http://www.epidemicsound.com)">http://www.epidemicsound.com)</a><br /><br />#Sitka #SerenadeOfTheSeas #RoyalCaribbean #ComeSeek #TheRoyalComeback #RoyalComeback{% endraw %}
