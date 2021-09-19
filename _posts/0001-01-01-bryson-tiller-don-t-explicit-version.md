@@ -1,0 +1,15 @@
+---
+title: "Bryson Tiller - Don't (Explicit Version)"
+image: "https:\/\/i.ytimg.com\/vi\/d7cVLE4SaN0\/hqdefault.jpg"
+vid_id: "d7cVLE4SaN0"
+categories: "Music"
+tags: ["bryson tiller","dont","don't bryson tiller"]
+date: "2021-09-19T05:16:34+03:00"
+vid_date: "2015-08-20T18:00:00Z"
+duration: "PT3M44S"
+viewcount: "393651178"
+likeCount: "2376475"
+dislikeCount: "93901"
+channel: "BrysonTillerVEVO"
+---
+{% raw %}&quot;Don't&quot; by Bryson Tiller<br />Listen to Bryson Tiller: <a rel="nofollow" target="blank" href="https://brysontiller.lnk.to/listenYD">https://brysontiller.lnk.to/listenYD</a><br />Watch more Bryson Tiller videos: <a rel="nofollow" target="blank" href="https://brysontiller.lnk.to/listenYD/youtube">https://brysontiller.lnk.to/listenYD/youtube</a><br /><br />Subscribe to the official Bryson Tiller YouTube channel: <a rel="nofollow" target="blank" href="https://brysontiller.lnk.to/_subscribeYD">https://brysontiller.lnk.to/_subscribeYD</a><br /><br />Follow Bryson Tiller:<br />Facebook: <a rel="nofollow" target="blank" href="https://brysontiller.lnk.to/followFI/facebook">https://brysontiller.lnk.to/followFI/facebook</a><br />Instagram: <a rel="nofollow" target="blank" href="https://brysontiller.lnk.to/followII/instagram">https://brysontiller.lnk.to/followII/instagram</a><br />Twitter: <a rel="nofollow" target="blank" href="https://brysontiller.lnk.to/followTI/twitter">https://brysontiller.lnk.to/followTI/twitter</a><br />Spotify: <a rel="nofollow" target="blank" href="https://brysontiller.lnk.to/followSI/spotify">https://brysontiller.lnk.to/followSI/spotify</a><br />Website: <a rel="nofollow" target="blank" href="https://brysontiller.lnk.to/followWI/websitegeneral">https://brysontiller.lnk.to/followWI/websitegeneral</a><br />YouTube: <a rel="nofollow" target="blank" href="https://brysontiller.lnk.to/_subscribeYD">https://brysontiller.lnk.to/_subscribeYD</a><br /><br />Lyrics:<br />Don't, don't play with her, don't be dishonest (Ayy)<br />Still not understandin' this logic (Ayy)<br />I'm back and I'm better (And I'm better)<br />I want you bad as ever<br />Don't let me just let up<br />I wanna give you better<br />Baby, it's whatever<br />Somebody gotta step up<br />Girl, I'm that somebody, so I'm next up<br />Be damned if I let him catch up<br />It's easy to see that you're fed up<br />I am on a whole 'nother level<br />Girl, he only fucked you over 'cause you let him<br />Fuck him, girl, I guess he didn't know any better<br />Girl, that man didn't show any effort<br />Do all I can just to show you you're special<br />Certain it's your love that holds me together<br />Lately you say he been killin' the vibe<br />Gotta be sick of this guy<br />Pull up, skrr, get in the ride<br />Left hand is steerin' the other is grippin' your thigh<br />Light up a spliff and get high<br />Shawty, you deserve what you've been missin'<br />Lookin' at you I'm thinkin' he must be trippin'<br />Play this song for him, tell him, &quot;Just listen&quot;<br /><br />Don't<br />Don't<br /><br />#BrysonTiller #Dont #OfficialVideo{% endraw %}
