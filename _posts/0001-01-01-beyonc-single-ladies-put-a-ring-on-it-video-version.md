@@ -1,0 +1,15 @@
+---
+title: "Beyoncé - Single Ladies (Put a Ring on It) (Video Version)"
+image: "https:\/\/i.ytimg.com\/vi\/4m1EFMoRFvY\/hqdefault.jpg"
+vid_id: "4m1EFMoRFvY"
+categories: "Music"
+tags: ["Beyonce","Beyoncevevo","vevo"]
+date: "2021-09-19T11:24:56+03:00"
+vid_date: "2009-10-03T04:53:50Z"
+duration: "PT3M19S"
+viewcount: "836481898"
+likeCount: "3335768"
+dislikeCount: "156678"
+channel: "BeyoncéVEVO"
+---
+{% raw %}Beyoncé's official video for 'Single Ladies (Put a Ring on It)'. Click to listen to Beyoncé on Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/BeyonceSpot?IQid=B...">http://smarturl.it/BeyonceSpot?IQid=B...</a><br /><br />As featured on I Am... Sasha Fierce. Click to buy the track or album via iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/BeyIASFiTunes?IQid...">http://smarturl.it/BeyIASFiTunes?IQid...</a><br />Google Play: <a rel="nofollow" target="blank" href="http://smarturl.it/BeySLplay?IQid=BeySL">http://smarturl.it/BeySLplay?IQid=BeySL</a><br />Amazon: <a rel="nofollow" target="blank" href="http://smarturl.it/BeyIASFamz?IQid=BeySL">http://smarturl.it/BeyIASFamz?IQid=BeySL</a><br /><br />More from Beyoncé<br />Love On Top: <a rel="nofollow" target="blank" href="https://youtu.be/Ob7vObnFUJc">https://youtu.be/Ob7vObnFUJc</a><br />Dance For You: <a rel="nofollow" target="blank" href="https://youtu.be/PGc9n6BiWXA">https://youtu.be/PGc9n6BiWXA</a><br />Naughty Girl: <a rel="nofollow" target="blank" href="https://youtu.be/RZuJ_OHBN78">https://youtu.be/RZuJ_OHBN78</a><br /><br />Follow Beyoncé<br />Website: <a rel="nofollow" target="blank" href="http://www.beyonce.com/">http://www.beyonce.com/</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/beyonce">https://www.facebook.com/beyonce</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/beyonce">https://twitter.com/beyonce</a><br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/beyonce/">https://instagram.com/beyonce/</a><br /><br />Subscribe to Beyoncé on YouTube: <a rel="nofollow" target="blank" href="http://smarturl.it/BeyonceSub?IQid=BeySL">http://smarturl.it/BeyonceSub?IQid=BeySL</a><br /><br />More great Global Hits videos here: <a rel="nofollow" target="blank" href="http://smarturl.it/GlobalHits?IQid=BeySL">http://smarturl.it/GlobalHits?IQid=BeySL</a><br /><br />---------<br /><br />Lyrics:<br /><br />All the single ladies (All the single ladies)<br />All the single ladies (All the single ladies)<br />All the single ladies (All the single ladies)<br />All the single ladies<br />Now put your hands up<br /><br />Up in the club, we just broke up<br />I'm doing my own little thing<br />You decided to dip but now you wanna trip<br />Cause another brother noticed me<br />I'm up on him, he up on me<br />don't pay him any attention<br />Cause I cried my tears, for three good years<br />Ya can't be mad at me<br /><br />Cause if you liked it then you should have put a ring on it<br />If you liked it then you should've put a ring on it<br />Don't be mad once you see that he want it<br />If you liked it then you should've put a ring on it{% endraw %}
