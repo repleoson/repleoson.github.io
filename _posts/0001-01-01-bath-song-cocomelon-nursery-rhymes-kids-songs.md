@@ -1,0 +1,15 @@
+---
+title: "Bath Song | CoComelon Nursery Rhymes & Kids Songs"
+image: "https:\/\/i.ytimg.com\/vi\/WRVsOCh907o\/hqdefault.jpg"
+vid_id: "WRVsOCh907o"
+categories: "Education"
+tags: ["nursery rhymes","kids animation","preschool"]
+date: "2021-09-19T05:22:08+03:00"
+vid_date: "2018-05-02T07:00:01Z"
+duration: "PT2M53S"
+viewcount: "4518381799"
+likeCount: "11696833"
+dislikeCount: "8297217"
+channel: "Cocomelon - Nursery Rhymes"
+---
+{% raw %}It’s time to get all clean!  Let’s have fun playing in the bubbles and washing all over!<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/c/Cocomelon?sub_confirmation=1">https://www.youtube.com/c/Cocomelon?sub_confirmation=1</a><br /><br />Lyrics: <br /><br />I jump in the bathtub, it’s time to get all clean<br />I’ll be the cleanest kid you’ve ever seen!<br />The soap and the bubbles are filling up the tub,<br />So I’ll jump in the water and scrub, scrub, scrub!<br /><br />Wash my hair, do do do do do do<br />Wash my hair, do do do do do do<br />Wash my hair, do do do do do do<br />Wash my hair!<br /><br />Wash my face do do do do do do<br />Wash my face do do do do do do<br />Wash my face do do do do do do<br />Wash my face!<br /><br />Wash my arms do do do do do do<br />Wash my arms do do do do do do<br />Wash my arms do do do do do do<br />Wash my arms!<br /><br />Wash my hands do do do do do do<br />Wash my hands do do do do do do<br />Wash my hands do do do do do do<br />Wash my hands!<br /><br />Wash my knees do do do do do do<br />Wash my knees do do do do do do<br />Wash my knees do do do do do do<br />Wash my knees!<br /><br />Wash my toes do do do do do do<br />Wash my toes do do do do do do<br />Wash my toes do do do do do do<br />Wash my toes!<br /><br />About Cocomelon:<br /><br />Where kids can be happy and smart!<br /><br />At Cocomelon, our goal is to help make learning a fun and enjoyable experience for kids by creating beautiful 3D animation, educational lyrics, and toe-tapping music. <br /><br />Kids will laugh, dance, sing, and play along with our videos, learning letters, numbers, animal sounds, colors, and much, much more while simply enjoying our friendly characters and fun stories.<br /><br />We also make life easier for parents who want to keep their kids happily entertained, giving you the peace of mind that your children are receiving quality educational content.  Our videos also give you an opportunity to teach and play with your children as you both watch!<br /><br />WEBSITE: <a rel="nofollow" target="blank" href="http://www.Cocomelon.com">http://www.Cocomelon.com</a><br />FACEBOOK: <a rel="nofollow" target="blank" href="https://www.facebook.com/Cocomelonkids">https://www.facebook.com/Cocomelonkids</a><br />INSTAGRAM: <a rel="nofollow" target="blank" href="https://www.instagram.com/cocomelon_official/">https://www.instagram.com/cocomelon_official/</a><br />TWITTER: <a rel="nofollow" target="blank" href="https://www.twitter.com/Cocomelonkids">https://www.twitter.com/Cocomelonkids</a><br /><br /><br />Copyright © Treasure Studio, Inc. All rights reserved.{% endraw %}
