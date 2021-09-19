@@ -1,0 +1,15 @@
+---
+title: "Crypto’s Next Big Thing: Decentralized Finance Takes On Wall Street"
+image: "https:\/\/i.ytimg.com\/vi\/_tXd9SC9xZw\/hqdefault.jpg"
+vid_id: "_tXd9SC9xZw"
+categories: "News-Politics"
+tags: ["CNBC","business","news"]
+date: "2021-09-19T03:24:40+03:00"
+vid_date: "2021-09-17T16:54:05Z"
+duration: "PT10M38S"
+viewcount: "80886"
+likeCount: "1970"
+dislikeCount: "72"
+channel: "CNBC"
+---
+{% raw %}What would a world without banks look like? The answer may lie in decentralized finance.<br /><br />Decentralized finance is an emerging ecosystem of financial applications and protocols built on blockchain technology with programmable capabilities, such as ethereum and solana. The transactions get executed automatically through smart contracts on the blockchain, which includes the agreement of the deal.<br /><br />“Anyone can actually build businesses on top of these protocols and using them the same way as we can today build an internet business on top of the HTTP IP protocol,” said Stani Kulechov, founder of a DeFi protocol called Aave.<br /><br />Decentralized finance has captured only 5% of the crypto space, according to CoinGecko, but it has seen massive growth recently. There was $93 billion worth of DeFi assets in the crypto market as of June 2021, up from $4 billion just three years ago. To be sure, DeFi’s growth has slowed since the summer of 2020, and regulatory scrutiny from Capitol Hill has spiked over fears of crypto’s checkered past.<br /><br />1:17- Chapter 1: The ABCs of DeFI<br />3:16- Chapter 2: The DeFi boom<br />5:45- Chapter 3: Why people are excited about DeFi<br />7:31- Chapter 4: What’s next?<br /><br />» Subscribe to CNBC: <a rel="nofollow" target="blank" href="https://cnb.cx/SubscribeCNBC">https://cnb.cx/SubscribeCNBC</a><br />» Subscribe to CNBC TV: <a rel="nofollow" target="blank" href="https://cnb.cx/SubscribeCNBCtelevision">https://cnb.cx/SubscribeCNBCtelevision</a><br />» Subscribe to CNBC Classic: <a rel="nofollow" target="blank" href="https://cnb.cx/SubscribeCNBCclassic">https://cnb.cx/SubscribeCNBCclassic</a><br /><br />About CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more.<br /><br />Connect with CNBC News Online<br />Get the latest news: <a rel="nofollow" target="blank" href="https://www.cnbc.com/">https://www.cnbc.com/</a><br />Follow CNBC on LinkedIn: <a rel="nofollow" target="blank" href="https://cnb.cx/LinkedInCNBC">https://cnb.cx/LinkedInCNBC</a><br />Follow CNBC News on Facebook: <a rel="nofollow" target="blank" href="https://cnb.cx/LikeCNBC">https://cnb.cx/LikeCNBC</a><br />Follow CNBC News on Twitter: <a rel="nofollow" target="blank" href="https://cnb.cx/FollowCNBC">https://cnb.cx/FollowCNBC</a><br />Follow CNBC News on Instagram: <a rel="nofollow" target="blank" href="https://cnb.cx/InstagramCNBC">https://cnb.cx/InstagramCNBC</a><br /><br />#CNBC<br /><br />Crypto’s Next Big Thing: Decentralized Finance Takes On Wall Street{% endraw %}
