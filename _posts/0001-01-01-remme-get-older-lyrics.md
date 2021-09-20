@@ -1,0 +1,15 @@
+---
+title: "remme - get older (Lyrics)"
+image: "https:\/\/i.ytimg.com\/vi\/kbKMP23-yJw\/hqdefault.jpg"
+vid_id: "kbKMP23-yJw"
+categories: "Music"
+tags: ["ethereal music","em","ethereal"]
+date: "2021-09-20T20:20:54+03:00"
+vid_date: "2020-02-05T15:30:04Z"
+duration: "PT2M59S"
+viewcount: "88107"
+likeCount: "2784"
+dislikeCount: "31"
+channel: "Ethereal Music"
+---
+{% raw %}✘ remme - get older (Lyrics)<br />Spotify Playlist: <a rel="nofollow" target="blank" href="https://spoti.fi/2xJGU8G">https://spoti.fi/2xJGU8G</a><br /><br />🔔 Click the bell to stay updated.<br /><br />✘ Stream/DL:<br /><a rel="nofollow" target="blank" href="https://linktr.ee/remme">https://linktr.ee/remme</a><br /><br />✘ Follow remme:<br /><a rel="nofollow" target="blank" href="https://www.facebook.com/remmemusic">https://www.facebook.com/remmemusic</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/remme/">https://www.instagram.com/remme/</a><br /><a rel="nofollow" target="blank" href="https://www.soundcloud.com/remme">https://www.soundcloud.com/remme</a><br /><br />✘ Follow Ethereal Music:<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/EtherealMusicYT">https://www.instagram.com/EtherealMusicYT</a><br /><a rel="nofollow" target="blank" href="https://spoti.fi/2xJGU8G">https://spoti.fi/2xJGU8G</a><br /><br /><br />🎤 Lyrics:<br /><br />Get Older<br />V1<br />I read your lips on the subway when you were talking to your friend<br />Couldn't make out what you said but it sounded like an argument<br />I was wondering if I could've looked you in the eyes but I didn't dare <br />I wish I took your hand and showed you a way out of there<br />C1<br />My head keeps spinnin’ when I hold you<br />Time won't matter when we get older, we get older<br />6 months, 60 seconds, one minute<br />Time doesn't matter when we get older, we get older<br />V2<br />My thoughts were running fast and my heart began to pick up pace<br />I knew I had to act if we're ever to be face to face<br />My hesitation cost in seconds you were lost and I was standing there<br />Guess the times that change your life come from nowhere when you're unprepared<br />C2<br />My head keeps spinnin’ when I hold you<br />Time won't matter when we get older, we get older<br />6 months, 60 seconds, one minute<br />Time doesn't matter when we get older, we get older<br />C-Part<br />6 months, 60 seconds, one minute<br />Time doesn't matter when you're lost in it<br />Years keep ending but they're unfinished, one minute x4<br />6 months, 60 seconds, one minute<br />We take it for granted 'till we don't get it<br />Live every moment with your heart in it<br />Don't miss it x3<br />Outro<br />My head keeps spinning when I hold you<br />Time won't matter when we get older, we get older<br /><br /><br />Tags: #remme #getolder #EM<br /><br /><br />Ethereal Music is striving to bring you the best music from up and coming artists/producers. The channels main focus is to bring you the best new music, and isn't restricted to any genre.{% endraw %}
