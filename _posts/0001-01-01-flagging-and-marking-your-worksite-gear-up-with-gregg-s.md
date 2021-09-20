@@ -1,0 +1,15 @@
+---
+title: "Flagging and Marking Your Worksite - Gear Up with Gregg's"
+image: "https:\/\/i.ytimg.com\/vi\/MjBc73SwJkM\/hqdefault.jpg"
+vid_id: "MjBc73SwJkM"
+categories: "Education"
+tags: ["Gregg","Gregg’s","Greggs"]
+date: "2021-09-20T08:33:04+03:00"
+vid_date: "2020-08-06T18:00:03Z"
+duration: "PT8M29S"
+viewcount: "1723"
+likeCount: "29"
+dislikeCount: "2"
+channel: "Gregg Distributors LP"
+---
+{% raw %}What does forestry, mining, hospitals, and natural disasters all have in common? You’ve got it—flagging tape! In this episode of Gear up with Gregg’s, we discuss the benefits and uses of this simple, colorful tool. <br /><br />0:00 INTRO<br />0:30 SPRAY PAINT<br />1:28 DIFFERENCE BETWEEN COLOURS<br />2:34 MARKING FLAGS<br />3:08 FLAGGING TAPE<br />4:10 HEAVY-DUTY TAPE<br />4:27 PREMIER TAPE<br />4:45 LIGHT DUTY TAPE<br />5:35 HELPFUL TIPS<br />7:50 OUTRO<br /><br />If you require more information about any of the products you saw in this video, be sure to check out our catalogue!<br /><a rel="nofollow" target="blank" href="https://greggdistributors.ca/Safety/Traffic-Safety/Barrier-and-Flagging-Tapes?resp_group=Default,Variations,ItemProperties">https://greggdistributors.ca/Safety/Traffic-Safety/Barrier-and-Flagging-Tapes?resp_group=Default,Variations,ItemProperties</a><br /><a rel="nofollow" target="blank" href="https://greggdistributors.ca/Paint-and-Paint-Supplies/Spray-Paints-and-Primers/Spray-Paints?resp_group=Default,Variations,ItemProperties&amp;terms=Brand:Krylon">https://greggdistributors.ca/Paint-and-Paint-Supplies/Spray-Paints-and-Primers/Spray-Paints?resp_group=Default,Variations,ItemProperties&amp;terms=Brand:Krylon</a><br /><a rel="nofollow" target="blank" href="https://greggdistributors.ca/Safety/Signs-and-Identification/marking-flags?resp_group=Default,Variations,ItemProperties">https://greggdistributors.ca/Safety/Signs-and-Identification/marking-flags?resp_group=Default,Variations,ItemProperties</a><br /><br /><br />Subscribe to our channel and stay up-to-date on all of our videos including Heads Up for Hosers, Gear Up With Gregg's and more!<br /><br /><br /><br />Founded in Edmonton, Alberta and 100% Canadian owned, Gregg Distributors Ltd. distributes products across Western Canada to the industrial, agricultural, automotive and heavy truck sectors.<br /><br /><br /><br />Visit our website for location details and information on how you can contact your local Gregg's branch today.<br /><br /><a rel="nofollow" target="blank" href="https://www.greggdistributors.ca/">https://www.greggdistributors.ca/</a><br /><br /><br /><br />Follow Us!<br /><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/greggltd/">https://www.facebook.com/greggltd/</a><br /><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/greggltd">https://twitter.com/greggltd</a><br /><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/greggltd/">https://www.instagram.com/greggltd/</a><br /><br /><br /><br />Also, remember to have a Great Canadian Day!{% endraw %}
