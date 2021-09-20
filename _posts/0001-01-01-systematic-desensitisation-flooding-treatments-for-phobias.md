@@ -1,0 +1,15 @@
+---
+title: "Systematic Desensitisation & Flooding | TREATMENTS for Phobias"
+image: "https:\/\/i.ytimg.com\/vi\/BUtfPvus8Kg\/hqdefault.jpg"
+vid_id: "BUtfPvus8Kg"
+categories: "Education"
+tags: ["Phobias","Systematic desensitisation","Flooding"]
+date: "2021-09-20T05:56:47+03:00"
+vid_date: "2021-05-13T09:57:37Z"
+duration: "PT12M13S"
+viewcount: "243"
+likeCount: "20"
+dislikeCount: "0"
+channel: "Bear it in MIND"
+---
+{% raw %}Systematic Desensitisation and Flooding - Treatments for Phobias<br /><br />This video explores the Behavioural Treatments for Phobias as part of the Psychopathology topic.<br /><br />0:00 - Intro <br />01:35 - Systematic Desensitisation<br />06:25 - Flooding<br />07:55 - Evaluation (Supporting Evidence)<br />09:11 - Evaluation (Comparing SD and Flooding)<br />10:57 - Evaluation (Alternative Treatments)<br /><br />***Links to Mental Health Resources*** <br />Where to Start?<br /><a rel="nofollow" target="blank" href="https://www.mind.org.uk/information-support/guides-to-support-and-services/seeking-help-for-a-mental-health-problem/where-to-start/">https://www.mind.org.uk/information-support/guides-to-support-and-services/seeking-help-for-a-mental-health-problem/where-to-start/</a> <br /><a rel="nofollow" target="blank" href="https://www.mentalhealth.org.uk">https://www.mentalhealth.org.uk</a><br />For a List of Websites and Phone Numbers for UK mental health charities:<br /><a rel="nofollow" target="blank" href="https://www.nhs.uk/mental-health/nhs-voluntary-charity-services/charity-and-voluntary-services/get-help-from-mental-health-helplines/">https://www.nhs.uk/mental-health/nhs-voluntary-charity-services/charity-and-voluntary-services/get-help-from-mental-health-helplines/</a><br /><br />***CHECK OUT THESE OTHER VIDEOS*** <br />PSYCHOPATHOLOGY: Definitions of Abnormality<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=V02dwOgybmQ">https://www.youtube.com/watch?v=V02dwOgybmQ</a><br />PSYCHOPATHOLOGY: Characteristics of OCD, Phobias, &amp; Depression<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=rRYiDvOU1Fo">https://www.youtube.com/watch?v=rRYiDvOU1Fo</a><br />SOCIAL INFLUENCE: Milgram's Experiments <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=b6RtemgLBCs&amp;t=319s">https://www.youtube.com/watch?v=b6RtemgLBCs&amp;t=319s</a> <br />SOCIAL INFLUENCE: Explanations of Obedience <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=jGbLqlPx0cI&amp;t=999s">https://www.youtube.com/watch?v=jGbLqlPx0cI&amp;t=999s</a> <br />SOCIAL INFLUENCE: Minority Influence and Social Change <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=anhpgF_jdzQ">https://www.youtube.com/watch?v=anhpgF_jdzQ</a> <br /><br />***Looking to Promote Psychology to Other Students?***<br />WHY STUDY PSYCHOLOGY?<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=IArBfQoh0t8">https://www.youtube.com/watch?v=IArBfQoh0t8</a><br /><br />I hope you find this video helpful in your understanding of A-level Psychology{% endraw %}
