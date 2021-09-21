@@ -1,0 +1,15 @@
+---
+title: "Masego - Prone (audio)"
+image: "https:\/\/i.ytimg.com\/vi\/UI-BnJEzyDM\/hqdefault.jpg"
+vid_id: "UI-BnJEzyDM"
+categories: "Music"
+tags: ["Masego","Music","Lady Lady"]
+date: "2021-09-21T07:47:03+03:00"
+vid_date: "2018-09-07T16:19:05Z"
+duration: "PT3M7S"
+viewcount: "1962057"
+likeCount: "24039"
+dislikeCount: "370"
+channel: "Masego"
+---
+{% raw %}Masego - Prone (audio)<br /><br />From Masego's debut album, 'Lady Lady,' out now: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLTUTUpiLPjBMLNIK_Cz-y4zKrAsY6k8Ho">https://www.youtube.com/playlist?list=PLTUTUpiLPjBMLNIK_Cz-y4zKrAsY6k8Ho</a><br /><br />Stream 'Lady Lady' (Album): <a rel="nofollow" target="blank" href="http://smarturl.it/masegoladyladyalbum">http://smarturl.it/masegoladyladyalbum</a><br /><br />Old Age ft. SiR (Official Video) out now: <a rel="nofollow" target="blank" href="http://smarturl.it/masegooldagevideo">http://smarturl.it/masegooldagevideo</a><br /><br />Follow Masego:<br /><a rel="nofollow" target="blank" href="http://masegomusic.com">http://masegomusic.com</a><br /><a rel="nofollow" target="blank" href="http://instagram.com/masego">http://instagram.com/masego</a><br /><a rel="nofollow" target="blank" href="http://twitter.com/unclesego">http://twitter.com/unclesego</a><br /><a rel="nofollow" target="blank" href="http://facebook.com/unclesego">http://facebook.com/unclesego</a><br /><br />Lyrics:<br />I been takin long<br />I been writing songs<br />ive been feeling gone.<br />dont know whatcha on.<br /><br />You’re probably prone to stay all night.<br />Im prolly prone to play Yo mind.<br /><br />Ive been in the wrong<br />I can dig it yeah yeah yeah<br />Ive been in there long.<br />Feel it in her chest.<br /><br />She gon get hers I’m gon her mine.<br />We bring to life, she fantasize<br /><br />Now I gotta her yellin<br />Got her yellin<br />Got her yellin like<br /><br />EEEEEEEEEEE<br /><br />(Round 2 round 2)<br /><br />Said I gotta her yellin<br />Got her yellin<br />Got her yellin like<br /><br />EEEEEEEEEE<br /><br />[Verse 2]<br />I been on the drank<br />I been on the weed<br />I’ve been on the plane<br />I went overseas<br /><br />You prob say Masego likes.<br />The same on scene, the same ol sites.<br /><br />I been on the road,<br />I’ve been on the train,<br />I been on the boat<br />Running from the pain<br /><br />See ya there,<br />I can’t resist.<br />See ya stare,<br />Feel yo kiss.<br /><br />Subliminal, criminal, tease.<br />Minimal Minimal minimal.<br /><br />Siminal siminal, D<br />Animal animal animal<br /><br />Intimate intervals.<br />Each and every time<br /><br />I go in and through<br />Her garden<br /><br />Now I gotta her yellin<br />Got her yellin<br />Got her yellin like<br /><br />EEEEEEEEEE<br /><br />(Round 2 round 2)<br /><br />Said I gotta her yellin<br />Got her yellin<br />Got her yellin like<br /><br />EEEEEEEEE<br /><br />Round 3 Round 3<br /><br />Said I gotta her yellin<br />Got her yellin<br />Got her yellin like<br /><br />Round 4 Round 4<br /><br />EEEEEEEEEE{% endraw %}
