@@ -1,0 +1,15 @@
+---
+title: "Famous Dex - Pick It Up feat. A$AP Rocky [Official Video]"
+image: "https:\/\/i.ytimg.com\/vi\/X6SaVOLRcF4\/hqdefault.jpg"
+vid_id: "X6SaVOLRcF4"
+categories: "Music"
+tags: ["Famous","Dex","Famous Dex"]
+date: "2021-09-21T16:59:26+03:00"
+vid_date: "2018-01-17T17:00:01Z"
+duration: "PT3M11S"
+viewcount: "58342324"
+likeCount: "829792"
+dislikeCount: "17363"
+channel: "Famous Dex"
+---
+{% raw %}&quot;JAPAN&quot; Single OUT NOW <br /> <a rel="nofollow" target="blank" href="https://ffm.to/japan">https://ffm.to/japan</a><br /><br />Official &quot;Pick It Up&quot; Music Video<br /><br /><a rel="nofollow" target="blank" href="http://flyt.it/FamousDexPickItUpA$APRocky">http://flyt.it/FamousDexPickItUpA$APRocky</a><br />►Spotify: <a rel="nofollow" target="blank" href="http://flyt.it/FamousDexPickItUpSp">http://flyt.it/FamousDexPickItUpSp</a><br />►iTunes: <a rel="nofollow" target="blank" href="http://flyt.it/FamousDexPickItUpiT">http://flyt.it/FamousDexPickItUpiT</a><br />►Apple Music: <a rel="nofollow" target="blank" href="http://flyt.it/FamousDexPickItUpAp">http://flyt.it/FamousDexPickItUpAp</a><br />►Google Play Music: <a rel="nofollow" target="blank" href="http://flyt.it/FamousDexPickItUpGPM">http://flyt.it/FamousDexPickItUpGPM</a><br />►Amazon Music: <a rel="nofollow" target="blank" href="http://flyt.it/FamousDexPickItUpAMU">http://flyt.it/FamousDexPickItUpAMU</a><br />►Tidal: <a rel="nofollow" target="blank" href="https://tidal.com/album/79985939">https://tidal.com/album/79985939</a><br />►Soundcloud: <a rel="nofollow" target="blank" href="https://soundcloud.com/famous_dex1/pick-it-up-dirty-jl-master">https://soundcloud.com/famous_dex1/pick-it-up-dirty-jl-master</a><br />►YouTube: <a rel="nofollow" target="blank" href="https://youtu.be/Hq5w10rr7zQ">https://youtu.be/Hq5w10rr7zQ</a><br />--<br />Director: AWGE/ Hidji Films<br />Producer: Jaimie Sanchez / Gregory “Beef” Jones/ Bobbi Digital<br />--<br />Music Produced By FKi1st and Sosa808<br />—<br />Follow Me:<br /><a rel="nofollow" target="blank" href="https://dexterofficial.com/">https://dexterofficial.com/</a><br />►Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/FamousDex">https://twitter.com/FamousDex</a><br />►Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/famousdexter1">https://www.facebook.com/famousdexter1</a><br />►Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/famousdex">https://www.instagram.com/famousdex</a><br />►SoundCloud URL: <a rel="nofollow" target="blank" href="https://soundcloud.com/famous_dex1">https://soundcloud.com/famous_dex1</a><br />►YouTube: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCdGP_MdTu-4nv8KPe-pr2uw">https://www.youtube.com/channel/UCdGP_MdTu-4nv8KPe-pr2uw</a><br />►Spotify: <a rel="nofollow" target="blank" href="https://open.spotify.com/artist/0WOxhx4hikIsyF3CRPLC8W">https://open.spotify.com/artist/0WOxhx4hikIsyF3CRPLC8W</a><br /><br />Subscribe for Exclusive Famous Dex Content!{% endraw %}
