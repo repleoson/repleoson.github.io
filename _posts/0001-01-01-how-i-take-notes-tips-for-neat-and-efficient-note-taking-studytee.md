@@ -1,0 +1,15 @@
+---
+title: "How I take notes - Tips for neat and efficient note taking | Studytee"
+image: "https:\/\/i.ytimg.com\/vi\/njstk6xlrh0\/hqdefault.jpg"
+vid_id: "njstk6xlrh0"
+categories: "Education"
+tags: ["study tips","studytee","studyblr"]
+date: "2021-09-21T20:55:13+03:00"
+vid_date: "2018-12-16T15:01:40Z"
+duration: "PT7M18S"
+viewcount: "14424138"
+likeCount: "518248"
+dislikeCount: "4892"
+channel: "studytee"
+---
+{% raw %}Open for FAQ and everything included!<br /><br /><br /><br />Hello everyone!<br /><br />Here’s the long awaited updated version of how I take notes! This technique has saved me this semester as I don’t have to write separate lecture notes and textbook notes, and I hope it can help you as well! ☺️<br /><br />I’ve been on a little break from social media these last few weeks, just to focus on my studies, family and friends. I’m finally seeing the end of exam season (only 1 exam to go!), and Christmas is finally around the corner. I hope everything is going well for all of you who have finals at the moment, and I wish everyone who celebrate all the best for the holiday season! ❤️<br /><br />Small tip; if you don’t already follow my Instagram, you should check it out! I post updates quite frequently there, so you’ll know when there will be a new video.<br /><br />Anyway, I hope you’re all well. Take care ❤️<br /><br />Studytee xx<br /><br />STATIONERY INCLUDED:<br /><br />- Notepad: EMO college grid paper (generic brand from a local bookstore)<br />- Pens: pilot frixion 0.5mm needle point<br />- Coloured pens: uniball signo erasable pens<br />- Thicker pens: pilot frixion color pens<br />- Ruler: staples<br />- «Eraser»: pilot friction eraser<br />- Sticky notes: Clas Ohlson<br /><br /><br />FAQ (will not be answered in comments):<br /><br />Which grade are you in?<br />- I’m in my first year of university, studying medical technology!<br /><br />How old are you/where do you live/what's your name?<br />- I’m Therese, 21 years old from Norway (please check my IG FAQ before commenting something rude regarding my age! Thank you)<br /><br />Can you send me your notes, or do you sell them?<br />- I post some of my notes on Instagram, and other than that I don't share/sell them, I'm sorry!<br /><br /><br />SOCIAL MEDIA AND CONTACT INFORMATION:<br /><br />My instagram: instagram.com/studytee<br /><br />For business enquiries: hellostudytee@outlook.com (NEW EMAIL ADDRESS)<br />(Non-business enquiries will not be answered on this mail address. If you'd like to ask me a question or send me a message then please send me a DM on instagram!)<br /><br /><br />OTHERS:<br /><br />Music:<br /><br />Music by <a rel="nofollow" target="blank" href="https://soundcloud.com/lakeyinspired">https://soundcloud.com/lakeyinspired</a> and <a rel="nofollow" target="blank" href="https://soundcloud.com/ikson">https://soundcloud.com/ikson</a><br /><br />Camera used: canon eos m3 with 40mm lense<br /><br />I edit my videos using iMovie, and my thumbnails are made in Canva!{% endraw %}
