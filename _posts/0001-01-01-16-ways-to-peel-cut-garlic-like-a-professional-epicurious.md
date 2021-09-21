@@ -1,0 +1,15 @@
+---
+title: "16 Ways To Peel & Cut Garlic Like A Professional | Epicurious"
+image: "https:\/\/i.ytimg.com\/vi\/-2PGGNEfNM4\/hqdefault.jpg"
+vid_id: "-2PGGNEfNM4"
+categories: "Howto-Style"
+tags: ["best way to cut garlic","best way to peel garlic","chop garlic"]
+date: "2021-09-21T19:33:00+03:00"
+vid_date: "2021-09-21T16:00:10Z"
+duration: "PT9M50S"
+viewcount: "3460"
+likeCount: "349"
+dislikeCount: "3"
+channel: "Epicurious"
+---
+{% raw %}Professional Chef-instructor Frank Proto from The Institute Of Culinary Education demonstrates 16 ways to peel, chop, smash, grate, and slice garlic like a pro. From fine slices to grating on a microplane, Frank explains how preparing the garlic for your recipe directly impacts its intensity in the dish - and how to understand which one is best for every situation.<br /><br /><br /><br />Learn more with Chef Frank on his YouTube Channel ProtoCooks!<br /><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC368WO9e4BWuPYAeSIuaUsg">https://www.youtube.com/channel/UC368WO9e4BWuPYAeSIuaUsg</a><br /><br />and follow him on Instagram @protocooks<br /><br />Follow The Institute of Culinary Education at @iceculinary<br /><br />--<br /><br />0:00 Introduction<br /><br />0:18 About Garlic<br /><br />0:53 Chapter 1 - Peeling<br /><br />1:16 Hands<br /><br />1:28 Paring Knife<br /><br />1:51 Two-Bowl Method<br /><br />2:23 Jar Method<br /><br />3:04 Chapter 2 - Cutting<br /><br />3:21 Whole Cloves<br /><br />3:41 Crushed<br /><br />4:10 Sliced<br /><br />4:26 Mandoline<br /><br />4:48 Razor Blade<br /><br />5:18 Rough Chopped<br /><br />5:49 Minced<br /><br />6:33 Grated<br /><br />7:28 Garlic Press<br /><br />7:54 Pre-Chopped <br /><br />8:24 Roasted<br /><br />9:21 BONUS Rolling Garlic Chopper<br /><br />--<br /><br />Editor - Louis Lalire<br /><br />Producer - Ness Kleino<br /><br />Director - Chris Principe<br /><br />Associate Producer - Michael Cascio<br /><br />DP - Brad Wickham<br /><br />Cam Op - Paige Wollensak<br /><br />Sound Mixer - Rachel Suffian<br /><br />Culinary Producer - Mallary Santucci<br /><br />Associate Culinary Producer - Jackie Beal<br /><br />Production Assistant: Brandon Guillebeaux<br /><br />Post Production Supervisor: Stephanie Cardone<br /><br />Associate Director, Post Production: Nicole Berg<br /><br /><br /><br />Epicurious Video Team<br /><br />Jonathan Wise<br /><br />Ali Inglese <br /><br />Dan Siegel <br /><br />Rhoda Boone <br /><br />Carolyn Gagnon <br /><br />June Kim<br /><br />Holly Patton <br /><br />Myra Rivera<br /><br />Billy Keenly<br /><br /><br /><br />Still haven’t subscribed to Epicurious on YouTube? ►► <a rel="nofollow" target="blank" href="http://bit.ly/epiyoutubesub">http://bit.ly/epiyoutubesub</a><br /><br /><br /><br />ABOUT EPICURIOUS<br /><br />Browse thousands of recipes and videos from Bon Appétit, Gourmet, and more. Find inventive cooking ideas, ingredients, and restaurant menus from the world’s largest food archive.<br /><br />16 Ways To Peel &amp; Cut Garlic Like A Professional | Epicurious{% endraw %}
