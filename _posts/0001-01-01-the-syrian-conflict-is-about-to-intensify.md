@@ -1,0 +1,15 @@
+---
+title: "The Syrian conflict is about to intensify"
+image: "https:\/\/i.ytimg.com\/vi\/EOcA3Jmb33k\/hqdefault.jpg"
+vid_id: "EOcA3Jmb33k"
+categories: "News-Politics"
+tags: ["Syria","Turkey","Russia"]
+date: "2021-09-22T13:48:06+03:00"
+vid_date: "2019-10-16T11:16:54Z"
+duration: "PT10M52S"
+viewcount: "150693"
+likeCount: "8001"
+dislikeCount: "175"
+channel: "CaspianReport"
+---
+{% raw %}As the #Trump administration withdraws its troops from northern #Syria, the region is becoming an open buffet for outside powers. <br /><br />✔ GET NORDVPN ► <a rel="nofollow" target="blank" href="https://nordvpn.com/caspianreport">https://nordvpn.com/caspianreport</a> <br />✔ USE COUPON CODE ► caspianreport <br />✔ USE THE CODE SO YOU CAN GET 70% off 3-year plan + 1 month free<br /><br />Support CaspianReport <br />✔ Patreon ► <a rel="nofollow" target="blank" href="https://www.patreon.com/CaspianReport">https://www.patreon.com/CaspianReport</a><br />✔ PayPal ► <a rel="nofollow" target="blank" href="https://www.paypal.me/caspianreport">https://www.paypal.me/caspianreport</a><br />✔ Merchandise ►<a rel="nofollow" target="blank" href="https://teespring.com/stores/caspianreport">https://teespring.com/stores/caspianreport</a><br />✔ Amazon ► <a rel="nofollow" target="blank" href="https://www.amazon.com/shop/caspianreport">https://www.amazon.com/shop/caspianreport</a><br /><br />BAKU - Turkish ground forces on Wednesday crossed the border into Syria, while Turkish jets and artillery began pounding YPG positions. The operation, dubbed vaguely as “Peace Spring”, was a long time in the making but it commenced only after President Trump abruptly announced the exit of American forces in the region, which gave his Turkish counterpart the green light to strike at YPG forces - adding to the intensification of the Syrian battlespace.<br /><br />Crypto endorsement<br />✔ Bitcoin ► 1MwRNXWWqzbmsHova7FMW11zPftVZVUfbU<br />✔ Ether ► 0xfE4c310ccb6f52f9D220F25Ce76Dec0493dF9aA0<br />✔ Bitcoin Cash ► 1BKLti4Wq4EK9fsBnYWC91caK7NZfUhNw9<br /><br />Follow on social media<br />✔ Twitter ► <a rel="nofollow" target="blank" href="https://twitter.com/CaspianReport">https://twitter.com/CaspianReport</a><br />✔ Facebook ► <a rel="nofollow" target="blank" href="https://www.facebook.com/CaspianReport">https://www.facebook.com/CaspianReport</a><br /><br />Stock footages <br />✔ Motion Places ► <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC-jLg12mina6tKhExchMh9g/featured">https://www.youtube.com/channel/UC-jLg12mina6tKhExchMh9g/featured</a><br />Licensed under Creative Commons: Attribution 3.0 Unported— CC BY 3.0<br /><a rel="nofollow" target="blank" href="http://bit.ly/2DqpVeV">http://bit.ly/2DqpVeV</a><br /><br />Soundtrack<br />✔ Interlinked ► CO.AG Music<br />✔ Background Music 4 ► CO.AG Music<br />✔ A System of Numbers ► CO.AG Music<br /><br />Licensed under Creative Commons: Attribution 4.0<br /><a rel="nofollow" target="blank" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a>{% endraw %}
