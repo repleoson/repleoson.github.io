@@ -1,0 +1,15 @@
+---
+title: "If you beat this, I give you $2000..."
+image: "https:\/\/i.ytimg.com\/vi\/Y6VibRZXu50\/hqdefault.jpg"
+vid_id: "Y6VibRZXu50"
+categories: "Gaming"
+tags: ["fundage","fundy","itsfundy"]
+date: "2021-09-22T11:31:48+03:00"
+vid_date: "2021-09-18T13:46:03Z"
+duration: "PT11M51S"
+viewcount: "1442524"
+likeCount: "136457"
+dislikeCount: "1205"
+channel: "Fundy"
+---
+{% raw %}Install State of Survival for FREE: <a rel="nofollow" target="blank" href="https://stateofsurvival.co/fundy">https://stateofsurvival.co/fundy</a>  for a chance to win a Lamborghini!! Thanks State of Survival for sponsoring.<br />Giveaway terms and conditions: <a rel="nofollow" target="blank" href="https://ss-news-master.kingsgroupgames.com/luckydraw/rule">https://ss-news-master.kingsgroupgames.com/luckydraw/rule</a><br /><br />I will give $2000 to the first to beat this Minecraft Difficulty, because I know it's impossible. There is just no way...<br /><br />Twitch (I STREAM A LOT): <a rel="nofollow" target="blank" href="https://www.twitch.tv/fundy">https://www.twitch.tv/fundy</a><br />Twitter (FUNNY STUFF): <a rel="nofollow" target="blank" href="https://twitter.com/fundylive">https://twitter.com/fundylive</a><br />Discord: <a rel="nofollow" target="blank" href="https://discord.gg/fundy">https://discord.gg/fundy</a><br /><br />NOTE:<br /><br />There are secrets I didn't showcase in the video, to make the game even harder for you ;)<br /><br />HOW TO DOWNLOAD N STUFF:<br /><br />first get this: <a rel="nofollow" target="blank" href="https://cdn.fundy.tv/ImpossibleChallengePlugin.jar">https://cdn.fundy.tv/ImpossibleChallengePlugin.jar</a><br />thats the plugin (aka. difficulty that I made)<br /><br />Get a spigot server up and running for 1.17.1, the plugin is made for that and you can just follow a tutorial for all of that.<br /><br />Make sure to have a full recording from start to finish of you beating the game, (it can be attempted with multiple people). The person who wins the $2000 is NOT the fastest, but the FIRST to beat it and prove it to me. You can send in the video/twitch vod via Twitter dm's, email, or just tweeting it.<br /><br />no hacks, cheats, xray, etc... is allowed. A set seed is allowed ONLY if the portal isn't fully filled in. My plugin HAS to be the only plugin that is enabled. GOODLUCK<br /><br />#Fundy #Minecraft #ImpossibleDifficulty<br /><br />now the word soup:<br /><br />In this video I dont play on the DreamSMP, but instead I made one of my babymode difficulties, or impossible difficulties. It makes minecraft impossible in the hopes of a minecraft, but video like dream / dreamwastaken or george / georgenotfound or tommyinnit or wilbur or other dream smp members have done in the past. I coded it so that minecraft is actually impossible, and this is a custom difficulty / challenge / minecraft but for you to try out! I hope you enjoy this fun little project, it was a blast to record and make, and I definitely did enjoy it. I hope you have fun watching!{% endraw %}
