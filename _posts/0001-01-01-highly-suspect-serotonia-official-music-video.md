@@ -1,0 +1,15 @@
+---
+title: "Highly Suspect - Serotonia (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/P027oGJy2n4\/hqdefault.jpg"
+vid_id: "P027oGJy2n4"
+categories: "Music"
+tags: ["Highly Suspect","Joshua Tree","Serotonia"]
+date: "2021-09-22T18:36:06+03:00"
+vid_date: "2016-02-29T18:17:14Z"
+duration: "PT6M47S"
+viewcount: "25442106"
+likeCount: "142044"
+dislikeCount: "10807"
+channel: "Highly Suspect"
+---
+{% raw %}&quot;The Boy Who Died Wolf&quot; AVAILABLE EVERYWHERE<br />►DOWNLOAD: <a rel="nofollow" target="blank" href="http://flyt.it/HighlySuspectTheBoyWhoDiedWolf">http://flyt.it/HighlySuspectTheBoyWhoDiedWolf</a><br /><br /><a rel="nofollow" target="blank" href="https://www.highlysuspect.net/confessional">https://www.highlysuspect.net/confessional</a><br /><br />--<br />►Spotify: <a rel="nofollow" target="blank" href="http://flyt.it/TheBoyWhoDiedWolfSpotify">http://flyt.it/TheBoyWhoDiedWolfSpotify</a><br />►Apple Music: <a rel="nofollow" target="blank" href="http://flyt.it/TheBoyWhoDiedWolfAp">http://flyt.it/TheBoyWhoDiedWolfAp</a><br />►Amazon: <a rel="nofollow" target="blank" href="http://flyt.it/HighlySuspectTheBoyWhoDiedWolfAm">http://flyt.it/HighlySuspectTheBoyWhoDiedWolfAm</a><br />►Google Play: <a rel="nofollow" target="blank" href="http://flyt.it/HighlySuspectTheBoyWhoDiedWolfGp">http://flyt.it/HighlySuspectTheBoyWhoDiedWolfGp</a><br />--<br />►Download Mister Asylum - <a rel="nofollow" target="blank" href="http://smarturl.it/MisterAsylum">http://smarturl.it/MisterAsylum</a><br />►Merch Store: <a rel="nofollow" target="blank" href="http://highlysuspectband.colortestmerch.com/">http://highlysuspectband.colortestmerch.com/</a><br />►Listen: Spotify - <a rel="nofollow" target="blank" href="http://smarturl.it/HighlySuspectSpotify">http://smarturl.it/HighlySuspectSpotify</a><br />►Amazon - <a rel="nofollow" target="blank" href="http://smarturl.it/HighlySuspectamz">http://smarturl.it/HighlySuspectamz</a><br />►Google Play - <a rel="nofollow" target="blank" href="http://smarturl.it/HighlySuspectplay">http://smarturl.it/HighlySuspectplay</a><br />►Watch: YouTube - <a rel="nofollow" target="blank" href="http://youtube.com/thehighlysuspectpage">http://youtube.com/thehighlysuspectpage</a><br />►Download - <a rel="nofollow" target="blank" href="http://smarturl.it/HighlySuspectLydia">http://smarturl.it/HighlySuspectLydia</a><br />►Website: <a rel="nofollow" target="blank" href="http://www.HighlySuspect.net/">http://www.HighlySuspect.net/</a><br />►Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/Highly_Suspect">https://twitter.com/Highly_Suspect</a><br />►Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/highlysuspect/">https://instagram.com/highlysuspect/</a><br />►Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/HighlySuspect">https://www.facebook.com/HighlySuspect</a><br />►Soundcloud: <a rel="nofollow" target="blank" href="https://soundcloud.com/highlysuspect">https://soundcloud.com/highlysuspect</a>{% endraw %}
