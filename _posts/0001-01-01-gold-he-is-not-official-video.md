@@ -1,0 +1,15 @@
+---
+title: "GOLD \"He Is Not\" (Official video)"
+image: "https:\/\/i.ytimg.com\/vi\/D7gjejIOZ_c\/hqdefault.jpg"
+vid_id: "D7gjejIOZ_c"
+categories: "Music"
+tags: ["GOLD","Optimist","Post-Everything"]
+date: "2021-09-23T19:54:48+03:00"
+vid_date: "2019-02-20T17:17:08Z"
+duration: "PT4M25S"
+viewcount: "60197"
+likeCount: "1135"
+dislikeCount: "20"
+channel: "GOLD"
+---
+{% raw %}'He Is Not' is taken of 'Why Aren't You Laughing?', released on Artoffact Records worldwide on April 5th, 2019. Order here: <br /><a rel="nofollow" target="blank" href="https://thebandgold.bigcartel.com/">https://thebandgold.bigcartel.com/</a> (worldwide)<br /><a rel="nofollow" target="blank" href="https://thebandgold.bandcamp.com">https://thebandgold.bandcamp.com</a> (worldwide)<br /><a rel="nofollow" target="blank" href="https://artoffact.aisamerch.de/shop-en">https://artoffact.aisamerch.de/shop-en</a> (Europe)<br /><br />Lyrics:<br />I put one foot in front of the other<br />I allow myself to follow my body<br />Never really going anywhere<br />He is not<br /><br />I make my way through the press of oncoming bodies<br />My arms and legs seem to weigh a ton<br />I’m hearing the dull beating of my heart<br />He is not<br /><br />You see me smile <br />You see me play<br />I don’t reveal I’m not ok<br /><br />I’ve become so used to darkness<br />I’m surprised to see the light<br />Like wishes from the other side<br />He is not<br /><br />An open book lies face down beside me<br />Depression in the carpet where the chair once stood<br />However much I comb my memory<br />He is not<br /><br />A word from you would cure everything<br /><br />---<br /><br />DOP: Eva Heinsbroek<br />Director: Milena van den Berg<br />Assistant: Sophie Gipmans<br />Editor: Mischa Lamping<br />Grading: Barend Onneweer<br />Lighting: David van der Drift<br />Camera assistants: David van der Drift &amp; Gijs den Engelse<br />Costuming: Devastator<br />Thanks to: Juliette Tulkens &amp; Harm Goslink Kuiper, Sintmaartensdijk, and Gemeente Rotterdam<br /><br />Follow GOLD: <br /><a rel="nofollow" target="blank" href="https://thebandgold.bandcamp.com/">https://thebandgold.bandcamp.com/</a><br /><a rel="nofollow" target="blank" href="https://thebandgold.bigcartel.com/">https://thebandgold.bigcartel.com/</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/thebandGOLD">https://www.facebook.com/thebandGOLD</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/thebandGOLD">https://www.instagram.com/thebandGOLD</a><br /><a rel="nofollow" target="blank" href="http://www.thebandgold.com/">http://www.thebandgold.com/</a><br /><br />Follow Artoffact Records:<br /><a rel="nofollow" target="blank" href="https://www.facebook.com/artoffact/">https://www.facebook.com/artoffact/</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/artoffact_records/">https://www.instagram.com/artoffact_records/</a><br /><a rel="nofollow" target="blank" href="https://artoffact.com/">https://artoffact.com/</a>{% endraw %}
