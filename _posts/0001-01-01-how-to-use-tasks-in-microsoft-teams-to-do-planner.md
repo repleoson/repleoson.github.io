@@ -1,0 +1,15 @@
+---
+title: "How to use Tasks in Microsoft Teams (To Do + Planner)"
+image: "https:\/\/i.ytimg.com\/vi\/FJaICKh5kR8\/hqdefault.jpg"
+vid_id: "FJaICKh5kR8"
+categories: "Science-Technology"
+tags: ["kevin stratvert","tasks","microsoft teams"]
+date: "2021-09-23T06:44:07+03:00"
+vid_date: "2020-10-14T08:00:01Z"
+duration: "PT15M59S"
+viewcount: "239676"
+likeCount: "4533"
+dislikeCount: "37"
+channel: "Kevin Stratvert"
+---
+{% raw %}In this step-by-step tutorial, learn how to use Tasks in Microsoft Teams. View your tasks and shared plans across Microsoft To Do and Planner with the Tasks app in Microsoft Teams.<br /><br />👋 Additional resources:<br />- How to use Microsoft To Do: <a rel="nofollow" target="blank" href="https://youtu.be/MCc56WuQMjk">https://youtu.be/MCc56WuQMjk</a><br />- How to use Microsoft Planner: <a rel="nofollow" target="blank" href="https://youtu.be/To2EHXgqcJc">https://youtu.be/To2EHXgqcJc</a><br /><br />⌚ Timestamps<br />0:00 Introduction to Tasks in Microsoft Teams<br />0:55 Launch Tasks<br />1:49 Pin the Tasks app to the left rail<br />2:12 Overall organization of Tasks<br />2:42 My tasks &amp; entering a task<br />3:36 Enter task details<br />4:21 Bulk edit tasks<br />4:56 Filter by important tasks<br />5:12 Filter by planned tasks<br />5:31 View active or complete tasks<br />5:58 Filter tasks by date &amp; priority<br />6:14 Differences with Microsoft To Do<br />7:14 Add a new list<br />8:04 Add a group or team plan<br />8:57 How your team sees a plan in Teams<br />9:25 Add &amp; assign a group task<br />10:32 Enter group task details<br />11:20 Share link to a group task<br />11:40 Bulk edit group tasks<br />12:20 View active or complete group tasks<br />12:30 Filter by date, priority, label, bucket &amp; assignment<br />13:00 Board view &amp; adding buckets<br />14:00 Chart view<br />14:30 Schedule / Calendar view<br />14:50 Assigned to me view<br />15:13 Wrap up<br /><br />📃 Watch related playlists:<br />- Microsoft Teams: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLlKpQrBME6xJ4Mxv00syl8iOSgL-GVLMG">https://www.youtube.com/playlist?list=PLlKpQrBME6xJ4Mxv00syl8iOSgL-GVLMG</a><br /><br />🚩 Connect with me on social:<br />- LinkedIn: <a rel="nofollow" target="blank" href="https://www.linkedin.com/in/kevinstratvert/">https://www.linkedin.com/in/kevinstratvert/</a><br />- Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/kevstrat">https://twitter.com/kevstrat</a><br />- Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/Kevin-Stratvert-101912218227818">https://www.facebook.com/Kevin-Stratvert-101912218227818</a><br /><br />🔔 Subscribe to my YouTube channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/user/kevlers?sub_confirmation=1">https://www.youtube.com/user/kevlers?sub_confirmation=1</a><br /><br />🎬 Want to watch again? Navigate back to my YouTube channel at <a rel="nofollow" target="blank" href="http://www.kevinstratvert.com">http://www.kevinstratvert.com</a><br /><br />#MicrosoftTeams{% endraw %}
