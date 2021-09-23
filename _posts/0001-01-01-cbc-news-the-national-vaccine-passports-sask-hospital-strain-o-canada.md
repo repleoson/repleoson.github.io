@@ -1,0 +1,15 @@
+---
+title: "CBC News: The National | Vaccine passports, Sask. hospital strain, O Canada protest"
+image: "https:\/\/i.ytimg.com\/vi\/ECbMxmxYCOM\/hqdefault.jpg"
+vid_id: "ECbMxmxYCOM"
+categories: "News-Politics"
+tags: ["CBC News The National","CBC News","The National"]
+date: "2021-09-23T22:45:57+03:00"
+vid_date: "2021-09-23T05:25:12Z"
+duration: "PT45M6S"
+viewcount: "44744"
+likeCount: "262"
+dislikeCount: "313"
+channel: "CBC News: The National"
+---
+{% raw %}Sept. 22, 2021 | Ontario has started to implement its vaccine passport, but some businesses say the rules are confusing and more government help is needed. Saskatchewan hospitals are starting to buckle under the strain of its COVID-19 surge. Plus, an Indigenous student was reprimanded for sitting out O Canada in the classroom. <br /><br />00:00 The National for Sept. 22, 2021<br />01:09 Vaccine passports roll out in Ontario, N.B.<br />01:37 Ontario businesses struggle with passports<br />03:44 N.B. vaccine passport comes as cases spike<br />04:11 Hospital staff suspended in Windsor, Ont.<br />04:40 Winkler, Man. divided over masks, vaccines<br />07:03 Saskatchewan COVID-19 cases surge <br />07:51 COVID-19 strains Saskatchewan hospitals<br />10:10 Kenney to face a leadership review <br />10:33 Biden pledges to share more vaccines<br />11:20 Kevin Vuong to sit as an independent <br />11:56 Liberal Jenica Atwin wins Fredericton <br />12:05 Liberal Randy Boissonnault wins Edmonton Centre<br />12:14 Vancouver-area ridings flip Liberal<br />14:20 Ottawa bus driver acquitted for crash<br />14:55 Father fights for changes after wife, son killed<br />17:07 Indigenous teen protests O Canada<br />19:24 China’s Evergrande debt worries markets<br />23:32 Toxic gas risk from La Palma eruption<br />27:38 Efforts to increase COVID-19 vaccinations<br />34:40 Understanding the vaccine-hesitant <br />40:07 Proving vaccination status in post-secondary <br />42:47 The Moment <br /><br />#VaccinePassport #COVID19 #OCanada<br /><br />Subscribe to The National: <br /><a rel="nofollow" target="blank" href="https://www.youtube.com/user/CBCTheNational?sub_confirmation=1">https://www.youtube.com/user/CBCTheNational?sub_confirmation=1</a><br /><br />Connect with The National online:<br />Facebook | <a rel="nofollow" target="blank" href="https://www.facebook.com/thenational">https://www.facebook.com/thenational</a><br />Twitter | <a rel="nofollow" target="blank" href="https://twitter.com/CBCTheNational">https://twitter.com/CBCTheNational</a><br />Instagram | <a rel="nofollow" target="blank" href="https://www.instagram.com/cbcthenational">https://www.instagram.com/cbcthenational</a><br /><br />More from CBC News | <a rel="nofollow" target="blank" href="https://www.cbc.ca/news">https://www.cbc.ca/news</a><br /><br />The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism, with hosts Adrienne Arsenault and Andrew Chang in Toronto, Ian Hanomansing in Vancouver and the CBC's chief political correspondent, Rosemary Barton in Ottawa.{% endraw %}
