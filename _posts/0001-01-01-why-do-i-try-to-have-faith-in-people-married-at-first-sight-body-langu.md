@@ -1,0 +1,15 @@
+---
+title: "Why Do I Try To Have Faith In People? Married At First Sight Body Language Analysis"
+image: "https:\/\/i.ytimg.com\/vi\/5Ljsu2uLVDI\/hqdefault.jpg"
+vid_id: "5Ljsu2uLVDI"
+categories: "Education"
+tags: ["Logan Portenier","Observe","Mentalist"]
+date: "2021-09-23T06:21:33+03:00"
+vid_date: "2021-09-21T01:58:49Z"
+duration: "PT1H8M35S"
+viewcount: "85174"
+likeCount: "5994"
+dislikeCount: "56"
+channel: "Observe"
+---
+{% raw %}Get 60% OFF your first 4-bottle box <a rel="nofollow" target="blank" href="https://bit.ly/BrightCellarsObserve">https://bit.ly/BrightCellarsObserve</a> for just $38 plus taxes. Bright Cellars is the monthly wine club that matches you with wine that you’ll love. Get started by taking the taste palate quiz to see your personalized matches.<br /><br /><br />Megan's Channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCd6Cj_m5L4GiMr7_ksWjIHA">https://www.youtube.com/channel/UCd6Cj_m5L4GiMr7_ksWjIHA</a><br /><br /><br />The show features people who agree to participate in an experiment: Each covenants legal marriage with a complete stranger. &quot;Specialists&quot; allege that they use scientific matchmaking methods to determine each couple, who will not have met or had contact with each other until the wedding day. Needless to say, it causes some mess. And nonverbal communication and body language are going wild.<br /><br />Patreon: <a rel="nofollow" target="blank" href="https://www.patreon.com/observeentertainment">https://www.patreon.com/observeentertainment</a><br />Observe Merch Shop: <a rel="nofollow" target="blank" href="https://teespring.com/stores/observe-4">https://teespring.com/stores/observe-4</a><br />Audible Trial Link: <a rel="nofollow" target="blank" href="http://www.audibletrial.com/observe">http://www.audibletrial.com/observe</a><br />Subscribe: <a rel="nofollow" target="blank" href="http://www.youtube.com/c/ObserveWithLogan?sub_confirmation=1">http://www.youtube.com/c/ObserveWithLogan?sub_confirmation=1</a><br /><br />MUSIC BY AMARIA: <br />––––––––––––––––––––––––––––––<br />&quot;Funky Souls&quot; | &quot;Elizabeth's Groove&quot; | &quot;Lovely Swindler&quot; by Amarià <a rel="nofollow" target="blank" href="https://soundcloud.com/amariamusique">https://soundcloud.com/amariamusique</a><br />Creative Commons — Attribution 3.0 Unported  — CC BY 3.0 <br />Free Download / Stream: <a rel="nofollow" target="blank" href="http://bit.ly/Funky-Souls">http://bit.ly/Funky-Souls</a><br />Music promoted by Audio Library <a rel="nofollow" target="blank" href="https://youtu.be/jFMCyqKF-EE">https://youtu.be/jFMCyqKF-EE</a><br />Lovely Swindler by Amarià <a rel="nofollow" target="blank" href="https://soundcloud.com/amariamusique">https://soundcloud.com/amariamusique</a><br />Free Download / Stream: <a rel="nofollow" target="blank" href="https://bit.ly/lovely-swindler">https://bit.ly/lovely-swindler</a><br />––––––––––––––––––––––––––––––<br />Business Email: observe.contact@gmail.com{% endraw %}
