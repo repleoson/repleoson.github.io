@@ -1,0 +1,15 @@
+---
+title: "Married at First Sight Body Language is Immediately Messy | Nonverbal Analyst Reacts"
+image: "https:\/\/i.ytimg.com\/vi\/xXVw14nUGus\/hqdefault.jpg"
+vid_id: "xXVw14nUGus"
+categories: "Education"
+tags: ["Logan Portenier","Observe","Mentalist"]
+date: "2021-09-23T15:45:07+03:00"
+vid_date: "2021-09-15T01:53:42Z"
+duration: "PT1H31S"
+viewcount: "122731"
+likeCount: "7585"
+dislikeCount: "88"
+channel: "Observe"
+---
+{% raw %}Sign up to Morning Brew for free today <a rel="nofollow" target="blank" href="https://bit.ly/mbobserve">https://bit.ly/mbobserve</a><br />Megan’s Channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCd6Cj_m5L4GiMr7_ksWjIHA">https://www.youtube.com/channel/UCd6Cj_m5L4GiMr7_ksWjIHA</a><br />FULL Episode Here: <a rel="nofollow" target="blank" href="https://www.patreon.com/observeentertainment">https://www.patreon.com/observeentertainment</a><br /><br /><br />The show features people who agree to participate in an experiment: Each covenants legal marriage with a complete stranger. &quot;Specialists&quot; allege that they use scientific matchmaking methods to determine each couple, who will not have met or had contact with each other until the wedding day. Needless to say, it causes some mess. And nonverbal communication and body language are going wild.<br /><br /><br />SAVE MONEY ON YOUR EDUCATION<br />Observe is partnered with the Emotional Intelligence Academy in the UK to offer discounts of 10%-50% on your education including a fully accredited Master's Degree! Just follow the link: <a rel="nofollow" target="blank" href="https://www.eiagroup.com/observe">https://www.eiagroup.com/observe</a><br /><br />Observe Merch Shop: <a rel="nofollow" target="blank" href="https://teespring.com/stores/observe-4">https://teespring.com/stores/observe-4</a><br />Audible Trial Link: <a rel="nofollow" target="blank" href="http://www.audibletrial.com/observe">http://www.audibletrial.com/observe</a><br />Subscribe: <a rel="nofollow" target="blank" href="http://www.youtube.com/c/ObserveWithLogan?sub_confirmation=1">http://www.youtube.com/c/ObserveWithLogan?sub_confirmation=1</a><br /><br />MUSIC BY AMARIA: <br />––––––––––––––––––––––––––––––<br />&quot;Funky Souls&quot; | &quot;Elizabeth's Groove&quot; | &quot;Lovely Swindler&quot; by Amarià <a rel="nofollow" target="blank" href="https://soundcloud.com/amariamusique">https://soundcloud.com/amariamusique</a><br />Creative Commons — Attribution 3.0 Unported  — CC BY 3.0 <br />Free Download / Stream: <a rel="nofollow" target="blank" href="http://bit.ly/Funky-Souls">http://bit.ly/Funky-Souls</a><br />Music promoted by Audio Library <a rel="nofollow" target="blank" href="https://youtu.be/jFMCyqKF-EE">https://youtu.be/jFMCyqKF-EE</a><br />Lovely Swindler by Amarià <a rel="nofollow" target="blank" href="https://soundcloud.com/amariamusique">https://soundcloud.com/amariamusique</a><br />Free Download / Stream: <a rel="nofollow" target="blank" href="https://bit.ly/lovely-swindler">https://bit.ly/lovely-swindler</a><br />––––––––––––––––––––––––––––––<br />Business Email: observe.contact@gmail.com{% endraw %}
