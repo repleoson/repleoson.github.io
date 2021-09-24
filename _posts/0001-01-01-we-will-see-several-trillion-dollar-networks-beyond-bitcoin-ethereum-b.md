@@ -1,0 +1,15 @@
+---
+title: "We Will See Several Trillion Dollar Networks Beyond Bitcoin & Ethereum | Beniamin Mincu, Elrond"
+image: "https:\/\/i.ytimg.com\/vi\/cz239bcho9U\/hqdefault.jpg"
+vid_id: "cz239bcho9U"
+categories: "Entertainment"
+tags: ["crypto","the wolf of all streets","podcast"]
+date: "2021-09-24T05:34:18+03:00"
+vid_date: "2021-09-21T17:30:06Z"
+duration: "PT52M10S"
+viewcount: "23535"
+likeCount: "1663"
+dislikeCount: "25"
+channel: "Scott Melker"
+---
+{% raw %}Beniamin Mincu is building Elrond to serve a billion users and beyond, with plans to create an entire global financial system. It is Beniamin’s belief that crypto networks, and Elrond in particular, will have more influence on the lives of humans than countries over the next decade and that several networks will surpass a trillion dollars in value.<br /> <br />Beniamin Mincu: <a rel="nofollow" target="blank" href="https://twitter.com/beniaminmincu">https://twitter.com/beniaminmincu</a><br />Elrond: <a rel="nofollow" target="blank" href="https://twitter.com/ElrondNetwork">https://twitter.com/ElrondNetwork</a><br /><br />Sorare:<br />Where fantasy meets reality. Collect, trade and earn weekly prizes on <a rel="nofollow" target="blank" href="https://thewolfofallstreets.link/sorare.">https://thewolfofallstreets.link/sorare.</a> #OwnYourGame<br /><br />--<br />Timestamps: <br />00:00 Intro<br />01:06 EGLD breaks all-time highs<br />03:15 Building a new financial system<br />07:30 Crypto’s incredible impact<br />12:36 What is Elrond’s role?<br />16:31 Elrond’s goal<br />17:50 Who are the early adopters?<br />24:54 What does financial freedom look like?<br />29:20 Sorare ad<br />29:55 Value across space and time<br />36:07 Differentiating from the rest<br />42:01 Living in the metaverse<br />50:49 Beniamin's contact info<br /><br />#Bitcoin #Elrond #Crypto<br />--<br />If you enjoyed this conversation, share it with your colleagues &amp; friends, rate, review, and subscribe. This podcast is presented by Blockworks. For exclusive content and events that provide insights into the crypto and blockchain space, visit them at: <a rel="nofollow" target="blank" href="https://www.blockworks.co">https://www.blockworks.co</a><br />ーーー<br />Join the Wolf Den newsletter:<br /><br />►►<a rel="nofollow" target="blank" href="https://www.getrevue.co/profile/TheWo...">https://www.getrevue.co/profile/TheWo...</a><br /><br />The views and opinions expressed here are solely my own and should in no way be interpreted as financial advice. This video was created for entertainment. Every investment and trading move involves risk. You should conduct your own research when making a decision. I am not a financial advisor.  Nothing contained in this video constitutes or shall be construed as an offering of financial instruments or as investment advice or recommendations of an investment strategy or whether or not to &quot;Buy,&quot; &quot;Sell,&quot; or &quot;Hold&quot; an investment.<br /><br />We Will See Several Trillion Dollar Networks Beyond Bitcoin &amp; Ethereum | Beniamin Mincu, Elrond{% endraw %}
