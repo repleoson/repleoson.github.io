@@ -1,0 +1,15 @@
+---
+title: "Lenka - Everything At Once (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/eE9tV1WGTgE\/hqdefault.jpg"
+vid_id: "eE9tV1WGTgE"
+categories: "Music"
+tags: ["Lenka Everything At Once official","trouble is a friend","LenkaVevo"]
+date: "2021-09-24T16:42:02+03:00"
+vid_date: "2014-02-10T19:08:57Z"
+duration: "PT2M43S"
+viewcount: "48595337"
+likeCount: "912466"
+dislikeCount: "19051"
+channel: "LenkaVEVO"
+---
+{% raw %}Lenka's official music video for 'Everything At Once'. Click to listen to Lenka on Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/LenkaSpotify?IQid=LenkaEAO">http://smarturl.it/LenkaSpotify?IQid=LenkaEAO</a><br /><br />As featured on Two. Click to buy the track or album via iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/TwoAlbum?IQid=LenkaEAO">http://smarturl.it/TwoAlbum?IQid=LenkaEAO</a><br />Google Play: <a rel="nofollow" target="blank" href="http://smarturl.it/EATGPlay?IQid=LenkaEAO">http://smarturl.it/EATGPlay?IQid=LenkaEAO</a><br />Amazon: <a rel="nofollow" target="blank" href="http://smarturl.it/LenkaTwoAmazon?IQid=LenkaEAO">http://smarturl.it/LenkaTwoAmazon?IQid=LenkaEAO</a><br /><br />More From Lenka<br />The Show: <a rel="nofollow" target="blank" href="https://youtu.be/elsh3J5lJ6g">https://youtu.be/elsh3J5lJ6g</a><br />Trouble Is A Friend: <a rel="nofollow" target="blank" href="https://youtu.be/QHpvlr_kG6U">https://youtu.be/QHpvlr_kG6U</a><br />Heart Skips A Beat: <a rel="nofollow" target="blank" href="https://youtu.be/DW8rg6XeP3U">https://youtu.be/DW8rg6XeP3U</a><br /><br />More great 00s videos here: <a rel="nofollow" target="blank" href="http://smarturl.it/Ultimate00?IQid=LenkaEAO">http://smarturl.it/Ultimate00?IQid=LenkaEAO</a><br /><br />Follow Lenka<br />Website: <a rel="nofollow" target="blank" href="http://lenkamusic.com/">http://lenkamusic.com/</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/lenka">https://www.facebook.com/lenka</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/lenkamusic">https://twitter.com/lenkamusic</a><br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/lenkamusic/">https://instagram.com/lenkamusic/</a><br /><br />Subscribe to Lenka on YouTube: <a rel="nofollow" target="blank" href="http://smarturl.it/LenkaSub?IQid=LenkaEAO">http://smarturl.it/LenkaSub?IQid=LenkaEAO</a><br /><br />---------<br /><br />Lyrics:<br /><br />As sly as a fox, as strong as an ox<br />As fast as a hare, as brave as a bear<br />As free as a bird, as neat as a word<br />As quiet as a mouse, as big as a house<br /><br />All I wanna be, all I wanna be, oh<br />All I wanna be is everything<br /><br />As mean as a wolf, as sharp as a tooth<br />As deep as a bite, as dark as the night<br />As sweet as a song, as right as a wrong<br />As long as a road, as ugly as a toad<br /><br />As pretty as a picture hanging from a fixture<br />Strong like a family, strong as I wanna be<br />Bright as day, as light as play<br />As hard as nails, as grand as a whale<br /><br />#Lenka #EverythingAtOnce #Vevo{% endraw %}
