@@ -1,0 +1,15 @@
+---
+title: "Daniel Fernandes - After All (Original Mix)"
+image: "https:\/\/i.ytimg.com\/vi\/MzglFGF2YdE\/hqdefault.jpg"
+vid_id: "MzglFGF2YdE"
+categories: "Music"
+tags: ["music","Daniel","Fernandes"]
+date: "2021-09-24T03:27:40+03:00"
+vid_date: "2012-09-11T23:36:23Z"
+duration: "PT7M8S"
+viewcount: "40405339"
+likeCount: "178294"
+dislikeCount: "5478"
+channel: "TheIoLoSo9"
+---
+{% raw %}Label: Sleazy Deep Records (<a rel="nofollow" target="blank" href="http://soundcloud.com/sleazydeep)">http://soundcloud.com/sleazydeep)</a><br />Release Date - 2012-09-10<br />Album &quot;Future Sleaze, Vol. 2&quot; available on:<br /><a rel="nofollow" target="blank" href="http://www.beatport.com/release/future-sleaze-vol-2/959367">http://www.beatport.com/release/future-sleaze-vol-2/959367</a><br /><br />Follow Daniel Fernandes on:<br />(<a rel="nofollow" target="blank" href="http://www.facebook.com/pages/Daniel-Fernandes/182538225119990)">http://www.facebook.com/pages/Daniel-Fernandes/182538225119990)</a><br />(<a rel="nofollow" target="blank" href="http://soundcloud.com/danielfernandesofficial)">http://soundcloud.com/danielfernandesofficial)</a><br />(<a rel="nofollow" target="blank" href="http://www.beatport.com/artist/daniel-fernandes/244029)">http://www.beatport.com/artist/daniel-fernandes/244029)</a><br /><br />Sleazy Deep just &quot;keeps on keeping on&quot;, building it's reputation and pushing the NOW sound we are all coming to love more and more. Bridging the gaps between Nu Disco &amp; Deep House, Retro Cool with Ultra Modern Sonics! We strive to continue the form after the HUGE success of our first Various Artists album, Future Sleaze (still in Beatports Nu Disco &amp; Deep House Top100 btw) we follow up with Future Sleaze Vol2. Label boss Rob Made has been super busy shifting through the 100's of demo's and compiling another block rocking track list of 20 standout productions ready to close the summer season in style. We have a MASSIVELY cheeky rework in the shape of &quot;Let Me Love You&quot; from Rob himself... JOBE returns with his Nu Disco floor killer &quot;Only I Knew&quot; and label Moog Meister William Medagli is back with &quot;This Is Amour (Love In Paris)&quot; which some might remember from our Miami Sampler back in March! However, this is the first time it's available to download! The rest features new artists to the Sleazy Deep family including:<br />Made To Move, Adam Banks, Jonny Hopkinson, Markus Eden, Pete Oak, Flavio Acaron/Hugh Harry, Robin Virag, Patrick Podage, Paulo Ricardo, Dakin Auret, Daniel Fernandes, Erhan Kesen, Tough Love, Andrew Brown &amp; Ollie Gibson, Vincenzo Ciotoli, Rafael Cerato &amp; Hugo taking Sleazy Deep to new Global levels.<br /><br />Photographer by Laura J Powell (<a rel="nofollow" target="blank" href="http://laurajpowell.com/)">http://laurajpowell.com/)</a><br />Girl: Angharad Jones Buxton<br /><br />Photo: (<a rel="nofollow" target="blank" href="http://laurajpowell.com/Creased)">http://laurajpowell.com/Creased)</a>{% endraw %}
