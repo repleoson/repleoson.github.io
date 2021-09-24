@@ -1,0 +1,15 @@
+---
+title: "Prospects  - Truth or Dare (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/ON7EXr-VMAM\/hqdefault.jpg"
+vid_id: "ON7EXr-VMAM"
+categories: "Music"
+tags: ["Music Video (Ontology Class)","Music (Industry)","Prospects"]
+date: "2021-09-24T22:16:45+03:00"
+vid_date: "2014-04-26T21:02:57Z"
+duration: "PT2M59S"
+viewcount: "24589"
+likeCount: "323"
+dislikeCount: "16"
+channel: "PROSPECTS"
+---
+{% raw %}Music video by Prospects performing Truth or Dare.<br /><br />Edited by: Theoharis Vangelaras for mad cut <a rel="nofollow" target="blank" href="http://madcutvideos.tumblr.com/">http://madcutvideos.tumblr.com/</a><br /><br />We would like to say a big &quot;THANK YOU&quot; to everyone who got envolved and participated in our first ever Music Video and most of all, our best friends who support us and came along with us in the UK to have such a great time together.<br /><br />Get our music for FREE here: <a rel="nofollow" target="blank" href="http://prospectsgr.bandcamp.com/">http://prospectsgr.bandcamp.com/</a><br /><br />Facebook:  <a rel="nofollow" target="blank" href="https://www.facebook.com/ProspectsGR">https://www.facebook.com/ProspectsGR</a><br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/prospectspunk/">https://instagram.com/prospectspunk/</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/prospects_gr">https://twitter.com/prospects_gr</a><br />Bandcamp:  <a rel="nofollow" target="blank" href="http://prospectsgr.bandcamp.com/">http://prospectsgr.bandcamp.com/</a><br />ReverbNation:  <a rel="nofollow" target="blank" href="http://www.reverbnation.com/prospectspoppunk">http://www.reverbnation.com/prospectspoppunk</a><br />Soundcloud: <a rel="nofollow" target="blank" href="https://soundcloud.com/prospectspunk">https://soundcloud.com/prospectspunk</a><br />Tumblr:  <a rel="nofollow" target="blank" href="http://prospectspoppunk.tumblr.com/">http://prospectspoppunk.tumblr.com/</a><br /><br />LYRICS:<br /><br />The last song of the year, i cant hold on you are near, <br />you found someone else who makes you happy <br />Regreting all the nights we had and everynight for me i pray, <br />to find someone else who makes me happy <br /><br />And all these nights that i can't sleep <br />I think about you <br />And all these nights that i can't sleep <br />I dream about you <br /><br />Hang me up in a studio <br />Turn the music loud <br />Let me feel the beat your heart stops to <br />I want to scream oh oh oh <br /><br />The last drink of the night <br />I am fucked up cannot hide <br />Im getting drunk so i cant think about you <br />And now he's rolling down your neck <br />I gotta do what my friends said <br />I gotta carry on and care about me <br /><br />And all these nights that i can't sleep <br />I think about you <br />And all these nights that i can't sleep <br />I dream about you <br /><br />Hang me up in a studio <br />Turn the music loud <br />Let me feel the beat your heart stops to<br />I want to scream oh oh oh{% endraw %}
