@@ -1,0 +1,15 @@
+---
+title: "What is a function? | Functions and their graphs | Algebra II | Khan Academy"
+image: "https:\/\/i.ytimg.com\/vi\/kvGsIo1TmsM\/hqdefault.jpg"
+vid_id: "kvGsIo1TmsM"
+categories: "Education"
+tags: ["function?","Functions","their"]
+date: "2021-09-24T20:45:31+03:00"
+vid_date: "2013-06-06T15:09:36Z"
+duration: "PT7M57S"
+viewcount: "2572531"
+likeCount: "12306"
+dislikeCount: "618"
+channel: "Khan Academy"
+---
+{% raw %}Watch the next lesson: <a rel="nofollow" target="blank" href="https://www.khanacademy.org/math/algebra2/functions_and_graphs/function-introduction/v/difference-between-equations-and-functions?utm_source=YT&amp;utm_medium=Desc&amp;utm_campaign=AlgebraII">https://www.khanacademy.org/math/algebra2/functions_and_graphs/function-introduction/v/difference-between-equations-and-functions?utm_source=YT&amp;utm_medium=Desc&amp;utm_campaign=AlgebraII</a><br /><br />Missed the previous lesson? <br /><a rel="nofollow" target="blank" href="https://www.khanacademy.org/math/algebra2/systems_eq_ineq/non-linear-systems-tutorial/v/systems-of-nonlinear-equations-3?utm_source=YT&amp;utm_medium=Desc&amp;utm_campaign=AlgebraII">https://www.khanacademy.org/math/algebra2/systems_eq_ineq/non-linear-systems-tutorial/v/systems-of-nonlinear-equations-3?utm_source=YT&amp;utm_medium=Desc&amp;utm_campaign=AlgebraII</a><br /><br />Algebra II on Khan Academy: Your studies in algebra 1 have built a solid foundation from which you can explore linear equations, inequalities, and functions. In algebra 2 we build upon that foundation and not only extend our knowledge of algebra 1, but slowly become capable of tackling the BIG questions of the universe. We'll again touch on systems of equations, inequalities, and functions...but we'll also address exponential and logarithmic functions, logarithms, imaginary and complex numbers, conic sections, and matrices. Don't let these big words intimidate you. We're on this journey with you!<br /><br />About Khan Academy: Khan Academy offers practice exercises, instructional videos, and a personalized learning dashboard that empower learners to study at their own pace in and outside of the classroom. We tackle math, science, computer programming, history, art history, economics, and more. Our math missions guide learners from kindergarten to calculus using state-of-the-art, adaptive technology that identifies strengths and learning gaps. We've also partnered with institutions like NASA, The Museum of Modern Art, The California Academy of Sciences, and MIT to offer specialized content.<br /><br />For free. For everyone. Forever. #YouCanLearnAnything<br /><br />Subscribe to Khan Academy’s Algebra II channel:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCsCA3_VozRtgUT7wWC1uZDg?sub_confirmation=1">https://www.youtube.com/channel/UCsCA3_VozRtgUT7wWC1uZDg?sub_confirmation=1</a><br />Subscribe to Khan Academy: <a rel="nofollow" target="blank" href="https://www.youtube.com/subscription_center?add_user=khanacademy">https://www.youtube.com/subscription_center?add_user=khanacademy</a>{% endraw %}
