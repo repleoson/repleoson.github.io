@@ -1,0 +1,15 @@
+---
+title: "remme - get older (official video)"
+image: "https:\/\/i.ytimg.com\/vi\/YumQp52lm2A\/hqdefault.jpg"
+vid_id: "YumQp52lm2A"
+categories: "Music"
+tags: ["remme","get older","remme get older official video"]
+date: "2021-09-24T17:29:23+03:00"
+vid_date: "2020-02-12T17:00:19Z"
+duration: "PT3M2S"
+viewcount: "105678"
+likeCount: "1484"
+dislikeCount: "31"
+channel: "remme"
+---
+{% raw %}my first single ‘get older’ is available everywhere now!<br />stream &amp; download it here: <a rel="nofollow" target="blank" href="https://lnk.to/getolder">https://lnk.to/getolder</a><br /><br />follow me:<br />instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/remme/">https://www.instagram.com/remme/</a><br />facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/remmemusic">https://www.facebook.com/remmemusic</a><br />soundcloud: <a rel="nofollow" target="blank" href="https://www.soundcloud.com/remme">https://www.soundcloud.com/remme</a><br /><br />#remme #getolder #officialvideo<br /><br />Created and Produced by Ramona Ramona (www.ramonaramona.net)<br />Directed by Chloë Lewer<br />First Assistant Director : Andrea Ariel<br />Cinematography : Felix Spitta and Markus Spitta // Dreamhouse Pictures<br />Lead Actress : Athena Strates<br />Remme’s Friends : Dylan van Dael, Timo Zoestbergen, Valentina Etterich<br />Editing : Felix Spitta // Dreamhouse Pictures<br />Casting : Chloë Lewer and Eva Conte<br />Runner : Wouter Rentema<br />Color Grading : Felix Spitta // Dreamhouse Pictures<br /><br />Special thanks to… Isa Azier, Ferran Huijsmans, Mark Van Bruggen, Robin Hunt, Diego Calvino &amp; Gary Go.<br /><br />Lyrics:<br />Get Older<br />V1<br />I read your lips on the subway when you were talking to your friend Couldn't make out what you said but it sounded like an argument<br />I was wondering if I could've looked you in the eyes but I didn't dare I wish I took your hand and showed you a way out of there<br />C1<br />My head keeps spinnin’ when I hold you<br />Time won't matter when we get older, we get older<br />6 months, 60 seconds, one minute<br />Time doesn't matter when we get older, we get older<br />V2<br />My thoughts were running fast and my heart began to pick up pace<br />I knew I had to act if we're ever to be face to face<br />My hesitation cost in seconds you were lost and I was standing there<br />Guess the times that change your life come from nowhere when you're unprepared<br />C2<br />My head keeps spinnin’ when I hold you<br />Time won't matter when we get older, we get older<br />6 months, 60 seconds, one minute<br />Time doesn't matter when we get older, we get older<br />C-Part<br />6 months, 60 seconds, one minute<br />Time doesn't matter when you're lost in it<br />Years keep ending but they're unfinished, one minute x4<br />6 months, 60 seconds, one minute<br />We take it for granted 'till we don't get it Live every moment with your heart in it Don't miss it x3<br />Outro<br />My head keeps spinning when I hold you<br />Time won't matter when we get older, we get older{% endraw %}
