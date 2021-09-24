@@ -1,0 +1,15 @@
+---
+title: "The Waterboys - The Whole of the Moon (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/sBW8Vnp8BzU\/hqdefault.jpg"
+vid_id: "sBW8Vnp8BzU"
+categories: "Music"
+tags: ["Chrysalis Records","Chrysalis","Music"]
+date: "2021-09-24T10:03:35+03:00"
+vid_date: "2019-11-15T20:30:00Z"
+duration: "PT5M1S"
+viewcount: "5076138"
+likeCount: "28329"
+dislikeCount: "837"
+channel: "Chrysalis Records"
+---
+{% raw %}Follow Chrysalis Records;<br />Subscribe - <a rel="nofollow" target="blank" href="https://chrys.lnk.to/Subscribe">https://chrys.lnk.to/Subscribe</a><br />Spotify - <a rel="nofollow" target="blank" href="https://chrys.lnk.to/SP">https://chrys.lnk.to/SP</a><br />Facebook - <a rel="nofollow" target="blank" href="https://chrys.lnk.to/FB">https://chrys.lnk.to/FB</a><br />Twitter - <a rel="nofollow" target="blank" href="https://chrys.lnk.to/TW">https://chrys.lnk.to/TW</a><br />Instagram - <a rel="nofollow" target="blank" href="https://chrys.lnk.to/IN">https://chrys.lnk.to/IN</a><br />Website - <a rel="nofollow" target="blank" href="https://chrys.lnk.to/online">https://chrys.lnk.to/online</a><br /><br />This is the Official Youtube Channel of Chrysalis Records. To be kept up to date with all of our latest releases, videos and artist information, click here to subscribe - <a rel="nofollow" target="blank" href="https://chrys.lnk.to/Subscribe">https://chrys.lnk.to/Subscribe</a><br /><br />Lyrics:<br /><br />I pictured a rainbow<br />You held it in your hands<br />I had flashes<br />But you saw the plan<br />I wandered out in the world for years<br />While you just stayed in your room<br />I saw the crescent<br />You saw the whole of the moon<br />The whole of the moon<br />Hmm, you were there in the turnstiles, with the wind at your heels<br />You stretched for the stars and you know how it feels to reach too high<br />Too far<br />Too soon<br />You saw the whole of the moon<br />I was grounded<br />While you filled the skies<br />I was dumbfounded by truth<br />You cut through lies<br />I saw the rain dirty valley<br />You saw Brigadoon<br />I saw the crescent<br />You saw the whole of the moon<br />I spoke about wings<br />You just flew<br />I wondered, I guessed and I tried<br />You just knew<br />I sighed<br />But you swooned, I saw the crescent<br />You saw the whole of the moon<br />The whole of the moon<br />with a torch in your pocket and the wind at your heels<br />You climbed on the ladder and you know how it feels to get too high<br />Too far<br />Too soon<br />You saw the whole of the moon<br />The whole of the moon, hey yeah!<br />Unicorns and cannonballs, palaces and piers<br />Trumpets, towers and tenements<br />Wide oceans full of tears<br />Flags, rags ferryboats<br />Scimitars and scarves<br />Every precious dream and vision<br />Underneath the stars, yes, you climbed on the ladder<br />With the wind in your sails<br />You came like a comet<br />Blazing your trail too high<br />Too far<br />Too soon<br />You saw the whole of the moon{% endraw %}
