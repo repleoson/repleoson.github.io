@@ -1,0 +1,15 @@
+---
+title: "Giveon - Heartbreak Anniversary (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/uWRlisQu4fo\/hqdefault.jpg"
+vid_id: "uWRlisQu4fo"
+categories: "Music"
+tags: ["giveon","like I want you","new artist"]
+date: "2021-09-24T16:17:55+03:00"
+vid_date: "2021-03-12T05:00:14Z"
+duration: "PT4M8S"
+viewcount: "115745403"
+likeCount: "2545458"
+dislikeCount: "26020"
+channel: "GiveonVEVO"
+---
+{% raw %}&quot;When It's All Said And Done...Take Time&quot; available at: <a rel="nofollow" target="blank" href="https://Giveon.lnk.to/WhenItsAllSaidAndDone_TakeTime">https://Giveon.lnk.to/WhenItsAllSaidAndDone_TakeTime</a><br />&quot;Heartbreak Anniversary&quot; Official Audio: <a rel="nofollow" target="blank" href="https://youtu.be/nja_0BaQcNg">https://youtu.be/nja_0BaQcNg</a><br /><br />Follow Giveon:<br />Instagram:  <a rel="nofollow" target="blank" href="https://www.instagram.com/giveon/?hl=en">https://www.instagram.com/giveon/?hl=en</a><br />Twitter:  <a rel="nofollow" target="blank" href="https://twitter.com/giveon?lang=en">https://twitter.com/giveon?lang=en</a><br />Facebook:  <a rel="nofollow" target="blank" href="https://www.facebook.com/Giveonmusic/">https://www.facebook.com/Giveonmusic/</a><br />Soundcloud:  <a rel="nofollow" target="blank" href="https://soundcloud.com/giveon">https://soundcloud.com/giveon</a><br /><br />Lyrics:<br />Ooh<br /><br />Balloons are deflated<br />Guess they look lifeless like me<br />We miss you on your side of the bed, mmm<br />Still got your things here<br />And they stare at me like souvenirs<br />Don't wanna let you out my head<br /><br />Just like the day that I met you, the day I thought forever<br />Said that you love me, but that'll last for never<br />It's cold outside like when you walked out my life<br />Why you walk out my life?<br /><br />I get like this every time<br />On these days that feel like you and me<br />Heartbreak anniversary<br />'Cause I remember every time<br />On these days that feel like you and me<br />Heartbreak anniversary, do you ever think of me?<br />(Oh-ooh) No<br />(Ooh) No, no, no<br />(Ooh, ooh) Ooh, nah (Ooh)<br /><br />I'm buildin' my hopes up<br />Like presents unopened to this day<br />I still see the messages you read, mmm<br />I'm foolishly patient (Foolishly patient)<br />Can't get past the taste of your lips (Taste of your lips)<br />Don't wanna let you out my head<br /><br />Just like the day that I met you, the day I thought forever<br />Said that you love me but that'll last for never<br />It's cold outside like when you walked out my life<br />Why you walk out my life? (My life)<br /><br />I get like this every time<br />On these days that feel like you and me<br />Heartbreak anniversary<br />'Cause I remember every time<br />On these days that feel like you and me<br />Heartbreak anniversary, do you ever think of me?<br />(Oh-ooh) Of me<br />(Ooh) 'Cause I think of you, think of you<br />(Ooh, ooh, ooh-ooh)<br /><br />(C) 2021 Epic Records. With Not So Fast LLC.<br /><br />#Giveon #HeartbreakAnniversary #WhenItsAllSaidAndDoneTakeTime{% endraw %}
