@@ -1,0 +1,15 @@
+---
+title: "SELF LOVE | Positive Morning Motivation | LISTEN EVERY DAY!"
+image: "https:\/\/i.ytimg.com\/vi\/YuNLNeIorJw\/hqdefault.jpg"
+vid_id: "YuNLNeIorJw"
+categories: "Education"
+tags: ["Self love","love yourself","self discipline"]
+date: "2021-09-25T17:23:10+03:00"
+vid_date: "2021-04-28T12:30:05Z"
+duration: "PT16M54S"
+viewcount: "1398622"
+likeCount: "52019"
+dislikeCount: "721"
+channel: "Law of Attraction Coaching"
+---
+{% raw %}SELF LOVE | Positive Morning Motivation | LISTEN EVERY DAY!<br /><br />Speakers:<br />Tyrese Gibson<br />Les Brown<br />Oprah Winfrey<br />Mel Robbins<br />Brendon Burchard<br />Luoise Hay<br />Iyanla Vanzat<br />Joe Rogan<br />David Goggins<br />Gary Vee<br /><br />BCH tips:<br />qzdhyw0t3lh9zsz80ujfdzarg9hgzpj24svk4vphka<br /><br />Footage<br />All Video Footage licensed through Videoblocksm Filmpac and Artgrid.<br /><a rel="nofollow" target="blank" href="https://artgrid.io/">https://artgrid.io/</a><br /><a rel="nofollow" target="blank" href="https://www.videoblocks.com">https://www.videoblocks.com</a><br /><a rel="nofollow" target="blank" href="https://Filmpac.com">https://Filmpac.com</a><br /><br />Music <br />Really Slow Motion <br />Whitesand<br />Borrtex<br /><br />Buy Really Slow Motion music<br />Amazon : <a rel="nofollow" target="blank" href="http://amzn.to/1lTltY5">http://amzn.to/1lTltY5</a><br />iTunes: <a rel="nofollow" target="blank" href="http://bit.ly/1ee3l8K">http://bit.ly/1ee3l8K</a><br />Spotify: <a rel="nofollow" target="blank" href="http://bit.ly/1r3lPvN">http://bit.ly/1r3lPvN</a><br />Bandcamp: <a rel="nofollow" target="blank" href="http://bit.ly/1DqtZSo">http://bit.ly/1DqtZSo</a><br /><br />Music - Borrtex<br /><a rel="nofollow" target="blank" href="https://borrtex.com/">https://borrtex.com/</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/Borrtex/">https://www.facebook.com/Borrtex/</a><br /><br />Music Sources: Whitesand<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCe96JG5gdgSRtmqStx0isXA/videos">https://www.youtube.com/channel/UCe96JG5gdgSRtmqStx0isXA/videos</a><br />🙏 Support his work on Patreon - <a rel="nofollow" target="blank" href="https://www.patreon.com/Whitesand">https://www.patreon.com/Whitesand</a><br /><br />LICENSE CERTIFICATE: Envato Elements Item<br />=================================================<br />This license certificate documents a license to use the item listed below<br />on a non-exclusive, commercial, worldwide and revokable basis, for<br />one Single Use for this Registered Project.<br /><br />Item Title:                      Cinematic Ambient Piano<br />Item ID:                         GAWF2HZ<br />Author Username:                 Enrize<br />Registered Project Name:         SELF LOVE | Positive Morning Motivation | LISTEN EVERY DAY!<br />License Date:                    January 21st, 2020<br />Item License Code:               3NPVSLYUMZ<br /><br />►Copyright disclaimer:<br />We own commercial licenses and permissions for all the content used in this video except parts about the topic that have been used under fair use.{% endraw %}
