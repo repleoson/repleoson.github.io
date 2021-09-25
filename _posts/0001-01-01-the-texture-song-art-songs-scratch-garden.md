@@ -1,0 +1,15 @@
+---
+title: "The Texture Song | Art Songs | Scratch Garden"
+image: "https:\/\/i.ytimg.com\/vi\/tDVS9XSqt90\/hqdefault.jpg"
+vid_id: "tDVS9XSqt90"
+categories: "Education"
+tags: ["texture","texture song","texture video"]
+date: "2021-09-25T03:54:05+03:00"
+vid_date: "2018-05-16T02:02:14Z"
+duration: "PT2M48S"
+viewcount: "617366"
+likeCount: "2010"
+dislikeCount: "363"
+channel: "Scratch Garden"
+---
+{% raw %}Dive INTO the surface with The Texture Song by Scratch Garden! This video is perfect if you are teaching texture or learning texture or trying to understand the elements of art. <br /><br />Our 2ND CHANNEL is on Patreon! ►► <a rel="nofollow" target="blank" href="https://www.patreon.com/scratchgarden">https://www.patreon.com/scratchgarden</a> ◄◄<br /><br />This texture video will also go well with an art lesson where you will be discovering texture or even making texture! Watch to see examples of what the difference is between physical texture and visual texture.<br /><br />Physical Texture is what you feel when you touch the surface of something. Visual Texture (also called Implied Texture) is what you make when you draw, paint, or sculpt the surface of something. <br /><br />Texture is one of the elements of art. Other elements of art - like line, value, and color - can be used to make texture!<br /><br />Art education matters! Check out more excellent art songs here:<br />The Colors Song - <a rel="nofollow" target="blank" href="https://youtu.be/N8yuyekP_So">https://youtu.be/N8yuyekP_So</a><br />The Advanced Colors Song - <a rel="nofollow" target="blank" href="https://youtu.be/fph81KVY6f8">https://youtu.be/fph81KVY6f8</a><br />The Lines Song - <a rel="nofollow" target="blank" href="https://youtu.be/DQEVllmeWH4">https://youtu.be/DQEVllmeWH4</a><br />The Value Song - <a rel="nofollow" target="blank" href="https://youtu.be/DMIvEgKSvrE">https://youtu.be/DMIvEgKSvrE</a><br /><br />We love to teach with music! Watch Scratch Garden Educational Song Videos here: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PL_ym6QHjS1szUhzH9URPbDflLczfPHF6P">https://www.youtube.com/playlist?list=PL_ym6QHjS1szUhzH9URPbDflLczfPHF6P</a>  <br /><br />Scratch Garden makes entertaining educational videos for people that like to laugh and learn! Please Subscribe to see more great fun learning videos from Scratch Garden! <a rel="nofollow" target="blank" href="https://goo.gl/1biPjA">https://goo.gl/1biPjA</a><br /><br />OUR FIRST BOOK IS NOW AVAILABLE! <a rel="nofollow" target="blank" href="http://amzn.to/2Fm2B0L">http://amzn.to/2Fm2B0L</a><br /><br />Website: <a rel="nofollow" target="blank" href="https://www.scratchgarden.com">https://www.scratchgarden.com</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/scratchgarden">https://www.instagram.com/scratchgarden</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/scratchgarden">https://www.facebook.com/scratchgarden</a><br /><br />#scratchgardensongs #artsongs #elementsofart{% endraw %}
