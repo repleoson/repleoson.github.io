@@ -1,0 +1,15 @@
+---
+title: "Five - Until the Time Is Through"
+image: "https:\/\/i.ytimg.com\/vi\/qIVWxgEWGVQ\/hqdefault.jpg"
+vid_id: "qIVWxgEWGVQ"
+categories: "Music"
+tags: ["if ya gettin down","let's dance","we will rock you"]
+date: "2021-09-25T18:53:03+03:00"
+vid_date: "2009-10-25T18:58:30Z"
+duration: "PT4M28S"
+viewcount: "14096899"
+likeCount: "62049"
+dislikeCount: "2208"
+channel: "FiveVEVO"
+---
+{% raw %}Five's official music video for 'Until The Time Is Through'. Click to listen to Five on Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/FiveSpotify?IQid=FiveUTTIT">http://smarturl.it/FiveSpotify?IQid=FiveUTTIT</a><br /><br />As featured on Five: Greatest Hits. Click to buy the track or album via iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/FiveGHiTunes?IQid=FiveUTTIT">http://smarturl.it/FiveGHiTunes?IQid=FiveUTTIT</a><br />Google Play: <a rel="nofollow" target="blank" href="http://smarturl.it/FiveUTTITPlay?IQid=FiveUTTIT">http://smarturl.it/FiveUTTITPlay?IQid=FiveUTTIT</a><br />Amazon: <a rel="nofollow" target="blank" href="http://smarturl.it/FiveGHAmazon?IQid=FiveUTTIT">http://smarturl.it/FiveGHAmazon?IQid=FiveUTTIT</a><br />Stream more music from Five here: <a rel="nofollow" target="blank" href="http://smarturl.it/FiveMulti?IQid=FiveUTTIT">http://smarturl.it/FiveMulti?IQid=FiveUTTIT</a><br /><br />More from Five<br />Got The Feelin': <a rel="nofollow" target="blank" href="https://youtu.be/opQQ2mbXuwI">https://youtu.be/opQQ2mbXuwI</a><br />Keep On Movin': <a rel="nofollow" target="blank" href="https://youtu.be/FbWJVult-9M">https://youtu.be/FbWJVult-9M</a><br />Everybody Get Up: <a rel="nofollow" target="blank" href="https://youtu.be/qZUn-KtTNmA">https://youtu.be/qZUn-KtTNmA</a><br /><br />More great 90's videos here: <a rel="nofollow" target="blank" href="http://smarturl.it/Ultimate90?IQid=FiveUTTIT">http://smarturl.it/Ultimate90?IQid=FiveUTTIT</a><br /><br />Follow Five<br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/5iveofficial">https://www.facebook.com/5iveofficial</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/official5ive">https://twitter.com/official5ive</a><br /><br />Subscribe to Five on YouTube: <a rel="nofollow" target="blank" href="http://smarturl.it/FiveSubscribe?IQid=FiveUTTIT">http://smarturl.it/FiveSubscribe?IQid=FiveUTTIT</a><br /><br />---------<br /><br />Lyrics:<br /><br />Now and forever, Until the time is through<br /><br />I can't believe it, I don't know where to start, <br />No baby, So many questions deep inside my heart<br /><br />Give me a moment before you go,<br />There's something you ought to know.<br /><br />Baby now and forever, <br />Until the time is through (Until the time is through),<br />I'll be standing here, <br />Waiting and never give up my faith in you (Give up my faith in you), <br />Trying to make it clear, <br />Without your love, I'd be half a man, Maybe one day, You'll understand, <br />Now and forever, Until the time is through{% endraw %}
