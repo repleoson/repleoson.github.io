@@ -1,0 +1,15 @@
+---
+title: "Unbelievable | Official Trailer | Netflix"
+image: "https:\/\/i.ytimg.com\/vi\/QTIkUzkbzQk\/hqdefault.jpg"
+vid_id: "QTIkUzkbzQk"
+categories: "Entertainment"
+tags: ["Unbelievable","Toni Collette","Merritt Wever"]
+date: "2021-09-25T17:43:25+03:00"
+vid_date: "2019-07-18T15:00:05Z"
+duration: "PT2M45S"
+viewcount: "6242205"
+likeCount: "78761"
+dislikeCount: "1345"
+channel: "Netflix"
+---
+{% raw %}Inspired by real events, a teen reports and eventually recants her reported rape, while two female detectives, states away, investigate evidence that could reveal the truth.<br /><br />Based on The Marshall Project and ProPublica Pulitzer Prize-winning article, &quot;An Unbelievable Story of Rape,&quot; written by T. Christian Miller and Ken Armstrong, and the This American Life radio episode, “Anatomy of Doubt”, with episodes directed by Oscar nominees Susannah Grant and Lisa Cholodenko, &quot;Unbelievable&quot; is a story of unspeakable trauma, unwavering tenacity, and astounding resilience.<br /><br />Showrunner Susannah Grant executive produces the series, from CBS Television Studios, along with Sarah Timberman, Carl Beverly, Lisa Cholodenko, Ayelet Waldman, Michael Chabon, Katie Couric, Richard Tofel, Neil Barsky, Robyn Semien, and Marie.<br /><br />If you or someone you know has experienced sexual violence, call RAINN's National Sexual Assault Hotline at 800.656.HOPE (4673) or visit online.rainn.org.<br /><br />Watch Unbelievable, Only on Netflix:<br /><a rel="nofollow" target="blank" href="https://www.netflix.com/title/80153467">https://www.netflix.com/title/80153467</a><br /><br />SUBSCRIBE: <a rel="nofollow" target="blank" href="http://bit.ly/29qBUt7">http://bit.ly/29qBUt7</a><br /><br />About Netflix:<br />Netflix is the world's leading internet entertainment service with over 148 million paid memberships in over 190 countries enjoying TV series, documentaries and feature films across a wide variety of genres and languages. Members can watch as much as they want, anytime, anywhere, on any internet-connected screen. Members can play, pause and resume watching, all without commercials or commitments.<br /><br />Connect with Netflix Online:<br />Visit Netflix WEBSITE: <a rel="nofollow" target="blank" href="http://nflx.it/29BcWb5">http://nflx.it/29BcWb5</a><br />Like Netflix Kids on FACEBOOK: <a rel="nofollow" target="blank" href="http://bit.ly/NetflixFamily">http://bit.ly/NetflixFamily</a><br />Like Netflix on FACEBOOK: <a rel="nofollow" target="blank" href="http://bit.ly/29kkAtN">http://bit.ly/29kkAtN</a><br />Follow Netflix on TWITTER: <a rel="nofollow" target="blank" href="http://bit.ly/29gswqd">http://bit.ly/29gswqd</a><br />Follow Netflix on INSTAGRAM: <a rel="nofollow" target="blank" href="http://bit.ly/29oO4UP">http://bit.ly/29oO4UP</a><br />Follow Netflix on TUMBLR: <a rel="nofollow" target="blank" href="http://bit.ly/29kkemT">http://bit.ly/29kkemT</a><br /><br />Unbelievable | Official Trailer | Netflix<br /><a rel="nofollow" target="blank" href="http://youtube.com/netflix">http://youtube.com/netflix</a>{% endraw %}
