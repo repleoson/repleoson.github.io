@@ -1,0 +1,15 @@
+---
+title: "Days of the Week Song | The Singing Walrus"
+image: "https:\/\/i.ytimg.com\/vi\/mXMofxtDPUQ\/hqdefault.jpg"
+vid_id: "mXMofxtDPUQ"
+categories: "Education"
+tags: ["the days of the week song for kids","day of the week song for children","week days songs for kids"]
+date: "2021-09-25T07:48:31+03:00"
+vid_date: "2015-06-11T21:42:03Z"
+duration: "PT2M29S"
+viewcount: "91250097"
+likeCount: "351289"
+dislikeCount: "90743"
+channel: "The Singing Walrus - English Songs For Kids"
+---
+{% raw %}Watch all of our videos ad free with our app (desktop, apple, or android):<br /><a rel="nofollow" target="blank" href="https://www.thesingingwalrus.tv/">https://www.thesingingwalrus.tv/</a><br />Only $4.99 USD per month and $44.99 USD for a year!<br /><br />Our &quot;Days of the week song&quot; is an interactive reggae-style tune that helps children remember all the days of the week in a fun way. Mother Hen leads the children to sing the days of the week in various styles - quiet, loud, and fast. <br /><br />As the song starts, Mr. Crabby greets the children and asks them to listen to Mother Hen sing the first verse. When the second verse starts, Bear, Cat, Pig, and Dog appear to sing along. Mr. Crabby encourages the audience to repeat after Mother Hen.<br />The third and fourth verse is sung quietly and loud. Last but not least, Bear, Cat, Pig and Dog appear with their instruments, and the whole song is sung really fast!<br /><br />Enjoy this song in the classroom or at home with your kids! They will have memorized the days of the week in no time!<br /><br />If you like this video, don't forget to click the LIKE button :)<br /><br />Buy &amp; Download this Song (mp3):<br />iTunes: <a rel="nofollow" target="blank" href="https://itunes.apple.com/ca/artist/the-singing-walrus/id992755520">https://itunes.apple.com/ca/artist/the-singing-walrus/id992755520</a><br />Google Play: <a rel="nofollow" target="blank" href="https://play.google.com/store/music/artist/The_Singing_Walrus?id=Acadfghn7zw3q5i2c6bfr3gmcnu&amp;hl=en">https://play.google.com/store/music/artist/The_Singing_Walrus?id=Acadfghn7zw3q5i2c6bfr3gmcnu&amp;hl=en</a><br /><br />Buy &amp; Download this video (mp4):<br /><a rel="nofollow" target="blank" href="https://sellfy.com/thesingingwalrus">https://sellfy.com/thesingingwalrus</a><br /><br />The Singing Walrus creates fun teaching materials, such as kids songs, educational games, nursery rhymes, and kindergarten worksheets (e.g. handwriting worksheets) for parents and teachers. Come and join our community on Facebook, or subscribe to our Youtube Channel!<br /><br />Facebook: <a rel="nofollow" target="blank" href="http://www.facebook.com/TheSingingWalrus">http://www.facebook.com/TheSingingWalrus</a><br />Twitter: <a rel="nofollow" target="blank" href="http://twitter.com/InfoWalrus">http://twitter.com/InfoWalrus</a><br />Website: <a rel="nofollow" target="blank" href="http://thesingingwalrus.com">http://thesingingwalrus.com</a><br /><br />**All illustration, animation, music, and voice work produced by The Singing Walrus{% endraw %}
