@@ -1,0 +1,15 @@
+---
+title: "How to Personalize Windows 10 (Beginners Guide)"
+image: "https:\/\/i.ytimg.com\/vi\/eNansTeVGHM\/hqdefault.jpg"
+vid_id: "eNansTeVGHM"
+categories: "Science-Technology"
+tags: ["How to Personalize Windows 10 Beginners Guide","Windows 10 Personalization Settings You Should Change","Make Windows Look Better"]
+date: "2021-09-25T14:14:57+03:00"
+vid_date: "2020-01-10T12:03:10Z"
+duration: "PT9M37S"
+viewcount: "119369"
+likeCount: "2474"
+dislikeCount: "92"
+channel: "TechGumbo"
+---
+{% raw %}For absolute beginners, this video will show you how to personalize and customize the appearance of Windows 10. Over the years, we’ve done several videos on Windows 10. In the comments of those videos, people keep asking questions on how to change the appearance or customize certain features. In this beginner’s guide, I’ll answer some of those questions and show you how to personalize your Windows 10 computer.<br /><br />Subscribe! ▶ <a rel="nofollow" target="blank" href="https://www.youtube.com/techgumbo">https://www.youtube.com/techgumbo</a><br />Share This Video ▶ <a rel="nofollow" target="blank" href="https://youtu.be/eNansTeVGHM">https://youtu.be/eNansTeVGHM</a><br /><br />“Windows 10 Tips &amp; Tricks” Playlist<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLunpbmfrhFAVLDl7tQfPGk0er9k8Iqe99">https://www.youtube.com/playlist?list=PLunpbmfrhFAVLDl7tQfPGk0er9k8Iqe99</a><br /><br />0:22 Background<br />2:14 Colors<br />3:39 Lock Screen<br />4:51 Themes<br />6:59 Start Menu<br />7:52 Taskbar<br /><br />------------------------------------<br /><br />WATCH MORE VIDEOS<br /><br />Windows 10 PowerToys (Beginners Guide)<br /><a rel="nofollow" target="blank" href="https://youtu.be/5vpcaTA9y20">https://youtu.be/5vpcaTA9y20</a><br />Top 5 Best Free Antivirus Software<br /><a rel="nofollow" target="blank" href="https://youtu.be/bUZbPlAZz1c">https://youtu.be/bUZbPlAZz1c</a><br />How to Force Dark Mode in Google Chrome for Every Website<br /><a rel="nofollow" target="blank" href="https://youtu.be/-RK0iSTqLa4">https://youtu.be/-RK0iSTqLa4</a><br />Top 5 Best Video Editing Software<br /><a rel="nofollow" target="blank" href="https://youtu.be/vQwEHNYNqI8">https://youtu.be/vQwEHNYNqI8</a><br />Top 10 Best Free Websites to Watch Movies Online<br /><a rel="nofollow" target="blank" href="https://youtu.be/tUpDDBKrTmg">https://youtu.be/tUpDDBKrTmg</a><br /><br />Twitter - <a rel="nofollow" target="blank" href="https://twitter.com/GumboNet">https://twitter.com/GumboNet</a><br />Facebook - <a rel="nofollow" target="blank" href="https://www.facebook.com/TechGumbo">https://www.facebook.com/TechGumbo</a><br /><br />TechGumbo is a leading source for the technology that we use each day. Whether it’s discussing computer operating system tricks, the latest tips for your mobile phone, finding out about the newest gadgets, or letting you know about the best tips and tricks for Windows 10, TechGumbo has boundless topics on technology for the astute YouTube viewer.{% endraw %}
