@@ -1,0 +1,15 @@
+---
+title: "RAINY DAY AT THE BOOKSTORE l vlog."
+image: "https:\/\/i.ytimg.com\/vi\/G_P2t6MPqsk\/hqdefault.jpg"
+vid_id: "G_P2t6MPqsk"
+categories: "People-Blogs"
+tags: ["book","books","read"]
+date: "2021-09-27T01:01:12+03:00"
+vid_date: "2019-01-29T17:30:01Z"
+duration: "PT15M44S"
+viewcount: "156426"
+likeCount: "6929"
+dislikeCount: "78"
+channel: "emmmabooks"
+---
+{% raw %}it rained. i went book shopping. it was a good time. follow along :)<br /><br />book shopping challenge with michael: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=QLiWYXTjdzU">https://www.youtube.com/watch?v=QLiWYXTjdzU</a><br /><br />- music -<br />Blue Boi - LAKEY INSPIRED: <a rel="nofollow" target="blank" href="https://soundcloud.com/lakeyinspired">https://soundcloud.com/lakeyinspired</a><br /><br />- social media -<br />tw: @emmmabooks<br />ig: @emmmabooks<br />sc: @em-dubz<br />fb: <a rel="nofollow" target="blank" href="https://www.facebook.com/emmmabooks">https://www.facebook.com/emmmabooks</a><br />gr: <a rel="nofollow" target="blank" href="http://bit.ly/emma-goodreads">http://bit.ly/emma-goodreads</a><br /><br />Check out my psychology/mental health channel!: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCxTVVyeX57YaFkKNfMnE-WQ">https://www.youtube.com/channel/UCxTVVyeX57YaFkKNfMnE-WQ</a><br /><br />Want to help my videos become more accessible? You can aid me in adding translations and transcriptions for my videos here!: <a rel="nofollow" target="blank" href="http://bit.ly/cccontribute">http://bit.ly/cccontribute</a><br /><br />- discount codes - affiliate links -<br />Get a free month of audiobook/ebook streaming from Scribd! If you use my link, I also get a month free!: <a rel="nofollow" target="blank" href="https://www.scribd.com/gi/71vcgj">https://www.scribd.com/gi/71vcgj</a><br /><br />// Looking to buy books with FREE international shipping? If you use this link, you'll not only get that perk, but you'll also give me a small commission! (NOTE: This link won't work with ablock. Try pausing it or using a different browse!): <a rel="nofollow" target="blank" href="http://bit.ly/INTLbooks">http://bit.ly/INTLbooks</a><br /><br />-Want to send me things?-<br />Emma Giordano<br />P.O. Box 472<br />Island Park, NY 11558-1551<br />*FOR VIEWER MAIL ONLY*<br /><br />*Authors, please refrain from sending me unsolicited books. Refer to my review policies if you'd like me to consider featuring your book on my channel: <a rel="nofollow" target="blank" href="http://bit.ly/reviewbookpolicy">http://bit.ly/reviewbookpolicy</a> *<br /><br />FTC Disclaimer:<br />-Links with an asterisk (*) indicate I was sent this book for free by a company for this video<br />-Links with a double slash (//) indicate I will receive a small commission if you decide to purchase something using that link!<br /><br />This video contains:<br />-book(s) or product(s) I was sent for free by the company to feature in this video [  ]<br />-book(s) or product(s) I was paid by the company to feature in this video [  ]<br />-my complete honest &amp; unbiased opinions [ x ] - as always -{% endraw %}
