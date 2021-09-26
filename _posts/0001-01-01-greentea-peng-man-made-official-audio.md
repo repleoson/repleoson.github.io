@@ -1,0 +1,15 @@
+---
+title: "Greentea Peng - Man Made (Official Audio)"
+image: "https:\/\/i.ytimg.com\/vi\/pTjoik9H8vQ\/hqdefault.jpg"
+vid_id: "pTjoik9H8vQ"
+categories: "Music"
+tags: ["Free my people","free all my people","free"]
+date: "2021-09-26T07:37:52+03:00"
+vid_date: "2021-06-03T23:15:03Z"
+duration: "PT3M41S"
+viewcount: "97073"
+likeCount: "2521"
+dislikeCount: "16"
+channel: "GreenteaPengVEVO"
+---
+{% raw %}#FACTCHECKTHEFACTCHECKERS <br /><br />'Man Made’ taken from the debut album ‘MAN MADE’<br />Stream: <a rel="nofollow" target="blank" href="https://greenteapeng.lnk.to/MANMADEID">https://greenteapeng.lnk.to/MANMADEID</a><br />IG: <a rel="nofollow" target="blank" href="https://Instagram.com/greenteapeng">https://Instagram.com/greenteapeng</a> <br />Sign Up For Updates: <a rel="nofollow" target="blank" href="https://greenteapeng.lnk.to/signup">https://greenteapeng.lnk.to/signup</a> <br />Store: <a rel="nofollow" target="blank" href="https://shop.greenteapeng.net">https://shop.greenteapeng.net</a> <br />Website: <a rel="nofollow" target="blank" href="https://greenteapeng.net">https://greenteapeng.net</a> <br /><br />Credits: <br />David Kitson<br /><br />Lyrics:<br /><br />Man Made<br />Man Made<br />Thats what im saying<br /><br /><br />I go through pens I go through paper trying to proclaim it<br />And when I lost hope you’ll know cause I don’t say shit<br />And when the energies right and I am light im trying to change shit<br />Misfortune on the breeze can almost taste it<br />Heavy hearted man become complacent<br />Distracted by the ones who do not fake it<br />Vampire your energy they take it<br /><br /><br />Magic in the circles we don't circulate in<br />Wonder if that’s why they took us so far from the beginning.<br />This whole ting just a case of remembering <br />And I'm remembering<br /><br /><br />I don’t need your man made seeds to grow<br />Everything that I need, Maa’s put here to know<br /><br /><br />Censored truths<br />Censored truths<br />There are no absolutes<br />And to remain blind feeding the narrative that is up to you<br />Divide and conquer the people<br />Like they always do<br />Puppets permitting power making it impossible<br />Dutty politicians and wicked satellites<br />Just pawns on their board<br />They willing to sacrifice<br />Fake news tell lie vision<br />Come on tell me lies<br />As the sheet falls down I see between the lines<br /><br /><br />Magic in the circles we don't circulate in<br />Probably cause they kept it in their circles from the beginning.<br />This whole ting just a case of remembering<br />And I’m remembering<br /><br /><br />I don’t need your man made seeds to grow<br />Everything that I need<br />Maa’s put here to know<br /><br /><br />I don’t need your man made seeds to grow<br />Everything that I need<br />Everything that I need<br />Everything that I need<br /><br />Maa’s put here to know<br />I don’t need your man made seeds to grow<br />Everything that I need<br />Everything that I need<br />Everything that I need<br />Maa’s put here to know{% endraw %}
