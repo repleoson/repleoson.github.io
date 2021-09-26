@@ -1,0 +1,15 @@
+---
+title: "How to Do Multi level sorting in Excel (by two Columns)"
+image: "https:\/\/i.ytimg.com\/vi\/r6HhUGQhrpE\/hqdefault.jpg"
+vid_id: "r6HhUGQhrpE"
+categories: "Education"
+tags: ["Multi-level sorting in Excel","Multi-level sorting","Excel Sort by two columns"]
+date: "2021-09-26T13:11:04+03:00"
+vid_date: "2018-05-16T03:15:29Z"
+duration: "PT5M36S"
+viewcount: "88163"
+likeCount: "506"
+dislikeCount: "24"
+channel: "TrumpExcel"
+---
+{% raw %}In this video, I'll show you how to do a multi-level sorting in Excel. This means that you sort data by 2 or more columns.<br /><br />You can read more about it here: <a rel="nofollow" target="blank" href="https://trumpexcel.com/multiple-level-sorting-excel/">https://trumpexcel.com/multiple-level-sorting-excel/</a><br /><br />When working with data in Excel, sorting the data is one of the common things you might have to do.<br /><br />In most of the cases, you need to sort a single column.<br /><br />But in some cases, there may be a need to sort two columns or more than two columns.<br /><br />There are two ways to do this - using the Sort dialog box and using the Sort icons. You can find these options in the Data tab in the Excel ribbon.<br /><br />In the Sort dialog box, you can specify the order of sorting. You can add a sorting level and then you can add more sorting levels below it.<br /><br />You can also use the sort icons, which needs to be used in the reverse order. So if you want to sort Column A and then Column B, you use the sort icon on Column B first and then use it in Column A.<br /><br />It is recommended to use the Sort dialog box as it less confusing and allows you to sort based on other parameters as well - such as cell color, font color, or cell Icon. <br /><br />Free Excel Course - <a rel="nofollow" target="blank" href="https://trumpexcel.com/learn-excel/">https://trumpexcel.com/learn-excel/</a><br />Paid Online Training - <a rel="nofollow" target="blank" href="https://trumpexcel.com/excel-training/">https://trumpexcel.com/excel-training/</a><br />Best Excel Books: <a rel="nofollow" target="blank" href="https://trumpexcel.com/best-excel-books/">https://trumpexcel.com/best-excel-books/</a><br /><br />⚙️ Gear I Recommend:<br />Camera - <a rel="nofollow" target="blank" href="https://amzn.to/3bmHko7">https://amzn.to/3bmHko7</a><br />Screen Recorder - techsmith.z6rjha.net/26D9Q <br />USB Mic - <a rel="nofollow" target="blank" href="https://amzn.to/2uzhVHd">https://amzn.to/2uzhVHd</a><br />Wireless Mic: <a rel="nofollow" target="blank" href="https://amzn.to/3blQ8uk">https://amzn.to/3blQ8uk</a><br />Lighting - <a rel="nofollow" target="blank" href="https://amzn.to/2uxOxRv">https://amzn.to/2uxOxRv</a><br /><br />Subscribe to get awesome Excel Tips every week: <a rel="nofollow" target="blank" href="https://www.youtube.com/user/trumpexcel?sub_confirmation=1">https://www.youtube.com/user/trumpexcel?sub_confirmation=1</a><br /><br />Note: Some of these links here are affiliate links!<br /><br />#Excel #ExcelTips  #ExcelTutorial{% endraw %}
