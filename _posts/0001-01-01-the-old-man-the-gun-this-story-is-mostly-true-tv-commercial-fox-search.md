@@ -1,0 +1,15 @@
+---
+title: "THE OLD MAN & THE GUN | \"This Story Is Mostly True\" TV Commercial | FOX Searchlight"
+image: "https:\/\/i.ytimg.com\/vi\/Hk3zKzVMuWA\/hqdefault.jpg"
+vid_id: "Hk3zKzVMuWA"
+categories: "Film-Animation"
+tags: ["David Lowery","THE OLD MAN AND THE GUN","true story of Forrest Tucker"]
+date: "2021-09-26T09:02:38+03:00"
+vid_date: "2019-01-01T18:59:57Z"
+duration: "PT39S"
+viewcount: "1059993"
+likeCount: "56"
+dislikeCount: "7"
+channel: "SearchlightPictures"
+---
+{% raw %}Now On Digital: <a rel="nofollow" target="blank" href="http://bit.ly/OldMan_YT_Digital">http://bit.ly/OldMan_YT_Digital</a><br />Now On Blu-ray &amp; DVD: <a rel="nofollow" target="blank" href="http://bit.ly/OldMan_YT_Bluray">http://bit.ly/OldMan_YT_Bluray</a><br /><br />THE OLD MAN AND THE GUN is based on the true story of Forrest Tucker (Robert Redford), from his audacious escape from San Quentin at the age of 70 to an unprecedented string of heists that confounded authorities and enchanted the public.  Wrapped up in the pursuit are detective John Hunt (Casey Affleck), who becomes captivated with Forrest’s commitment to his craft, and a woman (Sissy Spacek), who loves him in spite of his chosen profession.<br /><br /><br />Directed by: David Lowery<br />Screenplay by: David Lowery<br />Produced by: James D. Stern, Dawn Ostroff, Jeremy Steckler, Robert Redford, Anthony Mastromauro, Toby Halbrooks, James Johnston, Bill Holderman<br />Cast: Robert Redford, Casey Affleck, Sissy Spacek, Danny Glover, Tom Waits, Tika Sumpter<br /><br />Visit THE OLD MAN &amp; THE GUN on our WEBSITE: <a rel="nofollow" target="blank" href="http://www.foxsearchlight.com/theoldmanandthegun/">http://www.foxsearchlight.com/theoldmanandthegun/</a><br />Like THE OLD MAN &amp; THE GUN  on FACEBOOK: <a rel="nofollow" target="blank" href="https://www.facebook.com/theoldmanandthegun/">https://www.facebook.com/theoldmanandthegun/</a><br />Follow THE OLD MAN &amp; THE GUN  on TWITTER: <a rel="nofollow" target="blank" href="https://twitter.com/oldmanandthegun">https://twitter.com/oldmanandthegun</a><br />Follow THE OLD MAN &amp; THE GUN  on INSTAGRAM: <a rel="nofollow" target="blank" href="https://www.instagram.com/theoldmanandthegun/">https://www.instagram.com/theoldmanandthegun/</a><br /><br />Connect with Fox Searchlight Online<br />Visit the Fox Searchlight WEBSITE: <a rel="nofollow" target="blank" href="http://foxsearchlight.com/">http://foxsearchlight.com/</a><br />Like Fox Searchlight on FACEBOOK: <a rel="nofollow" target="blank" href="https://www.facebook.com/foxsearchlight">https://www.facebook.com/foxsearchlight</a><br />Follow Fox Searchlight on TWITTER: <a rel="nofollow" target="blank" href="https://twitter.com/foxsearchlight">https://twitter.com/foxsearchlight</a><br /><br />THE OLD MAN &amp; THE GUN | &quot;This Story Is Mostly True&quot; TV Commercial | FOX Searchlight<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/user/FoxSearchlight">https://www.youtube.com/user/FoxSearchlight</a>{% endraw %}
