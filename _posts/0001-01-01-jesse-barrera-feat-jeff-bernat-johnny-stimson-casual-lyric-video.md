@@ -1,0 +1,15 @@
+---
+title: "Jesse Barrera feat. Jeff Bernat & Johnny Stimson - \"Casual\" (Lyric Video)"
+image: "https:\/\/i.ytimg.com\/vi\/fACfypWLqXg\/hqdefault.jpg"
+vid_id: "fACfypWLqXg"
+categories: "Music"
+tags: ["jesse barrera","jeff bernat","johnny stimson"]
+date: "2021-09-26T07:32:14+03:00"
+vid_date: "2020-05-22T18:32:05Z"
+duration: "PT3M24S"
+viewcount: "1962713"
+likeCount: "59674"
+dislikeCount: "225"
+channel: "Jesse Barrera"
+---
+{% raw %}STREAM NOW --- <a rel="nofollow" target="blank" href="https://distrokid.com/hyperfollow/jessebarreraandjeffbernatandjohnnystimson/casual-feat-jeff-bernat--johnny-stimson">https://distrokid.com/hyperfollow/jessebarreraandjeffbernatandjohnnystimson/casual-feat-jeff-bernat--johnny-stimson</a><br /><br />www.instagram.com/jessebarrera<br />www.instagram.com/jeffbernat<br />www.instagram.com/johnnystimson<br /><br />“Casual”<br />Jesse Barrera / Johnny Stimson / Jeff Bernat<br /><br />We can take the long way <br />We’ll get there even if it takes all night <br />We’ll talk until the morning <br />Don’t tell me that you’re fine if you’re not fine <br />And if it’s only pleasure that you’re seeking<br />Then I’ll be penciling you in for the weekend<br />Forget about the white noise<br />It’s chocolate and pajamas till the whole world fades <br /><br />Just right<br />Yes please <br />We can sink into the sofa for the whole week<br />Just right<br />Easy<br /><br />If we could just break down<br />Break down these walls<br />Over some take out<br />Don’t you worry bout nothing at all<br />I can get to know you<br />We can take it slow<br />Savor every moment<br />Keep it on the low<br />Baby just let go<br />And we can keep this whole thing casual<br /><br />Yeah, yeah, yeah<br /><br />Well take it back to the beginning when we first met<br />I find it funny how you hit me with the silence<br />Said lady whats the deal <br />Cuz I’m diggin’ your sex appeal<br />But now when I’m with you I feel<br /><br />Just right<br />Yes please<br />Girl we could kick it at the crib for like the whole week<br />Just right<br />At ease<br />I’ll give you what you need<br /><br />If we could just break down<br />Break down these walls<br />Over some take out<br />Don’t you worry bout nothing at all<br />I can get to know you<br />We can take it slow<br />Savor every moment<br />Keep it on the low<br />Baby just let go<br />And we can keep this whole thing casual<br /><br />Relaxation til we take it to the limit<br />Meditation til we let it all go<br />Lazy days and hazy nights and new beginnings<br />If you love me won’t you say so<br /><br />(Girl won’t you say so)<br /><br />Relaxation til we take it to the limit<br />Meditation til we let it all go<br />Lazy days and hazy nights and new beginnings<br />Baby we can keep it casual<br /><br />Relaxation til we take it to the limit<br />Meditation til we let it all go<br />Lazy days and hazy nights my head is spinning<br />If you love won’t you say so<br /><br />Relaxation til we take it to the limit<br />Meditation til we let it all go<br />Lazy days and hazy nights and new beginnings<br />We can keep it casual{% endraw %}
