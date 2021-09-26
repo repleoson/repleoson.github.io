@@ -1,0 +1,15 @@
+---
+title: "A Year in the Wilderness | Off Grid and Self Reliant in a Log Cabin"
+image: "https:\/\/i.ytimg.com\/vi\/HwPoLOZkFyE\/hqdefault.jpg"
+vid_id: "HwPoLOZkFyE"
+categories: "People-Blogs"
+tags: ["Self Reliance","off grid","log cabin"]
+date: "2021-09-26T12:51:41+03:00"
+vid_date: "2020-03-21T04:16:50Z"
+duration: "PT3H22M14S"
+viewcount: "8782094"
+likeCount: "74207"
+dislikeCount: "3136"
+channel: "My Self Reliance"
+---
+{% raw %}Another full year in the wilderness living my dream. There is no place I would rather be than in the wilderness, self reliant, thriving in an off grid log cabin and living close to nature. Spring arrived today, and in my mind, it's the beginning of a new year and I reflect on the last 365 days spent building my homestead and creating a safe place for my family and me for times like this. The next 365 days will bring big changes for me and my family as we continue to learn how to and practice becoming more self reliant and put the lessons I have learned over the last three years to use. This year, food security and health are our focus, along with a few building projects that I'll be undertaking alone to make our homestead more self sufficient.<br />Stay healthy and be kind.<br />Thanks for watching!  New videos every FRIDAY.  Please subscribe.<br /><br />My Other Channel: Shawn James <a rel="nofollow" target="blank" href="https://bit.ly/2xzZHpB">https://bit.ly/2xzZHpB</a><br /><br />T-SHIRTS: <a rel="nofollow" target="blank" href="https://teespring.com/stores/my-self-reliance">https://teespring.com/stores/my-self-reliance</a><br /><br />Watch the playlists by clicking on these links:<br /><br />Building an Off Grid Sauna: <a rel="nofollow" target="blank" href="https://bit.ly/2IjvJsQ">https://bit.ly/2IjvJsQ</a><br /><br />Building a Log Cabin with Hand Tools: <a rel="nofollow" target="blank" href="https://bit.ly/2MeEoOs">https://bit.ly/2MeEoOs</a><br /><br />Building an Outdoor Forest Kitchen: <a rel="nofollow" target="blank" href="https://bit.ly/2AFQJ99">https://bit.ly/2AFQJ99</a><br /><br />Best of My Self Reliance: <a rel="nofollow" target="blank" href="https://bit.ly/2OfW7ry">https://bit.ly/2OfW7ry</a><br /><br />To see what I’m up to during the rest of the week, please follow me on my other online channels;<br /><br />Website: <a rel="nofollow" target="blank" href="http://myselfreliance.com/">http://myselfreliance.com/</a><br />Facebook – <a rel="nofollow" target="blank" href="https://www.facebook.com/MySelfReliance/">https://www.facebook.com/MySelfReliance/</a><br />Instagram – <a rel="nofollow" target="blank" href="https://www.instagram.com/myselfreliance/">https://www.instagram.com/myselfreliance/</a><br /><br />My Mailing Address:<br />51 King William Street<br />P.O. Box 30017<br />Huntsville, ON<br />P1H 0B5<br /><br />My Tools, Clothing &amp; Other Gear:<br /><br /><a rel="nofollow" target="blank" href="https://www.amazon.com/shop/myselfreliance">https://www.amazon.com/shop/myselfreliance</a><br /><br />Cabelas: <a rel="nofollow" target="blank" href="https://bit.ly/2AEp48v">https://bit.ly/2AEp48v</a><br />#selfreliant #offgrid #logcabin{% endraw %}
