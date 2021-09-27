@@ -1,0 +1,15 @@
+---
+title: "Daughtry - No Surprise"
+image: "https:\/\/i.ytimg.com\/vi\/yyl24HRGgSU\/hqdefault.jpg"
+vid_id: "yyl24HRGgSU"
+categories: "Music"
+tags: ["Daughtry No Surprise","acoustic","music"]
+date: "2021-09-27T23:19:31+03:00"
+vid_date: "2009-10-03T04:41:04Z"
+duration: "PT4M10S"
+viewcount: "32336693"
+likeCount: "143001"
+dislikeCount: "3439"
+channel: "daughtryVEVO"
+---
+{% raw %}Daughtry's official music video for 'No Surprise'. Click to listen to Daughtry on Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/DaughtrySpotify?IQid=DaughtryNS">http://smarturl.it/DaughtrySpotify?IQid=DaughtryNS</a><br /><br />As featured on Leave This Town. Click to buy the track or album via<br />iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/LeaveThisTown?IQid=DaughtryNS">http://smarturl.it/LeaveThisTown?IQid=DaughtryNS</a><br />Google Play: <a rel="nofollow" target="blank" href="http://smarturl.it/NSGPlay?IQid=DaughtryNS">http://smarturl.it/NSGPlay?IQid=DaughtryNS</a><br />Amazon: <a rel="nofollow" target="blank" href="http://smarturl.it/LTTAmazon?IQid=DaughtryNS">http://smarturl.it/LTTAmazon?IQid=DaughtryNS</a><br /><br />More From Daughtry<br />September: <a rel="nofollow" target="blank" href="https://youtu.be/nJzBcKM3ZIE">https://youtu.be/nJzBcKM3ZIE</a><br />It's Not Over: <a rel="nofollow" target="blank" href="https://youtu.be/UQ92eyxnxmQ">https://youtu.be/UQ92eyxnxmQ</a><br />Over You: <a rel="nofollow" target="blank" href="https://youtu.be/m02-RHN_hQE">https://youtu.be/m02-RHN_hQE</a><br /><br />More great 00's videos here: <a rel="nofollow" target="blank" href="http://smarturl.it/Ultimate00?IQid=DaughtryNS">http://smarturl.it/Ultimate00?IQid=DaughtryNS</a><br /><br />Follow Daughtry<br />Website: <a rel="nofollow" target="blank" href="http://www.daughtryofficial.com/us/home">http://www.daughtryofficial.com/us/home</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/daughtry">https://www.facebook.com/daughtry</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/CHRIS_Daughtry">https://twitter.com/CHRIS_Daughtry</a><br /><br />Subscribe to Daughtry on YouTube: <a rel="nofollow" target="blank" href="http://smarturl.it/DaughtrySub?IQid=DaughtryNS">http://smarturl.it/DaughtrySub?IQid=DaughtryNS</a><br /><br />---------<br /><br />Lyrics<br /><br />(And I hope.. and I hope..)<br />I've practiced this for hours, gone round and round<br />And now I think that I've got it all down<br />And as I say it louder, I love how it sounds<br />'Cause I'm not taking the easy way out<br />Not wrappin' this in ribbons<br />Shouldn't have to give a reason why<br /><br />It's no surprise. I won't be here tomorrow<br />I can't believe that I stayed 'til today<br />Yeah you and I will be a tough act to follow<br />But I know in time we'll find this was no surprise<br /><br />It came out like a river, once I let it out<br />When I thought that I wouldn't know how<br />Held onto it forever, just pushing it down<br />It felt so good to let go of it now<br />Not wrapping this in ribbons<br />Shouldn't have to give a reason why{% endraw %}
