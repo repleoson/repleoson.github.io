@@ -1,0 +1,15 @@
+---
+title: "ABC NEWS: Biden Did Not Provide An Explanation For Decisions Made"
+image: "https:\/\/i.ytimg.com\/vi\/y4lqtMadtVA\/hqdefault.jpg"
+vid_id: "y4lqtMadtVA"
+categories: "News-Politics"
+tags: ["NEWS:","Biden","Provide"]
+date: "2021-09-27T10:35:04+03:00"
+vid_date: "2021-09-21T15:40:10Z"
+duration: "PT7S"
+viewcount: "1586"
+likeCount: "42"
+dislikeCount: "0"
+channel: "House Republicans"
+---
+{% raw %}ABC News' David Muir on President Biden's UNGA speech: <br /><br />&quot;If anyone was expecting an explanation of decisions made by the Biden administration so far, that is not what they got.&quot;<br /><br />SUBSCRIBE to get the latest from House Republicans: <a rel="nofollow" target="blank" href="https://bit.ly/2CDvaHL">https://bit.ly/2CDvaHL</a>  <br /><br />Visit House Republicans’ website: <a rel="nofollow" target="blank" href="https://www.gop.gov">https://www.gop.gov</a>   <br />Like House Republicans on Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/HouseRepublicans/">https://www.facebook.com/HouseRepublicans/</a>  <br />Follow @HouseGOP on Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/HouseGOP">https://twitter.com/HouseGOP</a>  <br />Follow @HouseGOP on Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/housegop/">https://www.instagram.com/housegop/</a>  <br /><br />About House Republicans: <br /><br />Elise Stefanik (R-NY) is chair of the House Republican Conference.<br /><br />As the organizational body for all GOP Members of the U.S. House of Representatives, the House Republican Conference is responsible for electing the House Republican leadership, approving GOP Member committee assignments, and developing a communications strategy to reach out to all Americans.<br /><br />We are teachers, doctors, veterans, and business owners. We are working moms, single dads, Boomers, Millennials, and more. And while we each have unique backgrounds and experiences, we’re united by a shared goal to make America a better place — a nation where we are not defined by our limits, but by our potential.<br /><br />The Republican Conference is dedicated to providing freedom and opportunity for every American. Made up of members from across the country, our agenda includes:<br />Empowering Individuals<br />Getting Government Off Of Americans’ Backs<br />Keeping Our Country Safe At Home &amp; Strong Abroad<br />Securing Our Borders<br />Protecting All Human Life<br />Preserving Our Constitutional Rights<br />Cutting Taxes<br />Upholding The Principles And Values That Have Made America Great<br />In contrast to House Democrats, who are embracing socialism, and pushing radical, far-left policies, we’re fighting to keep America safe, prosperous and free. That’s why it’s more important than ever to stand up for our values, and we appreciate your support.<br /><br /><br />Here, you’ll find many voices united by a common purpose: to restore the American people’s rightful place at the center of our representative government.{% endraw %}
