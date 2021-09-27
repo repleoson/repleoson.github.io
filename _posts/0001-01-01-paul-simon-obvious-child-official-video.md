@@ -1,0 +1,15 @@
+---
+title: "Paul Simon - Obvious Child (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/9HKNAhAxMAk\/hqdefault.jpg"
+vid_id: "9HKNAhAxMAk"
+categories: "Music"
+tags: ["Paul Simon","PaulSimonVevo","acoustic"]
+date: "2021-09-27T15:21:33+03:00"
+vid_date: "2011-06-16T07:00:00Z"
+duration: "PT4M30S"
+viewcount: "4608080"
+likeCount: "23308"
+dislikeCount: "912"
+channel: "PaulSimonVEVO"
+---
+{% raw %}Paul Simon's official music video for 'Obvious Child'. Click to listen to Paul Simon on Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/PaulSimonSpotify?IQid=PSOC">http://smarturl.it/PaulSimonSpotify?IQid=PSOC</a><br /><br />As featured on The Essential Paul Simon. Click to buy the track or album via iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/EssentialPS?IQid=PSOC">http://smarturl.it/EssentialPS?IQid=PSOC</a><br />Google Play: <a rel="nofollow" target="blank" href="http://smarturl.it/PSOCPlay?IQid=PSOC">http://smarturl.it/PSOCPlay?IQid=PSOC</a><br />Amazon: <a rel="nofollow" target="blank" href="http://smarturl.it/TEPSAmazon?IQid=PSOC">http://smarturl.it/TEPSAmazon?IQid=PSOC</a><br /><br />More from Paul Simon<br />Diamonds On The Soles Of Her Shoes: <a rel="nofollow" target="blank" href="https://youtu.be/-I_T3XvzPaM">https://youtu.be/-I_T3XvzPaM</a><br />Me And Julio Down By The Schoolyard: <a rel="nofollow" target="blank" href="https://youtu.be/Z6VrKro8djw">https://youtu.be/Z6VrKro8djw</a><br />Father and Daughter: <a rel="nofollow" target="blank" href="https://youtu.be/COQPSoRFdwg">https://youtu.be/COQPSoRFdwg</a><br /><br />More great 90s videos here: <a rel="nofollow" target="blank" href="http://smarturl.it/Ultimate90?IQid=PSOC">http://smarturl.it/Ultimate90?IQid=PSOC</a><br /><br />Follow Paul Simon<br />Website: <a rel="nofollow" target="blank" href="http://www.paulsimon.com/us/home">http://www.paulsimon.com/us/home</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/paulsimon">https://www.facebook.com/paulsimon</a><br /><br />Subscribe to Paul Simon on YouTube: <a rel="nofollow" target="blank" href="http://smarturl.it/PaulSimonSub?IQid=PSOC">http://smarturl.it/PaulSimonSub?IQid=PSOC</a><br /><br />---------<br /><br />Lyrics:<br /><br />I'm accustomed to a smooth ride<br />Or maybe I'm a dog who's lost its bite<br />I don't expect to be treated like a fool no more<br />I don't expect to sleep through the night<br />Some people say a lie's a lie's a lie<br />But I say why<br />Why deny the obvious child?<br />Why deny the obvious child?<br /><br />And in remembering a road sign<br />I am remembering a girl when I was young<br />And we said These songs are true<br />These days are ours<br />These tears are free<br />And hey<br />The cross is in the ballpark<br />The cross is in the ballpark<br /><br />We had a lot of fun<br />We had a lot of money<br />We had a little son and we thought we'd call him Sonny<br />Sonny gets married and moves away<br />Sonny has a baby and bills to pay<br />Sonny gets sunnier<br />Day by day by day by day<br /><br />#PaulSimon #ObviousChild #Vevo #Pop #VevoOfficial{% endraw %}
