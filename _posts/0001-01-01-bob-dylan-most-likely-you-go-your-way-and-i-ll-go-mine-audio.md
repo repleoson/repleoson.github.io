@@ -1,0 +1,15 @@
+---
+title: "Bob Dylan - Most Likely You Go Your Way (And I'll Go Mine) (Audio)"
+image: "https:\/\/i.ytimg.com\/vi\/qPRzHqAEpZk\/hqdefault.jpg"
+vid_id: "qPRzHqAEpZk"
+categories: "Music"
+tags: ["bob dylan","if you see her say hello","knockin on heaven's door"]
+date: "2021-09-29T02:36:49+03:00"
+vid_date: "2019-03-11T22:17:27Z"
+duration: "PT3M29S"
+viewcount: "226006"
+likeCount: "1888"
+dislikeCount: "60"
+channel: "BobDylanVEVO"
+---
+{% raw %}“Most Likely You Go Your Way (And I'll Go Mine)&quot; by Bob Dylan<br />Listen to Bob Dylan: <a rel="nofollow" target="blank" href="https://bobdylan.lnk.to/listenYD">https://bobdylan.lnk.to/listenYD</a><br /><br />Subscribe to the Bob Dylan YouTube channel: <a rel="nofollow" target="blank" href="https://bobdylan.lnk.to/_subscribeYD">https://bobdylan.lnk.to/_subscribeYD</a><br /><br />Follow Bob Dylan:<br />Facebook: <a rel="nofollow" target="blank" href="https://bobdylan.lnk.to/followFI">https://bobdylan.lnk.to/followFI</a><br />Twitter: <a rel="nofollow" target="blank" href="https://bobdylan.lnk.to/followTI">https://bobdylan.lnk.to/followTI</a><br />Instagram: <a rel="nofollow" target="blank" href="https://bobdylan.lnk.to/followII">https://bobdylan.lnk.to/followII</a><br />Website: <a rel="nofollow" target="blank" href="https://bobdylan.lnk.to/followWI">https://bobdylan.lnk.to/followWI</a><br />YouTube: <a rel="nofollow" target="blank" href="https://bobdylan.lnk.to/_subscribeYD">https://bobdylan.lnk.to/_subscribeYD</a><br />Streaming Services: <a rel="nofollow" target="blank" href="https://bobdylan.lnk.to/ss_followYD">https://bobdylan.lnk.to/ss_followYD</a><br /><br />Lyrics:<br />You say you love me<br />And you're thinkin' of me<br />But you know you could be wrong<br />You say you told me<br />That you wanna hold me<br />But you know you're not that strong<br />I just can't do what I done before<br />I just can't beg you any more<br />I'm gonna let your pass<br />And I'll go last<br />Then time will tell just who has fell<br />And who's been left behind<br />When you go your way and I go mine.<br />You say you disturb me<br />And you don't deserve me<br />But you know sometimes you lie<br />You say you're shakin'<br />And you're always achin'<br />But you know how hard you try<br />Sometimes it gets so hard to care<br />It can't be this way everywhere<br />And I'm gonna let you pass<br />Yes, and I'll go last<br />Then time will tell who has fell<br />And who's been left behind<br />When you go your way and I go mine.<br />The judge, he holds a grudge<br />He's gonna call on you<br />But he's badly built<br />And he walks on stilts<br />Watch out he don't fall on you.<br />You say you're sorry<br />For tellin' stories<br />That you know I believe are true<br />You say ya got some<br />Other kinda lover<br />And yes, I believe you do<br />You say my kisses are not like his<br />But this time I'm not gonna tell you why that is<br />I'm just gonna let you pass<br />Yes, and I'll go last<br />Then time will tell who has fell<br />And who's been left behind<br />When you go your way and I go mine<br /><br />#BobDylan #Folk #SingerSongwriter{% endraw %}
