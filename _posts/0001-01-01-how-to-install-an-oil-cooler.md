@@ -1,0 +1,15 @@
+---
+title: "How to Install an OIL COOLER"
+image: "https:\/\/i.ytimg.com\/vi\/ft5ZZQa0zpU\/hqdefault.jpg"
+vid_id: "ft5ZZQa0zpU"
+categories: "Autos-Vehicles"
+tags: ["mighty","car","mods"]
+date: "2021-09-28T11:50:43+03:00"
+vid_date: "2021-09-27T05:49:50Z"
+duration: "PT17M40S"
+viewcount: "190688"
+likeCount: "12208"
+dislikeCount: "75"
+channel: "Mighty Car Mods"
+---
+{% raw %}Oil Coolers! What do they do? Do you need one? does your Turbocharged JDM KEI Truck need one? How do you install one? In this episode we find out!<br /><br />🔔 Hit the bell next to Subscribe so you don't miss a video!<br /><br />Read mode here: <a rel="nofollow" target="blank" href="https://mightycarmods.com/blogs/news/oil-temperature-is-crucial-to-good-engine-health">https://mightycarmods.com/blogs/news/oil-temperature-is-crucial-to-good-engine-health</a><br /><br />Social stuff:<br />Facebook: <a rel="nofollow" target="blank" href="http://www.facebook.com/mightycarmods">http://www.facebook.com/mightycarmods</a><br />Instagram: <a rel="nofollow" target="blank" href="http://www.instagram.com/mightycarmods">http://www.instagram.com/mightycarmods</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/mightycarmods">https://twitter.com/mightycarmods</a><br />TikTok: <a rel="nofollow" target="blank" href="https://www.tiktok.com/@mightycarmods">https://www.tiktok.com/@mightycarmods</a><br /><br />As seen on this Mighty Car Mods Episode:<br />👕 Jack up your car Shirt: <a rel="nofollow" target="blank" href="https://mightycarmods.com/products/jack-up-your-car-t-shirt">https://mightycarmods.com/products/jack-up-your-car-t-shirt</a><br />👕 SPINE SHOCK Shirt: <a rel="nofollow" target="blank" href="https://mightycarmods.com/products/spine-shock-shirt-black-edition">https://mightycarmods.com/products/spine-shock-shirt-black-edition</a><br />🧤 MCM Ninja Gloves: <a rel="nofollow" target="blank" href="https://mightycarmods.com/products/driveway-ninja-gloves">https://mightycarmods.com/products/driveway-ninja-gloves</a><br /><br />Special thanks to:<br />Raceworks fittings and hoses: <a rel="nofollow" target="blank" href="http://raceworks.com.au">http://raceworks.com.au</a><br /><br />Oil thermostat we bought from VCM Performance: <a rel="nofollow" target="blank" href="https://vcmstore.com.au/">https://vcmstore.com.au/</a><br /><br />Also something to note around Mighty Car Mods: we are normal guys and are not trained mechanics. We like to make interesting car mods and show you how we've gone about it, but we can't promise that anything we show you will work for your particular car, or that you won't harm yourself, someone else, your car or your warranty doing it. Please be safe, be responsible and unless you know what you're doing, do not fool around with very serious machinery just because you've seen us make it look so easy. Talk to a qualified mechanic if you are in any doubt. Some of the products featured in this video may be supplied by sponsors. For a list of our current sponsors please go to mightycarmods.com{% endraw %}
