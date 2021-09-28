@@ -1,0 +1,15 @@
+---
+title: "Bob Dylan - Positively 4th Street (Single Version - Audio)"
+image: "https:\/\/i.ytimg.com\/vi\/aehwEu8SBSo\/hqdefault.jpg"
+vid_id: "aehwEu8SBSo"
+categories: "Music"
+tags: ["bob dylan Positively 4th Street","bob dylan","if you see her say hello"]
+date: "2021-09-28T23:55:00+03:00"
+vid_date: "2019-03-11T22:14:57Z"
+duration: "PT4M9S"
+viewcount: "2778288"
+likeCount: "22192"
+dislikeCount: "566"
+channel: "BobDylanVEVO"
+---
+{% raw %}“Positively 4th Street&quot; by Bob Dylan<br />Listen to Bob Dylan: <a rel="nofollow" target="blank" href="https://bobdylan.lnk.to/listenYD">https://bobdylan.lnk.to/listenYD</a><br /><br />Subscribe to the Bob Dylan YouTube channel: <a rel="nofollow" target="blank" href="https://bobdylan.lnk.to/_subscribeYD">https://bobdylan.lnk.to/_subscribeYD</a><br /><br />Follow Bob Dylan:<br />Facebook: <a rel="nofollow" target="blank" href="https://bobdylan.lnk.to/followFI">https://bobdylan.lnk.to/followFI</a><br />Twitter: <a rel="nofollow" target="blank" href="https://bobdylan.lnk.to/followTI">https://bobdylan.lnk.to/followTI</a><br />Instagram: <a rel="nofollow" target="blank" href="https://bobdylan.lnk.to/followII">https://bobdylan.lnk.to/followII</a><br />Website: <a rel="nofollow" target="blank" href="https://bobdylan.lnk.to/followWI">https://bobdylan.lnk.to/followWI</a><br />YouTube: <a rel="nofollow" target="blank" href="https://bobdylan.lnk.to/_subscribeYD">https://bobdylan.lnk.to/_subscribeYD</a><br />Streaming Services: <a rel="nofollow" target="blank" href="https://bobdylan.lnk.to/ss_followYD">https://bobdylan.lnk.to/ss_followYD</a><br /><br />Lyrics:<br />You've got a lotta nerve to say you are my friend<br />When I was down you just stood there grinnin'<br />You've got a lotta nerve to say you got a helping hand to lend<br />You just want to be on the side that's winnin'<br />You say I let you down, ya know its not like that<br />If you're so hurt, why then don't you show it?<br />You say you've lost your faith, but that's not where its at<br />You have no faith to lose, and ya know it<br />I know the reason, that you talked behind my back<br />I used to be among the crowd you're in with<br />Do you take me for such a fool, to think I'd make contact<br />With the one who tries to hide what he don't know to begin with?<br />You see me on the street, you always act surprised<br />You say &quot;how are you?&quot;, &quot;good luck&quot;, but ya don't mean it<br />When you know as well as me, you'd rather see me paralyzed<br />Why don't you just come out once and scream it<br />No, I do not feel that good when I see the heartbreaks you embrace<br />If I was a master thief perhaps I'd rob them<br />And tho I know you're dissatisfied with your position and your place<br />Don't you understand, its not my problem?<br />I wish that for just one time you could stand inside my shoes<br />And just for that one moment I could be you<br />Yes, I wish that for just one time you could stand inside my shoes<br />You'd know what a drag it is to see you<br /><br />#BobDylan #Folk #SingerSongwriter{% endraw %}
