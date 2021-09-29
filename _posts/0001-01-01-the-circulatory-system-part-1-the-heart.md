@@ -1,0 +1,15 @@
+---
+title: "The Circulatory System Part 1: The Heart"
+image: "https:\/\/i.ytimg.com\/vi\/R1kfeURl9Rk\/hqdefault.jpg"
+vid_id: "R1kfeURl9Rk"
+categories: "Education"
+tags: ["heart","heart structure","heart function"]
+date: "2021-09-30T00:52:59+03:00"
+vid_date: "2019-04-04T17:54:32Z"
+duration: "PT9M26S"
+viewcount: "260578"
+likeCount: "4478"
+dislikeCount: "109"
+channel: "Professor Dave Explains"
+---
+{% raw %}The heart! What a symbol of love and affection. But does emotional processing really take place in the heart? Sorry romantics, but no. That's the brain's business. But the heart is still miraculous. It is a completely natural pump whose responsibility it is to circulate blood all over the body to give all the cells the oxygen they need to perform cellular respiration, as well as transporting nutrients and hormones. Let's see how the heart works now!<br /><br />Watch the whole Anatomy &amp; Physiology playlist: <a rel="nofollow" target="blank" href="http://bit.ly/ProfDaveAnatPhys">http://bit.ly/ProfDaveAnatPhys</a><br /><br />General Chemistry Tutorials: <a rel="nofollow" target="blank" href="http://bit.ly/ProfDaveGenChem">http://bit.ly/ProfDaveGenChem</a><br />Organic Chemistry Tutorials: <a rel="nofollow" target="blank" href="http://bit.ly/ProfDaveOrgChem">http://bit.ly/ProfDaveOrgChem</a><br />Biochemistry Tutorials: <a rel="nofollow" target="blank" href="http://bit.ly/ProfDaveBiochem">http://bit.ly/ProfDaveBiochem</a><br />Biology/Genetics Tutorials: <a rel="nofollow" target="blank" href="http://bit.ly/ProfDaveBio">http://bit.ly/ProfDaveBio</a><br />Biopsychology Tutorials: <a rel="nofollow" target="blank" href="http://bit.ly/ProfDaveBiopsych">http://bit.ly/ProfDaveBiopsych</a><br />Microbiology/Infectious Diseases Tutorials: <a rel="nofollow" target="blank" href="http://bit.ly/ProfDaveMicrobio">http://bit.ly/ProfDaveMicrobio</a><br />Pharmacology Tutorials: <a rel="nofollow" target="blank" href="http://bit.ly/ProfDavePharma">http://bit.ly/ProfDavePharma</a><br /><br />History of Drugs Videos: <a rel="nofollow" target="blank" href="http://bit.ly/ProfDaveHistoryDrugs">http://bit.ly/ProfDaveHistoryDrugs</a><br />Immunology Tutorials: <a rel="nofollow" target="blank" href="http://bit.ly/ProfDaveImmuno">http://bit.ly/ProfDaveImmuno</a><br /><br />EMAIL► ProfessorDaveExplains@gmail.com<br />PATREON► <a rel="nofollow" target="blank" href="http://patreon.com/ProfessorDaveExplains">http://patreon.com/ProfessorDaveExplains</a><br /><br />Check out &quot;Is This Wi-Fi Organic?&quot;, my book on disarming pseudoscience!<br />Amazon: <a rel="nofollow" target="blank" href="https://amzn.to/2HtNpVH">https://amzn.to/2HtNpVH</a><br />Bookshop: <a rel="nofollow" target="blank" href="https://bit.ly/39cKADM">https://bit.ly/39cKADM</a><br /><br />Barnes and Noble: <a rel="nofollow" target="blank" href="https://bit.ly/3pUjmrn">https://bit.ly/3pUjmrn</a> <br />Book Depository: <a rel="nofollow" target="blank" href="http://bit.ly/3aOVDlT">http://bit.ly/3aOVDlT</a>{% endraw %}
