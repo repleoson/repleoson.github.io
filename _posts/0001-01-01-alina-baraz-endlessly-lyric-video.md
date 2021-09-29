@@ -1,0 +1,15 @@
+---
+title: "Alina Baraz - Endlessly (lyric video)"
+image: "https:\/\/i.ytimg.com\/vi\/wk7pjDF3IlQ\/hqdefault.jpg"
+vid_id: "wk7pjDF3IlQ"
+categories: "Music"
+tags: ["Alina Baraz","Endlessly","Off The grid"]
+date: "2021-09-29T13:42:43+03:00"
+vid_date: "2020-04-08T18:38:35Z"
+duration: "PT5M2S"
+viewcount: "3538284"
+likeCount: "50331"
+dislikeCount: "469"
+channel: "Alina Baraz"
+---
+{% raw %}From the Album 'It Was Divine' Out Now <br />Listen/Buy here - <a rel="nofollow" target="blank" href="https://smarturl.it/AB_ItWasDivine">https://smarturl.it/AB_ItWasDivine</a><br /><br />Don't forget to subscribe to the Alina Baraz YouTube Channel: <a rel="nofollow" target="blank" href="http://smarturl.it/AlinaBarazSubscribe">http://smarturl.it/AlinaBarazSubscribe</a><br /><br />Follow my Spotify Playlist: <a rel="nofollow" target="blank" href="http://smarturl.it/Alina_VibeWithMe">http://smarturl.it/Alina_VibeWithMe</a><br /><br />Follow Alina Baraz<br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/alinabaraz">https://www.facebook.com/alinabaraz</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/alinabaraz/">https://www.instagram.com/alinabaraz/</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/alinabaraz">https://twitter.com/alinabaraz</a><br />Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/AlinaBarazSpotify">http://smarturl.it/AlinaBarazSpotify</a><br />SoundCloud: <a rel="nofollow" target="blank" href="http://smarturl.it/AlinaBarazSoundCloud">http://smarturl.it/AlinaBarazSoundCloud</a><br />Apple Music: <a rel="nofollow" target="blank" href="http://smarturl.it/AlinaBarazAppleMusic">http://smarturl.it/AlinaBarazAppleMusic</a><br />From the Upcoming Album 'It Was Divine' Out May 2020<br />Listen/Pre-Order here - <a rel="nofollow" target="blank" href="https://www.alinabaraz.com/">https://www.alinabaraz.com/</a><br /><br />Endlessly Lyrics<br /><br />Show me where nobody goes <br />I’m lost in your kaleidoscope <br />I keep getting visions when you coming close<br /><br />I stay on it <br />Top it off I guarantee <br />You done it <br />good as it could ever be  <br />You watchin<br />Give to you you give to me<br /><br />Endlessly <br />You and me<br />All I need <br />Endlessly<br />You and me<br />All I need <br /><br />You read me like a horoscope <br />You lean into me like you  know <br />The way to really love<br />Without me saying so <br /><br />I  stay on it <br />Top it off I guarantee <br />You done it <br />good as it could ever be <br />You watchin<br />Give to you you give to me<br /><br />Endlessly <br />You and me<br />All I need <br />Endlessly<br />You and me<br />All I need <br /><br />I Give it all <br />You Give it all<br /><br />Endlessly <br />You and me<br />All I need <br />Endlessly<br />You and me<br />All I need <br /><br />So I give it like that <br />And then you give it right back <br />And then I give it like that that that that<br /><br />//<br /><br />Call me when you get home<br />Call me when you’re alone <br />I just wanna say some<br />I don’t wanna wait long no{% endraw %}
