@@ -1,0 +1,15 @@
+---
+title: "6 Steps to Formulate a STRONG Hypothesis | Scribbr 🎓"
+image: "https:\/\/i.ytimg.com\/vi\/PCgLjDDD4ek\/hqdefault.jpg"
+vid_id: "PCgLjDDD4ek"
+categories: "Education"
+tags: ["scribbr","academic writing","Hypothesis"]
+date: "2021-09-29T10:52:34+03:00"
+vid_date: "2019-11-15T14:12:36Z"
+duration: "PT3M31S"
+viewcount: "255290"
+likeCount: "4774"
+dislikeCount: "100"
+channel: "Scribbr"
+---
+{% raw %}Hypotheses are an essential part of scientific research, but formulating a strong hypothesis takes some skills. This video will guide you through the 6 steps you need to write a strong hypothesis for your research. <br /><br />Intro - 0:00<br />Definition: 0:17<br />Step 1 - Ask a question: 0:37 <br />Step 2 - Do some preliminary research: 0:52<br />Step 3 - Formulate your hypothesis: 1:15 <br />Step 4 - Refine the hypothesis: 1:30<br />Step 5 - 3 ways to phrase your hypothesis 1:51 <br />Step 6 - Write a null hypothesis 2:45<br /><br />See more examples of hypotheses here ► <a rel="nofollow" target="blank" href="https://www.scribbr.com/research-process/hypotheses/?utm_source=youtube&amp;utm_medium=description&amp;utm_campaign=hypothesis">https://www.scribbr.com/research-process/hypotheses/?utm_source=youtube&amp;utm_medium=description&amp;utm_campaign=hypothesis</a> <br /><br />Check out other Scribbr Knowledge Base articles here ►<a rel="nofollow" target="blank" href="https://www.scribbr.com/knowledge-base/?utm_source=youtube&amp;utm_medium=description">https://www.scribbr.com/knowledge-base/?utm_source=youtube&amp;utm_medium=description</a><br />***************************************************<br />Academic Writing Resources:<br /><br />APA Citation Generator ► <a rel="nofollow" target="blank" href="https://www.scribbr.com/apa-citation-generator/?utm_source=youtube&amp;utm_medium=description">https://www.scribbr.com/apa-citation-generator/?utm_source=youtube&amp;utm_medium=description</a><br /><br />Plagiarism Checker ► <a rel="nofollow" target="blank" href="https://www.scribbr.com/plagiarism-checker/?utm_source=youtube&amp;utm_medium=description">https://www.scribbr.com/plagiarism-checker/?utm_source=youtube&amp;utm_medium=description</a><br /><br />Proofreading &amp; Editing Service ► <a rel="nofollow" target="blank" href="https://www.scribbr.com/proofreading-editing/?utm_source=youtube&amp;utm_medium=description">https://www.scribbr.com/proofreading-editing/?utm_source=youtube&amp;utm_medium=description</a><br /><br />****************************************************<br /><br />CONNECT WITH US:<br />Scribbr ► <a rel="nofollow" target="blank" href="https://scribbr.com">https://scribbr.com</a><br />YouTube ► <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCrDcofIg9AJ3Ky3BGuMnqqw?sub_confirmation=1">https://www.youtube.com/channel/UCrDcofIg9AJ3Ky3BGuMnqqw?sub_confirmation=1</a><br />Instagram ► <a rel="nofollow" target="blank" href="https://www.instagram.com/scribbr_/">https://www.instagram.com/scribbr_/</a>{% endraw %}
