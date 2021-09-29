@@ -1,0 +1,15 @@
+---
+title: "HVOB – A List"
+image: "https:\/\/i.ytimg.com\/vi\/Gekh-6OLUFc\/hqdefault.jpg"
+vid_id: "Gekh-6OLUFc"
+categories: "Music"
+tags: ["HVOB","a list","rocco"]
+date: "2021-09-29T18:12:23+03:00"
+vid_date: "2019-03-08T08:39:41Z"
+duration: "PT5M13S"
+viewcount: "172708"
+likeCount: "3619"
+dislikeCount: "48"
+channel: "HVOBmusic"
+---
+{% raw %}The track is taken from the album Rocco <br />released March 15, 2019 <br /> <br />Get Rocco: <br /><a rel="nofollow" target="blank" href="https://smarturl.it/hvob-rocco">https://smarturl.it/hvob-rocco</a><br /><br />Rocco Concert Tour: <br />www.hvob-music.com <br /><br />Written and produced by HVOB <br />© PIAS<br /><br />Directed &amp; edited by Jaś Maciek Misewski<br />All footage licensed and copyrighted to Jan Maciek Miszewski ©️ 2016. Any form of reproduction or reinterpretation will result in legal action.<br /><br />–––<br />Director‘s Statement:<br /><br />Anna Margarethe van der Merwe (nee Roux) was born on the 24th of December 1904 in the small farming town of Worcester in the Western Cape of South Africa. Known to me as my great grandmother - Ouma Annie.<br /><br />Growing up I was totally unaware that I had a filmmaker in the family. When her son passed (my grandfather) some years back, I inherited all of her 16mm &amp; 8mm footage shot between the 1920’s and 1960’s. What started as a casual trip down memory lane through old family footage, soon turned into an exploration of human society’s and behavior around the world.<br /><br />As a young South African woman, my Ouma Annie was lucky enough to travel the world, documenting her experiences with her Arriflex Super 16 camera. In essence, this is her film.<br /><br />Whilst sorting through about 250 hours of footage, I was consistently taken aback by her choice of framing, her use of camera movement, her fascination with loners and her completely unobtrusive approach to capturing her subjects. I have been told that she was a quite dreamer. The perfect candidate to assume a fly on the wall position.<br /><br />Making this film has been an exercise in micro-storytelling. I was presented with all of this material and my job was to assign meaning through the cut. I find it incredibly fascinating how associative our brains can be and how quickly this process happens. Within a matter of milliseconds we can develop a story from one image to the next. It’s what I love most about this project, that everyone will take their own personal meaning from the images based on their own life experiences.<br /><br />I believe the aberrations of the film stock are complemented by the swing of the song. The whole movement of the song called for a slower and more considered imagery that although held your attention, still flickered between what may be dreams or reality.<br />Every frame is a tiny story – full of camaraderie, problem solving, history, loss, gain, forgotten cities, family, childhood, rituals and natures’ wonder. It has been a pleasure to vacation from the modern world, if only for six minutes.{% endraw %}
