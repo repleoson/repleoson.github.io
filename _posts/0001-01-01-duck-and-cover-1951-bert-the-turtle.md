@@ -1,0 +1,15 @@
+---
+title: "Duck And Cover (1951) Bert The Turtle"
+image: "https:\/\/i.ytimg.com\/vi\/IKqXu-5jw60\/hqdefault.jpg"
+vid_id: "IKqXu-5jw60"
+categories: "Education"
+tags: ["film","propaganda","astoria"]
+date: "2021-09-30T02:20:06+03:00"
+vid_date: "2009-07-12T00:29:35Z"
+duration: "PT9M15S"
+viewcount: "3525151"
+likeCount: "24046"
+dislikeCount: "641"
+channel: "Nuclear Vault"
+---
+{% raw %}Duck and Cover staring Bert the Turtle is a 1951 Civil Defense Film<br /><br />Written by Raymond J. Mauer and directed by Anthony Rizzo of Archer Productions and made with the help of schoolchildren from New York City and Astoria, New York, it was shown in schools as the cornerstone of the government's &quot;duck and cover&quot; public awareness campaign.<br /><br />According to the United States Library of Congress (which declared the film &quot;historically significant&quot; and inducted it for preservation into the National Film Registry in 2004), it &quot;was seen by millions of schoolchildren in the 1950s.&quot;<br /><br />Duck and Cover lyrics:<br />There was a turtle by the name of Bert<br />and Bert the turtle was very alert;<br />when danger threatened him he never got hurt<br />he knew just what to do...<br />He'd duck!<br />And cover!<br />Duck!<br />And cover! (male) He did what we all must learn to do<br />(male) You (female) And you (male) And you (deeper male) And you!'<br />Duck, and cover!'<br /><br />Duck and Cover (film) From Wikipedia, the free encyclopedia<br /><a rel="nofollow" target="blank" href="http://en.wikipedia.org/wiki/Duck_and_Cover_(film)">http://en.wikipedia.org/wiki/Duck_and_Cover_(film)</a><br /><br />The Unexpected Return of 'Duck and Cover' - The Atlantic<br /><a rel="nofollow" target="blank" href="http://www.theatlantic.com/national/archive/2011/01/the-unexpected-return-of-duck-and-cover/68776/">http://www.theatlantic.com/national/archive/2011/01/the-unexpected-return-of-duck-and-cover/68776/</a><br /><br />Production History of Duck and Cover<br /><a rel="nofollow" target="blank" href="http://www.conelrad.com/duckandcover/cover.php?turtle=01">http://www.conelrad.com/duckandcover/cover.php?turtle=01</a><br /><br />Duck and Cover is a civil defense social guidance film that is often popularly mischaracterized as propaganda.<br /><br />Film production started in 1951 and it gained its first public screening in January 1952 during the era after the Soviet Union began nuclear testing in 1949 and the Korean War (1950–53) was in full swing.<br /><br />Funded by the US Federal Civil Defense Administration, it was written by Raymond J. Mauer, directed by Anthony Rizzo of Archer Productions, narrated by actor Robert Middleton and made with the help of schoolchildren from New York City and Astoria, New York.<br /><br />It was shown in schools as the cornerstone of the government's &quot;duck and cover&quot; public awareness campaign, being aired to generations of United States school children from the early 1950s until 1991, which marked the end of the Cold War.<br /><br />The US government contracted with Archer to produce Duck and Cover.{% endraw %}
