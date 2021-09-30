@@ -1,0 +1,15 @@
+---
+title: "Surfaces - Take Some Time (Official Audio)"
+image: "https:\/\/i.ytimg.com\/vi\/zmDBIFtdawc\/hqdefault.jpg"
+vid_id: "zmDBIFtdawc"
+categories: "Music"
+tags: ["surfaces","surfaces time some time official audio","take some time surfaces"]
+date: "2021-09-30T15:53:50+03:00"
+vid_date: "2019-07-19T04:00:04Z"
+duration: "PT3M22S"
+viewcount: "855626"
+likeCount: "16446"
+dislikeCount: "116"
+channel: "Surfaces"
+---
+{% raw %}Surfaces - Take Some Time (Official Audio)<br /><br />stream everywhere: <a rel="nofollow" target="blank" href="https://surfaces.lnk.to/TakeSomeTime">https://surfaces.lnk.to/TakeSomeTime</a><br /><br />instagram - <a rel="nofollow" target="blank" href="http://instagram.com/surfacesmusic">http://instagram.com/surfacesmusic</a><br />spotify - <a rel="nofollow" target="blank" href="https://spoti.fi/32j1Gdh">https://spoti.fi/32j1Gdh</a><br />soundcloud - <a rel="nofollow" target="blank" href="http://soundcloud.com/surfaces-music">http://soundcloud.com/surfaces-music</a><br />twitter - <a rel="nofollow" target="blank" href="https://twitter.com/surfacesmusic">https://twitter.com/surfacesmusic</a><br />facebook - <a rel="nofollow" target="blank" href="https://facebook.com/surfacesmusic">https://facebook.com/surfacesmusic</a><br /><br />lyrics:<br /><br />a perfect afternoon<br />to feel this lovely<br />so i stay <br />where its sunny<br />and i call you<br />to come and meet me<br />you said cool<br />give me 15<br />we grab some sand out by the beach<br />enough to fill an hourglass for eternity<br />you take my hand then you ask me<br />are you sure this life’s your dream?<br /><br />and i say <br />it may take some time to find what you're looking for<br />i swear i never wanted more<br />yeah i say <br />it may take some time to find what you’re looking for<br />so baby whatcha lookin for? <br /><br />then we hit the road<br />cruisin' seaside<br />highway one<br />arm was outside<br />flap our wings<br />learnin' to fly<br />we take-off<br />to feel the pink skies<br />you find the map in my glove box<br />just to see the lines we've crossed<br />you ask me where is the drop-off<br />are you sure we’re not just lost? <br /><br />and i say <br />it may take some time to find what you’re looking for<br />i swear i never wanted more<br />yeah i say <br />it may take some time to find what you're looking for<br />so baby whatcha lookin for?<br /><br />oh it might take some time to right your wrongs<br />the ink won’t dry until we draw <br />so let’s go out and find where we belong<br />and when you wonder if it’s worth it all<br />to trip over the lines we saw<br />i’ll be there to catch you when you fall<br /><br />and i say <br />it may take some time to find what you’re looking for<br />i swear i never wanted more<br />yeah i say <br />it may take some time to find what you're looking for<br />so baby whatcha lookin for?<br /><br />Visualizer by: Bryan Schmier<br />Visualizer by Surfaces performing Take Some Time. © 2019 TenThousand Projects, LLC{% endraw %}
