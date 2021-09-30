@@ -1,0 +1,579 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
+    <link rel="dns-prefetch" href="//images1-focus-opensocial.googleusercontent.com" />
+    <link rel="dns-prefetch" href="//static.addtoany.com" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="msvalidate.01" content="B8A25537AAF9937E20F7D91657E6264D">
+    <meta name="yandex-verification" content="4fbd47676dc8c0ae">
+    <meta name="google-site-verification" content="rQqb6AA5bVlMq3k9Xv-GWec-Bsuc1TIrOnYqHSwzCUw">
+    <meta charset="UTF-8" />
+    <title>C Programming Tutorial for Beginners</title>
+    <meta name="description" content="This course will give you a full introduction into all of the core concepts in the C programming language.Want more from Mike? ...">
+	<meta name="keywords" content="c tutorial,c course,c programming language">
+    <meta property="og:site_name" content="Repleoson">
+    <meta property="og:url" content="https://repleoson.github.io/c-programming-tutorial-for-beginners.html">
+    <meta property="og:title" content="C Programming Tutorial for Beginners">
+    <meta property="og:image" content="https://i.ytimg.com/vi/KJgsSFOSQv0/hqdefault.jpg">
+    <meta property="og:description" content="This course will give you a full introduction into all of the core concepts in the C programming language.Want more from Mike? ...">
+    <meta name='twitter:card' content='summary_large_image' />
+    <link rel="canonical" href="https://repleoson.github.io/c-programming-tutorial-for-beginners.html" />
+    <script type="application/ld+json">
+      {
+        "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://repleoson.github.io/c-programming-tutorial-for-beginners.html"
+        },
+        "@context":"https://schema.org",
+        "@type":"BlogPosting",
+        "headline":"C Programming Tutorial for Beginners",
+        "keywords": "c tutorial,c course,c programming language",
+        "description": "This course will give you a full introduction into all of the core concepts in the C programming language.Want more from Mike? He’s starting a coding RPG/Bootcamp - https://simulator.dev/⭐️ Course Contents ⭐️⌨️ (0:00:00) Introduction⌨️ (0:01:22) Windows Setup⌨️ (0:05:02) Mac Setup⌨️ (0:09:04) Hello World⌨️ (0:12:51) Drawing a Shape⌨️ (0:20:56) Variables⌨️ (0:32:25) Data Types⌨️ (0:38:32) Printf⌨️ (0:45:22) Working With Numbers⌨️ (0:52:20) Comments⌨️ (0:56:00) Constants⌨️ (1:00:13) Getting User Input⌨️ (1:12:08) Building a Basic Calculator⌨️ (1:17:43) Building a Mad Libs Game⌨️ (1:26:29) Arr...",
+        "url":"https://repleoson.github.io/c-programming-tutorial-for-beginners.html",
+        "image":"https://i.ytimg.com/vi/KJgsSFOSQv0/hqdefault.jpg",
+        "datePublished":"2021-09-30T13:27:14+00:00",
+        "dateModified":"2021-09-30T13:27:14+00:00",
+          "author":{
+            "@type":"Person",
+            "name":"Repleoson"
+          },
+         "publisher":{
+            "@type":"Organization",
+            "name":"Repleoson",
+            "url":"https://repleoson.github.io/",
+            "logo":{
+               "@type":"ImageObject",
+               "url":"https://repleoson.github.io/logo.png"
+          }
+        }
+      }
+    </script>
+    <link rel="stylesheet" href="https://repleoson.github.io/inc/main.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css">
+</head>
+<body class="bg-light">
+    <nav class="navbar mb-3 navbar-expand-lg navbar-light bg-white mb-4 shadow-sm">
+        <div class="container py-2"><a class="navbar-brand" href="https://repleoson.github.io/">Repleoson</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-urls" aria-controls="navbar-urls" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <form
+                action="/search/" class="my-2 my-lg-0 offset-md-2 col-md-6 col-sm-12 px-0 mr-auto">
+                <div class="input-group"><input name="s" class="form-control rounded-0 py-2" type="text" placeholder="video search..." id="example-search-input"><span class="input-group-append"><button aria-label="search" role="button" class="btn btn-secondary rounded-0" type="submit"><span class="px-2"><svg class="svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg></span></button>
+                    </span>
+                </div>
+                </form>
+                <div class="collapse navbar-collapse flex-md-grow-0" id="navbar-urls">
+
+                </div>
+        </div>
+    </nav>
+    <div class="container min-height-62" >
+        <div class="resp-container" id="top_720"></div>
+        <div class="row">
+            <div class="col-12 col-md-8">
+                <div class="bg-white"><noscript><a href="https://www.youtube.com/watch?v=KJgsSFOSQv0"><img alt="C Programming Tutorial for Beginners" src="https://i.ytimg.com/vi/KJgsSFOSQv0/hqdefault.jpg" /></a></noscript>
+                    <div id="video-player"></div>
+                    <div class="p-3">
+                        <h1 class="h5 video-title bwr">C Programming Tutorial for Beginners</h1>
+                        <div class="py-1 row">
+                            <div class="col-12 col-md-6 my-auto"><b class="text-danger">Share this & earn $10</b></div>
+                            <div class="col-12 col-md-6">
+                                <div class="a2a_kit a2a_kit_size_32 a2a_default_style"><a class="a2a_dd" href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_reddit"></a><a class="a2a_button_facebook_messenger"></a><a class="a2a_button_whatsapp"></a></div>
+                            </div>
+                        </div>
+                        <div align="center" class="py-1">
+
+                        </div>
+                        <div class="py-1">
+                            <div class="row">
+                                <div class="col-12 col-md-6">
+                                    <div class="mb-2 bwr"><strong>freeCodeCamp.org</strong><br> Published at : 30 Sep 2021  </div>
+                                </div>
+                                <div class="col-12 col-md-6">
+                                    <div class="h-100 d-flex align-items-center justify-content-center"><a  target="_blank" rel="noopener" class="btn btn-block btn-danger bwr" href="https://www.youtube.com/watch?v=KJgsSFOSQv0">Subscribe to freeCodeCamp.org</a></div>
+                                </div>
+                            </div>
+                            <div class="resp-container" id="in_post_bottomads"></div>
+                        </div>
+                        <div class="py-1">
+                            <div class="row">
+                                <div class="col-12 col-md-6">
+                                    <div class="text-center bg-light mb-2 p-1 bwr"><span><span class="pr-1"><svg class="svg-inline--fa fa-eye fa-w-18" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M569.354 231.631C512.969 135.949 407.81 72 288 72 168.14 72 63.004 135.994 6.646 231.631a47.999 47.999 0 0 0 0 48.739C63.031 376.051 168.19 440 288 440c119.86 0 224.996-63.994 281.354-159.631a47.997 47.997 0 0 0 0-48.738zM288 392c-75.162 0-136-60.827-136-136 0-75.162 60.826-136 136-136 75.162 0 136 60.826 136 136 0 75.162-60.826 136-136 136zm104-136c0 57.438-46.562 104-104 104s-104-46.562-104-104c0-17.708 4.431-34.379 12.236-48.973l-.001.032c0 23.651 19.173 42.823 42.824 42.823s42.824-19.173 42.824-42.823c0-23.651-19.173-42.824-42.824-42.824l-.032.001C253.621 156.431 270.292 152 288 152c57.438 0 104 46.562 104 104z"></path></svg></span>                                        5089362 views </span>
+                                    </div>
+                                </div>
+                                <div class="col-12 col-md-6">
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <div class="text-center bg-light p-1 bwr"><span><span class="pr-1"><svg class="svg-inline--fa fa-thumbs-up fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M104 224H24c-13.255 0-24 10.745-24 24v240c0 13.255 10.745 24 24 24h80c13.255 0 24-10.745 24-24V248c0-13.255-10.745-24-24-24zM64 472c-13.255 0-24-10.745-24-24s10.745-24 24-24 24 10.745 24 24-10.745 24-24 24zM384 81.452c0 42.416-25.97 66.208-33.277 94.548h101.723c33.397 0 59.397 27.746 59.553 58.098.084 17.938-7.546 37.249-19.439 49.197l-.11.11c9.836 23.337 8.237 56.037-9.308 79.469 8.681 25.895-.069 57.704-16.382 74.757 4.298 17.598 2.244 32.575-6.148 44.632C440.202 511.587 389.616 512 346.839 512l-2.845-.001c-48.287-.017-87.806-17.598-119.56-31.725-15.957-7.099-36.821-15.887-52.651-16.178-6.54-.12-11.783-5.457-11.783-11.998v-213.77c0-3.2 1.282-6.271 3.558-8.521 39.614-39.144 56.648-80.587 89.117-113.111 14.804-14.832 20.188-37.236 25.393-58.902C282.515 39.293 291.817 0 312 0c24 0 72 8 72 81.452z"></path></svg></span>                                                97727 </span>
+                                            </div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="text-center bg-light p-1 bwr"><span><span class="pr-1"><svg class="svg-inline--fa fa-thumbs-down fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M0 56v240c0 13.255 10.745 24 24 24h80c13.255 0 24-10.745 24-24V56c0-13.255-10.745-24-24-24H24C10.745 32 0 42.745 0 56zm40 200c0-13.255 10.745-24 24-24s24 10.745 24 24-10.745 24-24 24-24-10.745-24-24zm272 256c-20.183 0-29.485-39.293-33.931-57.795-5.206-21.666-10.589-44.07-25.393-58.902-32.469-32.524-49.503-73.967-89.117-113.111a11.98 11.98 0 0 1-3.558-8.521V59.901c0-6.541 5.243-11.878 11.783-11.998 15.831-.29 36.694-9.079 52.651-16.178C256.189 17.598 295.709.017 343.995 0h2.844c42.777 0 93.363.413 113.774 29.737 8.392 12.057 10.446 27.034 6.148 44.632 16.312 17.053 25.063 48.863 16.382 74.757 17.544 23.432 19.143 56.132 9.308 79.469l.11.11c11.893 11.949 19.523 31.259 19.439 49.197-.156 30.352-26.157 58.098-59.553 58.098H350.723C358.03 364.34 384 388.132 384 430.548 384 504 336 512 312 512z"></path></svg></span>                                                1975 </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <hr/>
+                        <div class="py-1 d-md-block bwr" id="video-description"><p>This course will give you a full introduction into all of the core concepts in the C programming language.<br />Want more from Mike? He’s starting a coding RPG/Bootcamp - <a rel="nofollow" target="blank" href="https://simulator.dev/">https://simulator.dev/</a><br /><br />⭐️ Course Contents ⭐️<br />⌨️ (0:00:00) Introduction<br />⌨️ (0:01:22) Windows Setup<br />⌨️ (0:05:02) Mac Setup<br />⌨️ (0:09:04) Hello World<br />⌨️ (0:12:51) Drawing a Shape<br />⌨️ (0:20:56) Variables<br />⌨️ (0:32:25) Data Types<br />⌨️ (0:38:32) Printf<br />⌨️ (0:45:22) Working With Numbers<br />⌨️ (0:52:20) Comments<br />⌨️ (0:56:00) Constants<br />⌨️ (1:00:13) Getting User Input<br />⌨️ (1:12:08) Building a Basic Calculator<br />⌨️ (1:17:43) Building a Mad Libs Game<br />⌨️ (1:26:29) Arrays<br />⌨️ (1:36:44) Functions<br />⌨️ (1:45:37) Return Statement<br />⌨️ (1:53:21) If Statements<br />⌨️ (2:07:11) Building a Better Calculator<br />⌨️ (2:14:51) Switch Statements<br />⌨️ (2:21:27) Structs<br />⌨️ (2:29:43) While Loops<br />⌨️ (2:37:48) Building a Guessing Game<br />⌨️ (2:50:11) For Loops<br />⌨️ (2:59:05) 2D Arrays &amp; Nested Loops<br />⌨️ (3:09:10) Memory Addresses<br />⌨️ (3:17:20) Pointers<br />⌨️ (3:27:41) Dereferencing Pointers<br />⌨️ (3:32:37) Writing Files<br />⌨️ (3:41:52) Reading Files<br /><br />Course developed by Mike Dane. Check out his YouTube channel for more great programming courses: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw">https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw</a><br /><br />🐦Follow Mike on Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/GiraffeAcademy">https://twitter.com/GiraffeAcademy</a><br /><br />🔗The Giraffe Academy website: <a rel="nofollow" target="blank" href="http://www.giraffeacademy.com/">http://www.giraffeacademy.com/</a><br /><br />⭐️Other full courses by Giraffe Academy on our channel ⭐️<br />💻Python: <a rel="nofollow" target="blank" href="https://youtu.be/rfscVS0vtbw">https://youtu.be/rfscVS0vtbw</a><br />💻SQL: <a rel="nofollow" target="blank" href="https://youtu.be/HXV3zeQKqGY">https://youtu.be/HXV3zeQKqGY</a><br />💻Ruby: <a rel="nofollow" target="blank" href="https://youtu.be/t_ispmWmdjY">https://youtu.be/t_ispmWmdjY</a><br />💻PHP: <a rel="nofollow" target="blank" href="https://youtu.be/OK_JCtrrv-c">https://youtu.be/OK_JCtrrv-c</a><br /><br />–<br /><br />Learn to code for free and get a developer job: <a rel="nofollow" target="blank" href="https://www.freecodecamp.org">https://www.freecodecamp.org</a><br /><br />Read hundreds of articles on programming: <a rel="nofollow" target="blank" href="https://medium.freecodecamp.org">https://medium.freecodecamp.org</a><br /><br />And subscribe for new videos on technology every day: <a rel="nofollow" target="blank" href="https://youtube.com/subscription_center?add_user=freecodecamp">https://youtube.com/subscription_center?add_user=freecodecamp</a></p>
+</div>
+                        <div class="d-none"><span>c tutorial</span><span>c course</span><span>c programming language</span></div>
+                        <hr/>
+                        <div class="py-3"><div class="resp-container" id="extra_bottomads"><iframe data-aa="1774389" src="//ad.a-ads.com/1774389?size=468x60" style="width:468px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;" ></iframe>
+</div></div>
+                    </div>
+                </div>
+                <div class="position-sticky fixed-top d-md-block d-none">
+                    <div align="center" class="py-2">
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4">
+            <div class="mb-4">
+                <div class="resp-container py-3" id="sidebar_300"></div>
+            </div>
+                
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/an-exceedingly-excellent-your-mother-joke.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/74caHY-DKas/mqdefault.jpg" alt="An exceedingly excellent your mother joke">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">An exceedingly excellent your mother joke</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/this-game-is-kingdoms-and-castles-2-0-mixed-with-they-are-billions-dip.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/EKFj-x737cY/mqdefault.jpg" alt="This Game Is Kingdoms and Castles 2.0 MIXED With They Are Billions! - Diplomacy Is Not An Option">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">This Game Is Kingdoms and Castles 2.0 MIXED With They Are Billions! - Diplomacy Is Not An Option</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/12-most-amazing-things-that-really-exist.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/ZxC_8h7re6E/mqdefault.jpg" alt="12 Most Amazing Things That Really Exist">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">12 Most Amazing Things That Really Exist</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/getting-ready-for-my-first-day-of-school-vlog-junior-year.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/ZDsVYIJo8H0/mqdefault.jpg" alt="GETTING READY FOR MY FIRST DAY OF SCHOOL &amp; vlog!! *junior year*">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">GETTING READY FOR MY FIRST DAY OF SCHOOL &amp; vlog!! *junior year*</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/sold-my-first-watch-sport-rolex-s-in-displays-watch-life-6.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/WxP8CEacXXA/mqdefault.jpg" alt="Sold My First Watch &amp; Sport ROLEX&#39;s in Displays!? - WATCH LIFE #6">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Sold My First Watch &amp; Sport ROLEX&#39;s in Displays!? - WATCH LIFE #6</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/the-key-to-transforming-yourself-robert-greene-at-tedxbrixton.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/gLt_yDvdeLQ/mqdefault.jpg" alt="The key to transforming yourself -- Robert Greene at TEDxBrixton">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">The key to transforming yourself -- Robert Greene at TEDxBrixton</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/taliban-s-special-forces-stand-guard-to-ensure-security-of-kabul-airpo.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/nSS_AE1XH_M/mqdefault.jpg" alt="Taliban&#39;s special forces stand guard to ensure security of Kabul airport">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Taliban&#39;s special forces stand guard to ensure security of Kabul airport</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/which-restroom-should-wolfoo-go-to-kids-stories-about-potty-training-w.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/_Hke01vqJHs/mqdefault.jpg" alt="Which Restroom Should Wolfoo Go to? - Kids Stories About Potty Training With Wolfoo | Wolfoo Family">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Which Restroom Should Wolfoo Go to? - Kids Stories About Potty Training With Wolfoo | Wolfoo Family</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/vintage-culture-wolf-player-jets-things.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/ldPFWj62qtU/mqdefault.jpg" alt="Vintage Culture, Wolf Player, Jets - Things">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Vintage Culture, Wolf Player, Jets - Things</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/belly-maintain-feat-nav.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/WRf33KFgPfI/mqdefault.jpg" alt="Belly - Maintain (feat. NAV)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Belly - Maintain (feat. NAV)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/forget.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/vOreqez4v9Y/mqdefault.jpg" alt="Forget">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Forget</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/khalid-location-official-video.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/by3yRdlQvzs/mqdefault.jpg" alt="Khalid - Location (Official Video)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Khalid - Location (Official Video)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/admiral-freebee-ever-present-live.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/xiaxP3PJaNY/mqdefault.jpg" alt="Admiral Freebee - Ever Present (Live)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Admiral Freebee - Ever Present (Live)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/shorty-x-shelby-soldiers-official-music-video.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/Da21gqD5w2k/mqdefault.jpg" alt="Shorty x Shelby - SOLDIERS - Official Music Video">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Shorty x Shelby - SOLDIERS - Official Music Video</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/g-eazy-instructions-audio-ft-yg.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/BPZR4YM8Kg4/mqdefault.jpg" alt="G-Eazy - Instructions (Audio) ft. YG">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">G-Eazy - Instructions (Audio) ft. YG</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/how-to-cope-with-anxiety-olivia-remes-tedxuhasselt.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/WWloIAQpMcQ/mqdefault.jpg" alt="How to cope with anxiety | Olivia Remes | TEDxUHasselt">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">How to cope with anxiety | Olivia Remes | TEDxUHasselt</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/jason-aldean-blame-it-on-you-official-audio.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/XyR3uj8VBrk/mqdefault.jpg" alt="Jason Aldean - Blame It On You (Official Audio)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Jason Aldean - Blame It On You (Official Audio)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/methods-in-java.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/r0SewFmbCUI/mqdefault.jpg" alt="Methods in Java">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Methods in Java</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/hooligan-hefs-no-effect-official-music-video.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/7oqITgNu0x0/mqdefault.jpg" alt="Hooligan Hefs - No Effect (Official Music Video)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Hooligan Hefs - No Effect (Official Music Video)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/inflammation-causes-symptoms-diagnosis-treatment-pathology.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/LaG3nKGotZs/mqdefault.jpg" alt="Inflammation - causes, symptoms, diagnosis, treatment, pathology">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Inflammation - causes, symptoms, diagnosis, treatment, pathology</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/remember-the-name-official-video-fort-minor.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/VDvr08sCPOc/mqdefault.jpg" alt="Remember The Name (Official Video) - Fort Minor">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Remember The Name (Official Video) - Fort Minor</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/gk-for-kids-kids-kids-questions-that-children-must-know.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/CyZNVfhJ4vE/mqdefault.jpg" alt="Gk for kids || KIDS+KIDS || Questions that children must know">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Gk for kids || KIDS+KIDS || Questions that children must know</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/30-healthy-habit-hacks-you-need-to-know.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/EhMdChazw6Q/mqdefault.jpg" alt="30 Healthy Habit Hacks You Need To Know!">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">30 Healthy Habit Hacks You Need To Know!</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/tools-jigs-to-increase-capacity-and-efficiency-in-a-small-workshop.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/bf-xeuTrar0/mqdefault.jpg" alt="Tools + Jigs To Increase Capacity and Efficiency In A Small Workshop">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Tools + Jigs To Increase Capacity and Efficiency In A Small Workshop</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/a-terrific-dancing-trio-performs.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/AcMmLmvOYTo/mqdefault.jpg" alt="A Terrific Dancing Trio Performs!">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">A Terrific Dancing Trio Performs!</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/jason-mraz-lucky-feat-colbie-caillat-official-video.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/acvIVA9-FMQ/mqdefault.jpg" alt="Jason Mraz - Lucky (feat. Colbie Caillat) [Official Video]">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Jason Mraz - Lucky (feat. Colbie Caillat) [Official Video]</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/camping-in-the-forest-watch-out-for-bigfoot-sasquatch.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/nPdLn7mZElA/mqdefault.jpg" alt="Camping In The Forest 🏕️ Watch Out For Bigfoot (Sasquatch)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Camping In The Forest 🏕️ Watch Out For Bigfoot (Sasquatch)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/prone-position-for-covid-19-patients-proning-breathing-exercises-for-c.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/3kv-42xU8GA/mqdefault.jpg" alt="Prone position for Covid-19 patients / Proning breathing exercises for Covid-19 patients">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Prone position for Covid-19 patients / Proning breathing exercises for Covid-19 patients</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/magically-turning-into-balloons.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/Yrct2LNkHu4/mqdefault.jpg" alt="Magically Turning into Balloons">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Magically Turning into Balloons</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/nate-rose-you-would-audio.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/7-ONK31jJAU/mqdefault.jpg" alt="Nate Rose - You Would (Audio)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Nate Rose - You Would (Audio)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/english-grammar-contrast-words-although-despite.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/no_LhGoOvVs/mqdefault.jpg" alt="English Grammar: Contrast Words, Although &amp; Despite">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">English Grammar: Contrast Words, Although &amp; Despite</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/dead-target-zombie-challenge-golden-sound-breaker-1-zombie-venom-andro.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/M6rAM-v_6vw/mqdefault.jpg" alt="DEAD TARGET: Zombie || CHALLENGE Golden Sound Breaker - 1 zombie Venom「Android Gameplay」">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">DEAD TARGET: Zombie || CHALLENGE Golden Sound Breaker - 1 zombie Venom「Android Gameplay」</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/how-to-draw-a-cute-ice-cream-cone.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/UW6H5dAPuhY/mqdefault.jpg" alt="How To Draw A Cute Ice Cream Cone">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">How To Draw A Cute Ice Cream Cone</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/quitting-my-job-with-courtesy.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/a_gYlzhGc6w/mqdefault.jpg" alt="Quitting my job with courtesy.">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Quitting my job with courtesy.</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/alone-again-naturally-gilbert-o-sullivan-lyrics.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/PY4c_r5VY8c/mqdefault.jpg" alt="Alone Again Naturally Gilbert O`Sullivan Lyrics">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Alone Again Naturally Gilbert O`Sullivan Lyrics</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/taking-a-walk-in-space-september-13-2021.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/T3PZyt2_Of0/mqdefault.jpg" alt="Taking A Walk In Space | September 13, 2021">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Taking A Walk In Space | September 13, 2021</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/nav-some-way-ft-the-weeknd-official-music-video.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/MRLyREkZles/mqdefault.jpg" alt="NAV - Some Way ft. The Weeknd (Official Music Video)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">NAV - Some Way ft. The Weeknd (Official Music Video)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/make-sure.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/SgpolDyJxy8/mqdefault.jpg" alt="make sure → 올바른 이해와 활용">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">make sure → 올바른 이해와 활용</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/5-fragrances-that-may-be-discontinued-soon-or-already-are-discontinued.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/VOER9WwHU-M/mqdefault.jpg" alt="5 Fragrances That MAY Be DISCONTINUED Soon (Or Already Are) - Discontinued Fragrances">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">5 Fragrances That MAY Be DISCONTINUED Soon (Or Already Are) - Discontinued Fragrances</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/the-offspring-you-re-gonna-go-far-kid-official-music-video.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/ql9-82oV2JE/mqdefault.jpg" alt="The Offspring - You&#39;re Gonna Go Far, Kid (Official Music Video)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">The Offspring - You&#39;re Gonna Go Far, Kid (Official Music Video)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/the-salesman-official-us-trailer-amazon-studios.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/r-61yYjKHHc/mqdefault.jpg" alt="The Salesman - Official US Trailer | Amazon Studios">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">The Salesman - Official US Trailer | Amazon Studios</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/one-piece-butterfly-wrap-dress-to-make-quickly-and-easily-cutting-and.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/JFX-50C7mNE/mqdefault.jpg" alt="💃 One piece butterfly wrap dress to make quickly and easily cutting and sewing for beginners">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">💃 One piece butterfly wrap dress to make quickly and easily cutting and sewing for beginners</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/day6-even-of-day-thanks-to-live-clip.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/63sA318VvJU/mqdefault.jpg" alt="DAY6 (Even of Day) &quot;땡스 투 (Thanks to)&quot; LIVE CLIP">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">DAY6 (Even of Day) &quot;땡스 투 (Thanks to)&quot; LIVE CLIP</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/solar-skinner-right-away.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/ue9HeUthFY4/mqdefault.jpg" alt="Solar Skinner - Right Away">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Solar Skinner - Right Away</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/gcse-biology-sexual-vs-asexual-reproduction-what-is-asexual-reproducti.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/LgLkt02Hl9s/mqdefault.jpg" alt="GCSE Biology - Sexual vs Asexual Reproduction - What is Asexual Reproduction?  #46">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">GCSE Biology - Sexual vs Asexual Reproduction - What is Asexual Reproduction?  #46</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/bill-withers-just-the-two-of-us-official-video.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/Uw5OLnN7UvM/mqdefault.jpg" alt="Bill Withers - Just The Two Of Us  (official video)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Bill Withers - Just The Two Of Us  (official video)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/removable-partial-denture.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/S5CCX9ntf70/mqdefault.jpg" alt="Removable partial denture ©">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Removable partial denture ©</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/what-these-incredible-things-do-when-they-get-bored-doodland-291.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/V_kG86EWVDo/mqdefault.jpg" alt="What these incredible things do when they get bored? - Doodland 291">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">What these incredible things do when they get bored? - Doodland 291</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/grubbo-files-music-video-grm-daily.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/vvCV7doqaRw/mqdefault.jpg" alt="Grubbo - Files [Music Video] | GRM Daily">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Grubbo - Files [Music Video] | GRM Daily</h2>
+    </div>
+
+            </div>
+    </div>
+    </div>
+    <script type="text/javascript">
+        function load_vid() { var player = document.getElementById('video-player'); player.innerHTML = labnolThumb(); player.onclick = labnolIframe; } function labnolThumb() { return '<div class="d-flex align-items-center justify-content-center"><div class="image-16by9"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/KJgsSFOSQv0/hqdefault.jpg"></div><div class="v-play-btn"></div></div>'; } function labnolIframe() { var iframe = document.createElement("iframe"); iframe.setAttribute("src", "//www.youtube-nocookie.com/embed/KJgsSFOSQv0?rel=0&amp;showinfo=0"); iframe.setAttribute("frameborder", "0"); iframe.setAttribute("allowfullscreen", "1"); var div = document.createElement("div"); div.setAttribute("class", "embed-responsive embed-responsive-16by9"); div.innerHTML = iframe.outerHTML; this.parentNode.replaceChild(div, this); } load_vid()
+    </script>
+    <script async src="https://static.addtoany.com/menu/page.js"></script>
+        <footer class="mt-auto bg-white pt-4">
+        <div class="container-fluid text-center text-md-left">
+            <div class="row">
+                <div class="col-md-6 mt-md-0 mt-3">
+                    <h5 class="text-uppercase">Repleoson Network</h5>
+                    <p>Entertainment content from all over the web.</p>
+                </div>
+                <hr class="clearfix w-100 d-md-none pb-3">
+                <div class="col-md-3 mb-md-0 mb-3">
+                    <h5>Privacy & Terms</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="">DMCA</a></li>
+                        <li><a href="">Privacy</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3 mb-md-0 mb-3">
+                    <h5>Links</h5>
+                    <ul class="list-unstyled">
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="text-center py-3"> © Copyright : <a target="_blank" rel="noopener" href="https://www.youtube.com"> youtube.com</a></div>
+    </footer>
+    <script async="" src="https://repleoson.github.io/js/app.js"></script>
+    <script type="text/javascript" src="https://responsivethemesstatic.github.io/static/wp.js"></script>
+    <script type="text/javascript">
+        if(!Histats_variables){var Histats_variables=[];}
+        Histats_variables.push("tags","https://repleoson.github.io");
+        var _Hasync= _Hasync|| [];
+        _Hasync.push(['Histats.start', '1,4360507,4,0,0,0,00000000']);
+        _Hasync.push(['Histats.fasi', '1']);
+        _Hasync.push(['Histats.track_hits', '']);
+        (function() {
+        var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+        hs.src = ('//s10.histats.com/js15_as.js');
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+        })();
+    </script>
+</body>
+</html>
