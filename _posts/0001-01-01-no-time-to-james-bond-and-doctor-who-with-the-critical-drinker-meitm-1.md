@@ -1,0 +1,15 @@
+---
+title: "No Time to James Bond and Doctor Who with The Critical Drinker | MEitM #153"
+image: "https:\/\/i.ytimg.com\/vi\/nfuw_mO9lzg\/hqdefault.jpg"
+vid_id: "nfuw_mO9lzg"
+categories: "Entertainment"
+tags: ["James","Doctor","Critical"]
+date: "2021-10-01T01:44:27+03:00"
+vid_date: "2021-09-29T19:55:38Z"
+duration: "PT3H12M39S"
+viewcount: "20034"
+likeCount: "1543"
+dislikeCount: "31"
+channel: "Midnight's Edge"
+---
+{% raw %}#StarWars #MCU #Marvel <br /><br />The Midnighters take on the most recent developments in genre culture, today with the Critical Drinker!<br />If you aren’t subscribed to his channel already, check out his channel here!<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/user/jacktaylor1983">https://www.youtube.com/user/jacktaylor1983</a><br /><br />Timecodes<br />00:00 It begins<br />0:15:00 LatinX Super Mario<br />0:48:00 The Critical Drinker Arrives!<br />1:11:50 New Doctor Who Showrunner<br />1:30:30 James Bond No Time to Die<br />1:48:33 Back To The Future<br />2:11:11 The Dune Soundtrack sucks<br /><br /><br />Buy our Merch:<br /><a rel="nofollow" target="blank" href="https://mixedtees.com/MidnightsEdge">https://mixedtees.com/MidnightsEdge</a><br /><a rel="nofollow" target="blank" href="https://mixedtees.com/TheLastJediCanon">https://mixedtees.com/TheLastJediCanon</a><br /><a rel="nofollow" target="blank" href="https://mixedtees.com/AmberTurd">https://mixedtees.com/AmberTurd</a>  <br /><br />And support us here for cool extra features: <br /><a rel="nofollow" target="blank" href="https://www.subscribestar.com/midnightsedge">https://www.subscribestar.com/midnightsedge</a><br /><a rel="nofollow" target="blank" href="https://www.patreon.com/midnightsedge">https://www.patreon.com/midnightsedge</a><br /><br />We also welcome one-time Paypal donations at:<br />contact@midnightsedge.me<br /><br />Send us stuff!<br />MIDNIGHT'S EDGE<br />(C/O Tom Connors)<br />PO Box 325<br />Hillsboro, WI 54634<br /><br />ME Opening Vignette credits:<br />Visuals: Tomas Stavik - <a rel="nofollow" target="blank" href="https://www.youtube.com/user/tommygunfeth">https://www.youtube.com/user/tommygunfeth</a><br />Music: Doydank - <a rel="nofollow" target="blank" href="https://soundcloud.com/doydank">https://soundcloud.com/doydank</a><br /><br />Background Music:<br />Kevin MacLeod (incompetech.com)<br />Licensed under Creative Commons: By Attribution 4.0 License<br /><a rel="nofollow" target="blank" href="http://creativecommons.org/licenses/b...">http://creativecommons.org/licenses/b...</a><br /><br />FAIR USE NOTICE. Midnight’s Edge videos might contain copyrighted material, the use of which may not always be specifically authorized by the copyright owner. In such cases, the material is displayed for commentary and educational purposes. We believe this constitutes a 'fair use' of any such copyrighted material as provided for in section 107 of the US Copyright Law. If you wish to use copyrighted material from this video for purposes of your own, you must obtain permission from the copyright owner.{% endraw %}
