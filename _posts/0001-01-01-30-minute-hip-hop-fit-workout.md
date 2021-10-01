@@ -1,0 +1,15 @@
+---
+title: "30-Minute Hip-Hop Fit Workout"
+image: "https:\/\/i.ytimg.com\/vi\/ZWk19OVon2k\/hqdefault.jpg"
+vid_id: "ZWk19OVon2k"
+categories: "Howto-Style"
+tags: ["POPSUGAR Fitness","FitSugarTV","workout class"]
+date: "2021-10-01T11:38:53+03:00"
+vid_date: "2019-04-10T12:01:41Z"
+duration: "PT31M5S"
+viewcount: "10330754"
+likeCount: "136984"
+dislikeCount: "2402"
+channel: "POPSUGAR Fitness"
+---
+{% raw %}Get ready to unleash your inner dance and fitness beast with Hip-Hop Fit creator Mike Peele! This class is for everyone from beginners to advanced. Just get ready to push your mind and body to the next level!<br /><br /><br /><br />Find more from Mike Peele on: <br /><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/1mikepeele">https://www.instagram.com/1mikepeele</a><br /><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/mikehiphopfit">https://www.instagram.com/mikehiphopfit</a><br /><br />Website: <a rel="nofollow" target="blank" href="https://www.thepeeleeffect.com/hip-hop-fit">https://www.thepeeleeffect.com/hip-hop-fit</a><br /><br /><br /><br />On Deja: good hYOUman top, Koral tights, Adidas jacket, &amp; APL shoes<br /><br />On Mike: Adidas shorts &amp; shoes<br /><br />On Day: Onzie tights<br /><br /><br /><br /><br /><br />POPSUGAR Fitness offers fresh fitness tutorials, workouts, and exercises that will help you on your road to healthy living, weight loss, and stress relief.  Check out Class FitSugar, our do-it-along-with-us real-time workout show hosted by Anna Renderer, who will inspire you to sweat alongside fitness experts and Hollywood’s hottest celebrity trainers. Class FitSugar regularly covers the most buzzed-about workout classes and trends, including the Victoria's Secret workout, Tabata, P90X, Bar Method, and more.<br /><br /><br /><br />Subscribe to POPSUGAR Fitness!<br /><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/subscription_center?add_user=popsugartvfit">https://www.youtube.com/subscription_center?add_user=popsugartvfit</a><br /><br /><br /><br />Like us on Facebook!<br /><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/PopSugarFitness/">https://www.facebook.com/PopSugarFitness/</a><br /><br /><br /><br />Check us out on Instagram!<br /><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/popsugarfitness/">https://www.instagram.com/popsugarfitness/</a><br /><br /><br /><br />Eat clean with POPSUGAR<br /><br />Get a full two-week clean-eating plan with our brand-new app! 70 recipes for breakfast, lunch, dinner, snacks, and treats, simple shopping lists, and more!  Get the app here: <a rel="nofollow" target="blank" href="https://itunes.apple.com/us/app/clean-eating-plan-and-recipes/id1262482098?mt=8">https://itunes.apple.com/us/app/clean-eating-plan-and-recipes/id1262482098?mt=8</a><br /><br /><br /><br />Visit POPSUGAR!<br /><br /><a rel="nofollow" target="blank" href="https://www.popsugar.com/fitness/30-Minute-Hip-Hop-Fit-Workout-45980446">https://www.popsugar.com/fitness/30-Minute-Hip-Hop-Fit-Workout-45980446</a>{% endraw %}
