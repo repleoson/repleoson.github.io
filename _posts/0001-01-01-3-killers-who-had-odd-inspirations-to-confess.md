@@ -1,0 +1,15 @@
+---
+title: "3 Killers Who Had Odd Inspirations to Confess"
+image: "https:\/\/i.ytimg.com\/vi\/NPNKWGBN6UM\/hqdefault.jpg"
+vid_id: "NPNKWGBN6UM"
+categories: "News-Politics"
+tags: ["Killers","Inspirations","Confess"]
+date: "2021-10-01T21:17:13+03:00"
+vid_date: "2021-09-27T00:00:04Z"
+duration: "PT25M5S"
+viewcount: "87458"
+likeCount: "4244"
+dislikeCount: "88"
+channel: "Criminally Listed"
+---
+{% raw %}Claim your SPECIAL OFFER for MagellanTV here: <a rel="nofollow" target="blank" href="https://try.magellantv.com/criminallylisted.">https://try.magellantv.com/criminallylisted.</a> Start your free trial TODAY so you can watch We Are Legends about Sherlock Holmes, and all of MagellanTV’s other exclusive true crime content: <a rel="nofollow" target="blank" href="https://www.magellantv.com/genres/true-crime">https://www.magellantv.com/genres/true-crime</a><br /><br />These three people all killed someone, and might have gotten away with it. Then some odd thing made them confess.<br /><br />Check out our podcast, &quot;Into the Killing&quot;&quot;<br />Apple Podcasts: <a rel="nofollow" target="blank" href="https://podcasts.apple.com/us/podcast/criminally-listed-presents-into-the-killing/id1539770216?uo=4">https://podcasts.apple.com/us/podcast/criminally-listed-presents-into-the-killing/id1539770216?uo=4</a><br />Google Podcasts: <a rel="nofollow" target="blank" href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hdWRpb2Jvb20uY29tL2NoYW5uZWxzLzUwMzYwODAucnNz">https://www.google.com/podcasts?feed=aHR0cHM6Ly9hdWRpb2Jvb20uY29tL2NoYW5uZWxzLzUwMzYwODAucnNz</a><br />Spotify: <a rel="nofollow" target="blank" href="https://open.spotify.com/show/2W0OSLR9JQhTP6CjSegyyf">https://open.spotify.com/show/2W0OSLR9JQhTP6CjSegyyf</a><br />iHeartRadio: <a rel="nofollow" target="blank" href="https://www.iheart.com/podcast/270-criminally-listed-presents-74605757/">https://www.iheart.com/podcast/270-criminally-listed-presents-74605757/</a><br /><br />Don't forget to check out ChapterDark. Can you solve the mysteries?: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCwDMmxNz9b2QEao4jbDDoTg">https://www.youtube.com/channel/UCwDMmxNz9b2QEao4jbDDoTg</a><br /><br />Subscribe here: <a rel="nofollow" target="blank" href="https://www.youtube.com/c/CriminallyListed">https://www.youtube.com/c/CriminallyListed</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/CriminallyListed">https://www.facebook.com/CriminallyListed</a><br />Twitter: <a rel="nofollow" target="blank" href="https://www.twitter.com/CriminallyListd">https://www.twitter.com/CriminallyListd</a><br />Sources and Picture Credits: <a rel="nofollow" target="blank" href="https://pastebin.com/BQMGAk8Y">https://pastebin.com/BQMGAk8Y</a><br />Music Credits: “organic metalic ambience” by burn-mir <a rel="nofollow" target="blank" href="https://freesound.org/people/burning-mir/">https://freesound.org/people/burning-mir/</a><br /><br />[0:14] Christopher Waide<br />[7:53] Dan Leach<br />[15:05] Marie Robbards{% endraw %}
