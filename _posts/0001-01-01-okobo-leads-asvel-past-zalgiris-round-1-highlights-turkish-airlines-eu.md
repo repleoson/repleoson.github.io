@@ -1,0 +1,15 @@
+---
+title: "Okobo leads ASVEL past Zalgiris | Round 1, Highlights | Turkish Airlines EuroLeague"
+image: "https:\/\/i.ytimg.com\/vi\/LQaDszSfr5s\/hqdefault.jpg"
+vid_id: "LQaDszSfr5s"
+categories: "People-Blogs"
+tags: ["Joffrey Lauvergne","Arturas Milaknis","Paulius Jankunas"]
+date: "2021-10-02T00:41:36+03:00"
+vid_date: "2021-10-01T21:07:42Z"
+duration: "PT4M2S"
+viewcount: "1201"
+likeCount: "34"
+dislikeCount: "4"
+channel: "EUROLEAGUE BASKETBALL"
+---
+{% raw %}LDLC ASVEL Villeurbanne started the new 2021-22 Turkish Airlines EuroLeague season in style on Friday, defeating visiting Zalgiris Kaunas 88-76 before its appreciative fans at the Astroballe. <br /><br />ASVEL shot 11-for-23 from downtown for the night, led by Elie Okobo who scored 23 points in 24 minutes. Chris Jones had 14 points, 6 assists, and 3 steals, Youssoupha Fall collected 12 points plus 9 rebounds, while Charles Kahudi scored 11 in victory. Janis Strelnieks netted 21 for Zalgiris while Emmanuel Mudiay scored 12.<br /><br /><br /> ABOUT EUROLEAGUE BASKETBALL <br />Euroleague Basketball (EB) is a global leader in the sports and entertainment business, devoted to running the top European competitions of professional basketball clubs under a unique and innovative organizational model. Owned and administered by some of the most successful and historic clubs in the world, EB manages and organizes the continent’s two premier men’s basketball competitions, the Turkish Airlines EuroLeague and the 7DAYS EuroCup, as well as the sport’s premier under-18 showcase, the EB Adidas Next Generation Tournament. <br />The EB competitions bring the elite of European basketball to all five continents and to the entire sports community through the OTT platform EuroLeague TV. EB also organizes a series of community and educational programs. Its ground-breaking corporate social responsibility program One Team features all EB clubs that have already made a difference in the lives of over 22,000 participants. Its Sports Business MBA trains future professionals in sports management. <br />About One Team <br />One Team, Euroleague Basketball's corporate social responsibility (CSR) program, supported by Turkish Airlines as the One Team Founding Patron and with the collaboration of Special Olympics as Proud Partner, uses basketball to achieve real social impact in our communities. With an innovative model of interconnectedness across an entire continent, Euroleague Basketball and its clubs have developed a complete CSR program that brings together activities from each team in an integrated, impactful way, working under the theme of &quot;community integration&quot;. Each participating club develops a specific One Team project tailored to its own community needs to benefit groups in danger of exclusion due to problems such as substance abuse and gender, physical or intellectual disability. Since its founding in 2012, the One Team program has reached already directly and indirectly more than 22,000 participants through its various team projects.{% endraw %}
