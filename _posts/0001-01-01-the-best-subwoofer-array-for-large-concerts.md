@@ -1,0 +1,15 @@
+---
+title: "The BEST subwoofer array for large concerts?"
+image: "https:\/\/i.ytimg.com\/vi\/AWydFTUguzQ\/hqdefault.jpg"
+vid_id: "AWydFTUguzQ"
+categories: "Science-Technology"
+tags: ["live sound","sound engineering","subwoofer"]
+date: "2021-10-02T03:54:04+03:00"
+vid_date: "2020-09-10T16:40:25Z"
+duration: "PT9M12S"
+viewcount: "8785"
+likeCount: "188"
+dislikeCount: "1"
+channel: "Nathan Lively"
+---
+{% raw %}This is my attempt at recreating the results described in an AES paper called Subwoofer positioning, orientation and calibration for large-scale sound reinforcement. Comment with your ideas for improvement.<br /><br />See the original post: <a rel="nofollow" target="blank" href="https://www.sounddesignlive.com/the-best-subwoofer-array-for-large-concerts/">https://www.sounddesignlive.com/the-best-subwoofer-array-for-large-concerts/</a><br /><br />AES 7971: <a rel="nofollow" target="blank" href="https://secure.aes.org/forum/pubs/conventions/?elib=15268">https://secure.aes.org/forum/pubs/conventions/?elib=15268</a><br /><br />Why do you polarity invert the rear sub in a cardioid array? <a rel="nofollow" target="blank" href="https://youtu.be/t-Ikv_uoLt0">https://youtu.be/t-Ikv_uoLt0</a><br />___<br />📈 Get Started with Sound System Tuning - <a rel="nofollow" target="blank" href="https://www.sounddesignlive.com/get-started-with-sound-system-tuning/">https://www.sounddesignlive.com/get-started-with-sound-system-tuning/</a><br />___<br />👨‍🎓 SOUND SYSTEM TUNING ONLINE COURSE - <a rel="nofollow" target="blank" href="https://www.proaudioworkshopseeingsound.com/">https://www.proaudioworkshopseeingsound.com/</a><br />___<br />📕 Books on sound system tuning - <a rel="nofollow" target="blank" href="https://www.sounddesignlive.com/audio-engineer-training-programs/">https://www.sounddesignlive.com/audio-engineer-training-programs/</a><br />🎙 Podcast for live sound engineers - <a rel="nofollow" target="blank" href="https://www.sounddesignlive.com/pro-audio-podcast/">https://www.sounddesignlive.com/pro-audio-podcast/</a><br />___<br />Smaart® and the Smaart logo are registered trademarks of Rational Acoustics LLC and are not affiliated with Nathan Lively or Sound Design Live.<br />___<br />Be friendly<br />Facebook - <a rel="nofollow" target="blank" href="https://www.facebook.com/sounddesignlive/">https://www.facebook.com/sounddesignlive/</a><br />Twitter - <a rel="nofollow" target="blank" href="https://twitter.com/nathandofrango">https://twitter.com/nathandofrango</a><br />LinkedIn - <a rel="nofollow" target="blank" href="https://www.linkedin.com/in/nathanlively/">https://www.linkedin.com/in/nathanlively/</a><br />___<br />I love to geek out about the physics of sound. This channel focuses on the growing opportunity for live sound engineers to improve their confidence and consistency through the understanding of the principles of sound system design and optimization. My goal is to make this channel upfront and honest about my success and failure, so you can learn from both.<br /><br />I am always open to suggestions and feedback so please comment on this video or contact me through my site.{% endraw %}
