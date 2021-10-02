@@ -1,0 +1,15 @@
+---
+title: "Parcels - Lightenup (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/JQz5l55qtsY\/hqdefault.jpg"
+vid_id: "JQz5l55qtsY"
+categories: "Music"
+tags: ["parcels","overnight","light"]
+date: "2021-10-02T17:29:06+03:00"
+vid_date: "2018-09-06T09:02:53Z"
+duration: "PT3M58S"
+viewcount: "2596633"
+likeCount: "26711"
+dislikeCount: "474"
+channel: "Parcels"
+---
+{% raw %}Tieduprightnow is taken from Parcels debut album, available everywhere: <a rel="nofollow" target="blank" href="https://parcels.lnk.to/parcelsalbum">https://parcels.lnk.to/parcelsalbum</a><br />Subscribe to Parcels channel: <a rel="nofollow" target="blank" href="http://bit.ly/2hUbkPq">http://bit.ly/2hUbkPq</a><br />Listen to their essentials here: <a rel="nofollow" target="blank" href="https://parcels.lnk.to/essentials">https://parcels.lnk.to/essentials</a><br /><br />Written, composed, arranged &amp; produced by: Jules Crommelin, Patrick Hetherington, Noah Hill, Anatole Serret, Louie Swain<br />Performed by:  Jules Crommelin, Patrick Hetherington, Noah Hill, Anatole Serret, Louie Swain + Rowan Hamwood (Flute)<br /><br />Recording studio: Mesanic Studio Berlin<br />Engineered by:      Martin Waschkowitsch<br />Mixed by:               Martin Waschkowitsch<br />Mastered by:         Zino Mikorey<br /><br />--<br /><br />Director : MARIE SCHULLER<br />Production : CADENCE FILMS<br />Executive Producer : ROMAIN NOUGARET<br />Production Coordinator : ALICE DU LAC<br /><br />Producer : ROMY WALLER / CREATIVE BLOOD<br />Stylist : BETH BUXTON<br />Hair : LEWIS PALLETT<br />Makeup : CLAUDINE BLYTHMAN<br /><br />Official website &amp; merch store  → www.parcelsmusic.com<br /> <br />Follow Parcels:<br /><br />Like on Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/parcelsmusic">https://www.facebook.com/parcelsmusic</a><br />Follow on Instagram <a rel="nofollow" target="blank" href="https://www.instagram.com/parcelsmusic/">https://www.instagram.com/parcelsmusic/</a><br />Follow on Soundcloud <a rel="nofollow" target="blank" href="https://soundcloud.com/parcels-music">https://soundcloud.com/parcels-music</a><br /><br />↓ LYRICS ↓<br /><br />Time to lighten up<br />I don't plan to<br />I don't plan to<br />Time I gave it up<br />I don't plan to<br />I don't plan to<br /><br />Every eye is on us<br />Every side is on us<br />Sing it with pride and promise<br />Never cry, never cry<br /><br />But you know we like it honest<br />You know it's why we bought you<br />I like your style and all<br />But do it right<br />Do it in<br /><br />Time to lighten up<br />I don't plan to<br />I don't plan to<br />Time I gave it up<br />I don't plan to<br />I don't plan to<br /><br />I need it, I love it<br />The music, the time it takes for the letter to write back<br />Let it go, let it go<br />'Cause this is the final product<br />Drink it a while and call us<br />Sell it for dimes and dollars<br />There you go<br /><br />Time to lighten up<br />I don't plan to<br />I don't plan to<br />Time I gave it up<br />I don't plan to<br />I don't plan to<br /><br />2020 Because Music<br /><br />#Parcels{% endraw %}
