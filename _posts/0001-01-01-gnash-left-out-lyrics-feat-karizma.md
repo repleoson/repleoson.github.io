@@ -1,0 +1,15 @@
+---
+title: "gnash - Left Out (Lyrics)  feat. Karizma"
+image: "https:\/\/i.ytimg.com\/vi\/enwuUJvZqdo\/hqdefault.jpg"
+vid_id: "enwuUJvZqdo"
+categories: "People-Blogs"
+tags: ["sound cafe","cafe sound","cafe"]
+date: "2021-10-02T15:46:19+03:00"
+vid_date: "2020-03-26T12:00:30Z"
+duration: "PT3M36S"
+viewcount: "175501"
+likeCount: "5534"
+dislikeCount: "35"
+channel: "Sound Cafe"
+---
+{% raw %}Left Out by gnash<br />Album: U<br />Spotify: <br /><a rel="nofollow" target="blank" href="https://open.spotify.com/track/2DRNRBJr2L3kw9Lj0zTLC7">https://open.spotify.com/track/2DRNRBJr2L3kw9Lj0zTLC7</a><br />Left Out Lyrics:<br />Feeling left out<br />From the right side of your bed<br />Feeling stressed out over every last word you said<br />Feelings left now, just a ghost inside my head<br />Feeling less now cause I know you dream me dead<br />I been left out, lied to, talked about and used<br />Stared down and laughed at, while walking out of school<br />You wanna put the blame on me the feeling's nothing new<br />You wanna hang more pain on me there's nothing you can do<br />A moment lasts inside this coffin, I'm buried often<br />Every time you're calling once you're starting there's no stopping<br />You know what, I pick my phone up, know you can hear me, just show up and show love, just want you near me<br />But like does that even feel right cause I don't want you if anyone can hold you all through the night<br />And is it even fair or worth for me to put up a fight, just to prove that I'm the one and you still leave out of spite<br />No more broken hearts to fall apart to broken promise, no more playing cards with broken shards with ghosts to haunt us<br />And we don't gotta put all this care beyond us, but you don't gotta be scared to be honest<br />Feeling left out<br />From the right side of your bed<br />Feeling stressed out over every last word you said<br />Feelings left now, just a ghost inside my head<br />Feeling less now cause I know you dream me dead<br />I thought a lot lately, please<br />I wanna stop playing these games<br />Your mom and pops hate me<br />And now I'm probably not your top choice as you're drinking on the rocks lately ha<br />I wanna confess, I wanna die when you're brought up by friends, and every night I'm haunted in bed so I cry every drop is a sin<br />And I think I'm healing again but every feeling I'm feeling is like I'm peeling the skin<br />Always dealing with women at every show and event but when we're home or if we're out you're on your phone every second<br />Said that I'm an ass, I said I think you're right<br />So every conversation turns to basically a fight<br />Stare into my eyes tell me what you need<br />As I pray to God that you never leave<br />Feeling left out<br />From the right side of your bed<br />Feeling stressed out over every last word you said<br />Feelings left now, just a ghost inside my head<br />Feeling less now cause I know you dream me dead<br /><br /><br /><br />#LeftOut<br />#EdSheeran<br />#No6CollaborationsProject{% endraw %}
