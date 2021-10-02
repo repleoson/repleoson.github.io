@@ -1,0 +1,15 @@
+---
+title: "My Favorite Things from The Sound of Music"
+image: "https:\/\/i.ytimg.com\/vi\/0IagRZBvLtw\/hqdefault.jpg"
+vid_id: "0IagRZBvLtw"
+categories: "Entertainment"
+tags: ["The Sound of Music","when the bees sting","Broadway Songs"]
+date: "2021-10-02T18:39:45+03:00"
+vid_date: "2013-12-11T21:46:14Z"
+duration: "PT1M48S"
+viewcount: "15047782"
+likeCount: "114270"
+dislikeCount: "2650"
+channel: "Rodgers & Hammerstein"
+---
+{% raw %}Listen now to THE SOUND OF MUSIC Original Soundtrack Recording! <a rel="nofollow" target="blank" href="https://found.ee/TheSoundofMusicListen">https://found.ee/TheSoundofMusicListen</a><br /><br />&quot;My Favorite Things&quot; from the 1965 film version of THE SOUND OF MUSIC. <br /><br />Produced and directed by Robert Wise, and starring Julie Andrews and Christopher Plummer, with Richard Haydn and Eleanor Parker. The film is an adaptation of the 1959 Broadway musical of the same name, composed by Richard Rodgers with lyrics by Oscar Hammerstein II. The film's screenplay was written by Ernest Lehman, adapted from the stage musical's book by Lindsay and Crouse. Based on the memoir The Story of the Trapp Family Singers by Maria von Trapp, the film is about a young Austrian woman studying to become a nun in Salzburg in 1938 who is sent to the villa of a retired naval officer and widower to be governess to his seven children. After bringing and teaching love and music into the lives of the family through kindness and patience, she marries the officer and together with the children they find a way to survive the loss of their homeland through courage and faith.<br /><br />The film was released on March 2, 1965 in the United States, initially as a limited roadshow theatrical release. Although critical response to the film was widely mixed, the film was a major commercial success, becoming the number one box office movie after four weeks, and the highest-grossing film of 1965. By November 1966, The Sound of Music had become the highest-grossing film of all-time—surpassing Gone with the Wind—and held that distinction for five years. The film was just as popular throughout the world, breaking previous box-office records in twenty-nine countries. Following an initial theatrical release that lasted four and a half years, and two successful re-releases, the film sold 283 million admissions worldwide and earned a total worldwide gross of $286,000,000.<br /><br />The Sound of Music received five Academy Awards, including Best Picture and Best Director. The film also received two Golden Globe Awards, for Best Motion Picture and Best Actress, the Directors Guild of America Award for Outstanding Directorial Achievement, and the Writers Guild of America Award for Best Written American Musical. In 1998, the American Film Institute (AFI) listed The Sound of Music as the fifty-fifth greatest American movie of all time, and the fourth greatest movie musical. In 2001, the United States Library of Congress selected the film for preservation in the National Film Registry, finding it &quot;culturally, historically, or aesthetically significant&quot;.{% endraw %}
