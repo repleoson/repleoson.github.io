@@ -1,0 +1,15 @@
+---
+title: "Ingenious COOL Tools That Are Absolutely Shocking ▶1"
+image: "https:\/\/i.ytimg.com\/vi\/uuqO5clQWjY\/hqdefault.jpg"
+vid_id: "uuqO5clQWjY"
+categories: "Science-Technology"
+tags: ["gadgets","tech","inventions"]
+date: "2021-10-02T05:41:51+03:00"
+vid_date: "2020-07-09T12:30:06Z"
+duration: "PT10M2S"
+viewcount: "1241682"
+likeCount: "3574"
+dislikeCount: "502"
+channel: "Cool Tech"
+---
+{% raw %}SUBSCRIBE: <a rel="nofollow" target="blank" href="https://bit.ly/3eC70OO">https://bit.ly/3eC70OO</a><br /><br />More amazing modern technology: <a rel="nofollow" target="blank" href="https://bit.ly/31wXaKn">https://bit.ly/31wXaKn</a><br /><br />Follow me on Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/CoolTechYT/">https://www.facebook.com/CoolTechYT/</a><br />-~-~-~-~-~~-~-~-~--~-~-~-~-~~-~-~-~-<br />0:00 ROTHENBERGER MULTI MOBILE – <a rel="nofollow" target="blank" href="https://bit.ly/3f1MDL0">https://bit.ly/3f1MDL0</a><br /><br />1:32 BATAVIA FLIPOUT – <a rel="nofollow" target="blank" href="https://www.amazon.com/SpeedHex-FlipOut-Rechargeable-Removable-Battery/dp/B01LRU6DGG">https://www.amazon.com/SpeedHex-FlipOut-Rechargeable-Removable-Battery/dp/B01LRU6DGG</a><br /><br />2:38 XD1 MAXIS PULLER – <a rel="nofollow" target="blank" href="http://www.southwiretools.com/tools/tools/XD1">http://www.southwiretools.com/tools/tools/XD1</a><br /><br />3:34 BRUSH GRUBBER – <a rel="nofollow" target="blank" href="https://www.northerntool.com/shop/tools/product_200381505_200381505">https://www.northerntool.com/shop/tools/product_200381505_200381505</a><br /><br />4:21 ROCKWELL VERSACUT – <a rel="nofollow" target="blank" href="https://www.amazon.com/Rockwell-RK3440K-Versacut-Ultra-Compact-Circular/dp/B0052EK78O">https://www.amazon.com/Rockwell-RK3440K-Versacut-Ultra-Compact-Circular/dp/B0052EK78O</a><br /><br />5:26 THE MAGIC CREEPER – <a rel="nofollow" target="blank" href="https://magiccreeper.com">https://magiccreeper.com</a><br /><br />6:27 DEWALT HAMMER TACKER – <a rel="nofollow" target="blank" href="https://www.dewalt.com/products/hand-tools/manual-fasteners/carbon-fiber-composite-hammer-tacker/dwht75900">https://www.dewalt.com/products/hand-tools/manual-fasteners/carbon-fiber-composite-hammer-tacker/dwht75900</a><br /><br />6:47 BONDIC – <a rel="nofollow" target="blank" href="https://www.amazon.com/Bondic-Activated-Waterproof-Resistant-Anything/dp/B00QU5M4MG">https://www.amazon.com/Bondic-Activated-Waterproof-Resistant-Anything/dp/B00QU5M4MG</a><br /><br />7:55 SHAPER ORIGIN – <a rel="nofollow" target="blank" href="https://www.shapertools.com/en-us/">https://www.shapertools.com/en-us/</a><br /><br />9:11 ROLLOVA – <a rel="nofollow" target="blank" href="https://www.hozodesign.com">https://www.hozodesign.com</a><br />-~-~-~-~-~~-~-~-~--~-~-~-~-~~-~-~-~-<br /><br />🔗Have an interesting or creative video you made and would like featured in our next compilation? Email a link to your video to gabriele.gritti.sm@gmail.com and we'll check it out!<br /><br />SUBMIT YOUR VIDEO HERE:{% endraw %}
