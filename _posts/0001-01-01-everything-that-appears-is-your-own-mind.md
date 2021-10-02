@@ -1,0 +1,15 @@
+---
+title: "EVERYTHING that appears is your own MIND"
+image: "https:\/\/i.ytimg.com\/vi\/rJV_QawXUMY\/hqdefault.jpg"
+vid_id: "rJV_QawXUMY"
+categories: "Education"
+tags: ["EVERYTHING","appears"]
+date: "2021-10-02T13:42:22+03:00"
+vid_date: "2020-04-29T06:00:32Z"
+duration: "PT54S"
+viewcount: "1953"
+likeCount: "50"
+dislikeCount: "1"
+channel: "BuddhaByNature"
+---
+{% raw %}&quot;Looking at objects, there are no objects; we see only mind. <br /> Looking at mind, there is no mind; it is empty of an essence. <br /> Looking at both, dualistic clinging is spontaneously liberated. <br /> May we realize luminosity, the true nature of mind.&quot;<br /><br />MAHÅMUDRÅ ASPIRATION by the 3rd Karmapa, Rangjung Dorje<br /><br />If you like this video, please SUBSCRIBE this BUDDHAbyNATURE YouTube-Channel.<br /><br />To watch the full teachings please go to the PLAYLIST: <br /><a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PL8sDrkwWlohQl2kRIDQlFdQ0IIUY2Qb_b">https://www.youtube.com/playlist?list=PL8sDrkwWlohQl2kRIDQlFdQ0IIUY2Qb_b</a><br /><br />BUDDHAbyNATURE on Facebook: <br /><a rel="nofollow" target="blank" href="http://facebook.com/BUDDHAbyNATURE">http://facebook.com/BUDDHAbyNATURE</a><br />________________________________________<br /><br />BUDDHAbyNATURE is a WISDOM-VIDEO-MAGAZINE. <br />Its purpose is to use short films as a vehicle to bring wisdom and inspiration from those who are happy to share it to those who are happy to hear it. It features teachings by: H.H. the 17th Karmapa, H.H. the 14th Dalai Lama, H.E. Tai Situ Rinpoche, Ringu Tulku Rinpoche and more. <br />The simple, short and direct format of the films makes them a useful tool for  practice. One can listen, contemplate the topic and meditate on its meaning.<br />Unlike most other films, these videos can be watched more than once and they unfold the wisdom they contain each time slightly differently to the viewer. <br />Their purpose is to remind us of what we already know to help us become what we already are: BUDDHAs by NATURE.<br /><br />BUDDHAbyNATURE is a film project by tOM Zachmeier.<br />Tom came across Buddhism 30 years ago and feels blessed to have received many great teachings from living masters, in person, through books, audio books and videos. He furthered his study in monasteries in India and Nepal and wrote a diploma thesis with the title: EMPTY WORDS on the relationship between language and reality according to Buddhist philosophy and the art of teaching emptiness (Die Kunst des Leehrens). Through this work with BUDDHAbyNATURE and HHK17 he wants to share this blessing.<br />Tom is also the founding director of the Conscious Action Network - C•A•N..<br />Whereas BUDDHAbyNATURE and HHK17 are meant to support the cultivation of WISDOM and COMPASSION - the C•A•N supports putting them in ACTION. <br /><br />Please check out this video and the C•A•N channel: <br /><a rel="nofollow" target="blank" href="https://youtu.be/fN_H-7MLGGw">https://youtu.be/fN_H-7MLGGw</a>{% endraw %}
