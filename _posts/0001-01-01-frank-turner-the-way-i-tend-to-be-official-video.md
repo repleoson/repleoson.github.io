@@ -1,0 +1,15 @@
+---
+title: "Frank Turner - The Way I Tend To Be (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/Cf5O2M5GaEA\/hqdefault.jpg"
+vid_id: "Cf5O2M5GaEA"
+categories: "Music"
+tags: ["Polydor","frank turner","frank turner live"]
+date: "2021-10-03T12:44:37+03:00"
+vid_date: "2013-05-07T23:00:09Z"
+duration: "PT3M50S"
+viewcount: "4957270"
+likeCount: "20107"
+dislikeCount: "663"
+channel: "FrankTurnerVEVO"
+---
+{% raw %}Frank Turner - The Way I Tend To Be (Official Video)<br /><br />New album No Man’s Land out now. Available on deluxe vinyl, CD, in exclusive merch bundles &amp; to stream/download — <a rel="nofollow" target="blank" href="https://frankturner.lnk.to/NoMansLandID">https://frankturner.lnk.to/NoMansLandID</a><br /><br />Follow<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/frankturner/">https://www.instagram.com/frankturner/</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/frankturnermusic">https://www.facebook.com/frankturnermusic</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/frankturner">https://twitter.com/frankturner</a><br /><br /><a rel="nofollow" target="blank" href="https://www.frank-turner.com">https://www.frank-turner.com</a><br /><br />Lyrics<br /><br />Some mornings I pray for evening<br />For the day to be done<br />And some summer days I hide away<br />And wait for rain to come<br />‘Cause it turns out hell will not be found<br />Within the fires below<br />But in making do and muddling through<br />When you've nowhere else to go<br /><br />But then I remember you<br />And the way you shine like truth in all you do<br />And if you remembered me<br />You could save me from the way I tend to be<br />The way I tend to be<br /><br />Some days I wake up dazed, my dear<br />And don't know where I am<br />I've been running now so long I'm scared<br />I've forgotten how to stand<br />And I stand alone in airport bars<br />And gather thoughts to think<br />That if all I had was one long road<br />It could drive a man to drink<br /><br />But then I remember you<br />And the way you shine like truth in all you do<br />And if you remembered me<br />You could save me from the way I tend to be<br />The way I tend to be<br /><br />‘Cause I've said, &quot;I love you,&quot; so many times<br />That the words kind of died in my mouth<br />And I meant it each time with each beautiful woman<br />But somehow it never works out<br />But you stood apart in my calloused heart<br />And you taught me and here's what I learned<br />That love is about all the changes you make<br />And not just three small words<br /><br />And then I catch myself<br />Catching your scent on someone else<br />In a crowded space<br />And it takes me somewhere I cannot quite place<br /><br />But then I remember you<br />And the way you shine like truth in all you do<br />And if you remembered me<br />You could save me from the way I tend to be<br />The way I tend to be<br /><br />#FrankTurner{% endraw %}
