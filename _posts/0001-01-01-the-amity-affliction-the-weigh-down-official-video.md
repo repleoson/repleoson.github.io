@@ -1,0 +1,15 @@
+---
+title: "The Amity Affliction - The Weigh Down [OFFICIAL VIDEO]"
+image: "https:\/\/i.ytimg.com\/vi\/rWTF17JwGSY\/hqdefault.jpg"
+vid_id: "rWTF17JwGSY"
+categories: "Music"
+tags: ["the amity affliction","the weigh down","let the ocean take me"]
+date: "2021-10-03T04:44:09+03:00"
+vid_date: "2014-09-18T22:54:40Z"
+duration: "PT3M32S"
+viewcount: "9559791"
+likeCount: "59762"
+dislikeCount: "1187"
+channel: "The Amity Affliction"
+---
+{% raw %}The Amity Affliction's music video for 'The Weigh Down' from the album, Let The Ocean Take Me - available now on Roadrunner Records.<br /><br />DIGITAL: <a rel="nofollow" target="blank" href="http://smarturl.it/TAA-iTunes">http://smarturl.it/TAA-iTunes</a><br />PHYSICAL: <a rel="nofollow" target="blank" href="http://smarturl.it/AAphysical">http://smarturl.it/AAphysical</a><br /><br />Subscribe: <a rel="nofollow" target="blank" href="http://bit.ly/171a3Ya">http://bit.ly/171a3Ya</a><br />Site: <a rel="nofollow" target="blank" href="http://theamityaffliction.net">http://theamityaffliction.net</a><br />Facebook: <a rel="nofollow" target="blank" href="http://facebook.com/theamityafflictionofficial">http://facebook.com/theamityafflictionofficial</a><br />Twitter: <a rel="nofollow" target="blank" href="http://twitter.com/amityaffliction‎">http://twitter.com/amityaffliction‎</a><br />Instagram: <a rel="nofollow" target="blank" href="http://instagr.am/theamityaffliction">http://instagr.am/theamityaffliction</a><br /><br />Production Company: filmSmith.com.au<br />Director/DP/Editor: Simon Harvey Smith<br />Producer: Clint Gough<br /><br /><br />LYRICS<br />Weighed down. <br />Weighed down on the way down. <br /><br />I've lived behind a mask so long, so few know who I am, they know other sides of me that hide behind a haunted man. <br />And though my hands are made of stone and I break everything I see, they've saved me from myself, and they stand by me. <br /><br />Weighed down on the way down, I need someone to take my hand. <br />It feels like I can't breathe and I might drown on the way down. <br />I'm sick of all the come-downs, don't tell me that there's nothing wrong, I'm weighed down, way down. <br /><br />I'll fight fatigue I'll fight for you for everything that we've been through, I'll take your hand, I'll carry on, I've been weighed down for far too long. <br />And though my hands are made of stone, and I break everything I see, they've saved me from myself and they stand by me. <br />Stand by me. <br /><br />Weighed down on the way down, I need someone to take my hand. <br />It feels like I can't breathe and I might drown on the way down.<br />I'm sick of all the come-downs, don't tell me that there's nothing wrong. <br />I'm weighed down, way down. <br /><br />I won't be weighed down. <br />There's too much resting on this. <br />Never be weighed down. <br />I'll fucking stand and resist. <br /><br />Weighed down on the way down, I need someone to take my hand. <br />It feels like I can't breathe and I might drown on the way down. <br />I'm sick of all the come-downs, don't tell me that there's nothing wrong. <br />I'm weighed down, way down.{% endraw %}
