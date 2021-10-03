@@ -1,0 +1,15 @@
+---
+title: "The most straight-forward pickup line in public transport history | Clip from 'Mood of the Day'"
+image: "https:\/\/i.ytimg.com\/vi\/-f9_L0-jooU\/hqdefault.jpg"
+vid_id: "-f9_L0-jooU"
+categories: "Film-Animation"
+tags: ["asiancrush","asian movies","asian films"]
+date: "2021-10-03T05:49:56+03:00"
+vid_date: "2019-02-08T00:55:22Z"
+duration: "PT20M22S"
+viewcount: "2884427"
+likeCount: "21673"
+dislikeCount: "821"
+channel: "AsianCrush"
+---
+{% raw %}Savage~<br />Watch the full movie on our app: <a rel="nofollow" target="blank" href="http://bit.ly/AC-Apps">http://bit.ly/AC-Apps</a><br />Or stream it on our website: <a rel="nofollow" target="blank" href="http://bit.ly/2Ij0y2U">http://bit.ly/2Ij0y2U</a><br /><br />SUBSCRIBE: <a rel="nofollow" target="blank" href="http://bit.ly/ytasncrsh">http://bit.ly/ytasncrsh</a><br /><br />About Mood of the Day 그날의 분위기:<br />Soo-jung has been with her boyfriend for 10 years, but their romance is now nothing but a lukewarm relationship. The night before her business trip to Busan, Soo-jung heard that her friend is getting married to her first love, and feels distracted. On the train to Busan, she sits next to Jae-hyun, who’s claiming himself as an Agapemonite, an obscure Christian sect where men took many spiritual brides, and that he will willingly jump into bed with a woman for one night. Falling for her gorgeous hips, he keeps coming on to her during the journey. She tries to push him away, but ends up sharing a car ride to Busan with him due to the sudden breakdown of the train. She begins to slowly open up to him as he consistently tries to win her heart. And as the time passes on the road, she gets to see the true inside of Jae-hyun, hidden behind his featheriness and finds herself attracted to him.<br /><br />Cast:<br />Yoo Yeon-seok<br />Moon Chae-won<br />Jo Jae-yoon<br />Kim Seul-gie<br />Park Min-woo<br /><br />Director:<br />Jo Kyu-jang<br /><br /><br />About AsianCrush:<br />AsianCrush is the leading streaming service dedicated to Asian entertainment in North America, with over 1000 premium movies and TV shows from the leading entertainment producers in Asia.  Users can watch as much as they want, anytime, anywhere, on all major internet-connected screens with no cost involved. Premium subscribers can access exclusive content and stream without commercials.<br /><br />Connect with AsianCrush <br />Visit AsianCrush WEBSITE: <a rel="nofollow" target="blank" href="http://bit.ly/asncrush">http://bit.ly/asncrush</a><br />Like AsianCrush on FACEBOOK: <a rel="nofollow" target="blank" href="http://bit.ly/asnFB">http://bit.ly/asnFB</a><br />Follow AsianCrush on INSTAGRAM: <a rel="nofollow" target="blank" href="http://bit.ly/asnIG">http://bit.ly/asnIG</a><br />Follow AsianCrush on PINTEREST: <a rel="nofollow" target="blank" href="http://bit.ly/asnPINT">http://bit.ly/asnPINT</a><br /><br />Mood of the Day 그날의 분위기 | AsianCrush<br /><a rel="nofollow" target="blank" href="http://youtube.com/asiancrush">http://youtube.com/asiancrush</a>{% endraw %}
