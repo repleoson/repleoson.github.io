@@ -1,0 +1,15 @@
+---
+title: "Assembly Language Tutorial"
+image: "https:\/\/i.ytimg.com\/vi\/ViNnfoE56V8\/hqdefault.jpg"
+vid_id: "ViNnfoE56V8"
+categories: "Education"
+tags: ["Assembly Language Tutorial","Assembly Language","Assembly Language Raspberry Pi"]
+date: "2021-10-04T01:42:18+03:00"
+vid_date: "2016-04-30T17:00:51Z"
+duration: "PT38M24S"
+viewcount: "1121009"
+likeCount: "14176"
+dislikeCount: "525"
+channel: "Derek Banas"
+---
+{% raw %}Code &amp; Transcript Here : <a rel="nofollow" target="blank" href="http://goo.gl/j0tgfS">http://goo.gl/j0tgfS</a><br /><br />MY UDEMY COURSES ARE 87.5% OFF TILL AUGUST 14th <br /><br />►► New C++ Programming Bootcamp Series for $9.99 : <a rel="nofollow" target="blank" href="https://bit.ly/C_Course_7">https://bit.ly/C_Course_7</a> Over 23 Hrs + 53 Videos + Quizzes + Graded Assignments + New Videos Every Month <br /><br />►► Python Programming Bootcamp Series for $9.99 : <a rel="nofollow" target="blank" href="https://bit.ly/Master_Python_7">https://bit.ly/Master_Python_7</a> Highest Rated Python Udemy Course + 48 Hrs + 200 Videos + Data Science <br /><br />Subscribe to Me: <a rel="nofollow" target="blank" href="http://bit.ly/2FWQZTx">http://bit.ly/2FWQZTx</a><br /><br />Logical Operators, Looping, Conditionals : <a rel="nofollow" target="blank" href="http://goo.gl/adUwyw">http://goo.gl/adUwyw</a><br /><br />Functions &amp; Stacks : <a rel="nofollow" target="blank" href="http://goo.gl/bmPsYT">http://goo.gl/bmPsYT</a><br /><br />Like the channel? Consider becoming a Patreon! Check it out here:<br />►► <a rel="nofollow" target="blank" href="https://www.patreon.com/derekbanas">https://www.patreon.com/derekbanas</a><br /><br />We'll learn about Vim, Make, Adding, Subtracting and converting Decimals, Binaries and Hexadecimal numbers. As per Assembly Language we'll learn about Registers, the Current Program Status Register, Receiving Input, Outputting Data to the Monitor, .global, MOV, SWI, ADD, SUB, MUL, MLA, Syscall, LDR, .text, .data, CMP, Branching and a whole lot more.<br /><br />*Watch More Learn in One Videos*<br />►► Java - <a rel="nofollow" target="blank" href="https://youtu.be/n-xAqcBCws4">https://youtu.be/n-xAqcBCws4</a><br />►► C++ - <a rel="nofollow" target="blank" href="https://youtu.be/Rub-JsjMhWY">https://youtu.be/Rub-JsjMhWY</a><br />►► Python - <a rel="nofollow" target="blank" href="https://youtu.be/N4mEzFDjqtA">https://youtu.be/N4mEzFDjqtA</a><br />►► MySQL - <a rel="nofollow" target="blank" href="https://youtu.be/yPu6qV5byu4">https://youtu.be/yPu6qV5byu4</a><br />►► PHP - <a rel="nofollow" target="blank" href="https://youtu.be/7TF00hJI78Y">https://youtu.be/7TF00hJI78Y</a><br />►► Kotlin - <a rel="nofollow" target="blank" href="https://youtu.be/H_oGi8uuDpA">https://youtu.be/H_oGi8uuDpA</a><br />►► C# - <a rel="nofollow" target="blank" href="https://youtu.be/lisiwUZJXqQ">https://youtu.be/lisiwUZJXqQ</a><br />►► JavaScript - <a rel="nofollow" target="blank" href="https://youtu.be/fju9ii8YsGs">https://youtu.be/fju9ii8YsGs</a>{% endraw %}
