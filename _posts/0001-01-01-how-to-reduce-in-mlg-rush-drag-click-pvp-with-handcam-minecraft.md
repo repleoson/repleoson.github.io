@@ -1,0 +1,15 @@
+---
+title: "How To REDUCE in MLG RUSH | Drag Click PvP | (With HANDCAM) Minecraft"
+image: "https:\/\/i.ytimg.com\/vi\/2mACRIW7sIU\/hqdefault.jpg"
+vid_id: "2mACRIW7sIU"
+categories: "Gaming"
+tags: ["#dragclick","#roadto4K","#tutorial"]
+date: "2021-10-03T06:17:33+03:00"
+vid_date: "2020-12-12T17:35:40Z"
+duration: "PT8M34S"
+viewcount: "48814"
+likeCount: "1733"
+dislikeCount: "51"
+channel: "Flowaze"
+---
+{% raw %}[MY DISCORD SERVER]<br /><a rel="nofollow" target="blank" href="https://discord.gg/2mjuRKKdK9">https://discord.gg/2mjuRKKdK9</a><br /><br />Thank you 6hu and SeeMyRinnegan for helping w/ clips!<br />6hu-<a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCm4IIw9rOgtMXeqiTYCKiIA">https://www.youtube.com/channel/UCm4IIw9rOgtMXeqiTYCKiIA</a><br />SeeMyRinnegan's Discord - Don't Touch My Noodles<br />#0007<br />Reducing Youtubers:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCoCmxIFCIu-kLH-x1SS53Bw">https://www.youtube.com/channel/UCoCmxIFCIu-kLH-x1SS53Bw</a> - Telly<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCXHlJjlTiMon-uvrSwj30Qw">https://www.youtube.com/channel/UCXHlJjlTiMon-uvrSwj30Qw</a> - DiFark<br /><br />💥[TIMESTAMPS]💥<br />00:00 - Want to Reduce?<br />0:27 - Cringe Intro<br />1:15 - Sub or Teletubie Might Come<br />1:21 - How to Hold Your Mouse While Reducing<br />3:05 - Motion/Pattern For Drag Clicking/Reducing<br />4:46 - How to Aim While Reducing<br />5:52 - Other Clicking Methods For Reducing<br />6:22 - Special Tactic In Reducing<br />6:26 How To Be Consistent In Reducing<br />7:38 - Sad Outro ily<br />---------------------------------------------------------------------------------------------------------------------<br /><br />✨Current Sub Count 3.54K Subscribers✨<br />✨Goal 4K Subscribers✨<br />✨Each Comment Matters✨<br />Consider Subscribing, a tellytubie can cause major damage to your health. To stay safe, make sure to subscribe.<br /><br />hello,<br /><br />In this video I teach you guys how to reduce and all the strategies that I know with it. The mouse does not really matter as long as the grip is good and if it can double click. It's actually very simple to reduce, once you can figure out the pattern and get the flow of it can be really fun with friends.<br /><br />This is a beginners guide and I hope you learned something from this video.<br /><br />thank you guys for 3K ❤️<br /><br />You guys are my motivation to youtube, without you guys, I would never be here in the first place. You guys motivate and fill my hearth with passionm you have no clue how much you mean to me. I have a dream of going really big one day, and I hope we can make it there together :D<br /><br /><br /><br />if you made it this far into the description, you are the definition of pogger.<br /><br />(tags please ignore)<br />#flowaze #reducing #handcam #dragclicking #dragclick #mlgrush #germanbedwars #extensions #clutches #bedlessnoob #Tutorial #dragaiming #guide #ssanti #misdemeanors #crinek #roccatkain100 #modelo #cps #reduce #mlgrush #german #kbreduce #highcps #dragclickpvp #dragclickingaiming{% endraw %}
