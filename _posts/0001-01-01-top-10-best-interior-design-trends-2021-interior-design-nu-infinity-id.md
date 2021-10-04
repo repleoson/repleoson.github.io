@@ -1,0 +1,15 @@
+---
+title: "Top 10 Best Interior Design Trends 2021 | Interior Design | Nu Infinity | Ideas & Inspirations"
+image: "https:\/\/i.ytimg.com\/vi\/CzIAN0waGIY\/hqdefault.jpg"
+vid_id: "CzIAN0waGIY"
+categories: "Howto-Style"
+tags: ["Top 10","interior design","nu infinity"]
+date: "2021-10-04T10:41:28+03:00"
+vid_date: "2021-01-14T11:44:36Z"
+duration: "PT11M35S"
+viewcount: "733791"
+likeCount: "10982"
+dislikeCount: "289"
+channel: "Design Seed"
+---
+{% raw %}WELCOME to DESIGN SEED! <br /><br />First of all, we would like to express our utmost gratitude with you for supporting our channel in the previous 6 months. Today, we are grateful that we have reached 50,000 YouTube subscribers. This achievement has given us more encouragement and motivation to continue pursuing for more interesting contents for you. <br /><br />Due to the immense demand, we decided to craft an even better content and share it with you for 2021's Design Seed 1st episode! Hence, we will be revealing our TOP 10 Best Interior Design projects designed by Nu Infinity. <br /><br />The Vantage<br /><a rel="nofollow" target="blank" href="https://youtu.be/02rqIwbUiuk">https://youtu.be/02rqIwbUiuk</a> <br /><br />Rousing Concerto<br /><a rel="nofollow" target="blank" href="https://youtu.be/mgbjXblwQ74">https://youtu.be/mgbjXblwQ74</a> <br /><br />Mon Cheri<br /><a rel="nofollow" target="blank" href="https://youtu.be/6NI8TpBzXXw">https://youtu.be/6NI8TpBzXXw</a> <br /><br />Opulent 30<br /><a rel="nofollow" target="blank" href="https://youtu.be/lOc3MxzP_KI">https://youtu.be/lOc3MxzP_KI</a> <br /><br />High Altitude<br /><a rel="nofollow" target="blank" href="https://youtu.be/c95Frr66xEs">https://youtu.be/c95Frr66xEs</a> <br /><br />Break of Dawn<br /><a rel="nofollow" target="blank" href="https://youtu.be/QsaukheRFAU">https://youtu.be/QsaukheRFAU</a> <br /><br />Dream Lab<br /><a rel="nofollow" target="blank" href="https://youtu.be/Y9_ETrAR6BA">https://youtu.be/Y9_ETrAR6BA</a> <br /><br />Mangata<br /><a rel="nofollow" target="blank" href="https://youtu.be/31jlzA5RI6g">https://youtu.be/31jlzA5RI6g</a> <br /><br />Le Gris<br /><a rel="nofollow" target="blank" href="https://youtu.be/nyvSsUCb1Pg">https://youtu.be/nyvSsUCb1Pg</a> <br /><br />Villa 14<br /><a rel="nofollow" target="blank" href="https://youtu.be/2UizPYNGEE8">https://youtu.be/2UizPYNGEE8</a> <br /><br /><br />If you enjoyed the content of this video, do subscribe to us on DESIGN SEED or you could also look us up on our social media platforms like Instagram &amp; Facebook!<br /><br />FOLLOW US:<br /><a rel="nofollow" target="blank" href="http://www.facebook.com/designseedstudio">http://www.facebook.com/designseedstudio</a> <br /><a rel="nofollow" target="blank" href="http://instagram.com/designseedstudio">http://instagram.com/designseedstudio</a><br /><br />The Design Firm:<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/nuinfinity/">https://www.instagram.com/nuinfinity/</a> <br /><br />The Designer/ Host:<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/alex_lee_23/">https://www.instagram.com/alex_lee_23/</a>{% endraw %}
