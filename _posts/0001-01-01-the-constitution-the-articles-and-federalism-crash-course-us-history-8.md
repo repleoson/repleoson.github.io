@@ -1,0 +1,15 @@
+---
+title: "The Constitution, the Articles, and Federalism: Crash Course US History #8"
+image: "https:\/\/i.ytimg.com\/vi\/bO7FQsCcbD8\/hqdefault.jpg"
+vid_id: "bO7FQsCcbD8"
+categories: "Education"
+tags: ["Articles of Confederation","Shays' Rebellion","Thomas Jefferson"]
+date: "2021-10-04T20:28:37+03:00"
+vid_date: "2013-03-21T21:40:58Z"
+duration: "PT13M4S"
+viewcount: "6539623"
+likeCount: "55470"
+dislikeCount: "3886"
+channel: "CrashCourse"
+---
+{% raw %}In which John Green teaches you about the United States Constitution. During and after the American Revolutionary War, the government of the new country operated under the Articles of Confederation. While these Articles got the young nation through its war with England, they weren't of much use when it came to running a country. So, the founding fathers decided try their hand at nation-building, and they created the Constitution of the United States, which you may remember as the one that says We The People at the top. John will tell you how the convention came together, some of the compromises that had to be made to pass this thing, and why it's very lucky that the framers installed a somewhat reasonable process for making changes to the thing. You'll learn about Shays' Rebellion, the Federalist Papers, the elite vs rabble dynamic of the houses of congress, and start to find out just what an anti-federalist is.<br /><br />Hey teachers and students - Check out CommonLit's free collection of reading passages and curriculum resources to learn more about the events of this episode.Founding Fathers debated over how to govern the new nation, beginning with the Articles of Confederation: <a rel="nofollow" target="blank" href="https://www.commonlit.org/texts/articles-of-confederation">https://www.commonlit.org/texts/articles-of-confederation</a><br />When the Founding Fathers finally wrote the Constitution, they realized that they needed to add The Bill of Rights to get citizens on board with the new government: <a rel="nofollow" target="blank" href="https://www.commonlit.org/texts/the-bill-of-rights">https://www.commonlit.org/texts/the-bill-of-rights</a><br /><br />Follow us:<br /><a rel="nofollow" target="blank" href="http://www.twitter.com/thecrashcourse">http://www.twitter.com/thecrashcourse</a><br /><a rel="nofollow" target="blank" href="http://www.twitter.com/realjohngreen">http://www.twitter.com/realjohngreen</a><br /><a rel="nofollow" target="blank" href="http://www.twitter.com/raoulmeyer">http://www.twitter.com/raoulmeyer</a><br /><a rel="nofollow" target="blank" href="http://www.twitter.com/crashcoursestan">http://www.twitter.com/crashcoursestan</a><br /><a rel="nofollow" target="blank" href="http://www.twitter.com/saysdanica">http://www.twitter.com/saysdanica</a><br /><a rel="nofollow" target="blank" href="http://www.twitter.com/thoughtbubbler">http://www.twitter.com/thoughtbubbler</a><br />Support CrashCourse on Patreon: <a rel="nofollow" target="blank" href="https://www.patreon.com/crashcourse">https://www.patreon.com/crashcourse</a>{% endraw %}
