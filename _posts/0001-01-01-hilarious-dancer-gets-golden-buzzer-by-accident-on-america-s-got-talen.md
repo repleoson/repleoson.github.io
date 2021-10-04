@@ -1,0 +1,15 @@
+---
+title: "HILARIOUS Dancer Gets GOLDEN BUZZER By Accident On America's Got Talent 2019! | Got Talent Global"
+image: "https:\/\/i.ytimg.com\/vi\/mtpCvCE1rEw\/hqdefault.jpg"
+vid_id: "mtpCvCE1rEw"
+categories: "Entertainment"
+tags: ["Got Talent (TV Program)","got talent global","Got talent"]
+date: "2021-10-05T02:05:17+03:00"
+vid_date: "2019-07-06T15:00:05Z"
+duration: "PT7M43S"
+viewcount: "1138267"
+likeCount: "14075"
+dislikeCount: "1436"
+channel: "Got Talent Global"
+---
+{% raw %}Check out this hilarious audition by Ben Trigger that got the golden buzzer by accident on America's Got Talent 2019!<br /><br />Watch more America's Got Talent:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/user/AmericasGotTalent">https://www.youtube.com/user/AmericasGotTalent</a><br /><br />▶︎ Subscribe to Got Talent Global: <a rel="nofollow" target="blank" href="http://www.youtube.com/user/gottalentglobal">http://www.youtube.com/user/gottalentglobal</a><br /><br />▶︎ Watch more Got Talent Global videos: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=w-z5mbZ-yCI&amp;list=PLF-BDTAHX0p5xf2caJw3l9oPmuHI0PJRA">https://www.youtube.com/watch?v=w-z5mbZ-yCI&amp;list=PLF-BDTAHX0p5xf2caJw3l9oPmuHI0PJRA</a><br /><br />▶︎ Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/gottalentglobal">https://www.facebook.com/gottalentglobal</a><br />▶︎ Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/gottalentglobal">https://twitter.com/gottalentglobal</a><br />▶︎ Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/gottalentglobal">https://www.instagram.com/gottalentglobal</a><br /><br />Got Talent Global brings together the very best in worldwide talent, creating a central hub for fans of the show to keep up to date with the other sensational performances from around the world.<br /><br />Watch more America's Got Talent:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/user/AmericasGotTalent">https://www.youtube.com/user/AmericasGotTalent</a><br /><br />▶︎ Subscribe to Got Talent Global: <a rel="nofollow" target="blank" href="http://www.youtube.com/user/gottalentglobal">http://www.youtube.com/user/gottalentglobal</a><br /><br />▶︎ Watch more Got Talent Global videos: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=w-z5mbZ-yCI&amp;list=PLF-BDTAHX0p5xf2caJw3l9oPmuHI0PJRA">https://www.youtube.com/watch?v=w-z5mbZ-yCI&amp;list=PLF-BDTAHX0p5xf2caJw3l9oPmuHI0PJRA</a><br /><br />▶︎ Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/gottalentglobal">https://www.facebook.com/gottalentglobal</a><br />▶︎ Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/gottalentglobal">https://twitter.com/gottalentglobal</a><br />▶︎ Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/gottalentglobal">https://www.instagram.com/gottalentglobal</a><br /><br />Got Talent Global brings together the very best in worldwide talent, creating a central hub for fans of the show to keep up to date with the other sensational performances from around the world.{% endraw %}
