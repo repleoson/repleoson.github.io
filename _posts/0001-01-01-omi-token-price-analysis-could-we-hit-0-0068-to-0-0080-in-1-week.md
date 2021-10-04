@@ -1,0 +1,15 @@
+---
+title: "🚨🔥OMI TOKEN PRICE ANALYSIS!  COULD WE HIT $0.0068 TO $0.0080 IN 1 WEEK? 🔥🚨"
+image: "https:\/\/i.ytimg.com\/vi\/eTSiXlZl9_E\/hqdefault.jpg"
+vid_id: "eTSiXlZl9_E"
+categories: "Entertainment"
+tags: ["OMI token","OMI price","OMI crypto"]
+date: "2021-10-04T22:48:57+03:00"
+vid_date: "2021-10-04T15:15:45Z"
+duration: "PT14M10S"
+viewcount: "1766"
+likeCount: "289"
+dislikeCount: "5"
+channel: "Daniel Lee"
+---
+{% raw %}Omi token price could hit $0.0068 to $0.0080 in as little as 1 week time based on technical indicators and fundamental analysis.  <br /><br />0:00 - Intro with Wizard<br />1:54 - Recap of current Omi news<br />5:24 - Technical indicator analysis<br />9:09 - Price discovery mode to hit ATH<br />12:20 - 0.0068 to 0.0080 with this momentum?<br />12:45- Price momentum prediction and analysis<br /><br />🚨🔥💎Check out the equipment I use for my Youtube Channel!💎🔥🚨<br />Elgato Key Light Air - <a rel="nofollow" target="blank" href="https://amzn.to/3A3QmBm">https://amzn.to/3A3QmBm</a><br />Elgato Key Light Professional - <a rel="nofollow" target="blank" href="https://amzn.to/3irCD1z">https://amzn.to/3irCD1z</a><br />Shure SM7B Microphone - <a rel="nofollow" target="blank" href="https://amzn.to/3mhV7T6">https://amzn.to/3mhV7T6</a><br />Logitech Stream Cam - <a rel="nofollow" target="blank" href="https://amzn.to/3A1YWkb">https://amzn.to/3A1YWkb</a><br /><br />🚨Favorite books🚨 <br />48 Laws of Power - <a rel="nofollow" target="blank" href="https://amzn.to/3a1DSQ9">https://amzn.to/3a1DSQ9</a><br />The Power of Habit - <a rel="nofollow" target="blank" href="https://amzn.to/3F8JmHg">https://amzn.to/3F8JmHg</a><br /><br />🌈Future equipment upgrades🌈<br />🥈Canon EOS M50 🥈- <a rel="nofollow" target="blank" href="https://amzn.to/3D0z2iC">https://amzn.to/3D0z2iC</a><br />🥉Rode VideoMic Pro+🥉 - <a rel="nofollow" target="blank" href="https://amzn.to/3otH5QT">https://amzn.to/3otH5QT</a><br />DJI Mini 2 Drone - <a rel="nofollow" target="blank" href="https://amzn.to/3mlHB0K">https://amzn.to/3mlHB0K</a><br />Elgato Cam Link - <a rel="nofollow" target="blank" href="https://amzn.to/2YcwO16">https://amzn.to/2YcwO16</a><br /><br />Interested in purchase Omi Homie or Omi to the moon T-shirt?  <br />Check out: <a rel="nofollow" target="blank" href="https://wchampfx.com/store-2/">https://wchampfx.com/store-2/</a><br />Use discount code &quot;lee10&quot; to save 10 percent off and get an awesome T-shirt!!!<br /><br />CATCH ME ON TWITTER:<br /><a rel="nofollow" target="blank" href="https://twitter.com/Asiandan1">https://twitter.com/Asiandan1</a><br /><br />🚀 🌈🚨🏅Wall of Contributors and Supporters🏅🚨🌈🚀 <br />1. 🏅Austin🏅 $700 <br /><br />DISCLAIMER- I am not a financial advisor, nor am I registered with any entity requiring such disclosures.  This video is solely for entertainment purposes and represents my own personal opinion.<br /><br />omi token, omi coin, omi, ecomi, veve, price prediction, $1, bitcoin, ethereum, cyprtocurrency.<br /><br />For business inquiries email: asiandancrypto@gmail.com{% endraw %}
