@@ -1,0 +1,15 @@
+---
+title: "Most Beautiful \/ So In Love (feat. Chandler Moore) - Maverick City Music | TRIBL"
+image: "https:\/\/i.ytimg.com\/vi\/oCAY_qeDo-w\/hqdefault.jpg"
+vid_id: "oCAY_qeDo-w"
+categories: "Music"
+tags: ["most beautiful","most beautiful so in love","most beautiful chandler moore"]
+date: "2021-10-04T22:54:22+03:00"
+vid_date: "2019-09-13T17:37:16Z"
+duration: "PT12M12S"
+viewcount: "20853559"
+likeCount: "171087"
+dislikeCount: "3563"
+channel: "TRIBL"
+---
+{% raw %}Official Music Video for &quot;Most Beautiful / So In Love&quot; (feat. Chandler Moore). &quot;Most Beautiful&quot; was written by Chandler Moore, Dante Bowe, and Omari Walthour. &quot;So In Love&quot; was written by Jonathan Jay, Tony Brown, Nate Moore, and Brandon Lake.This video was captured live during a Maverick City Music recording night at 1971 Sounds in Atlanta, GA<br /><br />Stream &quot;Most Beautiful / So In Love&quot; on Maverick City Music Vol. 1. Maverick City Music Vol. 2 is out now on all streaming platforms including the TRIBL app now.<br /><br />Download the TRIBL app <br />App Store -<a rel="nofollow" target="blank" href="http://triblmusic.com/apple">http://triblmusic.com/apple</a><br />Google Play - <a rel="nofollow" target="blank" href="http://triblmusic.com/google">http://triblmusic.com/google</a> <br /><br />Follow us on socials:<br />Instagram - <a rel="nofollow" target="blank" href="https://www.instagram.com/triblmusic/">https://www.instagram.com/triblmusic/</a><br />Facebook - <a rel="nofollow" target="blank" href="https://www.facebook.com/triblmusic/">https://www.facebook.com/triblmusic/</a><br /><br />LYRICS:<br /><br />One thing I desire<br />Only this I seek<br />Just to dwell dwell dwell<br />Here forever<br /><br />This will be my posture<br />Laying at Your feet<br />Oh just to dwell dwell dwell<br />Here forever<br /><br />Dearest Father<br />Closest Friend<br />Most beautiful<br />Most beautiful<br /><br />One thing I desire<br />Only this I seek<br />Just to dwell dwell dwell<br />Here forever<br /><br />This will be my posture<br />Laying at Your feet<br />Oh just to dwell dwell dwell<br />Here forever<br /><br />Dearest Father<br />Closest Friend<br />Most beautiful<br />Most beautiful<br /><br />There are no words<br />There’s nothing left<br />Our love sings to You<br />Oh oh oh<br /><br />Dearest Father<br />Closest Friend<br />Most beautiful<br />Most beautiful<br /><br />There are no words<br />There’s nothing left<br />Our love sings to You<br />Oh oh oh<br /><br />I'm so in love with You, You're beautiful, so beautiful<br />I fix my eyes on You, You're beautiful, so beautiful<br /><br />With just one look everything changes <br />I'm captivated and I'll never be the same<br /><br />Maverick City is a community of songwriters creating a space where worship expression takes precedence over proficiency. As their missions align, Maverick City Music has partnered with TRIBL to share their live videos and songs. TRIBL is an aggregator of these communities and tribes, creating a home for authentic worship moments.{% endraw %}
