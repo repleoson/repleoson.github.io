@@ -1,0 +1,15 @@
+---
+title: "NOT POSSIBLE, RIGHT?"
+image: "https:\/\/i.ytimg.com\/vi\/DcKbE9o1F3Y\/hqdefault.jpg"
+vid_id: "DcKbE9o1F3Y"
+categories: "Autos-Vehicles"
+tags: ["enduro","motocross","dirtbike"]
+date: "2021-10-04T08:12:52+03:00"
+vid_date: "2021-10-01T12:00:13Z"
+duration: "PT4M35S"
+viewcount: "17710"
+likeCount: "517"
+dislikeCount: "24"
+channel: "Dirt Bike Channel"
+---
+{% raw %}<a rel="nofollow" target="blank" href="https://dirtbikechannel.com/">https://dirtbikechannel.com/</a><br /><br />October 2021 ONLY!!  Here we go again!  You PICK which dirt bike you want.  Will it be the 2022 KTM 250 SX-F, the 2021 KTM 250 XC, or the 2021 KTM 300 XC-W?  In addition to the bike, the winner will get round trip airfare to Utah, a two night hotel stay, and a ride day with Dirt Bike Channel!  I can't wait!<br /><br />There are several ways to enter.   <br />1 - My favorite method is to have you pick up some merch over at <a rel="nofollow" target="blank" href="https://dirtbikechannel.com/">https://dirtbikechannel.com/</a><br /><br />2 - Use my links to Rocky Mountain ATV/MC to get some entries!  Here is the link.  <a rel="nofollow" target="blank" href="https://www.rockymountainatvmc.com/l/Dirt-Bike-Channel?ref=1017">https://www.rockymountainatvmc.com/l/Dirt-Bike-Channel?ref=1017</a><br />After clicking this link, you can buy ANYTHING from them and each order gets 3 entries into this sweepstakes.  Place as many orders with RMATV/MC as you like during the month of October and get entries that way!<br /><br />You can also subscribe to my SMS (text message) list to be the first to know when I'm doing things.  I don't plan on spamming anyone and you can opt out at any time.  This gives you entries as well.<br /><a rel="nofollow" target="blank" href="https://dirtbikechannel.com/pages/dbc-giveaway-updates">https://dirtbikechannel.com/pages/dbc-giveaway-updates</a><br /><br />Lastly, there is a mail in option for entry (have to have this to be legal) - See here :<a rel="nofollow" target="blank" href="https://dirtbikechannel.com/pages/dirt-bike-sweepstakes-official-rules">https://dirtbikechannel.com/pages/dirt-bike-sweepstakes-official-rules</a><br /><br /><br />* * * LIMIT FIFTY (50) PURCHASE AND MAIL-IN ENTRIES COMBINED, AND SIXTY (60) ENTRIES TOTAL PER PERSON/EMAIL ADDRESS DURING THE PROMOTION PERIOD * * *  NO PURCHASE OR PAYMENT OF ANY KIND IS NECESSARY TO ENTER OR WIN. PURCHASE OR PAYMENT DOES NOT IMPROVE YOUR CHANCE OF WINNING. DBC #18 Giveaway is open only to legal residents of the 50 United States and the District of Columbia who have reached the age of majority. Void elsewhere and where prohibited. Promotion ends August 31, 2021. Subject to complete Official Rules  <br /><a rel="nofollow" target="blank" href="https://dirtbikechannel.com/pages/dirt-bike-sweepstakes-official-rules">https://dirtbikechannel.com/pages/dirt-bike-sweepstakes-official-rules</a><br /><br /><br />See past winners here - <a rel="nofollow" target="blank" href="https://dirtbikechannel.com/pages/past-dirt-bike-winners">https://dirtbikechannel.com/pages/past-dirt-bike-winners</a>{% endraw %}
