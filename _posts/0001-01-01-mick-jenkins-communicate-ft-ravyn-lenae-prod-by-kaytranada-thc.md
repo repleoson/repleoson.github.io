@@ -1,0 +1,15 @@
+---
+title: "Mick Jenkins - Communicate (ft. Ravyn Lenae) (prod. by KAYTRANADA) (THC)"
+image: "https:\/\/i.ytimg.com\/vi\/gSZ15VW4VQ8\/hqdefault.jpg"
+vid_id: "gSZ15VW4VQ8"
+categories: "Music"
+tags: ["Mick","Jenkins","kaytranada"]
+date: "2021-10-05T09:53:09+03:00"
+vid_date: "2016-09-22T23:49:15Z"
+duration: "PT3M58S"
+viewcount: "436430"
+likeCount: "6532"
+dislikeCount: "82"
+channel: "Promoting Sounds"
+---
+{% raw %}Artist: Mick Jenkins<br /><br />Song Name: Communicate (ft. Ravyn Lenae) (prod. by KAYTRANADA) <br /><br />Description: Communicate (ft. Ravyn Lenae) (prod. by KAYTRANADA) is a brand new tune from Mick's highly anticipated album THC that just dropped. If you haven't, I really recommend purchasing the project (links below) as it's simply incredible. Enjoy Communicate!<br /><br /><br /><br />Purchase Mick Jenkins &quot;The Healing Component&quot; here:<br /><br />ITUNES:<br /><br /><a rel="nofollow" target="blank" href="https://itunes.apple.com/us/album/the-healing-component/id1146894931?app=itunes">https://itunes.apple.com/us/album/the-healing-component/id1146894931?app=itunes</a><br /><br />GOOGLE PLAY:<br /><br /><a rel="nofollow" target="blank" href="https://play.google.com/store/music/album/Mick_Jenkins_The_Healing_Component?id=Bwsjsemibrnytbkkrzaoqgcry7e">https://play.google.com/store/music/album/Mick_Jenkins_The_Healing_Component?id=Bwsjsemibrnytbkkrzaoqgcry7e</a><br /><br /><br /><br />Artist Social Networks:<br /><br /><a rel="nofollow" target="blank" href="https://mickjenkins.com">https://mickjenkins.com</a><br /><br /><a rel="nofollow" target="blank" href="https://soundcloud.com/mickjenkins">https://soundcloud.com/mickjenkins</a><br /><br /><a rel="nofollow" target="blank" href="https://twitter.com/MickJenkins">https://twitter.com/MickJenkins</a><br /><br /><a rel="nofollow" target="blank" href="https://instagram.com/mickjenkins">https://instagram.com/mickjenkins</a><br /><br /><br /><br />Support Promoting Sounds:<br /><br /><a rel="nofollow" target="blank" href="https://twitter.com/PromotingSounds">https://twitter.com/PromotingSounds</a><br /><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/PromotingSounds">https://www.facebook.com/PromotingSounds</a><br /><br /><a rel="nofollow" target="blank" href="http://soundcloud.com/Promotedsounds">http://soundcloud.com/Promotedsounds</a><br /><br /><a rel="nofollow" target="blank" href="http://instagram.com/promotingsounds">http://instagram.com/promotingsounds</a><br /><br /><br /><br />There is no copyright infringement intended for the song or picture. If you have an issue with me posting this song or picture please contact me through one of my social networks or YouTube private messaging system. Once I have received your message and determined you are the proper owner of this content I will have it removed, no drama at all. This channel is strictly for promotion towards the artists of the music. I try to help promote their music and their social networks. . Not for children - these videos are rap music that contain adult themes - thank you!{% endraw %}
