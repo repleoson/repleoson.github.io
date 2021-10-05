@@ -1,0 +1,15 @@
+---
+title: "A Major Blind Spot That Illustrates A Narcissist's Lack Of Awareness"
+image: "https:\/\/i.ytimg.com\/vi\/B6f6265qFy0\/hqdefault.jpg"
+vid_id: "B6f6265qFy0"
+categories: "Film-Animation"
+tags: ["narcissism","Dr. Les Carter","unaware people"]
+date: "2021-10-05T12:19:18+03:00"
+vid_date: "2021-06-24T14:00:11Z"
+duration: "PT13M44S"
+viewcount: "58153"
+likeCount: "3573"
+dislikeCount: "18"
+channel: "Surviving Narcissism"
+---
+{% raw %}Narcissists operate with many double standards.  What is good for them is not allowed for you.  Dr. Les Carter identifies a major double standard utilized by narcissists that actually defines their character, and yet they are blind to its implications  They are truly unaware people.  He goes on to explain how narcissists can't have it both ways, and how you can respond to their unaware tendencies with an awakened mind.<br /><br />Click the &quot;JOIN&quot; tab to become a member of Surviving Narcissism's Team Healthy and get extra videos, weekly Q and A live streams, articles, and other perks! <br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCIELB1mz8wMKIhB6DCmTBlw/join">https://www.youtube.com/channel/UCIELB1mz8wMKIhB6DCmTBlw/join</a><br /><br />Sign up for Dr. Carter's course Free to Be HERE: <br /><a rel="nofollow" target="blank" href="https://survivingnarcissism.tv/go/freetobeyoutube/">https://survivingnarcissism.tv/go/freetobeyoutube/</a><br />Use the following coupon code to get 20% off Free To Be: FTBYouTube20<br /><br />Join our Community HERE: <a rel="nofollow" target="blank" href="https://survivingnarcissism.tv/subscribe/">https://survivingnarcissism.tv/subscribe/</a><br /><br />Dr. Les Carter is a best selling author and therapist who has semi-retired to Waco, Tx. In the past 40+ years he has conducted more than 65,000 counseling sessions and many workshops and seminars.  He specializes in anger management and narcissistic personality disorder.<br /><br />If you are interested in online counseling, Dr. Carter has a sponsor who can assist.  As the need is there, please seek the help you deserve: <a rel="nofollow" target="blank" href="https://betterhelp.com/survivingnarcissism">https://betterhelp.com/survivingnarcissism</a><br />We receive commissions on referrals to BetterHelp. We only recommend services that we trust.<br /><br />Sign up for our email list and check out other videos, articles, webinars, quizzes, and more at our website:  <a rel="nofollow" target="blank" href="http://survivingnarcissism.tv">http://survivingnarcissism.tv</a><br />Dr. Carter's personal website:  <a rel="nofollow" target="blank" href="http://drlescarter.com/">http://drlescarter.com/</a><br />Dr. Carter's other YouTube channel:  <a rel="nofollow" target="blank" href="https://www.youtube.com/c/drlescarter">https://www.youtube.com/c/drlescarter</a><br />Bookstore: <a rel="nofollow" target="blank" href="https://survivingnarcissism.tv/books-on-narcissism-surviving-narcissism/">https://survivingnarcissism.tv/books-on-narcissism-surviving-narcissism/</a>{% endraw %}
