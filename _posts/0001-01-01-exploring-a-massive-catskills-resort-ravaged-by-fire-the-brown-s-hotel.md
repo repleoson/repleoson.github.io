@@ -1,0 +1,15 @@
+---
+title: "Exploring a Massive Catskills Resort Ravaged by Fire - The Brown's Hotel"
+image: "https:\/\/i.ytimg.com\/vi\/T4YYe5lNu-U\/hqdefault.jpg"
+vid_id: "T4YYe5lNu-U"
+categories: "Entertainment"
+tags: ["abandoned","urban","exploration"]
+date: "2021-10-05T04:21:17+03:00"
+vid_date: "2021-08-29T17:39:22Z"
+duration: "PT37M47S"
+viewcount: "215669"
+likeCount: "9071"
+dislikeCount: "93"
+channel: "The Proper People"
+---
+{% raw %}Thanks to NordVPN for sponsoring a portion of this video!<br />Go to <a rel="nofollow" target="blank" href="https://NordVPN.com/properpeople">https://NordVPN.com/properpeople</a> to get a 2-year plan at a huge discount plus 4 months free. It’s risk free with Nord’s 30 day money-back guarantee!<br /><br />In this episode we're exploring the remains of the once extremely popular Brown's Hotel in the Catskills. Many resorts like these were huge in the 50s and 60s as a popular destination for Jewish vacationers in the northeast. By the late 80s, the majority of them closed their doors permanently. In 2012, the property suffered a catastrophic fire while it was being used as condominiums. Many surviving rooms are still left as they were on the day they evacuated.<br /><br /><a rel="nofollow" target="blank" href="http://theproperpeople.com">http://theproperpeople.com</a><br /><br />JOIN US ON:<br /><a rel="nofollow" target="blank" href="http://facebook.com/theproperpeople">http://facebook.com/theproperpeople</a><br /><a rel="nofollow" target="blank" href="http://twitter.com/theproperpeople">http://twitter.com/theproperpeople</a><br /><a rel="nofollow" target="blank" href="http://instagram.com/theproperpeople">http://instagram.com/theproperpeople</a><br /><a rel="nofollow" target="blank" href="https://www.reddit.com/r/theproperpeople">https://www.reddit.com/r/theproperpeople</a><br /><a rel="nofollow" target="blank" href="https://tiktok.com/@theproperpeople">https://tiktok.com/@theproperpeople</a><br /><a rel="nofollow" target="blank" href="https://discord.gg/theproperpeople">https://discord.gg/theproperpeople</a><br /><br />Thanks to Musicbed for providing the music in this video.<br /><a rel="nofollow" target="blank" href="http://share.mscbd.fm/theproperpeople">http://share.mscbd.fm/theproperpeople</a> (Affiliate Link)<br /><br />Intro Music: <a rel="nofollow" target="blank" href="https://artist.landr.com/music/672985173835">https://artist.landr.com/music/672985173835</a><br /><br />Enjoying our videos? Help us make more by buying a print: <a rel="nofollow" target="blank" href="http://theproperpeople.com/shop">http://theproperpeople.com/shop</a><br />Supporting us on Patreon: <a rel="nofollow" target="blank" href="http://patreon.com/theproperpeople">http://patreon.com/theproperpeople</a><br />Purchasing a t-shirt: <a rel="nofollow" target="blank" href="http://theproperpeople.com/merch">http://theproperpeople.com/merch</a><br /><br />Equipment we use to make our videos: <a rel="nofollow" target="blank" href="https://theproperpeople.com/gear/">https://theproperpeople.com/gear/</a>{% endraw %}
