@@ -1,0 +1,15 @@
+---
+title: "Thrice - Black Honey [Official Video]"
+image: "https:\/\/i.ytimg.com\/vi\/C9GTEsNf_GU\/hqdefault.jpg"
+vid_id: "C9GTEsNf_GU"
+categories: "Music"
+tags: ["Thrice","Black Honey","To Be Everywhere Is To Be Nowhere"]
+date: "2021-10-06T21:07:31+03:00"
+vid_date: "2016-05-17T14:00:01Z"
+duration: "PT4M19S"
+viewcount: "42155622"
+likeCount: "266154"
+dislikeCount: "15718"
+channel: "Thrice"
+---
+{% raw %}The New Album 'To Be Everywhere Is To Be Nowhere' Out Now.<br /><br />Download on iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/TBEITBN">http://smarturl.it/TBEITBN</a><br />Store/Physical: <a rel="nofollow" target="blank" href="http://smarturl.it/ThriceStore">http://smarturl.it/ThriceStore</a><br />Listen on Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/ThriceSpotify">http://smarturl.it/ThriceSpotify</a><br />Amazon: <a rel="nofollow" target="blank" href="http://smarturl.it/TBEITBNAmz">http://smarturl.it/TBEITBNAmz</a><br /><br />Watch &quot;Black Honey&quot; (TBEITBN Session) <a rel="nofollow" target="blank" href="https://youtu.be/EqZJ23b86Fg">https://youtu.be/EqZJ23b86Fg</a><br /><br />Lyrics:<br />I keep swinging my hand through a swarm of bees ‘cause I ... <br />I want honey on my table<br />But I never get it right ... no I never get it right<br />I keep swinging my hand through in swarm of bees <br />I can’t understand why they’re stinging me<br />But I’ll do what I want, I’ll do it what I please<br />I’ll do it again till I got what I need<br />I’ll rip and smash through the hornet’s nest <br />Don’t they understand I deserve the best<br />And I’ll do what I want, I’ll do it what I please <br />I’ll do it again till I got what I need<br />I tried to stick this pin through a butterfly ‘cause I ...<br />I like all the pretty colors<br />But it just fell apart so I flung it in the fire to burn with all the others<br />And this time I’ll get it right ... yeah this time I’ll get it right<br />It’s gonna be this time I’ll get it right ... <br />Oh God let it be this time I get it right<br />So I’m cutting that branch off the cherry tree <br />I’m singing this will be my victory then I ...<br />I see them coming after me<br />And they’re following me across the sea<br />And now they’re stinging my friends and my family and I... <br />I don’t know why this is happening<br />But I’ll do what I want, I’ll do it what I please<br />I’ll do it again till I got what I need<br /><br />-----------<br /><br />Full Credits: <br /><br />Directed by Y2K<br />Produced by Jason Lester<br /><br />The Boy: Jesse James Baldwin<br />Mother: Jennifer Lee Laks<br />Sister: Madison West<br /><br />Concept by Patrick Mckenzie<br />Cinematographer: Powell Robinson<br /><br />1st AD: Colton Toles<br />1st AC: Erick Turcios<br />G+E: Hiram Borges<br /><br />Hair/MU: Frances Ferris<br />Drone Operator: Rene Vara<br />Key PA: Nick Gall<br /><br />Edited by Y2K<br />Colorist: Powell Robinson<br />VFX: Alex Familian<br /><br />Director’s Rep: Yvette Lang-Einczig<br />Commissioned by: Taylor Bringuel<br />For Relentless Artist Management: Kenneth O’Leary{% endraw %}
