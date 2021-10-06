@@ -1,0 +1,15 @@
+---
+title: "Clout - Substitute • TopPop"
+image: "https:\/\/i.ytimg.com\/vi\/5fgA_yNCeq4\/hqdefault.jpg"
+vid_id: "5fgA_yNCeq4"
+categories: "Music"
+tags: ["Live","seventies","footage"]
+date: "2021-10-06T06:30:27+03:00"
+vid_date: "2018-01-26T08:00:00Z"
+duration: "PT3M24S"
+viewcount: "4310341"
+likeCount: "19403"
+dislikeCount: "847"
+channel: "TopPop"
+---
+{% raw %}Clout was an original all-female South African rock group formed in Johannesburg in 1977, best known for their hit single, &quot;Substitute&quot;.<br /><br />Clout's first and biggest hit, &quot;Substitute&quot;, was a new arrangement of a Righteous Brothers song, composed by Willie Wilson. In 1978, their version reached No. 1 in South Africa, New Zealand, Germany, France, the Netherlands, Sweden, Austria, Denmark and Belgium. It also reached No. 2 on the UK Singles Chart and remained in the UK charts for 15 weeks. Due to sanctions against South African artists and performers by UK's Equity at the time, the BBC's Top of the Pops TV programme used the group's performance of the song on the Dutch TV programme TopPop from 8 April 1978 to present the hit song for its top ten countdown.<br /><br />A major success in Europe, Clout scored more Top 10 singles, notably &quot;Save Me&quot;, &quot;You've Got All of Me&quot; and &quot;Under Fire&quot;.<br /><br />Watch our great music videos ❯ <a rel="nofollow" target="blank" href="https://goo.gl/feVLNN">https://goo.gl/feVLNN</a><br />More TopPop? Subscribe here ❯ <a rel="nofollow" target="blank" href="https://goo.gl/X9FOAU">https://goo.gl/X9FOAU</a><br />More info on Wikipedia ❯ <a rel="nofollow" target="blank" href="https://en.wikipedia.org/wiki/TopPop">https://en.wikipedia.org/wiki/TopPop</a><br /><br />Broadcast date: 8-4-1978<br /><br />This is to let you know that the video recording of the video clip was originally recorded by AVROTROS Broadcasting. AVROTROS Broadcasting hereby warrants and represents that it is the sole and exclusive owner of the physical film and/or videotape footage in this video clip. <br /><br />The performance of the artist(s) in the clip was filmed and recorded with the written consent of the artist(s) and their representatives.<br /><br />AVROTROS is a Dutch radio and television broadcaster, founded in 2014 from a merger of AVRO and TROS. From January 1st, 2014 the name of the merged broadcaster was used in joint programmes. AVRO was founded in 1923 as the Netherlands first public broadcaster. TROS started broadcasting in 1964. Toppop was a weekly AVRO pop program that was aired between 1970 and 1988.<br /><br />AVROTROS Broadcasting<br />PO Box 2<br />1200 JA Hilversum<br />The Netherlands<br /><br />TopPop was the first regular dedicated pop music TV show in the Dutch language area. Dutch broadcaster AVRO aired the programme weekly, from 1970 to 1988. Presenter Ad Visser hosted the show for its first fifteen years.<br />World famous music artists performed on TopPop: ABBA, 10CC, Bee Gees, The Jacksons with Michael Jackson, David Bowie, Earth &amp; Fire, Queen, Golden Earring, Boney M, KC &amp; The Sunshine Band, Chic, Donna Summer and many many more.{% endraw %}
