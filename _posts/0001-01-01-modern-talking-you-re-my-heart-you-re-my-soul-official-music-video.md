@@ -1,0 +1,15 @@
+---
+title: "Modern Talking - You're My Heart, You're My Soul (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/4kHl4FoK1Ys\/hqdefault.jpg"
+vid_id: "4kHl4FoK1Ys"
+categories: "Music"
+tags: ["moderntalkingvevo","modern talking","modern talking you're my heart you're my soul"]
+date: "2021-10-06T14:13:03+03:00"
+vid_date: "2009-10-25T06:41:59Z"
+duration: "PT3M15S"
+viewcount: "550131081"
+likeCount: "1943183"
+dislikeCount: "116425"
+channel: "ModernTalkingVEVO"
+---
+{% raw %}Modern Talking's official music video for 'You're My Heart, You're My Soul'. Click to listen to Modern Talking on Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/ModernTalkingSpoti...">http://smarturl.it/ModernTalkingSpoti...</a><br /><br />As featured on 25 Years of Disco Pop. Click to buy the track or album via iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/25YearsOfDiscoPop?...">http://smarturl.it/25YearsOfDiscoPop?...</a><br />Google Play: <a rel="nofollow" target="blank" href="http://smarturl.it/YMHGPlay?IQid=Mode...">http://smarturl.it/YMHGPlay?IQid=Mode...</a><br />Amazon: <a rel="nofollow" target="blank" href="http://smarturl.it/25YearsA?IQid=Mode...">http://smarturl.it/25YearsA?IQid=Mode...</a><br /><br />More from Modern Talking<br />Sexy Sexy Lover: <a rel="nofollow" target="blank" href="https://youtu.be/KoqYHDiB6ew">https://youtu.be/KoqYHDiB6ew</a><br />CheriCheri Lady: <a rel="nofollow" target="blank" href="https://youtu.be/eNvUS-6PTbs">https://youtu.be/eNvUS-6PTbs</a><br />Brother Louie: <a rel="nofollow" target="blank" href="https://youtu.be/Lp2qcCrdBLA">https://youtu.be/Lp2qcCrdBLA</a><br /><br />More great 80s videos here: <a rel="nofollow" target="blank" href="http://smarturl.it/Ultimate80?IQid=Mo...">http://smarturl.it/Ultimate80?IQid=Mo...</a><br /><br />Follow Modern Talking<br />Website: <a rel="nofollow" target="blank" href="http://www.modern-talking-online.de/i...">http://www.modern-talking-online.de/i...</a><br />Facebook:<a rel="nofollow" target="blank" href="https://www.facebook.com/ThomasAnders...">https://www.facebook.com/ThomasAnders...</a><br /><br />Subscribe to Modern Talking on YouTube: <a rel="nofollow" target="blank" href="http://smarturl.it/ModernTalkingSub?I...">http://smarturl.it/ModernTalkingSub?I...</a><br /><br />---------<br /><br />Lyrics:<br /><br />Deep in my heart - there's a fire - a burning heart<br />Deep in my heart - there's desire - for a start<br />I'm dying in emotion<br />It's my world in fantasy<br />I'm living in my, living in my dreams<br /><br />You're my heart, you're my soul<br />I'll keep it shining everywhere I go<br />You're my heart, you're my soul<br />I'll be holding you forever<br />Stay with you together<br /><br />You're my heart, you're my soul<br />Yeah, I'm feeling that our love will grow<br />You're my heart, you're my soul<br />That's the only thing I really know&quot;<br /><br />#ModernTalking #YoureMyHeartYoureMySoul #Vevo #Pop #OfficialMusicVideo{% endraw %}
