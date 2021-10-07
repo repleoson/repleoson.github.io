@@ -1,0 +1,15 @@
+---
+title: "Dubious - English Vocabulary Lesson # 112 - Free Spoken English lesson"
+image: "https:\/\/i.ytimg.com\/vi\/B49KRwAm5DU\/hqdefault.jpg"
+vid_id: "B49KRwAm5DU"
+categories: "Education"
+tags: ["spoken English","English speaking","english lesson"]
+date: "2021-10-07T03:37:11+03:00"
+vid_date: "2014-01-16T04:14:38Z"
+duration: "PT4M58S"
+viewcount: "15669"
+likeCount: "183"
+dislikeCount: "3"
+channel: "Daily Video Vocabulary (English Lessons)"
+---
+{% raw %}When someone tells you something, you may not take it at face value as you may be doubtful about what they are saying, and you are not sure whether to believe it or not.<br />The word 'dubious' actually means someone or something is doubtful, uncertain and questionable.<br /><br />If something arouses doubt, it is not trustworthy as you know it's not honest. It actually lacks conviction and you are suspicious about it. <br /><br />If your mind is unsettled about doing or not doing something, it means you are dubious.<br />When you are dubious about something, you doubt whether it is good or bad, or whether it is going to yield a positive result or not.<br /><br />The word 'dubious' is an adjective as it describes someone or something of being doubtful or uncertain, 'dubiously' is an adverb. 'Dubiousness' is a noun that means doubtfulness.<br /><br />For example, a company which was involved in a scandal would always have a dubious reputation. This means that people can never rely on such a company as they no longer find it trustworthy.<br /><br /><br />Example 01 : After being fired from his job, Michael sat dubiously, wondering about getting a new job during the recession period.<br /><br />Example 02 :The dubiousness of the lease contract for their new house got the couple very worried.<br /><br />Example 03 : On being questioned by the police regarding the murder case, Marc answered so dubiously that it increased the police's suspicion.<br /><br />Example 04 : On being dubious about his patient's eye condition, the Opthalmologist conducted some tests to clear all the doubts.<br /><br />Example 05 : While taking his Science exam, Martin was very dubious about clearing it as he hadn't prepared enough for it.<br /><br />Exam 06 : The tourist wasn't dubious while climbing the canopy bridge.<br /><br />Example 07 : At the meeting, the accountant tried to justify her dubious accounting practices.<br /><br />Example 08 : Ken had to blow the breath test as the cop was dubious about his alcohol level.<br /><br />Example 09 : At the bakery, the baker showed the sandwiches to the customer as he was dubious about its freshness.<br /><br />Example 10 : The pharmacist was dubious and reluctant to hand over the medicine without a prescription.<br /><br />What have you been dubious about, and why?<br /><br /><br /><br />Visit us at : <br /><a rel="nofollow" target="blank" href="http://www.letstalkpodcast.com">http://www.letstalkpodcast.com</a><br /><a rel="nofollow" target="blank" href="http://www.learnex.in">http://www.learnex.in</a><br /><a rel="nofollow" target="blank" href="http://www.letstalk.co.in">http://www.letstalk.co.in</a>{% endraw %}
