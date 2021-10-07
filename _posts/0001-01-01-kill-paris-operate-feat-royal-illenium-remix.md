@@ -1,0 +1,15 @@
+---
+title: "Kill Paris - Operate (feat. Royal) (Illenium Remix)"
+image: "https:\/\/i.ytimg.com\/vi\/2DnOnw18u5E\/hqdefault.jpg"
+vid_id: "2DnOnw18u5E"
+categories: "Music"
+tags: ["Trap Music","Kill Paris (Musical Artist)","TrapNation"]
+date: "2021-10-07T20:37:46+03:00"
+vid_date: "2015-07-05T12:00:01Z"
+duration: "PT4M26S"
+viewcount: "5205152"
+likeCount: "59120"
+dislikeCount: "1024"
+channel: "Trap Nation"
+---
+{% raw %}♫ Download Link ♫<br />➥<a rel="nofollow" target="blank" href="https://soundcloud.com/illeniumofficial/kill-paris-ft-royal-operate-illenium-remix">https://soundcloud.com/illeniumofficial/kill-paris-ft-royal-operate-illenium-remix</a><br />Add our Snapchat : trapnation<br /><br />♫ Support Trap Nation ♫<br />♦<a rel="nofollow" target="blank" href="https://nations.io">https://nations.io</a><br />♦<a rel="nofollow" target="blank" href="http://twitter.com/alltrapnation">http://twitter.com/alltrapnation</a><br />♦<a rel="nofollow" target="blank" href="http://facebook.com/alltrapnation">http://facebook.com/alltrapnation</a><br />♦<a rel="nofollow" target="blank" href="http://soundcloud.com/alltrapnation">http://soundcloud.com/alltrapnation</a><br />♦<a rel="nofollow" target="blank" href="http://instagram.com/trapnation">http://instagram.com/trapnation</a><br />♦<a rel="nofollow" target="blank" href="http://trapnation.spreadshirt.com">http://trapnation.spreadshirt.com</a><br />♦<a rel="nofollow" target="blank" href="http://plug.dj/thenation">http://plug.dj/thenation</a><br />♦snapchat: trapnation<br /><br />♫ Support The Producer ♫<br />●<a rel="nofollow" target="blank" href="https://soundcloud.com/illeniumofficial">https://soundcloud.com/illeniumofficial</a><br />●<a rel="nofollow" target="blank" href="https://twitter.com/ILLENIUMMUSIC">https://twitter.com/ILLENIUMMUSIC</a><br />●<a rel="nofollow" target="blank" href="http://instagram.com/illeniumofficial">http://instagram.com/illeniumofficial</a><br />●<a rel="nofollow" target="blank" href="http://www.facebook.com/illenium">http://www.facebook.com/illenium</a><br /><br />♫ Support  Kill Paris ♫<br />●<a rel="nofollow" target="blank" href="https://soundcloud.com/killparis">https://soundcloud.com/killparis</a><br />●<a rel="nofollow" target="blank" href="http://facebook.com/killparis">http://facebook.com/killparis</a><br /><br />♫ Support  Royal ♫<br />●<a rel="nofollow" target="blank" href="https://soundcloud.com/RoyalMakesMusic">https://soundcloud.com/RoyalMakesMusic</a><br />●<a rel="nofollow" target="blank" href="http://facebook.com/profile.php?id=1230931594">http://facebook.com/profile.php?id=1230931594</a><br />●<a rel="nofollow" target="blank" href="http://twitter.com/RoyalMakesMusic">http://twitter.com/RoyalMakesMusic</a><br /><br />♫ Background Link ♫<br />➥<a rel="nofollow" target="blank" href="http://alpha.wallhaven.cc/wallpaper/59575">http://alpha.wallhaven.cc/wallpaper/59575</a><br /><br />If you need a song removed on my channel, please e-mail me.<br />#trap{% endraw %}
