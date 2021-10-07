@@ -1,0 +1,15 @@
+---
+title: "Oasis - Whatever (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/EHfx9LXzxpw\/hqdefault.jpg"
+vid_id: "EHfx9LXzxpw"
+categories: "Music"
+tags: ["whatever","Oasis","Wonderwall"]
+date: "2021-10-08T02:47:15+03:00"
+vid_date: "2014-01-17T17:35:17Z"
+duration: "PT6M22S"
+viewcount: "73289029"
+likeCount: "288296"
+dislikeCount: "8114"
+channel: "OasisVEVO"
+---
+{% raw %}Oasis - 'Whatever' (Official Video)<br />Taken from the album 'Definitely Maybe’<br />Directed by Mark Szaszy<br /><br />SUBSCRIBE ▶︎ <a rel="nofollow" target="blank" href="https://Oasis.lnk.to/YTSubscribeYo">https://Oasis.lnk.to/YTSubscribeYo</a><br /><br />Listen to 'Definitely Maybe': <a rel="nofollow" target="blank" href="https://Oasis.lnk.to/DefMaybeID">https://Oasis.lnk.to/DefMaybeID</a><br />Stream the best of Oasis playlists: <a rel="nofollow" target="blank" href="https://Oasis.lnk.to/OASISESSENTIALSYo">https://Oasis.lnk.to/OASISESSENTIALSYo</a><br /><br />Join Oasis online: <br />Website: <a rel="nofollow" target="blank" href="https://Oasis.lnk.to/WebsiteYo">https://Oasis.lnk.to/WebsiteYo</a><br />Official Store:  <a rel="nofollow" target="blank" href="https://Oasis.lnk.to/shopYo">https://Oasis.lnk.to/shopYo</a><br />Facebook: <a rel="nofollow" target="blank" href="https://Oasis.lnk.to/FacebookYo">https://Oasis.lnk.to/FacebookYo</a><br />Twitter: <a rel="nofollow" target="blank" href="https://Oasis.lnk.to/TwitterYo">https://Oasis.lnk.to/TwitterYo</a><br />Instagram: <a rel="nofollow" target="blank" href="https://Oasis.lnk.to/InstagramYo">https://Oasis.lnk.to/InstagramYo</a><br /><br />Lyrics:<br /><br />I'm free to be whatever I<br />Whatever I choose<br />And I'll sing the blues if I want<br /><br />I'm free to say whatever I<br />Whatever I like<br />If it's wrong or right it's alright<br /><br />Always seems to me<br />You only see what people want you to see<br />How long's it gonna be<br />Before we get on the bus<br />And cause no fuss<br />Get a grip on yourself<br />It don't cost much<br /><br />Free to be whatever you<br />Whatever you say<br />If it comes my way it's alright<br /><br />You're free to be wherever you<br />Wherever you please<br />You can shoot the breeze if you want<br /><br />It always seems to me<br />You only see what people want you to see<br />How long's it gonna be<br />Before we get on the bus<br />And cause no fuss<br />Get a grip on yourself<br />It don't cost much<br /><br />I'm free to be whatever I<br />Whatever I choose<br />And I'll sing the blues if I want<br /><br />Here in my mind<br />You know you might find<br />Something that you<br />You thought you once knew<br />But now it's all gone<br />And you know it's no fun<br />Yeah I know it's no fun<br />Oh I know it's no fun<br /><br />I'm free to be whatever I<br />Whatever I choose<br />And I'll sing the blues if I want<br /><br />I'm free to be whatever I<br />Whatever I choose<br />And I'll sing the blues if I want<br /><br />Whatever you do<br />Whatever you say<br />Yeah I know it's alright<br /><br />Whatever you do<br />Whatever you say<br />Yeah I know it's alright<br /><br />#Oasis{% endraw %}
