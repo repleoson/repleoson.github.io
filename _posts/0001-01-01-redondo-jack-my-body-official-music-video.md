@@ -1,0 +1,15 @@
+---
+title: "Redondo - Jack My Body (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/R63JKaJFdnY\/hqdefault.jpg"
+vid_id: "R63JKaJFdnY"
+categories: "Music"
+tags: ["Spinnin'","Records","Redondo"]
+date: "2021-10-07T21:20:57+03:00"
+vid_date: "2016-08-19T12:00:02Z"
+duration: "PT3M11S"
+viewcount: "812896"
+likeCount: "12087"
+dislikeCount: "945"
+channel: "Spinnin' Records"
+---
+{% raw %}Redondo  - Jack My Body is OUT NOW on Spinnin' Deep! Listen / download at your favorite service: <a rel="nofollow" target="blank" href="https://redondo.lnk.to/JackMyBody">https://redondo.lnk.to/JackMyBody</a><br /><br />Stay up to date on more Spinnin' artists &amp; music here! ► <a rel="nofollow" target="blank" href="http://spinninrecords.com">http://spinninrecords.com</a><br /><br />The Redondo guys know their classics, building a cool house groove featuring vintage sounds and fresh bass lines and vocal work. It’s deep stuff they deliver, made to get the sweat dripping off the club walls. Jack My Body takes your love for groovy, bass heavy house music all the way!<br /><br />Follow Redondo:<br /><a rel="nofollow" target="blank" href="https://www.facebook.com/redondomusic">https://www.facebook.com/redondomusic</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/RedondoMusicNL">https://twitter.com/RedondoMusicNL</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/redondomusic">https://www.instagram.com/redondomusic</a><br /><a rel="nofollow" target="blank" href="https://soundcloud.com/redondo">https://soundcloud.com/redondo</a><br />---<br /><br />The Spinnin’ Records YouTube channel is the home for all music videos of the world’s leading dance record label!<br /><br />We feature the latest music videos by Spinnin’ artists like Oliver Heldens, Sam Feldt, KSHMR, Ummet Ozcan, Blasterjaxx, Merk &amp; Kremont, Timmy Trumpet, Tujamo, Alok, Curbi, Mike Williams, Lucas &amp; Steve and many, many more! Expect daily uploads of official music videos, lyric videos and artwork videos across genres like dance, house, electro house, future house, deep house, big room and trap.<br /><br />Make sure to subscribe to Spinnin' Records: <a rel="nofollow" target="blank" href="http://bit.do/spinnintv">http://bit.do/spinnintv</a> <br />..and turn on notifications to stay updated with all new uploads!🔔<br /><br />Follow Spinnin’ Records:<br /><a rel="nofollow" target="blank" href="https://open.spotify.com/user/spinninrecordsofficial">https://open.spotify.com/user/spinninrecordsofficial</a><br /><a rel="nofollow" target="blank" href="https://soundcloud.com/spinninrecords">https://soundcloud.com/spinninrecords</a><br /><a rel="nofollow" target="blank" href="https://facebook.com/SpinninRecords">https://facebook.com/SpinninRecords</a><br /><a rel="nofollow" target="blank" href="https://instagram.com/spinninrecords">https://instagram.com/spinninrecords</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/SpinninRecords">https://twitter.com/SpinninRecords</a><br /><a rel="nofollow" target="blank" href="https://spinninrecords.com">https://spinninrecords.com</a>{% endraw %}
