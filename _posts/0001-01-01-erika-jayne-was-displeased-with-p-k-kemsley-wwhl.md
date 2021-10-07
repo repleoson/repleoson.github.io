@@ -1,0 +1,15 @@
+---
+title: "Erika Jayne was Displeased with P.K. Kemsley | WWHL"
+image: "https:\/\/i.ytimg.com\/vi\/NsR6X3GoZ1w\/hqdefault.jpg"
+vid_id: "NsR6X3GoZ1w"
+categories: "People-Blogs"
+tags: ["WWHL","Watch What Happens Live","Andy Cohen"]
+date: "2021-10-07T18:36:05+03:00"
+vid_date: "2021-10-07T02:27:36Z"
+duration: "PT2M"
+viewcount: "70790"
+likeCount: "900"
+dislikeCount: "28"
+channel: "Watch What Happens Live with Andy Cohen"
+---
+{% raw %}Dorit Kemsley from RHOBH talks about Erika Jayne being displeased with husband P.K. Kemsley and says why she laughed so much with Kyle Richards about the accident story.<br /><br />►► Subscribe To WWHL: <a rel="nofollow" target="blank" href="http://bravo.ly/WWHLSub">http://bravo.ly/WWHLSub</a> <br />►► Watch Full Episodes: <a rel="nofollow" target="blank" href="https://www.bravotv.com/watch-what-happens-live/videos">https://www.bravotv.com/watch-what-happens-live/videos</a><br /> <br />Watch WWHL Sun-Thu 11/10c:<br />WWHL Website: <a rel="nofollow" target="blank" href="https://www.bravotv.com/watch-what-happens-live">https://www.bravotv.com/watch-what-happens-live</a><br />Follow WWHL: <a rel="nofollow" target="blank" href="https://twitter.com/BravoWWHL">https://twitter.com/BravoWWHL</a> <br />Like WWHL: <a rel="nofollow" target="blank" href="https://www.facebook.com/WatchWhatHappensLive/">https://www.facebook.com/WatchWhatHappensLive/</a><br />WWHL Tumblr: <a rel="nofollow" target="blank" href="http://bravowwhl.tumblr.com/">http://bravowwhl.tumblr.com/</a> <br /> <br />'Watch What Happens: Live' is Bravo's late-night, interactive talk show that features guests from the world of entertainment, politics, and pop culture. Hosted by Andy Cohen, the series includes lively debates on everything from fashion, the latest on everyone's favorite Bravolebrities, and what celebrity is making headlines that week. Past guests who have joined Cohen in the Bravo Clubhouse include Sarah Jessica Parker, Tina Fey, Khloe Kardashian, Jennifer Lopez, Liam Neeson, Kelly Ripa, Jimmy Fallon, Anderson Cooper, Jennifer Lawrence, and Lance Bass.<br /> <br />Get More Bravo:<br />Visit Bravo's Official Site: <a rel="nofollow" target="blank" href="http://bravo.ly/Official">http://bravo.ly/Official</a> <br />Watch Bravo Full Episodes Here: <a rel="nofollow" target="blank" href="https://bravo.app.link/Bravo-YT">https://bravo.app.link/Bravo-YT</a> <br />Stream Peacock Now: <a rel="nofollow" target="blank" href="https://pck.tv/2M6my4o">https://pck.tv/2M6my4o</a> <br />Like Bravo on Facebook: <a rel="nofollow" target="blank" href="http://bravo.ly/Facebook">http://bravo.ly/Facebook</a> <br />Follow Bravo on Twitter: <a rel="nofollow" target="blank" href="http://bravo.ly/Twitter">http://bravo.ly/Twitter</a> <br />Follow Bravo on Instagram: <a rel="nofollow" target="blank" href="http://bravo.ly/Instagram">http://bravo.ly/Instagram</a> <br />Follow Bravo on Tumblr: <a rel="nofollow" target="blank" href="http://bravo.ly/Tumblr">http://bravo.ly/Tumblr</a> <br />Follow Bravo on Pinterest: <a rel="nofollow" target="blank" href="http://bravo.ly/Pinterest">http://bravo.ly/Pinterest</a>{% endraw %}
