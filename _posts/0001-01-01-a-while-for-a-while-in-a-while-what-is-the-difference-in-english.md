@@ -1,0 +1,15 @@
+---
+title: "A while \/ for a while \/ in a while: What is the difference in English?"
+image: "https:\/\/i.ytimg.com\/vi\/siP9WXosDd8\/hqdefault.jpg"
+vid_id: "siP9WXosDd8"
+categories: "Education"
+tags: ["English Language (Interest)","United States","learn english"]
+date: "2021-10-07T08:59:44+03:00"
+vid_date: "2021-01-02T09:30:04Z"
+duration: "PT12M47S"
+viewcount: "31223"
+likeCount: "2018"
+dislikeCount: "16"
+channel: "Learn English with EnglishClass101.com"
+---
+{% raw %}<a rel="nofollow" target="blank" href="https://bit.ly/2WBzQYa">https://bit.ly/2WBzQYa</a>   ← Learn English for everyday life with your free PDF Lessons<br /> <a rel="nofollow" target="blank" href="https://bit.ly/3pcQRE9">https://bit.ly/3pcQRE9</a> ← Ask Alisha your question now! ↓Check how below↓<br /><br />To send your question to Alisha it’s simple and will take you less than 30 seconds.<br />Step 1: Go to <a rel="nofollow" target="blank" href="https://bit.ly/3pcQRE9">https://bit.ly/3pcQRE9</a><br />Step 2: Sign up for a Free Lifetime Account<br />Step 3: Ask any question to Alisha and get your question answered in a video!<br /><br />In this video, Alisha answers 5 questions.<br />- Why we use sometimes the verb &quot;do&quot; before another verb?<br />- I would like to know if there are differences between &quot;a while,&quot; &quot;for a while&quot; and &quot;in a while&quot; If there is, can you explain?<br />- What does &quot;literally&quot; mean? Do people use it the wrong way?<br />- What's the meaning of &quot;ball game&quot; (as in &quot;YouTube comments are a whole other ball game&quot;)?<br />- What is the difference between outcome and result?<br /><br />You've got questions about life in the United States, American culture, or any English related questions you don’t want to sift through textbooks for the answer? Your favourite English teacher Alisha takes the questions you've been asking and lay them out in an easy-to-follow format. Turn those question marks into exclamation points and get on with your English study. Interact with Alisha to clear up any confusion you have or just satisfy your curiosity. Not only you’ll be able to send questions but also power up your language with your free lifetime account. Learning English is made easy for you.<br /><br />Follow and write to us for more free content:<br />■ Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/EnglishClass101">https://www.facebook.com/EnglishClass101</a><br />■ Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/EnglishClass101">https://twitter.com/EnglishClass101</a><br />■ Instagram:: <a rel="nofollow" target="blank" href="https://www.instagram.com/wwwEnglishClass101com">https://www.instagram.com/wwwEnglishClass101com</a><br />■ Alisha’s Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/arishaintokyo">https://twitter.com/arishaintokyo</a><br />■ Alisha’s Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/arishaintokyo">https://instagram.com/arishaintokyo</a><br /><br /><br />#English #LearnEnglish #EnglishClass101 #EnglishLesson{% endraw %}
