@@ -1,0 +1,15 @@
+---
+title: "5 Ways To Improve Yourself By 1% Each Day"
+image: "https:\/\/i.ytimg.com\/vi\/cRYtLE9MvM8\/hqdefault.jpg"
+vid_id: "cRYtLE9MvM8"
+categories: "Education"
+tags: ["self improvement videos","self improvement tips","self improvement motivation"]
+date: "2021-10-07T21:38:19+03:00"
+vid_date: "2021-08-15T13:40:18Z"
+duration: "PT5M16S"
+viewcount: "101002"
+likeCount: "5114"
+dislikeCount: "59"
+channel: "The Art of Improvement"
+---
+{% raw %}How do you live a life by Design instead of a life by Default?<br /><br />🔓 Get all my illustrations HERE: <a rel="nofollow" target="blank" href="https://gumroad.com/l/Full-Archive">https://gumroad.com/l/Full-Archive</a><br /><br />🔔 SUBSCRIBE for more free improvement videos <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCtYzVCmNxrshH4_bPO_-Y-A?sub_confirmation=1">https://www.youtube.com/channel/UCtYzVCmNxrshH4_bPO_-Y-A?sub_confirmation=1</a><br /><br />⏱ TIMESTAMPS<br />0:00 - Intro<br />1:31 - Step 1<br />2:00 - Step 2<br />2:35 - Step 3<br />3:09 - Step 4<br />3:49 - Step 5<br /><br />🔓 BECOME A MEMBER<br />Access special community perks including the complete illustration archive and exclusive early access to new videos a week early. Support the channel by clicking that Join button! Or, click here: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCtYzVCmNxrshH4_bPO_-Y-A/join">https://www.youtube.com/channel/UCtYzVCmNxrshH4_bPO_-Y-A/join</a><br /><br />🎥 WANT TO CREATE VIDEOS LIKE THESE?<br />This is the software I use: <a rel="nofollow" target="blank" href="http://bit.ly/2CdPdwF">http://bit.ly/2CdPdwF</a><br /><br />🎨 FREE ILLUSTRATIONS<br />Want the complete illustration of each video as it's released? Become an Improvement Insider. Get The Art of Improvement Email, all for FREE! <a rel="nofollow" target="blank" href="https://email.artofimprovement.co.uk">https://email.artofimprovement.co.uk</a><br /><br />📚 BOOKS MENTIONED<br /> Think and Grow Rich by Napoleon Hill<br />BUY THE BOOK ON AMAZON: <a rel="nofollow" target="blank" href="https://amzn.to/3lEK9Iz">https://amzn.to/3lEK9Iz</a><br /><br />✍️ This was initially published as an article on Medium.com by Nicolas Cole: <a rel="nofollow" target="blank" href="https://medium.com/better-advice/5-ways-to-improve-yourself-by-1-each-day-ba3bd0c9d3da">https://medium.com/better-advice/5-ways-to-improve-yourself-by-1-each-day-ba3bd0c9d3da</a><br /><br />✍️ Author: Nicolas Cole | <a rel="nofollow" target="blank" href="http://www.nicolascole.com/">http://www.nicolascole.com/</a><br /><br />👨‍💻 LET'S CONNECT<br /><a rel="nofollow" target="blank" href="https://artofimprovement.co.uk/">https://artofimprovement.co.uk/</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/ArtOfImprovement">https://www.facebook.com/ArtOfImprovement</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/TheArtOfImprove">https://twitter.com/TheArtOfImprove</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/art.of.improvement">https://www.instagram.com/art.of.improvement</a>{% endraw %}
