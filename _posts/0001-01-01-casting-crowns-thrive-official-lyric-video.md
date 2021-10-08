@@ -1,0 +1,15 @@
+---
+title: "Casting Crowns - Thrive (Official Lyric Video)"
+image: "https:\/\/i.ytimg.com\/vi\/qQ71RWJhS_M\/hqdefault.jpg"
+vid_id: "qQ71RWJhS_M"
+categories: "Music"
+tags: ["casting crowns","new casting crowns","new casting crowns album"]
+date: "2021-10-08T12:21:44+03:00"
+vid_date: "2013-12-18T10:39:17Z"
+duration: "PT5M10S"
+viewcount: "15665552"
+likeCount: "74317"
+dislikeCount: "2239"
+channel: "CastingCrownsVEVO"
+---
+{% raw %}Click to watch the music video for “Scars In Heaven” by Casting Crowns!<br /><a rel="nofollow" target="blank" href="https://CastingCrowns.lnk.to/ScarsInHeavenID/youtube!catalog">https://CastingCrowns.lnk.to/ScarsInHeavenID/youtube!catalog</a><br /><br />Download the song now: <a rel="nofollow" target="blank" href="http://hyperurl.co/bmz3hi">http://hyperurl.co/bmz3hi</a><br /><br />Subscribe: <a rel="nofollow" target="blank" href="http://hyperurl.co/y3q58j">http://hyperurl.co/y3q58j</a><br /><br />Connect with Casting Crowns:<br />Facebook: <a rel="nofollow" target="blank" href="http://hyperurl.co/tipz8h">http://hyperurl.co/tipz8h</a><br />Twitter: <a rel="nofollow" target="blank" href="http://hyperurl.co/opkepy">http://hyperurl.co/opkepy</a><br />Instagram: <a rel="nofollow" target="blank" href="http://hyperurl.co/i6jqag">http://hyperurl.co/i6jqag</a><br />Website: <a rel="nofollow" target="blank" href="http://hyperurl.co/aapd4q">http://hyperurl.co/aapd4q</a><br /><br />Share:<br />On Facebook: <a rel="nofollow" target="blank" href="http://hyperurl.co/u3ncoo">http://hyperurl.co/u3ncoo</a><br />On Twitter: <a rel="nofollow" target="blank" href="http://hyperurl.co/k6vo2c">http://hyperurl.co/k6vo2c</a><br /><br />Listen to Thrive on Spotify: <a rel="nofollow" target="blank" href="http://hyperurl.co/0xx70p">http://hyperurl.co/0xx70p</a><br />Listen to Casting Crowns' station on Pandora: <a rel="nofollow" target="blank" href="http://hyperurl.co/rgiean">http://hyperurl.co/rgiean</a>   <br /><br />Lyrics:<br /><br />Here in this worn and weary land<br />Where many a dream has died<br />Like a tree planted by the water<br />We never will run dry<br /> <br />So living water flowing through<br />God, we thirst for more of You<br />Fill our hearts and flood our souls with one desire<br /> <br />Just to know You and to make You known<br />We lift Your name on high<br />Shine like the sun, make darkness run and hide<br />We know we were made for so much more than ordinary lives<br />It's time for us to more than just survive<br />We were made to thrive<br /> <br />Into Your word, we're digging deep<br />To know our Father's heart<br />Into the world, we're reaching out<br />To show them who You are<br /> <br />Joy unspeakable, faith unsinkable<br />Love unstoppable, anything is possible<br /> <br />© 2013 Sony/ATV Tree Publishing (BMI) All rights on behalf of Sony/ATV Tree Publishing administered by Sony/ATV. / My Refuge Music (BMI) (adm. at CapitolCMGPublishing.com) / Songs for Emily Music Publishing (ASCAP)<br /><br />Music video by Casting Crowns performing Thrive (Official Lyric Video). (C) 2013 Provident Label Group LLC, a unit of Sony Music Entertainment{% endraw %}
