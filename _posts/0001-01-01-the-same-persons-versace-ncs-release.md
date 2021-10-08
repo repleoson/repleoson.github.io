@@ -1,0 +1,15 @@
+---
+title: "The Same Persons - Versace [NCS Release]"
+image: "https:\/\/i.ytimg.com\/vi\/HdOCXC8ZwAw\/hqdefault.jpg"
+vid_id: "HdOCXC8ZwAw"
+categories: "Music"
+tags: ["Versace","The Same Persons","NCS"]
+date: "2021-10-08T16:27:05+03:00"
+vid_date: "2020-09-08T16:15:00Z"
+duration: "PT2M32S"
+viewcount: "3600459"
+likeCount: "86111"
+dislikeCount: "1336"
+channel: "NoCopyrightSounds"
+---
+{% raw %}NCS (NoCopyrightSounds): Empowering Creators through Copyright / Royalty Free Music<br />Follow us on Spotify: <a rel="nofollow" target="blank" href="https://ncs.lnk.to/ncsreleasesid">https://ncs.lnk.to/ncsreleasesid</a><br /><br />Free Download / Stream: <a rel="nofollow" target="blank" href="http://ncs.io/TSPVersace">http://ncs.io/TSPVersace</a><br /><br />[NCS]<br />• <a rel="nofollow" target="blank" href="http://soundcloud.com/NoCopyrightSounds">http://soundcloud.com/NoCopyrightSounds</a><br />• <a rel="nofollow" target="blank" href="http://instagram.com/NoCopyrightSounds">http://instagram.com/NoCopyrightSounds</a><br />• <a rel="nofollow" target="blank" href="http://facebook.com/NoCopyrightSounds">http://facebook.com/NoCopyrightSounds</a><br />• <a rel="nofollow" target="blank" href="http://twitter.com/NCSounds">http://twitter.com/NCSounds</a><br />• <a rel="nofollow" target="blank" href="https://www.twitch.tv/nocopyrightsounds">https://www.twitch.tv/nocopyrightsounds</a><br /><br />[The Same Persons]<br />• <a rel="nofollow" target="blank" href="https://www.facebook.com/thesamepersons">https://www.facebook.com/thesamepersons</a><br />• <a rel="nofollow" target="blank" href="https://www.instagram.com/tsp_off">https://www.instagram.com/tsp_off</a><br />• <a rel="nofollow" target="blank" href="https://soundcloud.com/thesamepersons">https://soundcloud.com/thesamepersons</a> <br /><br /><br />NCS Merchandise → <a rel="nofollow" target="blank" href="http://ncs.io/StoreID">http://ncs.io/StoreID</a><br /><br />NCS Arcade →  our official second channel has just launched, including our brand new 24/7 Livestream! <br /><br />Join in here: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=-Mypt378fkc">https://www.youtube.com/watch?v=-Mypt378fkc</a><br />- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -<br /><br />When you are using this track, we simply ask that you put this in your description:<br /><br />Track: The Same Persons - Versace [NCS Release]<br />Music provided by NoCopyrightSounds.<br />Watch: <a rel="nofollow" target="blank" href="https://youtu.be/HdOCXC8ZwAw">https://youtu.be/HdOCXC8ZwAw</a><br />Free Download / Stream: <a rel="nofollow" target="blank" href="http://ncs.io/TSPVersace">http://ncs.io/TSPVersace</a><br />- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -<br /><br />©️ Check out our Usage Policy on how to use NCS music in your videos: <a rel="nofollow" target="blank" href="http://ncs.io/UsagePolicy">http://ncs.io/UsagePolicy</a><br /><br />To request a commercial license visit: <a rel="nofollow" target="blank" href="http://ncs.io/Commercial">http://ncs.io/Commercial</a><br /><br />#nocopyrightsounds #copyrightfree{% endraw %}
