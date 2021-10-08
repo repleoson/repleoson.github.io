@@ -1,0 +1,15 @@
+---
+title: "Will Armex - You and I (feat. Katy M)"
+image: "https:\/\/i.ytimg.com\/vi\/ii-uH118CVo\/hqdefault.jpg"
+vid_id: "ii-uH118CVo"
+categories: "Music"
+tags: ["will armex","effective records","music"]
+date: "2021-10-08T10:57:40+03:00"
+vid_date: "2021-02-05T06:15:24Z"
+duration: "PT2M28S"
+viewcount: "1389604"
+likeCount: "24041"
+dislikeCount: "560"
+channel: "Will Armex"
+---
+{% raw %}Will Armex - You and I (feat. Katy M)<br />Official Music Video: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=wue4i4Phlpw">https://www.youtube.com/watch?v=wue4i4Phlpw</a><br /><br />Booking/Management<br />e-mail: info@willarmex.com<br /><br />🔔 Subscribe to be notified for new videos ➡️ <a rel="nofollow" target="blank" href="https://bit.ly/32hx4rQ">https://bit.ly/32hx4rQ</a> 🔔 <br /><br />DJ and soundproducer Will Armex presents his new track - You And I.<br /><br />Produced by Will Armex<br />Arranged by Will Armex<br />Mixed and mastered by Sergey Grachov, Will Armex, Alex Essami<br /><br />Web: <a rel="nofollow" target="blank" href="https://willarmex.com">https://willarmex.com</a><br /><br />Follow Will Armex:<br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/willarmex/">https://www.facebook.com/willarmex/</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/willarmex/">https://www.instagram.com/willarmex/</a><br />Soundcloud: <a rel="nofollow" target="blank" href="https://soundcloud.com/willarmex">https://soundcloud.com/willarmex</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/willarmex">https://twitter.com/willarmex</a><br /><br /><br />Lyrics:<br />Ta-da, ta, ta, ta, ta, ta, ta-da <br />Ta-da, ta, ta, ta, ta, ta, ta<br />Ta-da, ta, ta, ta, ta, ta, ta-da <br />Ta-da, ta, ta, ta, ta, ta, ta<br /><br />1 verse:<br />Why do you cry?<br />Why do you cry?<br />You know that love is still alive.<br />Why do you cry?<br />Still alive.<br />Still alive.<br /><br />Chorus:<br />We fell in love, you<br />You and I I<br />We fell in love, you<br />You and I I<br /><br />Ta-da, ta, ta, ta, ta, ta, ta-da <br />Ta-da, ta, ta, ta, ta, ta, ta<br />Ta-da, ta, ta, ta, ta, ta, ta-da <br />Ta-da, ta, ta, ta, ta, ta, ta<br /><br />2 verse:<br />Why do you cry?<br />Why do you cry?<br />You know that love is still alive.<br />Why do you cry?<br />Still alive.<br />Still alive.<br /><br />Chorus:<br />We fell in love, you<br />You and I I<br />We fell in love, you<br />You and I I<br /><br />Ta-da, ta, ta, ta, ta, ta, ta-da <br />Ta-da, ta, ta, ta, ta, ta, ta<br />Ta-da, ta, ta, ta, ta, ta, ta-da <br />Ta-da, ta, ta, ta, ta, ta, ta<br /><br />Ha-ya, ya, ya, ya<br />Ha-ya, ya, ya, ya<br /><br />Ta-da, ta, ta, ta, ta, ta, ta-da <br />Ta-da, ta, ta, ta, ta, ta, ta<br /><br /><br /><br />----------------------------------------------------------------<br />#WillArmex #YouandI #KatyM<br /><br /><br /> 2021 Will Armex<br />(P) &amp; (C) 2021 EFFECTIVE RECORDS{% endraw %}
