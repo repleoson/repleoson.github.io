@@ -1,0 +1,15 @@
+---
+title: "THE KINDS - PROD 7 [with Aboubakry Seck]"
+image: "https:\/\/i.ytimg.com\/vi\/n5p-ysD1Q1w\/hqdefault.jpg"
+vid_id: "n5p-ysD1Q1w"
+categories: "Music"
+tags: ["thekindsarmy","The kinds","Prod 7"]
+date: "2021-10-08T07:35:38+03:00"
+vid_date: "2018-10-15T10:05:26Z"
+duration: "PT4M16S"
+viewcount: "50363"
+likeCount: "358"
+dislikeCount: "4"
+channel: "The Kinds"
+---
+{% raw %}FULL ALBUM HERE : <a rel="nofollow" target="blank" href="http://smarturl.it/p15hii">http://smarturl.it/p15hii</a><br />----- &quot;What Do We Know ?&quot; -----<br /><br />&quot;Prod 7&quot;, written and performed by THE KINDS<br />Recorded and mixed by Mickaël Latchoumia<br />Mastered by Mickaël Latchoumia <br />Video by Samuel Telot<br />www.facebook.com/MaxetMaxProd<br />www.adjci.com<br />Production by No Land<br /><br />LONGBOARD DANCER : Aboubakry Seck [World Champion 2018]<br />Insta: <a rel="nofollow" target="blank" href="https://www.instagram.com/lgbd_smoothoperator">https://www.instagram.com/lgbd_smoothoperator</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/aboubakry.seck">https://www.facebook.com/aboubakry.seck</a><br /><br />THE KINDS<br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/thekindsarmy">https://www.facebook.com/thekindsarmy</a><br />Insta: <a rel="nofollow" target="blank" href="https://www.instagram.com/thekindsarmy">https://www.instagram.com/thekindsarmy</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/thekindsarmy">https://twitter.com/thekindsarmy</a><br /><br />Lyrics : <br /><br />I could dive and disappear my friend<br />Like the cowards on the other side<br />In fear about the dominance<br />Making do with the arrogance<br />Yeah I could but I've learnt <br />Over my time <br />I try<br />To feel other's pain and sorrow <br /><br />Leave it all, let it all out he says <br />Leave it all, let it all out today <br /><br />My Friend’s got stories and tells no lies <br />Some of them know <br /><br />Leave it all, let it all out he says <br />Leave it all, let it all out today <br /><br />You think you’re too busy, but you’re blind <br />Can’t you see me now?  <br /><br />So tell me now what's going on <br />When will you stop and step back <br />Just turn around and get on board<br />Do you hear me now?<br />Honestly we all shine <br />One day you'll see<br />What it is to be dumb and sorry <br /><br />Leave it all, let it all out he says <br />Leave it all, let it all out today <br /><br />My Friend’s got stories and tells no lies <br />Some of them know <br /><br />Leave it all, let it all out he says <br />Leave it all, let it all out today <br /><br />You think you’re too busy, but you’re blind <br />Can you see me now?  <br /><br />How many things have to burn (it’s a game, a game)<br /><br />How many lives sacrificed till they feel the pain (it’s a game, a game) <br /><br />When are we gonna trust <br /><br />And feel other’s pain and sorrow.{% endraw %}
