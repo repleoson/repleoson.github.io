@@ -1,0 +1,15 @@
+---
+title: "8 Exercises for Incredible Strength! (NO EXTRA TIME)"
+image: "https:\/\/i.ytimg.com\/vi\/U5dDbDOiS5k\/hqdefault.jpg"
+vid_id: "U5dDbDOiS5k"
+categories: "Howto-Style"
+tags: ["Build strength","get strong","get stronger"]
+date: "2021-10-08T20:47:50+03:00"
+vid_date: "2016-06-25T21:46:55Z"
+duration: "PT10M8S"
+viewcount: "4410027"
+likeCount: "111579"
+dislikeCount: "1758"
+channel: "ATHLEAN-X™"
+---
+{% raw %}Build strength and get chiseled here - <a rel="nofollow" target="blank" href="http://athleanx.com/x/chiseled-and-strong">http://athleanx.com/x/chiseled-and-strong</a><br />Follow A-X on instagram - <a rel="nofollow" target="blank" href="http://instagram.com/athleanx">http://instagram.com/athleanx</a><br /><br />If you want to build incredible strength you better stop overlooking the smaller but no less important muscles in your workouts.  In this video, I show you how not paying attention to the strength in your wrists, hands and forearms could be preventing you from making the gains you are seeking in the gym.<br /><br />I show you ways to incorporate extra work for these weak areas into muscle groups and exercises that you are already performing.  If you had to spend hours extra in the gym each week to try and fix these, you likely never would.  As a result, you would never be as strong as you should be.<br /><br />That said, if you are training your chest you likely are doing pushups at some point.  Whether you are doing them as a finishing exercise or one of the main exercises in your chest workout there is a way to change them to make them more effective for your weak wrists or hands.  Simply perform them as finger tip pushups if you need to increase your hand strength or as knuckle pushups if you want to increase the strength of your wrists.<br /><br />Likewise on back training day you can extend a regular pullup beyond failure to get more work for your wrists and forearms.  Simply hang from the bar on your very last rep for as long as you can.  You will feel the burn travel through your hands and forearms as you work to increase your muscular endurance and improve your grip for the bigger exercises.<br /><br />All of these benefits apply to other muscle groups as well.  We cover the extended wrist position during dumbbell laterals and the tweak that you can make to deadlifts (not using straps) that will all help to increase your hand and grip strength without compromising the amount of time that you have to spend training each week.<br /><br />The ATHLEAN-X Training System, found at <a rel="nofollow" target="blank" href="http://athleanx.com">http://athleanx.com</a> is a program used by top professional athletes that cannot afford to overlook anything in their training.  They get paid to be strong, fast and powerful.  If you want to train like an athlete you can find start training with the same workouts and meal plans that they do today.<br /><br />For more videos on how to get stronger and how to increase your bench or deadlift, be sure to subscribe to our channel here on youtube.com/jdcav24 today.{% endraw %}
