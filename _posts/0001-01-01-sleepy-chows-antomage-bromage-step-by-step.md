@@ -1,0 +1,15 @@
+---
+title: "Sleepy Chows, Antomage & Bromage - Step By Step"
+image: "https:\/\/i.ytimg.com\/vi\/bvu1PX-ERMk\/hqdefault.jpg"
+vid_id: "bvu1PX-ERMk"
+categories: "Music"
+tags: ["deep house","deephouse","dance music"]
+date: "2021-10-08T17:45:14+03:00"
+vid_date: "2021-03-10T15:15:01Z"
+duration: "PT2M18S"
+viewcount: "1734077"
+likeCount: "16176"
+dislikeCount: "327"
+channel: "Soave"
+---
+{% raw %}Find this song in this Spotify playlist with similar songs: <a rel="nofollow" target="blank" href="https://spoti.fi/2JManma/">https://spoti.fi/2JManma/</a><br /><br />Sleepy Chows, Antomage &amp; Bromage - Step By Step<br />Download &amp; stream this Soave release via <a rel="nofollow" target="blank" href="https://music.soaverecords.com/sbs">https://music.soaverecords.com/sbs</a><br /><br />Follow Sleepy Chows HERE:<br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/sleepychows/">https://www.instagram.com/sleepychows/</a><br />Spotify: <a rel="nofollow" target="blank" href="https://open.spotify.com/artist/5aWQFWWhzp922qrrJIAwUY?si=MUkq9D3WSMawPJtt8_gyGQ">https://open.spotify.com/artist/5aWQFWWhzp922qrrJIAwUY?si=MUkq9D3WSMawPJtt8_gyGQ</a><br /><br />Follow Antomage HERE:<br />Spotify: <a rel="nofollow" target="blank" href="https://open.spotify.com/artist/6xqmiKO95KxwEiz8BQQauZ?si=QMQ_8QopSEi4K2PBKmPLYg">https://open.spotify.com/artist/6xqmiKO95KxwEiz8BQQauZ?si=QMQ_8QopSEi4K2PBKmPLYg</a><br /><br />Follow Bromage HERE:<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/bromagemusic/">https://www.instagram.com/bromagemusic/</a><br /><a rel="nofollow" target="blank" href="https://open.spotify.com/artist/1aAW5k56ulsXw0ZEm6PpOS?si=I-RPng4gRE-KL_pO2ubGtg">https://open.spotify.com/artist/1aAW5k56ulsXw0ZEm6PpOS?si=I-RPng4gRE-KL_pO2ubGtg</a><br /><br />🦋 Leave us a comment of what you think and feel free to subscribe!<br /><br />➡ Interviews &amp; reviews: <a rel="nofollow" target="blank" href="http://www.soaverecords.com/">http://www.soaverecords.com/</a><br />➡ Music &amp; inspiration: <a rel="nofollow" target="blank" href="https://www.instagram.com/soave.records/">https://www.instagram.com/soave.records/</a><br />➡ Daily music: <a rel="nofollow" target="blank" href="https://www.facebook.com/soaverecords/">https://www.facebook.com/soaverecords/</a><br />➡ Releases &amp; reposts: <a rel="nofollow" target="blank" href="https://soundcloud.com/soaverecords">https://soundcloud.com/soaverecords</a><br />➡ Tweets: <a rel="nofollow" target="blank" href="https://twitter.com/soaverecords">https://twitter.com/soaverecords</a><br />➡ Playlists: <a rel="nofollow" target="blank" href="http://spoti.fi/2BowyuE">http://spoti.fi/2BowyuE</a><br /><br />🦄 Submit your music for upload via toneden.io/soave and mention YouTube<br /><br />🔥 If you'd like your content removed, please contact us and we'll do so right away.<br /><br />🌴 Genres we share: Chill House, Tropical House, Melodic House, Vocal Deep House, Piano House, Dance{% endraw %}
