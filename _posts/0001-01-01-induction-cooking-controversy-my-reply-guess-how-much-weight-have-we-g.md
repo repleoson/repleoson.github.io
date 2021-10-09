@@ -1,0 +1,15 @@
+---
+title: "INDUCTION COOKING CONTROVERSY. MY REPLY. GUESS HOW MUCH WEIGHT HAVE WE GAINED. | 4xOverland"
+image: "https:\/\/i.ytimg.com\/vi\/rfCLuNS0ZU0\/hqdefault.jpg"
+vid_id: "rfCLuNS0ZU0"
+categories: "Autos-Vehicles"
+tags: ["4wd","4x4","overland"]
+date: "2021-10-09T15:28:54+03:00"
+vid_date: "2021-10-08T00:23:54Z"
+duration: "PT13M9S"
+viewcount: "26784"
+likeCount: "2022"
+dislikeCount: "78"
+channel: "4xoverland"
+---
+{% raw %}I've received a lot of adverse reaction to the idea of induction cooking. This is my reaction to the reaction. And weigh the Troopy. Welcome to &quot;4xoverland&quot; channel. The world's first and leading global 4WD adventure motoring channels.<br />The title of this video is &quot; &quot;<br /><br />#new_truck #adventure #4wd #4xoverland #australia #4WD_adventure<br /><br />GEAR WE USE: <a rel="nofollow" target="blank" href="https://www.4xoverland.com/the-gear-we-use/">https://www.4xoverland.com/the-gear-we-use/</a><br /><br />NO BRANDED SPONSORS FOUND HERE. SUPPORT THESE SHOWS:<br /><a rel="nofollow" target="blank" href="https://www.patreon.com/Andrew_StPierre_White.">https://www.patreon.com/Andrew_StPierre_White.</a><br /><br />INSTAGRAM: <a rel="nofollow" target="blank" href="https://www.instagram.com/4xoverland_com">https://www.instagram.com/4xoverland_com</a><br />ANDREW’S VIDEO COURSES: <a rel="nofollow" target="blank" href="http://beafilmmaker.com">http://beafilmmaker.com</a><br />ANDREW'S PHOTO ART PRINTS: <a rel="nofollow" target="blank" href="http://tolowagallery.com/">http://tolowagallery.com/</a><br />WEBSITE: <a rel="nofollow" target="blank" href="http://4xoverland.com/">http://4xoverland.com/</a><br />PODCASTS: <a rel="nofollow" target="blank" href="http://bit.ly/4XOPODCASTS">http://bit.ly/4XOPODCASTS</a><br />ANDREW’S 4X4 BOOK: <a rel="nofollow" target="blank" href="http://bit.ly/Four_Wheel_Drive">http://bit.ly/Four_Wheel_Drive</a><br />ANDREW’S AWARD-WINNING MEMOIR: <a rel="nofollow" target="blank" href="http://bit.ly/Torn_Trousers">http://bit.ly/Torn_Trousers</a><br /><br />Watch more videos :<br />1. 25 YEARS INSPIRING THE WORLD'S OVERLANDERS<br /><a rel="nofollow" target="blank" href="https://youtu.be/7W5t_fW_R2k">https://youtu.be/7W5t_fW_R2k</a><br /><br />2. BEST OF 2019 on 4xOverland.<br /><a rel="nofollow" target="blank" href="https://youtu.be/ZuQPGlbI0rc">https://youtu.be/ZuQPGlbI0rc</a><br /><br />3. WORLDS LONGEST 4WD TRACK<br /><a rel="nofollow" target="blank" href="https://youtu.be/_xNUlo7_1hg">https://youtu.be/_xNUlo7_1hg</a><br /><br />4. TOURER vs OFF-ROADER. I went too far towards Tourer.<br /><a rel="nofollow" target="blank" href="https://youtu.be/BDDeI422X_g">https://youtu.be/BDDeI422X_g</a><br /><br />5. 4xoverland Live Q&amp;A<br /><a rel="nofollow" target="blank" href="https://youtu.be/BDeIM2hL4FI">https://youtu.be/BDeIM2hL4FI</a><br /><br />4xOverland is the world's only public-funded global 4WD adventure off-road motoring channel. Established in 1996, it is hosted by well known 4x4 writer, explorer and filmmaker, Andrew St Pierre White.<br /><br />***Thanks For Watching This Video***{% endraw %}
