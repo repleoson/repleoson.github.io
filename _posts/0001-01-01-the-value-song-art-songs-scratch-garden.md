@@ -1,0 +1,15 @@
+---
+title: "The Value Song | Art Songs | Scratch Garden"
+image: "https:\/\/i.ytimg.com\/vi\/DMIvEgKSvrE\/hqdefault.jpg"
+vid_id: "DMIvEgKSvrE"
+categories: "Education"
+tags: ["value","art","elements of art"]
+date: "2021-10-09T16:22:42+03:00"
+vid_date: "2015-11-18T01:32:10Z"
+duration: "PT2M45S"
+viewcount: "935195"
+likeCount: "2601"
+dislikeCount: "379"
+channel: "Scratch Garden"
+---
+{% raw %}Whether you are learning the elements of art or teaching value in art for kids or adults, the Value Song is great for understanding value in painting and value in photography. Value is related to color theory as it looks at lights and darks as they are mixed with color. It is using black, white, and greys to make tones, tints, and shades!<br /><br />Our 2ND CHANNEL is on Patreon! ►► <a rel="nofollow" target="blank" href="https://www.patreon.com/scratchgarden">https://www.patreon.com/scratchgarden</a> ◄◄<br /><br />Lights... Darks... Action!!! Learn about the value of value with our new original song and video.  Whether studying shades or teaching tones and tints, value is value-able for art, film, photography, and life!<br /><br />Primary Teaching Points: value, colors, tones, tints, shades, black, white, grey<br /><br />Secondary Teaching Points:  light, dark, gradients, color wheel, color mixing<br /><br />Art education matters! Check out more excellent art songs here:<br />The Colors Song - <a rel="nofollow" target="blank" href="https://youtu.be/N8yuyekP_So">https://youtu.be/N8yuyekP_So</a><br />The Lines Song - <a rel="nofollow" target="blank" href="https://youtu.be/DQEVllmeWH4">https://youtu.be/DQEVllmeWH4</a><br />The Advanced Colors Song - <a rel="nofollow" target="blank" href="https://youtu.be/fph81KVY6f8">https://youtu.be/fph81KVY6f8</a><br />The Texture Song - <a rel="nofollow" target="blank" href="https://youtu.be/tDVS9XSqt90">https://youtu.be/tDVS9XSqt90</a><br /><br />We love to teach with music! Watch Scratch Garden Educational Song Videos here: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PL_ym6QHjS1szUhzH9URPbDflLczfPHF6P">https://www.youtube.com/playlist?list=PL_ym6QHjS1szUhzH9URPbDflLczfPHF6P</a>  <br /><br />Scratch Garden makes entertaining educational videos for people that like to laugh and learn! Please Subscribe to see more great fun learning videos from Scratch Garden! <a rel="nofollow" target="blank" href="https://goo.gl/1biPjA">https://goo.gl/1biPjA</a><br /><br />OUR FIRST BOOK IS NOW AVAILABLE! <a rel="nofollow" target="blank" href="http://amzn.to/2Fm2B0L">http://amzn.to/2Fm2B0L</a><br /><br />Website: <a rel="nofollow" target="blank" href="https://www.scratchgarden.com">https://www.scratchgarden.com</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/scratchgarden">https://www.instagram.com/scratchgarden</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/scratchgarden">https://www.facebook.com/scratchgarden</a><br /><br />#scratchgardensongs #artsongs #elementsofart{% endraw %}
