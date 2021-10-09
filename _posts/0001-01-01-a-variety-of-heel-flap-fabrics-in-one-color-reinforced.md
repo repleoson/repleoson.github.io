@@ -1,0 +1,15 @@
+---
+title: "A Variety of Heel Flap Fabrics in One Color - Reinforced"
+image: "https:\/\/i.ytimg.com\/vi\/7AYK03EN3C4\/hqdefault.jpg"
+vid_id: "7AYK03EN3C4"
+categories: "Howto-Style"
+tags: ["knittingsuzanne","knitting tutorial","how to knit"]
+date: "2021-10-09T21:14:57+03:00"
+vid_date: "2021-09-05T18:51:49Z"
+duration: "PT11M57S"
+viewcount: "3084"
+likeCount: "475"
+dislikeCount: "1"
+channel: "Knitting with Suzanne Bryan"
+---
+{% raw %}In this video, I demonstrate how to work a slip stitch heel fabric, Eye of Partridge in one color and half linen stitch.  These make great reinforced heel flaps for socks. Don’t you just love knitting socks?<br /><br />Time stamps:<br />0:00 Introduction<br />1:09 Slip stitch heel pattern<br />4:16 Eye of Partridge in one color<br />7:43 Half linen stitch<br />10:16 Comparisons<br /><br />Directions for stitch patterns:<br />Slip Stitch sample worked over an odd number of stitches<br />Multiple of 2 + 1<br />Row 1 (RS): K2, *sl1, k1; repeat from * until 1 st remains, k1.<br />Row 2: K1, purl until 1 st remains, k1.<br />Repeat these two rows for pattern<br /><br />Eye of Partridge sample<br />Multiple of 2 +1<br />Row 1 (RS): K2, *sl1, k1; repeat from * until 1 st remains, k1.<br />Row 2: K1, purl until 1 st remains, k1.<br />Row 3: K1, *sl1, k1; repeat from * to the end.<br />Row 4: K1, purl until 1 st remains, k1.<br />Repeat these 4 rows for pattern.<br /><br />Half Linen Stitch sample<br />Multiple of 2 + 1<br />Row 1 (RS): K2, *sl1 wyif, k1; repeat from *until 1 st remains, k1.<br />Row 2: K1, purl until 1 st remains, k1.<br />Row 3: K1, *sl1 wyif, k1; repeat from * to the end.<br />Row 4: K1, purl until 1 st remains, k1.<br />Repeat these 4 rows for pattern.<br /><br />If you enjoy my videos please subscribe and consider buying me a coffee on Ko-fi - <a rel="nofollow" target="blank" href="https://ko-fi.com/suzannebryan">https://ko-fi.com/suzannebryan</a><br />If you would like to join my email list - click here - <a rel="nofollow" target="blank" href="https://lp.constantcontactpages.com/su/ieNEW4F">https://lp.constantcontactpages.com/su/ieNEW4F</a><br /><br />Where to find me:<br />Suzanne - Off the Cuff - livestream interviews and tutorials - <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCQBgFUvQzjz1RUm9NsgEA1A">https://www.youtube.com/channel/UCQBgFUvQzjz1RUm9NsgEA1A</a><br /><br />Knitting with Suzanne Bryan on Ravelry - <a rel="nofollow" target="blank" href="https://www.ravelry.com/groups/knitting-with-suzanne-bryan">https://www.ravelry.com/groups/knitting-with-suzanne-bryan</a><br /><br />Knitting with Suzanne Bryan on FB- <a rel="nofollow" target="blank" href="https://www.facebook.com/groups/1769286026429876/">https://www.facebook.com/groups/1769286026429876/</a><br /><br />KnittingSuzanne on Ravelry - <a rel="nofollow" target="blank" href="https://www.ravelry.com/people/KnittingSuzanne">https://www.ravelry.com/people/KnittingSuzanne</a><br /><br />Suzanne's Blog - <a rel="nofollow" target="blank" href="http://www.knittingsuzanne.com">http://www.knittingsuzanne.com</a>{% endraw %}
