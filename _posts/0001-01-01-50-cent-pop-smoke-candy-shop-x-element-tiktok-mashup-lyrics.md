@@ -1,0 +1,15 @@
+---
+title: "50 Cent, Pop Smoke - Candy Shop X Element (TikTok Mashup) [Lyrics]"
+image: "https:\/\/i.ytimg.com\/vi\/womsDCDcEEM\/hqdefault.jpg"
+vid_id: "womsDCDcEEM"
+categories: "Music"
+tags: ["50 Cent","Pop Smoke","Candy Shop"]
+date: "2021-10-09T03:38:28+03:00"
+vid_date: "2020-12-14T04:50:03Z"
+duration: "PT1M53S"
+viewcount: "28461510"
+likeCount: "269278"
+dislikeCount: "3831"
+channel: "Blissful Mind"
+---
+{% raw %}🔊 50 Cent, Pop Smoke - Candy Shop X Element (TikTok Mashup) [Lyrics]<br /><br />Follow Blaccmass:<br /><a rel="nofollow" target="blank" href="https://twitter.com/blaccmass">https://twitter.com/blaccmass</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/blaccmass/">https://www.instagram.com/blaccmass/</a><br /><a rel="nofollow" target="blank" href="https://soundcloud.com/user-290523936">https://soundcloud.com/user-290523936</a><br /><br />⚡ Blissful Mind Spotify Playlist:<br /><a rel="nofollow" target="blank" href="https://open.spotify.com/playlist/7JgsNAifzXVZPGlMRQ1s25">https://open.spotify.com/playlist/7JgsNAifzXVZPGlMRQ1s25</a><br /><br />(LYRICS)<br /><br />[Chorus]<br />I might just hit it raw, hold on, that's not my element<br />I like dark skins, love her melanin<br />Huh, Christian Louboutin what I'm steppin' in<br />Thirty bottles of Azul, tell 'em send 'em in<br />I had the Lambo', switch to the 'Rari<br />I'm a gangster, but I like to party<br />Pop a Perky, go retarded<br />I'm a Brooklyn nigga, I'm cold-hearted<br /><br />[Verse]<br />That's why I like the bad gyal (Woah), like RiRi (Wait)<br />Every time she see me, she wanna eat me (Hold on)<br />I saw like Justin Bieber, please believe me<br />I said, &quot;Wow, I'm on the TV&quot;<br />I can't fuck with broke bitches, they be creepy<br />She be actin' up, she always tryna leave me<br />But she a bad gyal, and she freaky<br />I have her hangin' off the rod like she MiMi<br />I never hit a bitch more than once 'cause they be leeches<br />But her pussy good, it taste like peaches<br />But she can have it, I don't need it<br />I'd rather have my money green like kiwi<br />I don't talk to niggas 'cause they be cappin'<br />Disrespect me and see what happen<br />I don't make a call for war, I start snappin'<br />Grr, them bullets blastin'<br />All the opps mad that I lapped them<br />He said, &quot;What's stackin'?&quot; Nothin' but my money<br />'Member my pockets flat? Now they chunky<br />I ain't a pretty boy, but I ain't ugly<br />And I'll take your bitch in a second<br />If she a real one, then I'll protect it<br />Traded the AP, told my jeweler Patek it<br />And it's all VVS and flower settings<br /><br />[Chorus]<br />I might just hit it raw, hold on, that's not my element<br />I like dark skins, love her melanin<br />Huh, Christian Louboutin what I'm steppin' in<br />Thirty bottles of Azul, tell 'em send 'em in<br />I had the Lambo', switch to the 'Rari<br />I'm a gangster, but I like to party<br />Pop a Perky, go retarded<br />I'm a Brooklyn nigga, I'm cold-hearted{% endraw %}
