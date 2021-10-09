@@ -1,0 +1,15 @@
+---
+title: "Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack"
+image: "https:\/\/i.ytimg.com\/vi\/RgKAFK5djSk\/hqdefault.jpg"
+vid_id: "RgKAFK5djSk"
+categories: "Music"
+tags: ["Wiz Khalifa","Blacc Hollywood","Taylor Gang"]
+date: "2021-10-09T05:38:43+03:00"
+vid_date: "2015-04-07T03:00:03Z"
+duration: "PT3M58S"
+viewcount: "5282679352"
+likeCount: "35828852"
+dislikeCount: "1011340"
+channel: "Wiz Khalifa"
+---
+{% raw %}Download the new Furious 7 Soundtrack Deluxe Version on iTunes here: <a rel="nofollow" target="blank" href="https://apple.co/3paGCzN">https://apple.co/3paGCzN</a><br /><br />See Wiz on tour <a rel="nofollow" target="blank" href="http://wizkhalifa.com/tour">http://wizkhalifa.com/tour</a><br /><br />Tag ‪#‎SeeYouAgain‬ on Shazam and get an exclusive behind the scenes look at the music video!<br /><br />Get official merch here: <a rel="nofollow" target="blank" href="http://atlr.ec/OfficialWKMerchYT">http://atlr.ec/OfficialWKMerchYT</a><br /><br />Stream Furious 7 on Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/streamFurious7">http://smarturl.it/streamFurious7</a><br /><br />Listen on Apple Music: <a rel="nofollow" target="blank" href="https://apple.co/3r503MR">https://apple.co/3r503MR</a><br /><br />Directed by: Marc Klasfeld<br /><br />Follow Wiz:<br />►Subscribe to channel: <a rel="nofollow" target="blank" href="http://goo.gl/y3Bnno">http://goo.gl/y3Bnno</a><br />►Twitter - <a rel="nofollow" target="blank" href="https://twitter.com/wizkhalifa">https://twitter.com/wizkhalifa</a><br />►Facebook - <a rel="nofollow" target="blank" href="https://facebook.com/wizkhalifa">https://facebook.com/wizkhalifa</a><br />►Instagram - <a rel="nofollow" target="blank" href="https://instagram.com/mistercap">https://instagram.com/mistercap</a><br />►Soundcloud - <a rel="nofollow" target="blank" href="https://soundcloud.com/wizkhalifa">https://soundcloud.com/wizkhalifa</a><br />►Website: <a rel="nofollow" target="blank" href="http://wizkhalifa.com">http://wizkhalifa.com</a><br />►Taylor Gang: <a rel="nofollow" target="blank" href="http://taylorgang.com">http://taylorgang.com</a><br /><br />Follow Charlie Puth:<br />►Subscribe to channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/charlieputh">https://www.youtube.com/charlieputh</a><br />►Twitter - <a rel="nofollow" target="blank" href="https://twitter.com/charlieputh">https://twitter.com/charlieputh</a><br />►Facebook - <a rel="nofollow" target="blank" href="https://www.facebook.com/charlieputh">https://www.facebook.com/charlieputh</a><br />►Instagram - <a rel="nofollow" target="blank" href="http://instagram.com/charlieputh">http://instagram.com/charlieputh</a><br />►Soundcloud - <a rel="nofollow" target="blank" href="https://soundcloud.com/charlieputh">https://soundcloud.com/charlieputh</a><br />►Website: <a rel="nofollow" target="blank" href="http://charlieputh.com/">http://charlieputh.com/</a><br /><br />Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack{% endraw %}
