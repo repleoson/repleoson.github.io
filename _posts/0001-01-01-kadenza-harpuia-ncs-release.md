@@ -1,0 +1,15 @@
+---
+title: "Kadenza - Harpuia [NCS Release]"
+image: "https:\/\/i.ytimg.com\/vi\/f0J2lyVy9_8\/hqdefault.jpg"
+vid_id: "f0J2lyVy9_8"
+categories: "Music"
+tags: ["Kadenza - Harpuia","Kadenza","Harpuia"]
+date: "2021-10-10T23:00:46+03:00"
+vid_date: "2016-12-06T17:24:04Z"
+duration: "PT3M2S"
+viewcount: "4091113"
+likeCount: "73272"
+dislikeCount: "980"
+channel: "NoCopyrightSounds"
+---
+{% raw %}NCS: Music Without Limitations<br />NCS Spotify: <a rel="nofollow" target="blank" href="http://spoti.fi/NCS">http://spoti.fi/NCS</a><br /><br />Free Download / Stream: <a rel="nofollow" target="blank" href="http://ncs.io/harpuia">http://ncs.io/harpuia</a><br /><br />Connect with NCS:<br />Snapchat: ncsmusic<br />• <a rel="nofollow" target="blank" href="http://soundcloud.com/nocopyrightsounds">http://soundcloud.com/nocopyrightsounds</a><br />• <a rel="nofollow" target="blank" href="http://instagram.com/nocopyrightsounds">http://instagram.com/nocopyrightsounds</a><br />• <a rel="nofollow" target="blank" href="http://facebook.com/NoCopyrightSounds">http://facebook.com/NoCopyrightSounds</a><br />• <a rel="nofollow" target="blank" href="http://twitter.com/NCSounds">http://twitter.com/NCSounds</a><br />• <a rel="nofollow" target="blank" href="http://spoti.fi/NCS">http://spoti.fi/NCS</a><br /><br />Kadenza<br />• <a rel="nofollow" target="blank" href="https://soundcloud.com/kadenza-hitti">https://soundcloud.com/kadenza-hitti</a><br />• <a rel="nofollow" target="blank" href="https://www.facebook.com/kadenzadj/">https://www.facebook.com/kadenzadj/</a><br />• <a rel="nofollow" target="blank" href="https://twitter.com/DJKadenza">https://twitter.com/DJKadenza</a><br />• <a rel="nofollow" target="blank" href="https://www.instagram.com/kadenza_/">https://www.instagram.com/kadenza_/</a><br /><br />NCS YouTube Playlists<br />NCS Trap <a rel="nofollow" target="blank" href="http://bit.ly/NCStrap">http://bit.ly/NCStrap</a><br />NCS House <a rel="nofollow" target="blank" href="http://bit.ly/NCShouse">http://bit.ly/NCShouse</a><br />NCS Dubstep <a rel="nofollow" target="blank" href="http://bit.ly/NCSdubstep">http://bit.ly/NCSdubstep</a><br />NCS Drumstep <a rel="nofollow" target="blank" href="http://bit.ly/NCSdrumstep">http://bit.ly/NCSdrumstep</a><br />NCS Hardstyle <a rel="nofollow" target="blank" href="http://bit.ly/NCShardstyle">http://bit.ly/NCShardstyle</a><br />NCS Drum&amp;Bass <a rel="nofollow" target="blank" href="http://bit.ly/NCSdrumandbass">http://bit.ly/NCSdrumandbass</a><br />NCS Electronic Playlist: <a rel="nofollow" target="blank" href="http://bit.ly/NCSelectronic">http://bit.ly/NCSelectronic</a><br />ALL NCS MUSIC FULL PLAYLIST: <a rel="nofollow" target="blank" href="http://bit.ly/ALLNCSmusic">http://bit.ly/ALLNCSmusic</a><br /><br />© Check out our Usage Policy on how to use NCS music in your videos: <a rel="nofollow" target="blank" href="http://ncs.io/UsagePolicy">http://ncs.io/UsagePolicy</a><br /><br />To request a commercial license visit: <a rel="nofollow" target="blank" href="http://ncs.io/Commercial">http://ncs.io/Commercial</a>{% endraw %}
