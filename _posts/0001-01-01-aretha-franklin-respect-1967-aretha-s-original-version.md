@@ -1,0 +1,15 @@
+---
+title: "Aretha Franklin - Respect [1967] (Aretha's Original Version)"
+image: "https:\/\/i.ytimg.com\/vi\/6FOUqQt3Kg0\/hqdefault.jpg"
+vid_id: "6FOUqQt3Kg0"
+categories: "Music"
+tags: ["aretha","franklin","respect"]
+date: "2021-10-10T04:13:32+03:00"
+vid_date: "2008-10-17T20:41:21Z"
+duration: "PT2M30S"
+viewcount: "70823858"
+likeCount: "427631"
+dislikeCount: "10730"
+channel: "TatanBrown"
+---
+{% raw %}Aretha Franklin - Respect<br /><br />Song written by Otis Redding<br /><br />Album: I Never Loved A Man The Way I Love You [1967]<br /><br />_________________________<br /><br /><br /><br />RESPECT<br /><br /><br /><br />(oo) What you want<br /><br />(oo) Baby, I got<br /><br />(oo) What you need<br /><br />(oo) Do you know I got it?<br /><br />(oo) All I'm askin'<br /><br />(oo) Is for a little respect when you come home (just a little bit)<br /><br />Hey baby (just a little bit) when you get home<br /><br />(just a little bit) mister (just a little bit)<br /><br /><br /><br />I ain't gonna do you wrong while you're gone<br /><br />Ain't gonna do you wrong (oo) 'cause I don't wanna (oo)<br /><br />All I'm askin' (oo)<br /><br />Is for a little respect when you come home (just a little bit)<br /><br />Baby (just a little bit) when you get home (just a little bit)<br /><br />Yeah (just a little bit)<br /><br /><br /><br />I'm about to give you all of my money<br /><br />And all I'm askin' in return, honey<br /><br />Is to give me my propers<br /><br />When you get home (just a, just a, just a, just a)<br /><br />Yeah baby (just a, just a, just a, just a)<br /><br />When you get home (just a little bit)<br /><br />Yeah (just a little bit)<br /><br /><br /><br />------ instrumental break ------<br /><br /><br /><br />Ooo, your kisses (oo)<br /><br />Sweeter than honey (oo)<br /><br />And guess what? (oo)<br /><br />So is my money (oo)<br /><br />All I want you to do (oo) for me<br /><br />Is give it to me when you get home (re, re, re ,re)<br /><br />Yeah baby (re, re, re ,re)<br /><br />Whip it to me (respect, just a little bit)<br /><br />When you get home, now (just a little bit)<br /><br /><br /><br />R-E-S-P-E-C-T<br /><br />Find out what it means to me<br /><br />R-E-S-P-E-C-T<br /><br />Take care, TCB<br /><br /><br /><br />Oh (sock it to me, sock it to me,<br /><br />sock it to me, sock it to me)<br /><br />A little respect (sock it to me, sock it to me,<br /><br />sock it to me, sock it to me)<br /><br />Whoa, babe (just a little bit)<br /><br />A little respect (just a little bit)<br /><br />I get tired (just a little bit)<br /><br />Keep on tryin' (just a little bit)<br /><br />You're runnin' out of foolin' (just a little bit)<br /><br />And I ain't lyin' (just a little bit)<br /><br />(re, re, re, re) 'spect<br /><br />When you come home (re, re, re ,re)<br /><br />Or you might walk in (respect, just a little bit)<br /><br />And find out I'm gone (just a little bit)<br /><br />I got to have (just a little bit)<br /><br />A little respect (just a little bit){% endraw %}
