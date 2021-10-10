@@ -1,0 +1,15 @@
+---
+title: "This Fish Room (Almost) Runs Itself!"
+image: "https:\/\/i.ytimg.com\/vi\/h_gkvjN0rhw\/hqdefault.jpg"
+vid_id: "h_gkvjN0rhw"
+categories: "Education"
+tags: ["Aquarium Co-Op","#aquariumcoop","Community Aquarium"]
+date: "2021-10-11T00:18:24+03:00"
+vid_date: "2021-10-10T16:00:20Z"
+duration: "PT18M36S"
+viewcount: "11990"
+likeCount: "1080"
+dislikeCount: "9"
+channel: "Aquarium Co-Op"
+---
+{% raw %}Dean has been out of town for several weeks because he's been collecting fish in Peru and helping family members move. Find out how his fish survived, what kind of system he uses for pet sitters, and how his fry raising tray system has evolved over the years.<br />🥇 Become a member to get access to perks: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCNJuJfXCKNWu4-VifYixs8A/join">https://www.youtube.com/channel/UCNJuJfXCKNWu4-VifYixs8A/join</a><br />📅 Member Events Calendar: <a rel="nofollow" target="blank" href="https://www.aquariumcoop.com/pages/events">https://www.aquariumcoop.com/pages/events</a><br />🔔 Never miss a video or live stream again. Sign up for text messages. <a rel="nofollow" target="blank" href="https://www.aquariumcoop.com/pages/youtubenotifications">https://www.aquariumcoop.com/pages/youtubenotifications</a><br />🌱 Buy plants, lights, food, chemicals and more from our online store: <a rel="nofollow" target="blank" href="https://aquariumcoop.com/">https://aquariumcoop.com/</a><br />📕 Want in-depth articles on freshwater aquariums? Visit our blog: <a rel="nofollow" target="blank" href="https://aquariumcoop.com/blogs/aquarium">https://aquariumcoop.com/blogs/aquarium</a><br />💬 Searching for that respectful community to talk about fish? Join our forum: <a rel="nofollow" target="blank" href="https://forum.aquariumcoop.com/">https://forum.aquariumcoop.com/</a><br /><br />WHO WE ARE<br />------------------------------------------------<br />At Aquarium Co-Op, we focus on your aquariums. We specialize in freshwater tropical fish, aquatic plants, and the overall betterment of the freshwater fish keeping hobby. Our goal is to help you with your first pet fish and graduate you to an advanced aquarium hobbyist. If you'd like to take it to the next level, subscribe to Aquarium Co-Op and check out our weekly videos. <br /><br />Cory McElroy is employed by Aquarium Co-Op LLC. He also owns Aquarium Co-Op LLC. Therefore, all content is sponsored by Aquarium Co-Op.<br /><br />0:00 - Intro<br />0:20 - Discus Fish Eggs<br />0:34 - Dean’s Backstory<br />1:35 - How Dean’s Fish are Being Fed<br />2:35 - Lizzie’s Aquascaped Planted Aquarium<br />3:05 - Fish Dean Brought Back From Peru<br />4:08 - First Glimpse in the Fish Room<br />4:43 - Dean’s Fish Fry Trays <br />5:16 - Baby Discus Fish<br />6:08 - Rice Fish<br />6:30 - Electric Current in Fish Tank<br />7:42 - Leopard Frog Pleco Fish<br />8:45 - Midnight Black Ram Fish<br />9:21 - Koi Angelfish, Pleco Fish and a Fancy Shirt<br />9:45 - How Much Dean Feeds his Aquarium Fish<br />11:39 - Outdoor Fish Ponds<br />13:00 - Dean’s Fish Fry System<br /><br />#MasterBreederDean #Aquariumfish #Fishroom{% endraw %}
