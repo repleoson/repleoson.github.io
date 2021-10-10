@@ -1,0 +1,15 @@
+---
+title: "An-Known - Tonelabira (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/fD1pr8NuwNs\/hqdefault.jpg"
+vid_id: "fD1pr8NuwNs"
+categories: "Music"
+tags: ["an known","soul music","tonelabila anknown"]
+date: "2021-10-10T13:57:54+03:00"
+vid_date: "2021-10-09T15:00:10Z"
+duration: "PT3M22S"
+viewcount: "26206"
+likeCount: "3489"
+dislikeCount: "26"
+channel: "An-Known"
+---
+{% raw %}An-Known Tonelabira Official Music Video 2021<br />Tonelabira Official Video Thanks For Your Support To You My Dear Fans<br /><br />Follow An-Known:<br />Instagram:<a rel="nofollow" target="blank" href="https://instagram.com/anknown_prosper...">https://instagram.com/anknown_prosper...</a><br />Facebook:<a rel="nofollow" target="blank" href="https://www.facebook.com/An-Known-612...">https://www.facebook.com/An-Known-612...</a><br />Twitter:<a rel="nofollow" target="blank" href="https://twitter.com/AnknownProsper?s=09">https://twitter.com/AnknownProsper?s=09</a><br />Tik tok:<a rel="nofollow" target="blank" href="https://vm.tiktok.com/ZMeCtjAsg/">https://vm.tiktok.com/ZMeCtjAsg/</a><br /><br />Like, Comment, Subscribe Thanks<br /><br /> FC Recordz<br />Producer: Pro Spot <br />Video Director: Darlington <br /><br />Lyrics:<br />[Intro]<br />Ahh nhaa yeah yeah yeah yeah yeah eeehhhhh <br />Nkusaba tonerabira aah aah<br /><br />[Verse]<br />Nkomekerede ng'omudaawa, <br />Gwenalonda nze gwenjagala tanjagala.......<br />Gwogamba atabe gwe anaaba ani? <br />Nze nga nakwesiga nyo bambi,<br />Manya ensobi zange zijuza Uganda,<br />Love jenina eyiyo ejuza mayanja....<br />Ogamba nyiiza nyo kituufu <br />Atakunyiize olimusanga wa dear???<br />Newolifunayo omulala eyo alikubiibita atali nze atukiride talabika..<br />laidyyyy...<br />Omutima oguletedde okwekyaawa , <br />Ntereeza wano otabangula wali oli kirwadde era gwe daawa <br />Gwe dagala oooohhhhh yeeaahhh<br /><br />[Chorus]<br />Nyabo tetukaka love tubirekere awo, <br />Bwoba eyo,  jolaga tonelabira  eehh<br />Bwotuka eyo, nkusaba tonelabira aaahh <br />Love Uhhh Uhh Uh  tonerabira Ah Ah<br /><br />[Verse 2]<br />Kirooto kyange kyali kyakukwesigaliza bwoba olaba tekisobooke ngambaaa....<br />Gwe manya up and down yegwe mubanji gwenalonda dear madam<br />Tompa suubi nga tonjagale <br />Nkusaba omutima togulekera embale <br />Nabaalugera bagamba emeeme katale<br />So nga bwovaawo negunyogoga nti kale<br />Kituufu ndi muntu era nsobya <br />Mungeri emu oba endala <br />Nze naawe tetuli bikoola<br />Gwe manya nkwesigamako nti oli mpagi yange ID yeah..<br />Yes I'll be fine yeah, am trying how  to leaving off your love, love love <br />With you am feeling only down, down, down<br />Kyoba omanya ewange kitalo talo talo,<br />Ewange gwe master passport ewuwo  nze gwoyita liar.<br /><br />[Chorus]<br />Nyabo tetukaka love tubirekere awo, <br />Bwoba eyo,  jolaga tonelabira  eehh<br />Bwotuka eyo, nkusaba tonerabira aaahh <br />Love Uhhh Uhh Uh  tonelabira Ah Ah<br />Hnmmmhm.... Tonelabira.<br /><br />#AnKnown #Tonelabira #OfficialVideo #SoulMusic #RnB #AnknownProsper #FC Recordz{% endraw %}
