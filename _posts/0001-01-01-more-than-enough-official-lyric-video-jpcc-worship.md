@@ -1,0 +1,15 @@
+---
+title: "More Than Enough (Official Lyric Video) - JPCC Worship"
+image: "https:\/\/i.ytimg.com\/vi\/4iZ6CQxXTFk\/hqdefault.jpg"
+vid_id: "4iZ6CQxXTFk"
+categories: "Music"
+tags: ["jpcc Worship","jpcc","jpcc worship 2018"]
+date: "2021-10-11T19:44:43+03:00"
+vid_date: "2015-08-15T22:00:00Z"
+duration: "PT6M18S"
+viewcount: "3454968"
+likeCount: "21163"
+dislikeCount: "429"
+channel: "JPCC Worship"
+---
+{% raw %}#jpccworship #MoreThanEnough #lagurohani #lagupenyembahan #trueworshippers<br /><br />Stay Connected with JPCC Worship:<br />Subscribe JPCC Worship Channel: <a rel="nofollow" target="blank" href="http://smarturl.it/JPCCWorshipSubscribe">http://smarturl.it/JPCCWorshipSubscribe</a><br />Twitter: <a rel="nofollow" target="blank" href="http://smarturl.it/JPCCWorshipTwitter">http://smarturl.it/JPCCWorshipTwitter</a><br />Instagram: <a rel="nofollow" target="blank" href="http://smarturl.it/JPCCWorshipInstagram">http://smarturl.it/JPCCWorshipInstagram</a><br />Facebook: <a rel="nofollow" target="blank" href="http://smarturl.it/JPCCWorshipFacebook">http://smarturl.it/JPCCWorshipFacebook</a><br />Website: <a rel="nofollow" target="blank" href="https://www.jpccworship.com">https://www.jpccworship.com</a><br />Email : worship@jpcc.org<br /><br />JPCC Worship Album is available on:<br />Spotify: <a rel="nofollow" target="blank" href="https://smarturl.it/JPCCWorshipSpotify">https://smarturl.it/JPCCWorshipSpotify</a><br />JOOX: <a rel="nofollow" target="blank" href="https://smarturl.it/JPCCWoshipJOOX">https://smarturl.it/JPCCWoshipJOOX</a><br />iTunes/Apple Music: <a rel="nofollow" target="blank" href="http://smarturl.it/JPCCWorshipAppleM">http://smarturl.it/JPCCWorshipAppleM</a><br />Deezer: <a rel="nofollow" target="blank" href="http://smarturl.it/JPCCWorshipDeezer">http://smarturl.it/JPCCWorshipDeezer</a><br />Revivo and all digital platforms<br /><br />More Than Enough<br />Music &amp; Lyrics: Cindy Clementine, Andre Hermanto, Gianni Messah, Nina Sari Ishak, Sidney Mohede<br /><br />Verse<br />When the mountains fall<br />And the sea turns rough<br />&quot;But My Word stands strong&quot;, says the Lord<br /><br />Verse 2<br />When the world gets tough<br />Filled with broken hearts<br />&quot;But My Love won't fail&quot;, says the Lord<br /><br />Chorus<br />Your love is powerful<br />Knees shall bow<br />Your love is mighty<br />The earth will shake<br />Your grace abounds in us<br />You're more than enough for me<br /><br />Jesus You're able<br />To break every chain<br />Our lives in Your hands<br />You're in control<br />Grace overflows in us<br />You're more than enough for me<br /><br />Bridge<br />Power, mercy, never failing<br />Stronger, deeper, never changing<br />Glorious, faithful, never ending<br />Great is our God<br /><br />© 2015 Insight Unlimited Publishing. All rights reserved. International copyright secured.<br /><br />Untuk kepentingan penggunaan lagu dari JPCC Worship, Anda dapat menghubungi:<br />Tel: +62 21 2258 0625 / Email: publishing@insight-unlimited.com<br /><br />JPCC Worship adalah tim pujian dan penyembahan di gereja Jakarta Praise Community Church (JPCC), Indonesia.{% endraw %}
