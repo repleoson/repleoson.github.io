@@ -1,0 +1,15 @@
+---
+title: "Beyoncé - Love On Top (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/Ob7vObnFUJc\/hqdefault.jpg"
+vid_id: "Ob7vObnFUJc"
+categories: "Music"
+tags: ["beyonce","love on top","love on top beyonce"]
+date: "2021-10-11T20:46:22+03:00"
+vid_date: "2011-10-16T22:00:00Z"
+duration: "PT3M17S"
+viewcount: "478580031"
+likeCount: "2062886"
+dislikeCount: "77576"
+channel: "BeyoncéVEVO"
+---
+{% raw %}Beyoncé's official video for 'Love On Top'. Click to listen to Beyoncé on Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/BeyonceSpot?IQid=B...">http://smarturl.it/BeyonceSpot?IQid=B...</a><br /><br />As featured on 4. Click to buy the track or album via iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/Beyonce4iTunes?IQi...">http://smarturl.it/Beyonce4iTunes?IQi...</a><br />Google Play: <a rel="nofollow" target="blank" href="http://smarturl.it/BeyLOTplay?IQid=Be...">http://smarturl.it/BeyLOTplay?IQid=Be...</a><br />Amazon: <a rel="nofollow" target="blank" href="http://smarturl.it/4BeyonceAmz?IQid=B...">http://smarturl.it/4BeyonceAmz?IQid=B...</a><br /><br />More from Beyoncé<br />Halo: <a rel="nofollow" target="blank" href="https://youtu.be/bnVUHWCynig">https://youtu.be/bnVUHWCynig</a><br />Dance For You: <a rel="nofollow" target="blank" href="https://youtu.be/PGc9n6BiWXA">https://youtu.be/PGc9n6BiWXA</a><br />Kitty Kat: <a rel="nofollow" target="blank" href="https://youtu.be/yahNg-mJ4p8">https://youtu.be/yahNg-mJ4p8</a><br /><br />Follow Beyoncé<br />Website: <a rel="nofollow" target="blank" href="http://www.beyonce.com/">http://www.beyonce.com/</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/beyonce">https://www.facebook.com/beyonce</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/beyonce">https://twitter.com/beyonce</a><br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/beyonce/">https://instagram.com/beyonce/</a><br /><br />Subscribe to Beyoncé on YouTube: <a rel="nofollow" target="blank" href="http://smarturl.it/BeyonceSub?IQid=Be...">http://smarturl.it/BeyonceSub?IQid=Be...</a><br /><br />More great Global Hits videos here: <a rel="nofollow" target="blank" href="http://smarturl.it/GlobalHits?IQid=Be...">http://smarturl.it/GlobalHits?IQid=Be...</a><br /><br />---------<br /><br />Lyrics:<br /><br />Honey, honey<br />I can see the stars all the way from here<br />Can't you see the glow on the window pane?<br />I can feel the sun whenever you're near<br />Every time you touch me I just melt away<br />Now everybody asks me why I'm smiling out from ear to ear (They say love hurts)<br />But I know (It's gonna take a real work)<br />Nothing's perfect, but it's worth it after fighting through my tears<br />And finally you put me first<br />(chorus)<br />Baby it's you.<br />You're the one I love.<br />You're the one I need.<br />You're the only one I see.<br />Come on baby it's you.<br />You're the one that gives your all.<br />You're the one I can always call.<br />When I need you make everything stop.<br />Finally you put my love on top.{% endraw %}
