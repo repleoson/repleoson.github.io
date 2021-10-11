@@ -1,0 +1,15 @@
+---
+title: "Marvel's Agents of S.H.I.E.L.D. - Trailer 1 (Official)"
+image: "https:\/\/i.ytimg.com\/vi\/T3T-evQZiQo\/hqdefault.jpg"
+vid_id: "T3T-evQZiQo"
+categories: "Entertainment"
+tags: ["agent coulson","agent phil coulson","agents of s.h.i.e.l.d."]
+date: "2021-10-11T21:19:21+03:00"
+vid_date: "2013-05-14T20:33:30Z"
+duration: "PT2M51S"
+viewcount: "12295218"
+likeCount: "88048"
+dislikeCount: "3744"
+channel: "Marvel Entertainment"
+---
+{% raw %}Get an even better look at &quot;Marvel's Agents of S.H.I.E.L.D.,&quot; coming to ABC Tuesdays at 8:00 p.m. ET this fall!<br /><br />Follow &quot;Marvel's Agents of S.H.I.E.L.D.&quot; on Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/agentsofshield">https://twitter.com/agentsofshield</a><br />Like &quot;Marvel's Agents of S.H.I.E.L.D.&quot; on Facebook: <a rel="nofollow" target="blank" href="http://facebook.com/AgentsofSHIELD">http://facebook.com/AgentsofSHIELD</a><br /><br />Clark Gregg reprises his role of Agent Phil Coulson from Marvel's feature films as he assembles a small, highly select group of Agents from the worldwide law-enforcement organization known as S.H.I.E.L.D. Together they investigate the new, the strange, and the unknown across the globe, protecting the ordinary from the extraordinary. Coulson's team consists of Agent Grant Ward (Brett Dalton), highly trained in combat and espionage, Agent Melinda May (Ming-Na Wen) expert pilot and martial artist, Agent Leo Fitz (Iain De Caestecker); brilliant engineer and Agent Jemma Simmons (Elizabeth Henstridge) genius bio-chemist. Joining them on their journey into mystery is new recruit and computer hacker Skye (Chloe Bennet).<br /><br />From Executive Producers Joss Whedon (&quot;Marvel's The Avengers,&quot; &quot;Buffy the Vampire Slayer&quot;); Jed Whedon &amp; Maurissa Tancharoen, &quot;Marvel's Agents of S.H.I.E.L.D.&quot; pilot co-writers (&quot;Dollhouse,&quot; &quot;Dr.Horrible's Sing-Along Blog&quot;); Jeffrey Bell (&quot;Angel,&quot; &quot;Alias&quot;); and Jeph Loeb (&quot;Smallville,&quot; &quot;Lost,&quot; &quot;Heroes&quot;) comes Marvel's first TV series.  &quot;Marvel's Agents of S.H.I.E.L.D.&quot; is produced by ABC Studios and Marvel Television.<br /><br />Subscribe to Marvel: <a rel="nofollow" target="blank" href="http://bit.ly/WeO3YJ">http://bit.ly/WeO3YJ</a><br /><br />Keep up with Marvel on:<br />TWITTER: <a rel="nofollow" target="blank" href="https://twitter.com/marvel">https://twitter.com/marvel</a><br />FACEBOOK: <a rel="nofollow" target="blank" href="http://www.facebook.com/Marvel">http://www.facebook.com/Marvel</a><br />TUMBLR: <a rel="nofollow" target="blank" href="http://marvelentertainment.tumblr.com/">http://marvelentertainment.tumblr.com/</a><br />INSTAGRAM: <a rel="nofollow" target="blank" href="http://instagram.com/marvel">http://instagram.com/marvel</a><br />GOOGLE+: <a rel="nofollow" target="blank" href="https://plus.google.com/+marvel/">https://plus.google.com/+marvel/</a><br />PINTEREST: <a rel="nofollow" target="blank" href="http://pinterest.com/marvelofficial/">http://pinterest.com/marvelofficial/</a>{% endraw %}
