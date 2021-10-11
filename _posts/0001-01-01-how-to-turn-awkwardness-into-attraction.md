@@ -1,0 +1,15 @@
+---
+title: "How To Turn Awkwardness Into Attraction"
+image: "https:\/\/i.ytimg.com\/vi\/jkblpon3C50\/hqdefault.jpg"
+vid_id: "jkblpon3C50"
+categories: "Howto-Style"
+tags: ["charisma on command","charismaoncommand","coc"]
+date: "2021-10-12T02:41:15+03:00"
+vid_date: "2021-10-11T17:55:03Z"
+duration: "PT15M58S"
+viewcount: "27533"
+likeCount: "2031"
+dislikeCount: "45"
+channel: "Charisma on Command"
+---
+{% raw %}Join Over 9000+ Members At Charisma University:<br /><a rel="nofollow" target="blank" href="https://bit.ly/3DvTmZG">https://bit.ly/3DvTmZG</a><br /><br />Subscribe to Charisma On Command’s YouTube Account: <br /><a rel="nofollow" target="blank" href="http://bit.ly/COC-Subscribe">http://bit.ly/COC-Subscribe</a><br /><br /><br />Timothée Chalamet has two traits you don't often see go hand in hand.  He's self admittedly very awkward, and yet women find him incredibly attractive.<br /><br />This is interesting because Timothée is not your stereotypical jock alpha male, in either looks or personality.  He’s shy and at times seems uncomfortable when speaking: looking down, fidgeting, or putting his hands in his pockets. <br /><br />How can someone who’s self admittedly awkward be so attractive? While he’s definitely handsome, much of Timothée’s attractiveness comes through in his personality. <br /><br />Part of what makes Timothée so magnetic is how well he handles potentially awkward moments.<br /><br />So in this video, we’ll go over 7 tricks you can learn from Timothée to turn your awkward moments into moments where you’re actually making yourself more attractive.<br /> <br /><br />5 Common Habits That Make People Instantly Dislike You (Brie Larson):<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=KBCcDrG2NjM">https://www.youtube.com/watch?v=KBCcDrG2NjM</a><br /><br />How To Stand Up For Yourself Without Starting A Fight (Jonah Hill):<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=BSXoI9MDvU0">https://www.youtube.com/watch?v=BSXoI9MDvU0</a><br /><br /><br />⏰TIMESTAMPS⏰ <br /><br />0:00 - Intro.<br />1:12 - #1: Radiate positivity<br />2:57 - #2: Appear unfazed by smiling through a tease<br />4:28 - #3: Don't assume negative intent in ambiguous situations<br />6:22 - #4: Call out the awkwardness<br />9:03 - #5: Pass the conversational spotlight to the other person<br />9:58 - #6: Share your higher purpose<br />12:14 - #7: If this doesn't go well, on with the rest of life<br /><br />--------------------------------------------------------------------------------<br />#TimotheeChalamet #CharismaOnCommand<br />--------------------------------------------------------------------------------<br /><br /><br />Connect with us further:<br />Website: <a rel="nofollow" target="blank" href="http://www.charismaoncommand.com">http://www.charismaoncommand.com</a><br />Facebook: <a rel="nofollow" target="blank" href="http://facebook.com/charismaoncommand">http://facebook.com/charismaoncommand</a><br />Instagram: @CharismaOnCommand<br />Or if you want to see our personal stuff:<br />Instagram: @CharlieHoupert<br />Instagram: @IamBenAltman{% endraw %}
