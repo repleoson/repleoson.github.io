@@ -1,0 +1,15 @@
+---
+title: "MUST SEE - NEW 5 BDRM, 5.2 BATH LUXURY HOME W\/POOL AND SPA FOR SALE IN ATLANTA"
+image: "https:\/\/i.ytimg.com\/vi\/q1e85uNnL2U\/hqdefault.jpg"
+vid_id: "q1e85uNnL2U"
+categories: "Education"
+tags: ["atlanta homes for sale","homes for sale","moving to atlanta"]
+date: "2021-10-12T04:58:11+03:00"
+vid_date: "2021-10-10T19:14:06Z"
+duration: "PT15M47S"
+viewcount: "15088"
+likeCount: "980"
+dislikeCount: "8"
+channel: "Atlanta Homes for Sale"
+---
+{% raw %}Attention: Real Estate Agents and Small Business Owners. Need help Starting and Growing your YouTube Channel?  Need a YouTube Coach to help you make your YouTube Channel a reality? For enquiries about our coaching service, please send an email to videomarketingrus@att.net<br /><br />To have your listing or property featured on this channel, for business inquiries or additional information about any of the featured homes, please send an email to janicesellsatlanta@att.net<br /><br />Please be informed that the price provided for any home featured is subjected to be changed without notice.  For new construction homes, I do not work for the builders and have no control over their prices and incentives. <br /><br />The Base Price (BP) provided is for the featured floor plan with the builder's standard features without upgrades . Model homes will have upgrades that will increase the price of that floor plan above the base price. Also, the furniture and decorations in the model homes are for show and not for sale.<br /><br />Janice Carter <br />&quot;The Pet Friendly Real Estate Agent&quot;<br />Maximum One Realty of Greater Atlanta<br />Cell: 404 399-9380<br />Email: janicesellsatlanta@att.net<br />Website: www.janicesellsatlanta.com<br /> <br />Licensed in Georgia and Florida<br /> <br />Accuracy of all information deemed reliable but not guaranteed and should be independently verified.<br /><br />***Links to Equipment and Software Used***<br /><br />GoPro Hero Black - <a rel="nofollow" target="blank" href="https://amzn.to/2ZlNPFv">https://amzn.to/2ZlNPFv</a><br />GoPro Karma Grip - <a rel="nofollow" target="blank" href="https://amzn.to/2ZpZtKt">https://amzn.to/2ZpZtKt</a><br />GoPro Accessories Kit - <a rel="nofollow" target="blank" href="https://amzn.to/31ZeDrN">https://amzn.to/31ZeDrN</a><br />Sandisk Micro SD Card - <a rel="nofollow" target="blank" href="https://amzn.to/2KWc1FD">https://amzn.to/2KWc1FD</a><br /><br />GoPro Hero 7 Black Edition with Two Extra GoPro USA Batteries + Sandisk Extreme 64GB MicroSD + Free Polaroid 16GB MicroSD (80GB Total) - <a rel="nofollow" target="blank" href="https://amzn.to/3ihXhPI">https://amzn.to/3ihXhPI</a><br /><br />2019 DJI Osmo Pocket Handheld 3 Axis Gimbal with Integrated 4K Camera Bundle, Comes 128GB Extreme Micro SD - <a rel="nofollow" target="blank" href="https://amzn.to/3ghieZc">https://amzn.to/3ghieZc</a><br /><br />Feiyu G6 Plus 3-Axis Brushless Handheld Gimbal Stabilizer (Extension Bar Tripod Adapter) Splash-Proof 800g Payload 12 Hours Running Time for Smartphone/Action Camera Gopro/Digital Cameras - <a rel="nofollow" target="blank" href="https://amzn.to/2NJgrjt">https://amzn.to/2NJgrjt</a>{% endraw %}
