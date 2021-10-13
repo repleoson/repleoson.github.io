@@ -1,0 +1,15 @@
+---
+title: "What is a Subject? English Grammar for Beginners | Basic English | ESL"
+image: "https:\/\/i.ytimg.com\/vi\/5u6dSMs_H14\/hqdefault.jpg"
+vid_id: "5u6dSMs_H14"
+categories: "Education"
+tags: ["Socratica","socraticagrammar","English Grammar"]
+date: "2021-10-13T13:04:53+03:00"
+vid_date: "2013-11-18T00:33:32Z"
+duration: "PT2M35S"
+viewcount: "176932"
+likeCount: ""
+dislikeCount: ""
+channel: "Socratica"
+---
+{% raw %}Do you know how to find the subject of a sentence?  The subject is a &quot;doer.&quot;  Find who or what is doing the action, and you've found your subject! <br /><br />Watch Next - What is a Predicate<br /><a rel="nofollow" target="blank" href="http://bit.ly/2n5sLeY">http://bit.ly/2n5sLeY</a><br /><br />You have great ideas. But no one will know about them if you can't communicate effectively! Our series of Basic English Grammar Rules will help you brush up your language skills. People will pay attention to you ideas - not your grammar mistakes. Feel more confident about the SAT and the ACT. Great for homeschooling, English as a Second Language (ESL) and studying for the TOEFL, too!<br /><br />Click to watch more grammar lessons:<br /><a rel="nofollow" target="blank" href="http://bit.ly/1LnJ1CN">http://bit.ly/1LnJ1CN</a><br /><br />Don't forget to Subscribe so you'll hear about our newest videos!<br /><a rel="nofollow" target="blank" href="http://bit.ly/1ixuu9W">http://bit.ly/1ixuu9W</a><br /><br />♦♦♦♦♦♦♦♦♦♦<br /><br />We Recommend:<br />Strunk and White (short and a classic)<br /><a rel="nofollow" target="blank" href="http://amzn.to/2nR1UqC">http://amzn.to/2nR1UqC</a><br /><br />Eats, Shoots &amp; Leaves (funny! On punctuation)<br /><a rel="nofollow" target="blank" href="http://amzn.to/2ni5Myf">http://amzn.to/2ni5Myf</a><br /><br />Word Power Made Easy (vocab building)<br /><a rel="nofollow" target="blank" href="http://amzn.to/2ohddVP">http://amzn.to/2ohddVP</a><br /><br />♦♦♦♦♦♦♦♦♦♦<br /><br />Ways to support our channel:<br /><br />►  Join our Patreon : <a rel="nofollow" target="blank" href="https://www.patreon.com/socratica">https://www.patreon.com/socratica</a><br />►  Make a one-time PayPal donation: <a rel="nofollow" target="blank" href="https://www.paypal.me/socratica">https://www.paypal.me/socratica</a><br />►  We also accept Bitcoin @ 1EttYyGwJmpy9bLY2UcmEqMJuBfaZ1HdG9<br /><br />♦♦♦♦♦♦♦♦♦♦<br /><br />Grammar Girl: Liliana de Castro<br />Written by Charity Hume<br />Directed by Michael Harrison<br />Produced by Kimberly Hatch Harrison<br /><br />♦♦♦♦♦♦♦♦♦♦<br /><br />Connect with us!<br /><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/SocraticaStudios/">https://www.facebook.com/SocraticaStudios/</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/SocraticaStudios/">https://www.instagram.com/SocraticaStudios/</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/Socratica">https://twitter.com/Socratica</a><br /><br />♦♦♦♦♦♦♦♦♦♦{% endraw %}
