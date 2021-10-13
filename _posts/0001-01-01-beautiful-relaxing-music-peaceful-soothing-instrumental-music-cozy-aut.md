@@ -1,0 +1,15 @@
+---
+title: "Beautiful Relaxing Music, Peaceful Soothing Instrumental Music, \"Cozy Autumn Lake\" Tim Janis"
+image: "https:\/\/i.ytimg.com\/vi\/AJc1hqP-ofo\/hqdefault.jpg"
+vid_id: "AJc1hqP-ofo"
+categories: "Music"
+tags: ["Beautiful Relaxing Music","Peaceful Soothing Instrumental Music","Instrumental Music"]
+date: "2021-10-14T00:36:19+03:00"
+vid_date: "2021-10-12T00:05:26Z"
+duration: "P0D"
+viewcount: "145991"
+likeCount: "2205"
+dislikeCount: "62"
+channel: "Tim Janis"
+---
+{% raw %}Beautiful Relaxing Music, Peaceful Soothing Instrumental Music, &quot;Cozy Autumn Lake&quot; Tim Janis.  My instrumental music can help you find deep relaxation, relieve anxiety, and find peace. My music incorporates relaxing sounds of nature and features flute music, piano music, harp music, &amp; violin music. I am a composer from Maine and created my channel as a place to visit, relax and find peace.<br /><br />In this video we travel cozy autumn lake in the beautiful countryside filled with golden and red maple trees, Covered bridges and fields of Autumn flowers all while listening to peaceful beautiful soft music. So happy you are here with us :) <br />Blessings and peace Tim &amp; Reno <br /><br />Enjoy our videos in 4k -  click here. <br /><a rel="nofollow" target="blank" href="https://youtu.be/Rs3-OJBYKSY">https://youtu.be/Rs3-OJBYKSY</a> <br /><br />Enjoy some of music inspirational music in the beautiful Autumn countryside. <br /><a rel="nofollow" target="blank" href="https://youtu.be/SKHAd6HHBQI">https://youtu.be/SKHAd6HHBQI</a><br /><br />My new CD &quot;Relaxation Volume One&quot; is now available on Amazon - this Cd has some of my most popular songs <br /><a rel="nofollow" target="blank" href="https://amzn.to/3n47TDn">https://amzn.to/3n47TDn</a><br /><br />Also my new CD Perfect Serenity is now available , it has 24 of my most popular songs. <br />here is a link<br /><a rel="nofollow" target="blank" href="https://amzn.to/3jb7CzF">https://amzn.to/3jb7CzF</a><br /><br />Another new CD just out, &quot;Soothing Sounds of Nature&quot; this is a new release of the soothing music you here on our videos - here is link<br /><a rel="nofollow" target="blank" href="https://amzn.to/2YDnVgT">https://amzn.to/2YDnVgT</a><br /><br />Take a moment and visit me on our farm in Maine - <br /><a rel="nofollow" target="blank" href="https://youtu.be/FS4RCUHTAGo">https://youtu.be/FS4RCUHTAGo</a><br /><br />Take a fun ride in my VW bus along the coast of the Big Sur. <br />California Coast. <br /><a rel="nofollow" target="blank" href="https://youtu.be/dwbKPg9alIo">https://youtu.be/dwbKPg9alIo</a><br /><br />Join our community and subscribe to our monthly newsletter<br /><a rel="nofollow" target="blank" href="http://bit.ly/2qIS1ij">http://bit.ly/2qIS1ij</a><br /><br />Keep up with what Tim is doing and follow him on Instagram: <br /><a rel="nofollow" target="blank" href="https://www.instagram.com/timjanisofficial/?hl=en">https://www.instagram.com/timjanisofficial/?hl=en</a><br /><br /><br />Music information:<br />Composer: Tim Janis <br />Copyright:  Tim Janis Ensemble Inc.{% endraw %}
