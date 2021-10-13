@@ -1,0 +1,15 @@
+---
+title: "How Is A Rainbow Formed | The Dr. Binocs Show | Learn Videos For Kids"
+image: "https:\/\/i.ytimg.com\/vi\/nCPPLhPTAIk\/hqdefault.jpg"
+vid_id: "nCPPLhPTAIk"
+categories: "Education"
+tags: ["rainbow","rainbow song","rainbow hd"]
+date: "2021-10-13T22:35:35+03:00"
+vid_date: "2015-07-08T11:18:18Z"
+duration: "PT3M33S"
+viewcount: "1778388"
+likeCount: "10275"
+dislikeCount: "913"
+channel: "Peekaboo Kidz"
+---
+{% raw %}Learn all the interesting detail and facts about our beautiful rainbow with Dr. Binocs only on Peekaboo.<br /><br />Hey kids, have you ever wondered where does this beautiful rainbow come from? Well, watch this video and know it's formation in detail in fun way with Dr. Binocs.<br /><br />Voice-Over Artist: Joseph D'Souza<br />Script Writer: Sreejoni Nag<br />Background Score: Agnel Roman<br />Sound Engineer: Mayur Bakshi<br />Animation: Qanka Animation Studio<br />Creative Team (Rajshri): Alisha Baghel, Sreejoni Nag<br />Producer: Rajjat A. Barjatya<br />Copyrights and Publishing: Rajshri Entertainment Private Limited<br />All rights reserved.<br /><br />Share on Facebook - <a rel="nofollow" target="blank" href="https://goo.gl/wO7anP">https://goo.gl/wO7anP</a><br />Tweet about this - <a rel="nofollow" target="blank" href="https://goo.gl/UAjQij">https://goo.gl/UAjQij</a><br /><br />Catch More Of Dr.Binocs - <a rel="nofollow" target="blank" href="https://goo.gl/SXhLmc">https://goo.gl/SXhLmc</a><br /><br />To Watch Popular Nursery Rhymes Go To - <a rel="nofollow" target="blank" href="https://goo.gl/CV0Xoo">https://goo.gl/CV0Xoo</a><br /><br />To Watch Alphabet Rhymes Go To - <a rel="nofollow" target="blank" href="https://goo.gl/qmIRLv">https://goo.gl/qmIRLv</a><br /><br />To Watch Compilations Go To - <a rel="nofollow" target="blank" href="https://goo.gl/nW3kw9">https://goo.gl/nW3kw9</a><br /><br />Watch Popular Nursery Rhymes with Lyrics - <a rel="nofollow" target="blank" href="https://goo.gl/A7kEmO">https://goo.gl/A7kEmO</a><br /><br />Subscribe : <a rel="nofollow" target="blank" href="http://www.youtube.com/subscription_center?add_user=peekaboo">http://www.youtube.com/subscription_center?add_user=peekaboo</a><br /><br />SUBSCRIBE to Peekaboo Kidz:<a rel="nofollow" target="blank" href="http://bit.ly/SubscribeTo-Peekabookidz">http://bit.ly/SubscribeTo-Peekabookidz</a> <br /><br />Catch Dr.Binocs At - <a rel="nofollow" target="blank" href="https://goo.gl/SXhLmc">https://goo.gl/SXhLmc</a><br /><br />To Watch More Popular Nursery Rhymes Go To - <a rel="nofollow" target="blank" href="https://goo.gl/CV0Xoo">https://goo.gl/CV0Xoo</a><br /><br />To Watch Alphabet Rhymes Go To - <a rel="nofollow" target="blank" href="https://goo.gl/qmIRLv">https://goo.gl/qmIRLv</a><br /><br />To Watch Compilations Go To - <a rel="nofollow" target="blank" href="https://goo.gl/nW3kw9">https://goo.gl/nW3kw9</a><br /><br />Catch More Lyricals At - <a rel="nofollow" target="blank" href="https://goo.gl/A7kEmO">https://goo.gl/A7kEmO</a><br /><br />Like our Facebook page: <a rel="nofollow" target="blank" href="https://www.facebook.com/peekabootv">https://www.facebook.com/peekabootv</a>{% endraw %}
