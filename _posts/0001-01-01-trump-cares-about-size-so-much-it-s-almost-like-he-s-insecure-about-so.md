@@ -1,0 +1,15 @@
+---
+title: "Trump Cares About Size So Much, It’s Almost Like He’s Insecure About Something"
+image: "https:\/\/i.ytimg.com\/vi\/dIebvwhOWzM\/hqdefault.jpg"
+vid_id: "dIebvwhOWzM"
+categories: "Comedy"
+tags: ["jimmy","jimmy kimmel","jimmy kimmel live"]
+date: "2021-10-13T17:09:57+03:00"
+vid_date: "2021-10-12T02:29:38Z"
+duration: "PT12M13S"
+viewcount: "856660"
+likeCount: "15351"
+dislikeCount: "1106"
+channel: "Jimmy Kimmel Live"
+---
+{% raw %}Today we celebrated Indigenous Peoples’ Day and Columbus Day (even though he was a jerk who never actually set foot in North America), Congressmonster Marjorie Taylor Greene misspelled “Colombus” in a tweet commemorating the day, Donald Trump is the subject of yet another tell-all book that sheds light on his celebration of the insurrection crowd size, having to do multiple takes of his message denouncing the rioters, treating supporters in Des Moines to an hour and forty three minutes of bitching about losing the election, plus a new edition of This Week in Florida, a pill to fight COVID is on the way, NBA player Kyrie Irving is in a fix with the NBA because he won’t get vaccinated, LA’s new rules about proof of vaccination have forced a number venues around town to scrap some of their shows, and we sent a camera crew to San Francisco to trick Giants fans into betraying their team by rooting for the Dodgers in a new baseball playoff edition of “Traitor Schmoes.”<br /><br />SUBSCRIBE to get the latest #Kimmel: <a rel="nofollow" target="blank" href="http://bit.ly/JKLSubscribe">http://bit.ly/JKLSubscribe</a><br /><br />Watch Mean Tweets: <a rel="nofollow" target="blank" href="http://bit.ly/KimmelMT10">http://bit.ly/KimmelMT10</a><br /><br />Connect with Jimmy Kimmel Live Online:<br /><br />Visit the Jimmy Kimmel Live WEBSITE: <a rel="nofollow" target="blank" href="http://bit.ly/JKLWebsite">http://bit.ly/JKLWebsite</a><br />Like Jimmy Kimmel on FACEBOOK: <a rel="nofollow" target="blank" href="http://bit.ly/KimmelFB">http://bit.ly/KimmelFB</a><br />Like Jimmy Kimmel Live on FACEBOOK: <a rel="nofollow" target="blank" href="http://bit.ly/JKLFacebook">http://bit.ly/JKLFacebook</a><br />Follow @JimmyKimmel on TWITTER: <a rel="nofollow" target="blank" href="http://bit.ly/KimmelTW">http://bit.ly/KimmelTW</a><br />Follow Jimmy Kimmel Live on TWITTER: <a rel="nofollow" target="blank" href="http://bit.ly/JKLTwitter">http://bit.ly/JKLTwitter</a><br />Follow Jimmy Kimmel Live on INSTAGRAM: <a rel="nofollow" target="blank" href="http://bit.ly/JKLInstagram">http://bit.ly/JKLInstagram</a><br /><br />About Jimmy Kimmel Live:<br /><br />Jimmy Kimmel serves as host and executive producer of Emmy®-nominated “Jimmy Kimmel Live!,” ABC’s late-night talk show. “Jimmy Kimmel Live!” is well known for its huge viral video successes, with over 11 billion views and more than 15 million subscribers on the show’s YouTube channel. Some of Kimmel’s most popular comedy bits include “Celebrities Read Mean Tweets,” “Lie Witness News,” “Unnecessary Censorship,” “Halloween Candy YouTube Challenge,” and music videos like “I (Wanna) Channing All Over Your Tatum.”{% endraw %}
