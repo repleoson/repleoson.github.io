@@ -1,0 +1,15 @@
+---
+title: "ISOLATION SESSIONS: RUNNIN' (COVER)"
+image: "https:\/\/i.ytimg.com\/vi\/gD2d-R74ojU\/hqdefault.jpg"
+vid_id: "gD2d-R74ojU"
+categories: "Music"
+tags: ["ISOLATION","SESSIONS:","RUNNIN'"]
+date: "2021-10-13T22:00:10+03:00"
+vid_date: "2020-03-31T18:55:08Z"
+duration: "PT2M12S"
+viewcount: "4819"
+likeCount: "270"
+dislikeCount: "0"
+channel: "Rationale"
+---
+{% raw %}ISOLATION SESSIONS: RUNNIN'  BEYONCE / NAUGHTY BOY / ARROW BENJAMIN (COVER)<br />⠀⠀<br />I’m going to level with you guys. ⠀⠀<br />⠀⠀<br />It’s been a rough couple weeks or so for &amp; me for us all. ⠀⠀<br />I’ve learned a lot about myself. I mean, used to think I was was a really ‘extroverted’ human on here but when Covid 19 really struck, I found myself shrinking back into my head so I could process how much life was changing without being barraged by endless and sometimes insensitive memes and reminders of what of was going on. I even gave up the news for a bit. (I used to don a Trevor McDonald poster on my wall as a kid so, this is a big deal). ⠀⠀<br />⠀⠀<br />We’re all clearly still getting used to the new world we’re living in but for some, including myself, this period of isolation has been tough but surprisingly good for the soul. My pocket won’t appreciate that comment but I figure the soul is pretty high up in line before money.  ⠀⠀<br />⠀⠀<br />A couple of weeks ago, I was gearing up to play my biggest headline show yet. The day after I was due to fly to California to play with the @bigwild gang at Coachella Festival.⠀⠀<br />⠀⠀<br />Two weeks later, I’m laying laminate floor down in my living room on what would usually be a ‘work day’ debating whether I should really look in my car for any discarded sheets of unopened take away tissue sachets. Rough times.⠀⠀<br />⠀⠀⠀⠀<br />To top it all off, my one and only recording microphone died just before the UK lockdown. Amazon, quite rightly, aren’t exactly prioritising microphones for next day delivery right now. So, no recording for me. ⠀⠀<br />⠀⠀<br />When I laid down the last piece of laminate flooring, I noticed the empty room was a reverberation haven. Singing in here sounds insane. Where I would normally obsess about the terrible audio recording abilty of a phone, I forgot about all that &amp; took it back to basics to play a tune I covered once before. The first lines ⁣⁣‘These four lonely walls have changed the way I feel’ floors me every-time and couldn't be more fitting right now.⠀⠀<br />⠀⠀<br />⁣This is clearly a really rubbish time but yet again music is helping people get by. I hope this very first of instalment of many (hopefully not too many) Isolation Sessions does the just that for you.⠀⠀<br />⠀⠀⠀<br /><br />Original song by: Naughty Boy / Beyonce / Arrow Benjamin<br /><br />Featured Musicians:<br /><br />Keys: Dino Franchi<br />Bass: Diego Rodriguez<br />Wind Instruments: Rittipo<br /><br />Follow Rationale on:<br /><br />Instagram:@iamrationale<br />Spotify: <a rel="nofollow" target="blank" href="https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy?si=5PAnF5sLQJGMxhualDAg0g">https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy?si=5PAnF5sLQJGMxhualDAg0g</a>{% endraw %}
