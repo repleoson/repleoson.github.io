@@ -1,0 +1,15 @@
+---
+title: "How to NOT Get Nervous Speaking in Front of People"
+image: "https:\/\/i.ytimg.com\/vi\/2ciJQ6yA9HE\/hqdefault.jpg"
+vid_id: "2ciJQ6yA9HE"
+categories: "Entertainment"
+tags: ["how to not get nervous speaking in front of people","public speaking nervous","public speaking"]
+date: "2021-10-14T07:40:59+03:00"
+vid_date: "2017-02-10T15:09:16Z"
+duration: "PT5M51S"
+viewcount: "2358053"
+likeCount: "55547"
+dislikeCount: "1390"
+channel: "Clark Kegley"
+---
+{% raw %}Ready to start your own wildly-profitable youtube channel and impact millions of people?  ➡ Click here for a FREE training: <a rel="nofollow" target="blank" href="https://bit.ly/YouTube-2021">https://bit.ly/YouTube-2021</a> #publicspeaking #speakingtips #publicspeakingtips<br /><br />   <br />► Free 11 Questions ebook: <a rel="nofollow" target="blank" href="https://refusingtosettle.com">https://refusingtosettle.com</a><br /><br />How to NOT Get Nervous Speaking in Front of People<br /><br />This video is going to make you look good the next time you have to speak in public.<br /><br />3/4 of people report MASSIVE fear of public speaking! Ranks higher on top 10 fears list than spiders, heights, small spaces, even DEATH!<br /><br />Problem? Most of us won’t find ourselves giving a ted talk anytime soon. STILL need these tips. Public speaking is EVERY DAY: class, joke w/ friends, on a date, job interview, toast at event, group of friends.<br /><br />I’ve spoken in front of hundreds of people — planning on doing more in 2017. Comm in university. Created over 500 YT videos public speaking/ podcast to Millions of downloads worldwide. Love public speaking — still get nervous! Five things I wish I knew 5 years ago.<br /><br />TOP 5 TIPS:<br /><br />1. DON’T picture Audience Naked<br />You sicko. Picture them as your friends. Write to a close friend. Talk to a close friend. Use same language as friends. Use their OWN words. No posturing.<br /><br />2. SLOW down<br />AVG speaking pace around 110 -150 WPM. Most people get on stage and go 200WPM. SLOW it down. EX: Last mile of one mile each lap feel like run faster than previous. Minimize caffeine before event.<br /><br />3. Structure<br />Benchmarks of speech to hit. Small goals motivating. DON’T say “top 34 things” say BIG 4 things.<br /><br />4. Act As If<br />Anxious because you see it all GOING WRONG. Flip that. See it all going RIGHT.  Sing in public? Go into kindergarten class and ask every hand goes up.<br /><br />5. LEARN!<br />HTWFIP/ HTTA<br />Our previous videos on confidence + CommunicationWB said DC class best investment he’s made.<br />LEARN about public speaking!<br /><br /> <br /><br />//  BEST COURSES <br /><br />   <br />   <br />   <br />▸  Backstage Studio  | <a rel="nofollow" target="blank" href="https://mybackstagestudio.com">https://mybackstagestudio.com</a><br />▸  My Best Journal 2.0 | <a rel="nofollow" target="blank" href="http://mybestjournal.com">http://mybestjournal.com</a><br />▸  30-Day Coaching  | <a rel="nofollow" target="blank" href="https://my30DayCoaching.com">https://my30DayCoaching.com</a>{% endraw %}
