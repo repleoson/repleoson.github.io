@@ -1,0 +1,15 @@
+---
+title: "TRANSFORMING INTO SOCKIE NORRIS FOR THE DAY w\/The Norris Nuts"
+image: "https:\/\/i.ytimg.com\/vi\/dN6-7Wq0HQA\/hqdefault.jpg"
+vid_id: "dN6-7Wq0HQA"
+categories: "People-Blogs"
+tags: ["norris nuts","family friendly","family vlog"]
+date: "2021-10-14T11:46:49+03:00"
+vid_date: "2020-09-05T13:45:03Z"
+duration: "PT29M40S"
+viewcount: "9125744"
+likeCount: "143287"
+dislikeCount: "4488"
+channel: "The Norris Nuts"
+---
+{% raw %}The Norris Nuts lived the life of exactly what Sockie Norris does for 24hrs.<br />Watch next LAST TO LEAVE BED <a rel="nofollow" target="blank" href="https://youtu.be/HTI8_iMbljI">https://youtu.be/HTI8_iMbljI</a><br />LAST TO FALL ASLEEP <a rel="nofollow" target="blank" href="https://youtu.be/EBSK9qJefUM">https://youtu.be/EBSK9qJefUM</a><br />OUR BABIES CHOOSE OUR DAY <a rel="nofollow" target="blank" href="https://youtu.be/WF26iasvUlQ">https://youtu.be/WF26iasvUlQ</a><br /><br /><br />COMMENT here on our community tab <a rel="nofollow" target="blank" href="http://bit.ly/NORRISNUTSCOMMENTS">http://bit.ly/NORRISNUTSCOMMENTS</a><br /><br /><br />Our Latest challenges here <a rel="nofollow" target="blank" href="https://youtu.be/7VNvxbEN1sI">https://youtu.be/7VNvxbEN1sI</a> <br /><br /><br /><br />#familyvlog #challenge #norrisnuts<br /><br />In this video see the Norris Nuts transform into Sockie Norris for 24hrs. Sabre, Biggy and Naz Norris must copy everything Sockie Norris does, eats and wears for the day. There will be lots of challenges to determine whether the Norris Nuts will get Sockie's favourite option or if Sockie decides they will get the bad option. There is also skating with the Norris Nuts as Sockie makes them take their skateboards to the skate park. Sockie takes the rest of the Norris Nuts to watch the sunrise in Newcastle Australia. Keep watching because the Norris Nuts reveal where they will be moving house to.<br /><br /><br />Check out our other channels here <br /><br />NORRIS NUTS GAMING <a rel="nofollow" target="blank" href="http://bit.ly/NORRISNUTSGAMING">http://bit.ly/NORRISNUTSGAMING</a><br /><br />MAIN CHANNEL <a rel="nofollow" target="blank" href="http://bit.ly/NORRISNUTS">http://bit.ly/NORRISNUTS</a><br /><br />NORRIS NUTS DO STUFF <a rel="nofollow" target="blank" href="http://bit.ly/NORRISNUTSDOSTUFF">http://bit.ly/NORRISNUTSDOSTUFF</a><br /><br />NORRIS NUTS SQUAD (adventures) <a rel="nofollow" target="blank" href="http://bit.ly/NORRISNUTSSQUAD">http://bit.ly/NORRISNUTSSQUAD</a><br /><br /><br /><br />Our MOST POPULAR VIDEOS HERE <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PL92HrKDrbQZ1ljDSJdh-sQb10oYb_OsoS">https://www.youtube.com/playlist?list=PL92HrKDrbQZ1ljDSJdh-sQb10oYb_OsoS</a><br /><br /><br /><br />*Comment on our Community Tab on the Channel Page<br /><br /><br /><br />MAKE CLOSED CAPTIONS (subtitles) in your language here <a rel="nofollow" target="blank" href="http://www.youtube.com/timedtext_cs_panel?c=UCYd0us2OtW4d4-1cfpT2ktw&amp;tab=2">http://www.youtube.com/timedtext_cs_panel?c=UCYd0us2OtW4d4-1cfpT2ktw&amp;tab=2</a>{% endraw %}
