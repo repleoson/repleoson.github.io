@@ -1,0 +1,15 @@
+---
+title: "Toxins - Toxins In The Body - Toxins In Food"
+image: "https:\/\/i.ytimg.com\/vi\/BewwzgZxsGE\/hqdefault.jpg"
+vid_id: "BewwzgZxsGE"
+categories: "People-Blogs"
+tags: ["toxins","what are toxins","what are toxins in the body"]
+date: "2021-10-15T23:20:23+03:00"
+vid_date: "2016-09-01T16:42:23Z"
+duration: "PT2M3S"
+viewcount: "37444"
+likeCount: "259"
+dislikeCount: "28"
+channel: "Whats Up Dude"
+---
+{% raw %}In this video I discuss what are toxins in the body, what are toxins from food, and why are toxins bad?  I also discuss some of the many different ways we are exposed to toxins.<br /><br /><br /><br /><br />Transcript<br /><br />What are toxins?  Well, to say it bluntly, toxins are poisonous substances that can cause harm to our body.  <br /><br />Let’s start by looking at bacteria and viruses.  Some bacteria can release toxins, mainly in two different ways.  First, they can actually discharge a toxin, which can attack a cells membrane, or can enter the cell and wreak havoc once inside.  Secondly, some bacteria have toxins as part of their outer membrane, and the toxin is released when the bacterium is killed.  Some viruses release toxins during their replication process once inside cells.  <br /><br />Some fungal infections of crops can produce mycotoxins in the food chain.  Once these toxins enter the body, they can compromise the immune system, which can lead to many other physical problems.<br /><br />There are also environmental toxins that we are exposed to every day.  Chemicals are always being released into the environment, we are exposed to pesticides, herbicides and water pollution.  The way some foods are processed adds toxins to them; even many household cleaners have toxins in them.  The list is endless.<br /><br />Some of our everyday habits expose us to toxins. Smoking being at the top of this list.  There are many different toxins from cigarette smoke that can attack the body in many different ways.  <br /><br />Many antibiotics can have toxic effects, over consumption of alcohol and recreational drugs increases our exposure to toxins, and some of the clothes we wear have dyes that can be toxic.  Many of the perfumes, and fragrances we wear, and even some spray air fresheners have toxins that can be inhaled or enter the body through pores in the skin.<br /><br />Even emotions can have toxic effects.  Not dealing with stress or being angry or always pessimistic can impair the immune system and lead to more serious problems like stroke or heart attack.  Toxic waste products such as carbon dioxide are created from some normal metabolic reactions that occur in the body.<br /><br />It is impossible to completely avoid any exposure to all toxins.  But, you can help yourself by limiting your exposure.  Purchasing cleaners and detergents that are chemical free, or green, not over consuming alcohol, eating a healthy diet with plenty of fruits and veggies, which are antioxidant rich.  <br /><br />Purchasing food that has been minimally processed, exercise regularly, and limit stress, which will help your immune system, stay strong.{% endraw %}
