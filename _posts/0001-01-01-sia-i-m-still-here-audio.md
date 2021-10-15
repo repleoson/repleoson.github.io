@@ -1,0 +1,15 @@
+---
+title: "Sia - I'm Still Here (Audio)"
+image: "https:\/\/i.ytimg.com\/vi\/Jrgbjk45lFA\/hqdefault.jpg"
+vid_id: "Jrgbjk45lFA"
+categories: "Music"
+tags: ["sia","i'm still here","repetto"]
+date: "2021-10-15T11:41:42+03:00"
+vid_date: "2018-10-12T04:02:32Z"
+duration: "PT4M2S"
+viewcount: "40672405"
+likeCount: "449729"
+dislikeCount: "6977"
+channel: "Sia"
+---
+{% raw %}💫 New song &quot;I'm Still Here&quot; out everywhere today in partnership with Repetto <a rel="nofollow" target="blank" href="http://sia.lnk.to/imstillhere">http://sia.lnk.to/imstillhere</a><br /><br />Don't forget to pre-order for your pair of Repetto by Sia shoes, coming this spring <a rel="nofollow" target="blank" href="http://www.repetto.com/sia">http://www.repetto.com/sia</a>  <br /><br />I love you, keep going ❤<br /><br />Featured in the upcoming HBO documentary, &quot;At The Heart of Gold: Inside the USA Gymnastics Scandal<br /><br />Follow Team Sia's Ear Candy on Spotify <a rel="nofollow" target="blank" href="http://spoti.fi/1LMlB7X">http://spoti.fi/1LMlB7X</a><br />Subscribe to Sia on YouTube: <a rel="nofollow" target="blank" href="http://bit.ly/1sudphS">http://bit.ly/1sudphS</a> <br />Website: <a rel="nofollow" target="blank" href="http://siamusic.net">http://siamusic.net</a> <br />Twitter: <a rel="nofollow" target="blank" href="http://twitter.com/sia">http://twitter.com/sia</a> <br />Instagram: <a rel="nofollow" target="blank" href="http://instagram.com/SiaThisIsActing">http://instagram.com/SiaThisIsActing</a> <br />Facebook: <a rel="nofollow" target="blank" href="http://facebook.com/siamusic">http://facebook.com/siamusic</a><br /> <br />LYRICS<br /><br />I'm fighting a battle<br />I'm fighting my shadow<br />Herd fears like they're cattle<br />I'm fighting a battle, yeah<br />I'm fighting my ego<br />Lost youth where did we go wrong<br />I'm fighting for me though<br />I'm lighting the long way home<br /><br />Oh the past it haunted me<br />Oh the past it wanted me dead<br />Oh the past tormented me<br />Oh the past it wanted me dead<br />Oh the past it haunted me<br />Oh the past it wanted me dead<br />Oh the past tormented me<br />But the battle was lost<br />‘cos I'm still here<br /><br />I'm winning the war now<br />I'm winning it all now<br />Watch tears while they fall down<br />I'm winning the war now<br />I win against ego<br />Cast light on the shadow's long<br />I'm winning from ego<br />I'm lighting the long way home<br /><br />Oh the past it haunted me<br />Oh the past it wanted me dead<br />Oh the past tormented me<br />Oh the past it wanted me dead<br />Oh the past it haunted me<br />Oh the past it wanted me dead<br />Oh the past tormented me<br />But the battle was lost<br />'Cos I'm still here<br /><br />It's haunted me<br />Oh the past it wanted me dead<br />Oh the past it's haunted me<br />Oh the past it wanted me dead<br />Oh the past it's haunted me<br />Oh the past it wanted me dead<br />Oh the past tormented me<br />But the battle was lost<br />‘Cos we're still here{% endraw %}
