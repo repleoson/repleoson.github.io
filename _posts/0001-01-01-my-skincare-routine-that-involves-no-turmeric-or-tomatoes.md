@@ -1,0 +1,15 @@
+---
+title: "my skincare routine that involves NO turmeric or tomatoes..."
+image: "https:\/\/i.ytimg.com\/vi\/rGhJDX24x8I\/hqdefault.jpg"
+vid_id: "rGhJDX24x8I"
+categories: "People-Blogs"
+tags: ["anncy","twinkle","videos"]
+date: "2021-10-15T11:14:01+03:00"
+vid_date: "2021-10-13T14:58:38Z"
+duration: "PT14M48S"
+viewcount: "51223"
+likeCount: "3897"
+dislikeCount: "62"
+channel: "Anncy Twinkle"
+---
+{% raw %}INSTAGRAM ▶︎ @anncytwinkle <a rel="nofollow" target="blank" href="https://www.instagram.com/anncytwinkle/">https://www.instagram.com/anncytwinkle/</a><br />TWEET ME ▶︎@anncytwinkle  <a rel="nofollow" target="blank" href="https://twitter.com/anncytwinkle">https://twitter.com/anncytwinkle</a><br />MY COOKING INSTAGRAM PAGE ▶︎ @anncysbigbelly<br />SHOPY MY CLOSET ▶︎ @anncytwinklecloset<br />TIKTOK ▶︎ anncytwinkle<br />SNAPCHAT ▶︎ anncytwinkle<br />MY AMAZON STORE ▶︎ <a rel="nofollow" target="blank" href="https://www.amazon.com/shop/anncytwinkle">https://www.amazon.com/shop/anncytwinkle</a><br /><br /><br />Aha facewash: <a rel="nofollow" target="blank" href="https://facerealityskincare.com/collections/all/products/ultra-gentle-cleanser">https://facerealityskincare.com/collections/all/products/ultra-gentle-cleanser</a><br />Makeup remover balm: <a rel="nofollow" target="blank" href="https://amzn.to/3oPgAWr">https://amzn.to/3oPgAWr</a><br />Vanity planet spin brush: <a rel="nofollow" target="blank" href="https://amzn.to/3an78kE">https://amzn.to/3an78kE</a><br />hydro bandaids: <a rel="nofollow" target="blank" href="https://amzn.to/3iQuTq1">https://amzn.to/3iQuTq1</a><br />cerave ointment: <a rel="nofollow" target="blank" href="https://amzn.to/2X0vnSL">https://amzn.to/2X0vnSL</a><br />dr. dennis gross pads (x5): <a rel="nofollow" target="blank" href="https://amzn.to/3aq32II">https://amzn.to/3aq32II</a><br />(x30): <a rel="nofollow" target="blank" href="https://amzn.to/2YBbXES">https://amzn.to/2YBbXES</a><br />dr. dennis gross aha peel: <a rel="nofollow" target="blank" href="https://whatsinmyjar.com/product/dr-dennis-gross-professional-grade-resurfacing-liquid-peel">https://whatsinmyjar.com/product/dr-dennis-gross-professional-grade-resurfacing-liquid-peel</a><br />hydroquinone: prescribed 4%<br />- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - <br />▶︎ SOLOTICA CONTACT LENSES I WEAR DISCOUNT: <br />SOLOTICA CONTACT LENSES I WEAR DISCOUNT:<br />Use code &quot;ANNCY&quot; for a huge discount <a rel="nofollow" target="blank" href="https://www.solotica.com/">https://www.solotica.com/</a><br />Blueish green: Hidrocor Rio Buzios<br />Grey: Hidrocor Grafite/Graphite<br />Hazel: Hidrocor Avela<br />Green: Hidrocor Monthly Ambar/Amber<br /><br />- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -<br />Business Email ▶︎ s.jacobs@bep-la.com<br /> FTC ▶︎ Some links are affiliated. This video is NOT sponsored but i wish it was. i want a pink mansion 😔{% endraw %}
