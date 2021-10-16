@@ -1,0 +1,15 @@
+---
+title: "Bill & Gloria Gaither - Suppertime [Live] ft. George Younce"
+image: "https:\/\/i.ytimg.com\/vi\/_R-xa7mkGDU\/hqdefault.jpg"
+vid_id: "_R-xa7mkGDU"
+categories: "Music"
+tags: ["Bill","Gloria","Gaither"]
+date: "2021-10-16T13:15:07+03:00"
+vid_date: "2012-11-02T00:00:48Z"
+duration: "PT5M4S"
+viewcount: "621453"
+likeCount: "3950"
+dislikeCount: "118"
+channel: "GaitherVEVO"
+---
+{% raw %}George Younce - Official Video for 'Suppertime [Live]', available now!<br /><br />Buy the full length DVD/CD 'The Cathedrals: A Farewell Celebration' Here: <a rel="nofollow" target="blank" href="http://smarturl.it/TCAFC">http://smarturl.it/TCAFC</a><br />Available at iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/TCAFC.iT">http://smarturl.it/TCAFC.iT</a><br /><br />Subscribe to Gaither Music YouTube Channel: <a rel="nofollow" target="blank" href="http://smarturl.it/GaitherMusicTV_Subsc">http://smarturl.it/GaitherMusicTV_Subsc</a><br />Subscribe to GaitherVEVO Channel: <a rel="nofollow" target="blank" href="http://smarturl.it/GaitherVEVOSubscribe">http://smarturl.it/GaitherVEVOSubscribe</a><br />Subscribe to Gaither TV: <a rel="nofollow" target="blank" href="http://smarturl.it/GaitherTV_Subscribe">http://smarturl.it/GaitherTV_Subscribe</a><br /><br />Follow Gaither Music for updates on your favorite artists.<br />Facebook: <a rel="nofollow" target="blank" href="http://smarturl.it/FB_GaitherMusic">http://smarturl.it/FB_GaitherMusic</a><br />Twitter: <a rel="nofollow" target="blank" href="http://smarturl.it/TW_GaitherMusic">http://smarturl.it/TW_GaitherMusic</a><br />Instagram: <a rel="nofollow" target="blank" href="http://smarturl.it/IG_GaitherMusic">http://smarturl.it/IG_GaitherMusic</a><br />Website: <a rel="nofollow" target="blank" href="http://smarturl.it/gaither.com">http://smarturl.it/gaither.com</a><br /><br />LYRICS:<br /><br />When I was but a boy in days of childhood<br />I used to play till evening shadows come.<br />Then winding down an old familiar pathway<br />I heard my mother call at set of sun<br /><br />Come home, come home<br />It's supper time<br />The shadows lengthen fast.<br />Come home, come home,<br />It's supper time<br />We're going home at last.<br /><br />One day beside her bedside I was kneeling,<br />And angel wings were winnowing through the air.<br />She heard her call for supper time in heaven<br />And now I know she's waiting for me there.<br /><br />Come home, come home<br /><br />It's supper time<br />The shadows lengthen fast.<br />Come home, come home,<br />It's supper time,<br />We're going home at last.<br /><br />In visions now I see her standing yonder,<br />And her familiar voice I hear once more.<br />The banquet table's ready up in heaven,<br />It's supper time upon that golden shore.<br /><br />Come home, come home<br />It's supper time,<br />The shadows lengthen fast.<br />Come home, come home,<br />It's supper time,<br />We're going home at last.<br /><br />We're going home at last.<br /><br />#Gaither #Suppertime #Vevo #GeorgeYounce{% endraw %}
