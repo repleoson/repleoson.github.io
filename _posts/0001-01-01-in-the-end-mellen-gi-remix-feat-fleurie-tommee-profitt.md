@@ -1,0 +1,15 @@
+---
+title: "In The End [Mellen Gi Remix] feat. Fleurie - Tommee Profitt"
+image: "https:\/\/i.ytimg.com\/vi\/VHAYLOM0yEA\/hqdefault.jpg"
+vid_id: "VHAYLOM0yEA"
+categories: "Music"
+tags: ["tommee","profitt","tommee profitt"]
+date: "2021-10-16T12:31:32+03:00"
+vid_date: "2019-03-22T13:00:10Z"
+duration: "PT3M50S"
+viewcount: "47808471"
+likeCount: "694915"
+dislikeCount: "19395"
+channel: "Tommee Profitt"
+---
+{% raw %}&quot;In The End&quot; Linkin Park Cover (feat. Fleurie) [Mellen Gi Remix] //Produced by Tommee Profitt<br /><br />Watch the new video for Faking Love: <a rel="nofollow" target="blank" href="https://TP.lnk.to/fakingloveYD/youtube">https://TP.lnk.to/fakingloveYD/youtube</a><br /><br />Thanks for watching! Don’t forget to SUBSCRIBE!<br /><br />CHECK OUT TOMMEE’S OTHER “TOP CINEMATIC SONGS”<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLDcAKor7_HohIGHMFGxyUgSyVmXhlS-M2">https://www.youtube.com/playlist?list=PLDcAKor7_HohIGHMFGxyUgSyVmXhlS-M2</a> <br /><br />FOLLOW @tommeeprofitt &amp; @fleuriemusic ON INSTAGRAM<br /><br />THIS SONG IS NOW AVAILABLE TO BUY / STREAM ON ALL PLATFORMS<br /><br />Over the last few years alone, Tommee Profitt has achieved tremendous success as a producer, songwriter, and award-winning composer for TV and movies. A lifelong musician who taught himself to play piano as a child and started producing his own music at age 12, Profitt has earned accolades and acclaim for his genre-warping production work with platinum-selling artists like Migos, Hunter Hayes, and NF—the rapper/singer/songwriter whose Profitt-produced 2017 single “Let You Down” went five-times platinum, hit #1 on Billboard’s US Mainstream Top 40 chart, and surpassed a billion streams worldwide. In addition, his cover of Linkin Park’s “In The End” (featuring Fleurie) has accumulated over 855 million streams, landed on Spotify’s Viral 50 chart in 23 countries, emerged as the #52 most Shazamed song of 2019, and continues to impact TikTok users across the globe by driving 200 million views weekly.<br />Additionally, Profitt’s unique cinematic releases have not only clocked over one billion global lifetime streams, 500k YouTube subscribers, and a monthly listenership of over two million users on Spotify—they have also garnered widespread success in the sync world. His unique sonic fingerprint has landed over 200 sync placements with the NFL, MLB, NHL, ESPN, CBS, FOX, ABC, NBC, HBO, WWE, and Showtime, and in major network shows, films, and video games, with some of his biggest successes including The Hunger Games: Mockingjay Pt. 2, The Girl in the Spider’s Web, The Good Doctor,  The Handmaid’s Tale, Assassin’s Creed, UFC2, Madden, and many more.<br />Profitt is currently in the studio working on new original material, with more details to be revealed soon. In the meantime, keep up with Profitt on his socials linked below.<br /><br />- <a rel="nofollow" target="blank" href="http://www.tommeeprofitt.com">http://www.tommeeprofitt.com</a>{% endraw %}
