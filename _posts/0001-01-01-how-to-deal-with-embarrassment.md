@@ -1,0 +1,15 @@
+---
+title: "How to Deal with Embarrassment"
+image: "https:\/\/i.ytimg.com\/vi\/9MW1OWcb39M\/hqdefault.jpg"
+vid_id: "9MW1OWcb39M"
+categories: "Education"
+tags: ["WellCast","embarrassed","embarrassment"]
+date: "2021-10-16T15:12:57+03:00"
+vid_date: "2012-12-20T02:20:55Z"
+duration: "PT5M1S"
+viewcount: "1007723"
+likeCount: "20463"
+dislikeCount: "869"
+channel: "watchwellcast"
+---
+{% raw %}Sign up for our WellCast newsletter for more of the love, lolz and happy! <a rel="nofollow" target="blank" href="http://goo.gl/GTLhb">http://goo.gl/GTLhb</a><br /><br />Today on WellCast, we're exploring embarrassment. We'll explain exactly what your brain is doing the moment after you trip in front of everyone, and give you our three-step method for brushing it off and moving on. <br /><br />Do you have any cringe-inducing mortifying memories and stories of how you coped? We want to hear! Comment below or email us at watchwellcast@gmail.com.<br /><br />Check out some other awesome episodes of WellCast:<br /><br />1. Coming Out <a rel="nofollow" target="blank" href="http://goo.gl/amysN">http://goo.gl/amysN</a> <br />2. Coping With Grief <a rel="nofollow" target="blank" href="http://goo.gl/aD4OH">http://goo.gl/aD4OH</a> <br />3. How to Break the Ice <a rel="nofollow" target="blank" href="http://goo.gl/CmS8O">http://goo.gl/CmS8O</a> <br />4. Dealing With Rejection <a rel="nofollow" target="blank" href="http://goo.gl/f3Pw5">http://goo.gl/f3Pw5</a> <br />5. Party Survival Guide for Introverts <a rel="nofollow" target="blank" href="http://goo.gl/WYZVe">http://goo.gl/WYZVe</a> <br /><br />ABOUT WELLCAST:<br /><br />In this twice-a-week show, we explore the physical, mental and emotional paths to wellness. With an emphasis on education, the show addresses both the latest trends and long-standing practices of wellness—everything from the efficacy of the gratitude experiment to the importance of sunshine and vitamin D. Follow along as your host, Kate, guides you through a bi-weekly journaling exercises that helps you apply what you've learned. The ultimate goal: one year, one show, one journal, one collective journey to wellness.<br /><br />Like us on Facebook! <a rel="nofollow" target="blank" href="http://www.facebook.com/pages/WellCast/125889220888704">http://www.facebook.com/pages/WellCast/125889220888704</a><br />Follow us on Twitter! <a rel="nofollow" target="blank" href="http://www.twitter.com/watchwellcast">http://www.twitter.com/watchwellcast</a><br />Find us on Google+ <a rel="nofollow" target="blank" href="https://plus.google.com/u/0/101009708775063073461/posts">https://plus.google.com/u/0/101009708775063073461/posts</a><br />Follow us on Tumblr! <a rel="nofollow" target="blank" href="http://watchwellcast.tumblr.com">http://watchwellcast.tumblr.com</a><br />Follow us on Instagram! <a rel="nofollow" target="blank" href="http://goo.gl/q3IUC">http://goo.gl/q3IUC</a><br />Follow us on Pinterest! <a rel="nofollow" target="blank" href="http://goo.gl/lNhu2">http://goo.gl/lNhu2</a>{% endraw %}
