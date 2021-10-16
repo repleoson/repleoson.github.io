@@ -1,0 +1,15 @@
+---
+title: "Flying Scotsman Down Under (1988-1989) 1 HOUR!"
+image: "https:\/\/i.ytimg.com\/vi\/kI4zZ1RwNbI\/hqdefault.jpg"
+vid_id: "kI4zZ1RwNbI"
+categories: "Entertainment"
+tags: ["Flying","Scotsman","Under"]
+date: "2021-10-16T03:52:38+03:00"
+vid_date: "2021-10-15T21:00:11Z"
+duration: "PT1H11M12S"
+viewcount: "1414"
+likeCount: "235"
+dislikeCount: "0"
+channel: "NWR1991"
+---
+{% raw %}Inspired from TheUnluckyTug's Flying Scotsman USA tour video.<br /><br />In 1988, Australia was celebrating 200 years of British settlement and to mark this occassion, events were made to celebrate. Including Aus Steam '88 in Melbourne, Victoria with locomotives all over Australia invited to celebrate the railway's contribution to the development of Australia with special guest Flying Scotsman from the UK. <br /><br />See the famous locomotive travelling around states such as New South Wales, Victoria, Queensland, South Australia and Western Australia and to Alice Springs in Northern Territory. See it working alongside locomotives including Australia's most famous steam locomotive 3801 through rare photographs and footage. <br /><br />CHAPTERS:<br />1. Prolouge: 0:00<br />2. The Bicentennial: 04:05<br />3. Flying Scotsman Down Under: 09:38<br />4. Aus Steam '88: 12:37<br />5. Victoria: 19:27<br />6. New South Wales: 24:13<br />7. Queensland: 40:37<br />8. Return to Victoria: 42:02<br />9. Alice Springs: 43:22<br />10. South Australia: 52:44<br />11. Western Australia: 54:52<br />12. Final Operations: 59:43<br />13. Homeward Bound: 1:02:16<br />14. Epilouge: 1:04:11<br /><br />All Photographs, music and footage in this video belong to their respective owner as stated in the credits in this video.<br /><br />This video is intended for a GENERAL AUDIENCE. <br /><br />&quot;Thomas and Friends&quot; &quot;Томас и его друзья&quot; &quot;Thomas y sus amigos&quot; &quot;Thomas und seine Freunde&quot; &quot;Thomas le petit train&quot; &quot;きかんしゃトーマス&quot; &quot;토마스와 친구들&quot; &quot;Thomas et ses amis&quot; &quot;thomas dan teman-teman&quot; &quot;थॉमस और दोस्तों&quot; &quot;Thomas ei suoi amici&quot; &quot;โทมัสและเพื่อน ๆ&quot; &quot;thomas e seus amigos&quot; &quot;Thomas och vänner&quot; &quot;托马斯和朋友&quot; &quot;Thomas og Friends&quot; &quot;Thomas ve Arkadaşları&quot; &quot;توماس والأصدقاء&quot; &quot;Thomas và các bạn&quot; Thomas the Train, &quot;Thomas el tren&quot; &quot;Thomas le train&quot; &quot;トーマス電車&quot; &quot;토마스 기차&quot; &quot;Томас поезд&quot;&quot; Thomas o trem&quot; &quot;Thomas kereta&quot; &quot;Thomas der Zug&quot; &quot;Thomas ang tren&quot; &quot;Thomas vlak&quot; &quot;托马斯火车&quot; &quot;توماس القطار&quot; &quot;Thomas a vonat&quot; &quot;Thomas tàu&quot; &quot;Flying&quot; &quot;Scotsman&quot; &quot;locomotive&quot; &quot;train&quot; &quot;steam&quot; &quot;railway&quot; &quot;railroad&quot; &quot;UK&quot; &quot;USA&quot; &quot;Australia&quot; &quot;Sydney&quot; &quot;Melbourne&quot; &quot;Brisbane&quot; &quot;Alice Springs&quot; &quot;Adelaide&quot; &quot;Perth&quot; &quot;Down Under&quot; &quot;3801&quot; &quot;1988&quot; &quot;Bicentennial&quot;{% endraw %}
