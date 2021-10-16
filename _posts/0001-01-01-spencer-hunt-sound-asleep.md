@@ -1,0 +1,15 @@
+---
+title: "Spencer Hunt - Sound Asleep"
+image: "https:\/\/i.ytimg.com\/vi\/1sPZhg-30ao\/hqdefault.jpg"
+vid_id: "1sPZhg-30ao"
+categories: "Music"
+tags: ["chilledcow","chilled cow","lofi"]
+date: "2021-10-16T10:11:30+03:00"
+vid_date: "2020-05-14T21:09:07Z"
+duration: "PT17M33S"
+viewcount: "195434"
+likeCount: "8909"
+dislikeCount: "54"
+channel: "Lofi Girl"
+---
+{% raw %}✔️ | This music is free to use for your videos/livestreams<br />→  <a rel="nofollow" target="blank" href="https://bit.ly/lofigirl-usethemusic">https://bit.ly/lofigirl-usethemusic</a><br /><br />📥 | Download this music (free)<br />→  <a rel="nofollow" target="blank" href="https://lofirecords.com/blogs/releases/">https://lofirecords.com/blogs/releases/</a><br />_____________________________________________<br /><br />💿 Listen everywhere<br /><br />→ <a rel="nofollow" target="blank" href="https://fanlink.to/SoundAsleep">https://fanlink.to/SoundAsleep</a><br /><br />🎵 spencer hunt<br />→ <a rel="nofollow" target="blank" href="https://soundcloud.com/wowspencerhunt">https://soundcloud.com/wowspencerhunt</a><br />→ <a rel="nofollow" target="blank" href="https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S">https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S</a><br />→ <a rel="nofollow" target="blank" href="https://music.apple.com/us/artist/spencer-hunt/634134696">https://music.apple.com/us/artist/spencer-hunt/634134696</a><br /><br />🎶 Tracklist<br />[00:00] Dreamscape<br />[03:00] Lonely<br />[05:44] Thoughts of you <br />[08:51] Moonlight<br />[11:56] Sleepy<br />[14:03] I love you, goodnight<br /><br />🎨 Artwork by gydw1n<br />→ <a rel="nofollow" target="blank" href="https://www.instagram.com/gydw1n/">https://www.instagram.com/gydw1n/</a><br />→ <a rel="nofollow" target="blank" href="https://www.deviantart.com/gydw1n">https://www.deviantart.com/gydw1n</a><br />→ <a rel="nofollow" target="blank" href="https://society6.com/gydwin/wall-art">https://society6.com/gydwin/wall-art</a><br /><br />🎼 Listen to ChilledCow on Spotify, Apple music and more<br />→ <a rel="nofollow" target="blank" href="https://bit.ly/chilledcow-playlists">https://bit.ly/chilledcow-playlists</a><br /><br />💬 Join the Discord server <br />→ <a rel="nofollow" target="blank" href="https://bit.ly/chilledcow-discord">https://bit.ly/chilledcow-discord</a><br /><br />👕 Check out the ChilledCow merch<br />→ <a rel="nofollow" target="blank" href="https://bit.ly/chilledcow-merch">https://bit.ly/chilledcow-merch</a><br /><br />🌎 Follow ChilledCow everywhere<br />→ <a rel="nofollow" target="blank" href="https://bit.ly/chilledcow-instagram">https://bit.ly/chilledcow-instagram</a><br />→ <a rel="nofollow" target="blank" href="https://bit.ly/chilledcow-facebook">https://bit.ly/chilledcow-facebook</a><br />→ <a rel="nofollow" target="blank" href="https://bit.ly/chilledcow-twitter">https://bit.ly/chilledcow-twitter</a><br /><br />📝 Submit your music<br />→ <a rel="nofollow" target="blank" href="https://bit.ly/chilledcow-submissions">https://bit.ly/chilledcow-submissions</a>{% endraw %}
