@@ -1,0 +1,15 @@
+---
+title: "James Arthur - Impossible (Lyrics)"
+image: "https:\/\/i.ytimg.com\/vi\/vGNQilhqbzs\/hqdefault.jpg"
+vid_id: "vGNQilhqbzs"
+categories: "Music"
+tags: ["taj tracks","impossible"]
+date: "2021-10-16T03:18:35+03:00"
+vid_date: "2020-12-14T14:44:34Z"
+duration: "PT3M27S"
+viewcount: "34957663"
+likeCount: "364026"
+dislikeCount: "5001"
+channel: "Taj Tracks"
+---
+{% raw %}James Arthur - Impossible (Lyrics)<br />Spotify Playlist: <a rel="nofollow" target="blank" href="https://TajTracks.lnk.to/Spotify">https://TajTracks.lnk.to/Spotify</a><br /><br />James Arthur:<br /><a rel="nofollow" target="blank" href="http://www.jamesarthurofficial.com/">http://www.jamesarthurofficial.com/</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/JamesArthur/">https://www.facebook.com/JamesArthur/</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/JamesArthur23">https://twitter.com/JamesArthur23</a><br /><br />Impossible Lyrics:<br /><br />[Intro]<br />Mmm-hmm, mm<br /><br />[Verse 1]<br />I remember years ago<br />Someone told me I should take<br />Caution when it comes to love, I did<br />And you were strong and I was not<br />My illusion, my mistake<br />I was careless, I forgot, I did<br /><br />[Pre-Chorus]<br />And now when all is done<br />There is nothing to say<br />You have gone and so effortlessly<br />You have won, you can go ahead tell them<br /><br />[Chorus]<br />Tell them all I know now<br />Shout it from the rooftops<br />Write it on the skyline<br />All we had is gone now<br />Tell them I was happy<br />And my heart is broken<br />All my scars are open<br />Tell them what I hoped would be<br />Impossible, impossible<br />Impossible, impossible<br /><br />[Verse 2]<br />Falling out of love is hard<br />Falling for betrayal is worse<br />Broken trust and broken hearts<br />I know, I know<br />Thinking all you need is there<br />Building faith on love and words<br />Empty promises will wear<br />I know, I know<br /><br />[Pre-Chorus]<br />And now when all is done<br />There is nothing to say<br />And if you're done with embarrassing me<br />On your own you can go ahead tell them<br /><br />[Chorus]<br />Tell them all I know now<br />Shout it from the rooftops<br />Write it on the skyline<br />All we had is gone now<br />Tell them I was happy<br />And my heart is broken<br />All my scars are open<br />Tell them what I hoped would be<br />Impossible, impossible<br />Impossible, impossible<br /><br />[Bridge]<br />I remember years ago<br />Someone told me I should take<br />Caution when it comes to love, I did<br /><br />[Outro]<br />Tell them all I know now<br />Shout it from the rooftops<br />Write it on the skyline<br />All we had is gone now<br />Tell them I was happy<br />And my heart is broken<br />Hoped would be<br />Impossible (impossible), impossible (impossible)<br />Impossible, impossible<br />Impossible (impossible), impossible (impossible)<br />Impossible, impossible<br /><br />James Arthur - Impossible (Lyrics)<br /><br />#JamesArthur #Impossible #TajTracks #Lyrics{% endraw %}
