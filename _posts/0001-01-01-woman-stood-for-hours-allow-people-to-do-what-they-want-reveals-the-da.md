@@ -1,0 +1,15 @@
+---
+title: "Woman Stood For Hours & Allow People To Do What They Want… Reveals The Dark Side Of Humans"
+image: "https:\/\/i.ytimg.com\/vi\/WFPPtMJiA_M\/hqdefault.jpg"
+vid_id: "WFPPtMJiA_M"
+categories: "News-Politics"
+tags: ["rape","sex","sexually assault"]
+date: "2021-10-17T07:21:24+03:00"
+vid_date: "2017-08-22T12:38:46Z"
+duration: "PT1M19S"
+viewcount: "462153"
+likeCount: "932"
+dislikeCount: "216"
+channel: "Amazing Top Trends"
+---
+{% raw %}A performance artist stood still for 6 hours and let people do what they wanted to do with her to prove that humans are frightening creatures.<br /><br />In 1974, Marina Abramovic, a performance artist, performed the most terrifying act of her life called “Rhythm 0” when she stood still from 8pm to 2am and let people do things on her body at their will.<br /><br />The brave woman stands in the middle of a room with a notice instructing people that there are 72 objects that they can use on her.<br /><br />The things on the table were consists pleasure objects and destruction objects.<br /><br />The notice also indicates that for 6 hours (8pm–2am) she will take full responsibility on what people will do to her with the things on the table.<br />At first, photographers were the only people going near Abramovic.<br /><br />Then people began picking stuff from the table…<br /><br /><br />Some change her position while other made her sit and started humiliating her.<br /><br />There were individuals who decorate things on her.<br /><br />But things started to get scary when one man used a razor to make a cut on Marina Abramovic’s neck!<br />.<br />Then they made her point a gun at herself. It was just the beginning of the petrifying 6 hours.<br /><br />According to art critic Thomas McEvilley observing the performance, “It began tamely. Someone turned her around. Someone thrust her arms into the air. Someone touched her somewhat intimately.”<br />Worse fear came, some men undressed Abramovic and started molesting her.<br /><br />McEvilley said,  “In the third hour, all her clothes were cut from her with razor blades. In the fourth hour, the same blades began to explore her skin. Various minor sexual assaults were carried out on her body. She was so committed to the piece that she would not have resisted rape or murder.”<br />The last two hours was the most terrifying moment for Abramovic when the violence and sexual harassment intensified.<br /><br />She said, “I felt raped, they cut off the clothes, they stuck me with thorns of rose in the stomach, aimed the gun to my head, another came apart.”<br /><br />Watch Marina talks about her tormenting experience: <a rel="nofollow" target="blank" href="https://youtu.be/xTBkbseXfOQ">https://youtu.be/xTBkbseXfOQ</a><br /><br /><br />Subscribe to us<br /><br />-~-~~-~~~-~~-~-<br />Please watch: &quot;Couple Was Captured On Video Attempting To Have Sex While Riding A Motorcycle&quot; <br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=GrdiegqcwvQ">https://www.youtube.com/watch?v=GrdiegqcwvQ</a><br />-~-~~-~~~-~~-~-{% endraw %}
