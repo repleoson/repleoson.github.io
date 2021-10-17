@@ -1,0 +1,15 @@
+---
+title: "Best Old Country Music Of All Time - Old Country Songs - Country Songs-Classic Counry Collection"
+image: "https:\/\/i.ytimg.com\/vi\/Sjx2PKOL6Lc\/hqdefault.jpg"
+vid_id: "Sjx2PKOL6Lc"
+categories: "People-Blogs"
+tags: ["Country","Music","Country"]
+date: "2021-10-17T10:35:56+03:00"
+vid_date: "2020-09-28T12:45:09Z"
+duration: "PT1H56S"
+viewcount: "8291312"
+likeCount: "82631"
+dislikeCount: "3783"
+channel: "Country Music Collection"
+---
+{% raw %}Best Old Country Music Of All Time - Old Country Songs - Country Songs-Classic Counry Collection<br />© Follow My Channel <br /><br />►Youtube → <a rel="nofollow" target="blank" href="https://goo.gl/yjjfD5">https://goo.gl/yjjfD5</a><br /><br />►Playlist → <a rel="nofollow" target="blank" href="https://goo.gl/r8fv5C">https://goo.gl/r8fv5C</a><br /><br />► Thank you for watching the video, do not forget to Like, Comment, Share and Subscribe to My Channel<br /><br />◢ None of these images, music &amp; video clips were created/owned by us.<br /><br />◢ This video is purely fan-made, if you (owners) want to remove this video, please CONTACT US DIRECTLY before doing anything. We will respectfully remove it.<br /><br />◢ Please Share this Video on Social sites (Facebook, Google +, Twitter etc.)<br /><br />to more people could listen it!<br />[00:00:00] -   Livin on Love - HONKY TONK HEROES - Cover<br />[00:03:43] -   Its 5 oclock Somewhere<br />[00:07:16] -   All I Ever Need Is You - Kenny Rogers<br />[00:10:17] -   Ocean Front Property - George Strait - Live<br />[00:13:07] -   Don't Rock the Jukebox - Alan Jackson &amp; Keith Stegall - Live<br />[00:15:55] -   Amarillo By Morning - George Strait - 1983<br />[00:18:24] -   I Cant Stay Mad At You - Cover<br />[00:20:56] -   Remember When - Alan Jackson - Live at the Grand Ole Opry<br />[00:25:28] -   Islands in the Stream - Kenny Rogers and Dolly Parton<br />[00:29:00] -   The Dance - Scotty McCreery - Cover<br />[00:31:48] -   You Decorated My Life - Kenny Rogers<br />[00:34:25] -   Coward of the County - Kenny Rogers<br />[00:36:52] -   The Battle Of New Orleans<br />[00:39:17] -   The Devil Went Down To Georgia - Cover<br />[00:42:51] -   Chattahoochee  - Rock - Cover<br />[00:46:16] -    You Needed Me - Anne Murray<br />[00:49:47] -   Ain't Going Down 'Til the Sun Comes Up - Garth Brooks - Live 2014<br />[00:53:55] -  Annie's Song - John Denver<br />[00:56:56] -   When You Say Nothing At All - Keith Whitley - Live 1988<br />[01:00:21] -   Kiss An Angel Good Morning - Charlie Pride<br />[01:02:24] -   The Most Beautiful Girl - Charlie Rich<br />Old Country Songs, Country songs, Classic country songs, greatest country songs, Romantic country songs, Duet country songs, top country songs, 60s country songs, 70s country songs, 80s country songs, 90s country songs, best country songs, country songs of all time, country music of all time, old country music, top 100 country songs, Top 100 Country songs Ever, top 100 country songs of all time, greatest country songs ever, Best country songs of all time{% endraw %}
