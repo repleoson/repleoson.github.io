@@ -1,0 +1,15 @@
+---
+title: "When Medium Format Is Too Small for Landscape Photography"
+image: "https:\/\/i.ytimg.com\/vi\/NTteE5Llq9A\/hqdefault.jpg"
+vid_id: "NTteE5Llq9A"
+categories: "Entertainment"
+tags: ["landscape","photography","fototripper"]
+date: "2021-10-18T16:22:04+03:00"
+vid_date: "2021-10-17T17:00:08Z"
+duration: "PT19M21S"
+viewcount: "21802"
+likeCount: "3131"
+dislikeCount: "9"
+channel: "fototripper"
+---
+{% raw %}Get $2000+ in photography resources for $89 <a rel="nofollow" target="blank" href="https://5daydeal.com/partner/fototripper">https://5daydeal.com/partner/fototripper</a><br /><br />Sometimes even the beastliest cameras aren't enough to capture a scene like this. I have to resort to drastic measures just to capture this 3km beam of light.<br /><br />Brent joins us for 3 nights of camping and hiking at Lake O'Hara but will the bus driver kick us off the bus after Amanda cuts the cheese?<br /><br />Thankfully Brent brought 'TrailLube'! Once we've suffered through the obligatory orientation, it's time to hit the trails for some knee-breaking hiking but an arctic blast forces us to take shelter in a bitterly cold ditch.<br /><br />Brent seems to be taking my bragging quite well until I push him too far and receive an uppercut to the sweetbreads. He's just jealous that his measly 50 megapixels are no longer top dog. I'll show him with my whopping 102 Megapixels, nothing beats that right...right?<br /><br />Thanks for watching<br />Gavin Hardcastle - Fototripper<br /><br />Get 10% Off Fotospeed Paper with coupon code GAVIN10<br /><a rel="nofollow" target="blank" href="https://cybersportphoto.com/shop-for-fotospeed?aff=4">https://cybersportphoto.com/shop-for-fotospeed?aff=4</a><br />The F4 Road Trip: <a rel="nofollow" target="blank" href="https://f4roadtrip.com">https://f4roadtrip.com</a><br />Fototripper Newsletter: <a rel="nofollow" target="blank" href="https://www.fototripper.com/newsletter/">https://www.fototripper.com/newsletter/</a><br /><br />Music by Epidemic Sound <a rel="nofollow" target="blank" href="http://share.epidemicsound.com/vwCTJ">http://share.epidemicsound.com/vwCTJ</a><br /><br />Business: <a rel="nofollow" target="blank" href="https://www.fototripper.com/contact-us/">https://www.fototripper.com/contact-us/</a><br />Fototripper T-Shirts: <a rel="nofollow" target="blank" href="https://teespring.com/stores/fototripper">https://teespring.com/stores/fototripper</a><br />My Flickr: <a rel="nofollow" target="blank" href="https://www.flickr.com/photos/gavgristle/">https://www.flickr.com/photos/gavgristle/</a><br />My Rinsedagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/gavinhardcastlephotography/">https://www.instagram.com/gavinhardcastlephotography/</a><br />My Full Gear List: <a rel="nofollow" target="blank" href="https://www.fototripper.com/my-gear-list/">https://www.fototripper.com/my-gear-list/</a><br /><br />#landscapephotography #fujifilm #fototripper<br /><br />Get $2000+ in photography resources for $89 <a rel="nofollow" target="blank" href="https://5daydeal.com/partner/fototripper">https://5daydeal.com/partner/fototripper</a>{% endraw %}
