@@ -1,0 +1,15 @@
+---
+title: "I'm Going to Make This an Awesome Day! | Start of the Day Song for Kids | Jack Hartmann"
+image: "https:\/\/i.ytimg.com\/vi\/oH_Idy1dmH8\/hqdefault.jpg"
+vid_id: "oH_Idy1dmH8"
+categories: "Education"
+tags: ["awesome day song","jack hartmann awesome day","have an awesome day song"]
+date: "2021-10-19T02:39:06+03:00"
+vid_date: "2019-09-11T09:30:04Z"
+duration: "PT2M54S"
+viewcount: "815448"
+likeCount: "1911"
+dislikeCount: "193"
+channel: "Jack Hartmann Kids Music Channel"
+---
+{% raw %}I'm Going to Make This an Awesome Day will start your student's day off right. This song demonstrates determination, empowerment and achievement while working together and independently.  It all starts with a positive determination knowing, I'm Gonna Make this an Awesome Day!<br /><br /><br />Lyrics<br />Reach for the stars<br />Believe in your heart<br />You can go far<br />Today's a new start<br />I'll help you<br />You help me<br />Together let's work and play<br />And say<br />I'm gonna make this an awesome day<br />With my ears I can listen<br />With my eyes I can see<br />With my heart I can love<br />A good friend I can be<br />With my arms I can hug<br />With kind words I can speak<br />With my smile I can shine<br />And make a little more peace<br />Reach for the stars<br />Believe in your heart<br />You can go far<br />Today's a new start<br />I'll help you<br />You help me<br />Together let's work and play<br />And say<br />I'm gonna make this an awesome day<br />With my brain I can learn<br />With my body I can move<br />With good work everyday<br />I'll make my dreams come true<br />I'm gonna make this an awesome day!<br /><br /><br /><br />Jack Hartmann's website: <a rel="nofollow" target="blank" href="https://jackhartmann.com">https://jackhartmann.com</a><br /><br />Subscribe to our YouTube Channel: <a rel="nofollow" target="blank" href="https://goo.gl/ogaW1i">https://goo.gl/ogaW1i</a><br /><br />Remember to connect with Jack Hartmann on his Social Networks:<br /><br />Facebook: <a rel="nofollow" target="blank" href="https://facebook.com/hop2itmusic">https://facebook.com/hop2itmusic</a><br />Pinterest: <a rel="nofollow" target="blank" href="https://pinterest.com/jackhartmann">https://pinterest.com/jackhartmann</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/Jack_Hartmann">https://twitter.com/Jack_Hartmann</a><br /><br />You can find Jack Hartmann's Music on:<br /><br />Jack Hartmann Website: <a rel="nofollow" target="blank" href="https://jackhartmann.com">https://jackhartmann.com</a><br />iTunes: <a rel="nofollow" target="blank" href="https://goo.gl/GeDJeJ">https://goo.gl/GeDJeJ</a><br />Amazon: <a rel="nofollow" target="blank" href="https://goo.gl/Ei8C6B">https://goo.gl/Ei8C6B</a><br />Google Play: <a rel="nofollow" target="blank" href="https://goo.gl/doZpfS">https://goo.gl/doZpfS</a><br />CD Baby: <a rel="nofollow" target="blank" href="https://cdbaby.com/Artist/JackHartmann">https://cdbaby.com/Artist/JackHartmann</a>{% endraw %}
