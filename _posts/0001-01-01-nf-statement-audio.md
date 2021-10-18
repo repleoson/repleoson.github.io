@@ -1,0 +1,15 @@
+---
+title: "NF - Statement (Audio)"
+image: "https:\/\/i.ytimg.com\/vi\/kPxuKexX0eU\/hqdefault.jpg"
+vid_id: "kPxuKexX0eU"
+categories: "Music"
+tags: ["Statement","NF Statement","Statement NF"]
+date: "2021-10-18T18:23:20+03:00"
+vid_date: "2016-04-22T07:00:00Z"
+duration: "PT3M11S"
+viewcount: "7299955"
+likeCount: "55006"
+dislikeCount: "1294"
+channel: "NFVEVO"
+---
+{% raw %}“Statement” official audio from the Therapy Session album by NF. <br />Get the song here: <a rel="nofollow" target="blank" href="https://nf.lnk.to/therapysessionID">https://nf.lnk.to/therapysessionID</a> <br />Subscribe to NFrealmusic on YouTube: <a rel="nofollow" target="blank" href="https://nf.lnk.to/youtubeID">https://nf.lnk.to/youtubeID</a><br /><br />CLOUDS TOUR ticket info: <a rel="nofollow" target="blank" href="https://nfrealmusic.com/#tour">https://nfrealmusic.com/#tour</a><br />SEP 22: Maryland Heights, MO -- Hollywood Casino Amphitheatre<br />SEP 23: Noblesville, IN -- Ruoff Music Center<br />SEP 24: Clarkston, MI -- DTE Energy Music Theatre<br />SEP 25: Cincinnati, OH -- Riverbend Music Center<br />SEP 27: Cuyahoga Falls, OH -- Blossom Music Center<br />SEP 28: Burgettstown, PA -- The Pavilion at Star Lake<br />SEP 29: Bridgeport, CT -- Hartford Healthcare Amphitheater<br />OCT 01: Gilford, NH -- Bank of New Hampshire Pavilion<br />OCT 02: Columbia, MD -- Merriweather Post Pavilion<br />OCT 03: Raleigh, NC -- Coastal Credit Union Music Park at Walnut Creek<br />OCT 05: Tampa, FL -- MIDFLORIDA Credit Union Amphitheatre<br />OCT 06: Jacksonville, FL -- Daily's Place<br />OCT 07: Pelham, AL -- Oak Mountain Amphitheatre<br />OCT 09: Simpsonville, SC -- CCNB Amphitheatre at Heritage Park<br />OCT 10: Charlotte, NC -- PNC Music Pavilion<br />OCT 12: Brandon, MS -- Brandon Amphitheater<br />OCT 14: Rogers, AR -- Walmart AMP<br />OCT 15: Oklahoma City, OK -- Zoo Amphitheatre<br />OCT 16: Austin, TX -- Germania Insurance Amphitheater<br />OCT 17: Houston, TX -- Cynthia Woods Mitchell Pavilion presented by Huntsman<br /><br />New project CLOUDS (THE MIXTAPE) out now: <a rel="nofollow" target="blank" href="https://nf.lnk.to/cloudsID">https://nf.lnk.to/cloudsID</a><br /><br />Follow NF<br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/nfrealmusic">https://www.instagram.com/nfrealmusic</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/nfrealmusic">https://www.facebook.com/nfrealmusic</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/nfrealmusic">https://twitter.com/nfrealmusic</a> <br />Spotify: <a rel="nofollow" target="blank" href="https://nf.lnk.to/spotifyYD">https://nf.lnk.to/spotifyYD</a><br />Website: <a rel="nofollow" target="blank" href="https://www.nfrealmusic.com">https://www.nfrealmusic.com</a> <br />Email: <a rel="nofollow" target="blank" href="https://nf.lnk.to/emailYD">https://nf.lnk.to/emailYD</a> <br /><br />Watch all NF official music videos here: <a rel="nofollow" target="blank" href="https://nf.lnk.to/playlistID/youtube">https://nf.lnk.to/playlistID/youtube</a> <br /><br />(P) (C) 2016 Capitol CMG Label Group.{% endraw %}
