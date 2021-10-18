@@ -1,0 +1,15 @@
+---
+title: "How To Master Any Skill (Become Top 1%)"
+image: "https:\/\/i.ytimg.com\/vi\/Oq65fZr7wi8\/hqdefault.jpg"
+vid_id: "Oq65fZr7wi8"
+categories: "Education"
+tags: ["deliberate practice","how to deliberate practice","what is deliberate practice"]
+date: "2021-10-18T17:56:12+03:00"
+vid_date: "2021-01-20T15:01:48Z"
+duration: "PT4M49S"
+viewcount: "191172"
+likeCount: "14855"
+dislikeCount: "105"
+channel: "Improvement Pill"
+---
+{% raw %}Sponsored By Skillshare: The first 1000 people to click the link will get a free trial of Skillshare Premium Membership: <a rel="nofollow" target="blank" href="https://skl.sh/improvementpill12201">https://skl.sh/improvementpill12201</a><br /><br />Sign Up For My Newsletter (Get A Free Mini-Course): <a rel="nofollow" target="blank" href="http://improvementpill.net/programs">http://improvementpill.net/programs</a><br /><br />I recently interviewed a world class juggler Laido Dittmar for my new podcast, The Other Pill Podcast (find us on Spotify!). Laido is one of 4 jugglers who have ever been able to juggle 11 rings at the same time (without a holster) - so he is definitely someone who is at the top of the field for his particular skill. <br /><br />His secret to success all comes down to the unique way that he practices. He uses a unique form of deliberate practice / purposeful practice which we will go over in this video. Pay close attention if you've been looking for a way to learn new skills and also to excel/rise to the top 1% for that particular skill. <br /><br />👉 My NEW Storytelling Course (Watch It For Free Via Free Trial): <a rel="nofollow" target="blank" href="https://share.graphyapp.co/7RuH">https://share.graphyapp.co/7RuH</a><br /><br />🐒Tamed Course (FREE Habit Building Course): <a rel="nofollow" target="blank" href="https://youtu.be/m8JjuyRIxOg">https://youtu.be/m8JjuyRIxOg</a> <br /><br />🐝BeeFriend Course (FREE Social Skills Course): <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=sHfGgOfmbx4&amp;list=PLE_vQWWxgaiHbUFDuNnqxfui3lrE2jjwO&amp;index=1">https://www.youtube.com/watch?v=sHfGgOfmbx4&amp;list=PLE_vQWWxgaiHbUFDuNnqxfui3lrE2jjwO&amp;index=1</a> <br /><br />❤️Otter Half Course (FREE Dating Advice For Men/Women Course): <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=X192TfMLIHU&amp;list=PLE_vQWWxgaiFgkO0OkThMgAEUChL_NQ8y&amp;index=3&amp;t=0s">https://www.youtube.com/watch?v=X192TfMLIHU&amp;list=PLE_vQWWxgaiFgkO0OkThMgAEUChL_NQ8y&amp;index=3&amp;t=0s</a> <br /><br />The Online Business Playlist (will be gradually adding to this over time): <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=2e7ONbUG58o&amp;list=PLE_vQWWxgaiGds5wLnOr2Db3Oncmt6F5U&amp;index=3&amp;t=0s">https://www.youtube.com/watch?v=2e7ONbUG58o&amp;list=PLE_vQWWxgaiGds5wLnOr2Db3Oncmt6F5U&amp;index=3&amp;t=0s</a><br /><br />For Business/Animation Job Inquiries: Email Me At ImprovementPill@Gmail.com<br /><br />Who Is Laido Dittmar: (00:00)<br />The Secret: (00:33)<br />Easiest Way To Start Improving - Deep End Practice: (01:35)<br />How To Perfect: (02:51)<br />Summary + Sponsor + Easter Egg: (03:41){% endraw %}
