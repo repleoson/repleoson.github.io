@@ -1,0 +1,15 @@
+---
+title: "JAE5 - Dimension (Official Video) ft. Skepta, Rema"
+image: "https:\/\/i.ytimg.com\/vi\/3QWCjiZSdGQ\/hqdefault.jpg"
+vid_id: "3QWCjiZSdGQ"
+categories: "Music"
+tags: ["Black Butter","Dimension","JAE5 feat. Skepta & Rema"]
+date: "2021-10-18T16:27:32+03:00"
+vid_date: "2021-03-18T19:30:14Z"
+duration: "PT4M23S"
+viewcount: "6671349"
+likeCount: "81317"
+dislikeCount: "1811"
+channel: "JAE5VEVO"
+---
+{% raw %}JAE5 - Dimension feat. Skepta &amp; Rema (Official Video) - Out Now!<br /><br />Listen to Dimension: <a rel="nofollow" target="blank" href="https://lnk.to/JAE5Dimension">https://lnk.to/JAE5Dimension</a><br /><br />Follow JAE5:<br />Instagram - <a rel="nofollow" target="blank" href="https://www.instagram.com/jae5/">https://www.instagram.com/jae5/</a><br />Twitter - <a rel="nofollow" target="blank" href="https://twitter.com/JAE5_">https://twitter.com/JAE5_</a><br /><br />Follow Skepta:<br />Instagram - <a rel="nofollow" target="blank" href="https://www.instagram.com/skeptagram/">https://www.instagram.com/skeptagram/</a><br />Twitter - <a rel="nofollow" target="blank" href="https://twitter.com/Skepta">https://twitter.com/Skepta</a><br /><br />Follow Rema:<br />Instagram - <a rel="nofollow" target="blank" href="https://www.instagram.com/heisrema/">https://www.instagram.com/heisrema/</a><br />Twitter - <a rel="nofollow" target="blank" href="https://twitter.com/heisrema">https://twitter.com/heisrema</a><br /><br />Credits:<br />Director - Ebeneza Blanche <br />Executive Producer- Elizabeth Doonan<br />Producer -Tony Longe <br />Line producer - Joy Williams<br />1st AD - Nana Asihene<br />2nd AD - David Adjetey<br />Project Manager - Andrew Debrah <br />Art director - coffee <br />Hairstylist - Brigette Ayibokuk<br />DIT - Tytanium <br />Director of Photography<br />Jack Exton<br />1st AC - Chuckee Owes <br />2nd AC - Banini <br /><br />Production Assistants:<br />Travis Assem<br />Babette Van Aalst <br />Emefa Smith<br />  <br />Stylists<br />Jermaine Blue<br />Nana Kwesi wiafe <br /><br /> <br />Runners <br />Bawa Yusif <br />Billmund Mankatah<br />Julius Morton <br />Jay Trends<br />Francis Adjei <br />Max <br /><br />Makeup - Nadia Okuampah<br />Gaffer - Ibrahim Yakubu<br /><br />Gaffer Assistants <br />Joshua Fusseni <br />Daniel Agoe<br />Edem Toboe <br />Feisal Nana Kwame <br /><br />Key grip - Ofei<br /> <br />Female models <br />- Vanessa <br />- Annette <br />- Black Diamond <br />- Engraxia <br />- Miranda <br />- Brooke <br />- Bridget Appiah<br />- Alimatu <br />- Napari Aisha <br />- Priscalt <br />- Ayana<br />- Hamdi <br /> <br />Male models <br />- Gilbert <br />- Alpha <br />- Joseph <br />- Prince <br />- Kwaku Yeboah <br />- Wilberforce <br />- Thymar <br />- Ernest <br />- Joojo<br /> <br />Special thanks to <br />Small God<br />Joana Kazmaier <br />Nadia Reindorf <br />Jeffrey osei <br />One Stop Films<br /><br />Production Company - Smuggler <br />Commissioner - Katt Cattaneo<br />Marketing Manager: Janette Quaye<br /><br />Record label:<br />Black Butter Records{% endraw %}
