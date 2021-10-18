@@ -1,0 +1,15 @@
+---
+title: "Syn Cole - Feel Good [NCS Release]"
+image: "https:\/\/i.ytimg.com\/vi\/q1ULJ92aldE\/hqdefault.jpg"
+vid_id: "q1ULJ92aldE"
+categories: "Music"
+tags: ["Syn Cole - Feel Good","Syn Cole","Feel Good"]
+date: "2021-10-18T03:08:32+03:00"
+vid_date: "2016-02-27T16:18:47Z"
+duration: "PT3M2S"
+viewcount: "103006257"
+likeCount: "1638411"
+dislikeCount: "17425"
+channel: "NoCopyrightSounds"
+---
+{% raw %}NCS: Music Without Limitations<br /><br />NCS Spotify: <a rel="nofollow" target="blank" href="http://spoti.fi/NCS">http://spoti.fi/NCS</a><br /><br />Free Download / Stream: <a rel="nofollow" target="blank" href="http://ncs.io/feelgood">http://ncs.io/feelgood</a><br /><br />Connect with NCS:<br />Snapchat: ncsmusic<br />• <a rel="nofollow" target="blank" href="http://soundcloud.com/nocopyrightsounds">http://soundcloud.com/nocopyrightsounds</a><br />• <a rel="nofollow" target="blank" href="http://instagram.com/nocopyrightsounds_">http://instagram.com/nocopyrightsounds_</a><br />• <a rel="nofollow" target="blank" href="http://facebook.com/NoCopyrightSounds">http://facebook.com/NoCopyrightSounds</a><br />• <a rel="nofollow" target="blank" href="http://twitter.com/NCSounds">http://twitter.com/NCSounds</a><br />• <a rel="nofollow" target="blank" href="http://spoti.fi/NCS">http://spoti.fi/NCS</a><br /><br />Syn Cole<br />• <a rel="nofollow" target="blank" href="https://soundcloud.com/syncole">https://soundcloud.com/syncole</a><br />• <a rel="nofollow" target="blank" href="https://www.facebook.com/SynCole">https://www.facebook.com/SynCole</a><br />• <a rel="nofollow" target="blank" href="https://twitter.com/SynColeOfficial">https://twitter.com/SynColeOfficial</a><br />• <a rel="nofollow" target="blank" href="https://www.instagram.com/SynCole/">https://www.instagram.com/SynCole/</a><br /><br />NCS YouTube Playlists<br />NCS Trap <a rel="nofollow" target="blank" href="http://bit.ly/NCStrap">http://bit.ly/NCStrap</a><br />NCS House <a rel="nofollow" target="blank" href="http://bit.ly/NCShouse">http://bit.ly/NCShouse</a><br />NCS Dubstep <a rel="nofollow" target="blank" href="http://bit.ly/NCSdubstep">http://bit.ly/NCSdubstep</a><br />NCS Drumstep <a rel="nofollow" target="blank" href="http://bit.ly/NCSdrumstep">http://bit.ly/NCSdrumstep</a><br />NCS Hardstyle <a rel="nofollow" target="blank" href="http://bit.ly/NCShardstyle">http://bit.ly/NCShardstyle</a><br />NCS Drum&amp;Bass <a rel="nofollow" target="blank" href="http://bit.ly/NCSdrumandbass">http://bit.ly/NCSdrumandbass</a><br />ALL NCS MUSIC PLAYLIST: <a rel="nofollow" target="blank" href="http://bit.ly/ALLNCSmusic">http://bit.ly/ALLNCSmusic</a><br /><br />🔑 <br />🛍 NCS Merchandise → <a rel="nofollow" target="blank" href="http://ncs.io/StoreID">http://ncs.io/StoreID</a><br /><br />© Check out our Usage Policy on how to use NCS music in your videos: <a rel="nofollow" target="blank" href="http://ncs.io/UsagePolicy">http://ncs.io/UsagePolicy</a><br /><br />To request a commercial license visit: <a rel="nofollow" target="blank" href="http://ncs.io/Commercial">http://ncs.io/Commercial</a>{% endraw %}
