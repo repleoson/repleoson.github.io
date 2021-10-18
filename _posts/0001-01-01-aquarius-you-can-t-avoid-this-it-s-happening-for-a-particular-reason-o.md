@@ -1,0 +1,15 @@
+---
+title: "AQUARIUS! \"You Can't Avoid This! It's Happening For A Particular Reason...\" OCTOBER 16-31"
+image: "https:\/\/i.ytimg.com\/vi\/xGQ4i1kmZhc\/hqdefault.jpg"
+vid_id: "xGQ4i1kmZhc"
+categories: "Entertainment"
+tags: ["tarot","Love reading pick a card","Aries"]
+date: "2021-10-18T06:48:42+03:00"
+vid_date: "2021-10-15T22:45:01Z"
+duration: "PT16M3S"
+viewcount: "13854"
+likeCount: "1143"
+dislikeCount: "26"
+channel: "303 High Priestess Tarot"
+---
+{% raw %}This is a General Reading for<br />AQUARIUS - OCTOBER 16-31 | Bi-Weekly Tarot Reading<br />Sun, Moon, Rising, and Venus Sign<br /><br />*** I Do Not Offer Personal Reading or any other services outside of this (Free Tarot Reading)<br /><br />✨DECKS I USE✨<br />Chakra Love - <a rel="nofollow" target="blank" href="https://amzn.to/3lzObR5">https://amzn.to/3lzObR5</a><br />Divine Directions - <a rel="nofollow" target="blank" href="https://amzn.to/3CnGLHj">https://amzn.to/3CnGLHj</a><br />The Souls Journey - <a rel="nofollow" target="blank" href="https://amzn.to/3Cfdpea">https://amzn.to/3Cfdpea</a><br />Radiant Wise Spirit Tarot - <a rel="nofollow" target="blank" href="https://amzn.to/2XwHy9S">https://amzn.to/2XwHy9S</a><br />Fortune Reading Cards - <a rel="nofollow" target="blank" href="https://amzn.to/2Xsj5SK">https://amzn.to/2Xsj5SK</a><br />Kipper - <a rel="nofollow" target="blank" href="https://amzn.to/2XLdCHw">https://amzn.to/2XLdCHw</a><br />Love Oracle - <a rel="nofollow" target="blank" href="https://amzn.to/2XBmYoG">https://amzn.to/2XBmYoG</a><br />Whispers of Love Oracle - <a rel="nofollow" target="blank" href="https://amzn.to/2XSLfqP">https://amzn.to/2XSLfqP</a><br />Angel Answers Oracle - <a rel="nofollow" target="blank" href="https://amzn.to/2W2pkfO">https://amzn.to/2W2pkfO</a><br />Hamsa Evil Eye Bracelet - <a rel="nofollow" target="blank" href="https://amzn.to/39ndDDn">https://amzn.to/39ndDDn</a><br />White Sage Bundles - <a rel="nofollow" target="blank" href="https://amzn.to/3AngSXp">https://amzn.to/3AngSXp</a><br /><br />I hope you enjoyed your message from Spirit Aquarius. I appreciate and Welcome all your Likes, Shares &amp; Subscribes! Don't forget to click the notification 🔔 to be notified of the latest uploaded readings. <br />Love and Light - Diane <br /><br />You Can Now Follow Me On:<br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/303highpriestess_tarot">https://www.instagram.com/303highpriestess_tarot</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/303highprietesstarotandco">https://www.facebook.com/303highprietesstarotandco</a> <br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/303HighTarot">https://twitter.com/303HighTarot</a><br /><br />✨OCTOBER 2021 PLAYLIST<br /><a rel="nofollow" target="blank" href="https://youtube.com/playlist?list=PLJy0tmcLw2X9PvzqcAv9gXY42HyyzwQnV">https://youtube.com/playlist?list=PLJy0tmcLw2X9PvzqcAv9gXY42HyyzwQnV</a><br /><br />DISCLAIMER: All readings are for entertainment purposes only.<br /><br />#Aquarius #October #Tarot{% endraw %}
