@@ -1,0 +1,15 @@
+---
+title: "JUST B (저스트비) 'DAMAGE (Prod. BANG YONGGUK)' Official MV"
+image: "https:\/\/i.ytimg.com\/vi\/EDw0KXatOiM\/hqdefault.jpg"
+vid_id: "EDw0KXatOiM"
+categories: "Entertainment"
+tags: ["저스트비","JUST B","KPOP"]
+date: "2021-10-19T05:07:28+03:00"
+vid_date: "2021-06-30T09:00:06Z"
+duration: "PT3M6S"
+viewcount: "13968185"
+likeCount: "249612"
+dislikeCount: "1032"
+channel: "JUST B"
+---
+{% raw %}JUST B (저스트비) 'DAMAGE (Prod. BANG YONGGUK)' Official MV<br />#JUSTB #저스트비<br /><br />뜨거운 열정과 굳은 의지로 불타오를 JUST B의 첫 미니 앨범 [JUST BURN] 발매!<br />타이틀곡 ‘DAMAGE’! B.A.P 출신 방용국 프로듀싱 참여! <br /><br />JUST B는 열정적인 모습으로 함께 불타오르자는 의미에서 데뷔 앨범명을 [JUST BURN]으로 정했다. 혼란한 세상 속 깊은 패닉에 빠진 상황에서 벗어나고자 하는 우리들의 굳은 의지를 담은 외침이 음악과 뮤직비디오, 공식 포토 곳곳에 녹여져 앨범을 관통하며 앨범의 주제를 공고히 하고 있다.<br /><br />타이틀곡 ‘DAMAGE’는 빛이 사라져가고 있는 세상에서 어둠과 고통에 굴복하지 않고 함께 맞서 싸우며 이겨내자는 의미를 담은 노래다. 중독성 있는 Vocal lead 소스와 묵직한 베이스, 트렌디한 신스 사운드가 인상적인 곡으로, B.A.P 출신 방용국이 작사, 작곡에 참여하고 프로듀싱까지 도맡아 음악의 완성도를 높였다. <br /><br />앨범 전반에 걸쳐 새로운 세상에 대한 갈망과 뜨거운 열정으로 함께 불타오르자는 메시지를 전하고 있는 JUST B의 데뷔 앨범 [JUST BURN]은 올 여름 가요계에서 새롭게 피어난 가장 뜨거운 불꽃으로 이들이 가요계에 던지는 당찬 선포인 동시에 강렬한 시작을 알리는 포석이 될 것이다. 앞으로 더욱 활발히 뜨겁게 타오를 JUST B의 행보에 귀추가 주목된다.<br /><br />With passion and willpower, JUST B first mini album “JUST BURN” is ready to get on fire!<br />B.A.P Bang Yongguk participated in producing the title track “DAMAGE”<br /><br />The title of the debut album “JUST BURN” implies that JUST B is ready to get fired up with their passion. Their strong will to get out of the deep panic of this chaotic world is delivered in a strong and clear way through their songs, music video, and official photos. <br /><br />The title track “DAMAGE” sends the message, “Instead of surrendering to the darkness and pain in a world where light is fading, we should keep fighting together.” The track has catchy lead vocals, heavy bass, and trendy synth sounds. Bang Yongguk of B.A.P participated in songwriting and producing, putting the finishing touches to the track.<br /><br />The debut album “JUST BURN” of JUST B shows the desire for a new world and to light themselves on fire with passion. As the new hottest flame, this summer, JUST B will make a grand entrance into the music industry, so let’s see how big the fire grows.<br /><br />▶︎JUST B Official Twitter : <a rel="nofollow" target="blank" href="https://twitter.com/JUSTB_Official">https://twitter.com/JUSTB_Official</a><br />▶︎BLUEDOT Official Twitter : <a rel="nofollow" target="blank" href="https://twitter.com/OfficialBluedot">https://twitter.com/OfficialBluedot</a><br />▶︎Official Weverse : <a rel="nofollow" target="blank" href="https://weverseapp.page.link/isPm">https://weverseapp.page.link/isPm</a><br />▶︎Official Facebook : <a rel="nofollow" target="blank" href="https://www.facebook.com/JUSTBOfficialFB">https://www.facebook.com/JUSTBOfficialFB</a><br />▶︎Official Instagram : <a rel="nofollow" target="blank" href="https://www.instagram.com/JUSTB_IG_official">https://www.instagram.com/JUSTB_IG_official</a>{% endraw %}
