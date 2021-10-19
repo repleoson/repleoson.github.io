@@ -1,0 +1,15 @@
+---
+title: "Testing White444 To Join Our Guild-para SAMSUNG A3,A5,A6,A7,J2,J5,J7,S5,S6,S7,S9,A10,A20,A30,A50,A70"
+image: "https:\/\/i.ytimg.com\/vi\/lhNaGJ9R0AI\/hqdefault.jpg"
+vid_id: "lhNaGJ9R0AI"
+categories: "Gaming"
+tags: ["Testing","White444","Guild-para"]
+date: "2021-10-19T08:47:09+03:00"
+vid_date: "2021-10-18T06:30:06Z"
+duration: "PT19M33S"
+viewcount: "122641"
+likeCount: "21978"
+dislikeCount: "433"
+channel: "TEAM D OFFICIAL"
+---
+{% raw %}ALOK vs DIAMONDS Best Clash Battle who will win Gameplay Garena Free Fire Live Streamer from India Killing Player with LOUD Volume Spy Like James Bond 007 Level Upto 70.<br /><br />TEAM D ARMY <br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCwN5ZumrLnwKQ1P2N4F4pcw">https://www.youtube.com/channel/UCwN5ZumrLnwKQ1P2N4F4pcw</a><br /><br />Team D Discord - <a rel="nofollow" target="blank" href="https://discord.gg/rTYU5zC">https://discord.gg/rTYU5zC</a><br /><br />Team D Instagram- @team_d_official<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/teamdofficial.ig">https://www.instagram.com/teamdofficial.ig</a><br /><br /><br /><br /><br />Device Configuration 📱<br />Video Record 🎥 - OPPO  F15 • 8GB RAM Helio P70 Octacore Chipset<br />Video Edit 🖱️ - ASUS ROG PHONE 2 • 8GB RAM Snapdragon 855 Chipset<br /><br />Team D Guild Id - 60371555<br /><br />👑  Leader - D IRON<br /><br />⚜️Acting Guild Leader - D BLACK SHOUT<br /><br />🔱Officer - D TYAGI<br /><br />🔱Officer - D DUKER<br /><br />🔱Officer - D STUD 22<br /><br />Free Fire Top Country <br />1.Garena Free Fire Indonesia Live <br />2.Garena Free Fire Brazil Live <br />3.Garena Free Fire Brasil Live <br />4.Garena Free Fire India Live <br />5.Garena Free Fire Singapore Live 6.Garena Free Fire Thailand Live<br /><br />●Note :- Copyright Disclaimer under Section 107 of the copyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.<br /><br /><br />●DISCLAIMER - THIS IS A VIDEO MADE FOR ENTERTAINMENT PURPOSE ONLY FOR GAMERS AUDIENCE (GARENA FREEFIRE) THERE IS NO HARMFUL CONTENT IN THIS VIDEO. ITS JUST FOR  ENTERTAINMENT🔥.<br /> ●THANK YOU FOR WATCHING THE VIDEO. HOPE YOU ENJOY GUYS<br /><br />  #teamd #freefire <br />#freefire#FREEFIRE#freefiretipsandtricks#freefirerush#freefitegameplay#freefireprotipsandtricks#freefirebug#freefiremod#freefiremodapk#freefirediamonds#freefirefreediamonds#freefiregiveaway#freefireindia#freefirehackers#freefiretipsandtricksforranked#freefirehiddingplaces#freefiresecrets#freefirelegend#freefirelove#TotalGaming<br /><br /> <br /><br />●DOWNLOAD GARENA FREEFIRE FROM PLAY STORE 👉 - <a rel="nofollow" target="blank" href="https://play.google.com/store/apps/details?id=com.dts.freefire">https://play.google.com/store/apps/details?id=com.dts.freefire</a><br /><br /><br />🔥 Like Share &amp; Subscribe My Channel.{% endraw %}
