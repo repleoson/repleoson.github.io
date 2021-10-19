@@ -1,0 +1,15 @@
+---
+title: "Method Man, 2Pac, Ice Cube, Eazy E - Built For This feat Freddie Gibbs  [HD]"
+image: "https:\/\/i.ytimg.com\/vi\/U-dwjybcAZw\/hqdefault.jpg"
+vid_id: "U-dwjybcAZw"
+categories: "Music"
+tags: ["fortnite","eminem","tupac sad"]
+date: "2021-10-19T18:21:58+03:00"
+vid_date: "2017-08-18T15:12:06Z"
+duration: "PT5M28S"
+viewcount: "204116988"
+likeCount: "1371551"
+dislikeCount: "47461"
+channel: "DJ Skandalous"
+---
+{% raw %}Remix and Video Created by DJ Skandalous aka Kevin Rivera<br />If you like Old-School Hip-Hop, Follow My 90's Hip-Hop Spotify Playlist! <a rel="nofollow" target="blank" href="https://open.spotify.com/playlist/11astxQZEl6R0oNfWvo8xE">https://open.spotify.com/playlist/11astxQZEl6R0oNfWvo8xE</a><br /><br /><br />Get your &quot;Built For This&quot;, &quot;Real Thugs&quot; and &quot;Straight Outta Westside&quot; merch here! <br />🛒 <a rel="nofollow" target="blank" href="https://teespring.com/stores/dj-skandalous-store">https://teespring.com/stores/dj-skandalous-store</a><br /><br />⭐ JOIN The DJ Skandalous YouTube Channel Membership for Exclusive Perks and Remixes! All support helps me create my music in the future⭐<br />☑️ <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCbsvMQBe06TFQij8EMvLHww/join">https://www.youtube.com/channel/UCbsvMQBe06TFQij8EMvLHww/join</a><br /><br />CLICK below to checkout my Merch Store and Social Media profiles!<br />👉 <a rel="nofollow" target="blank" href="https://solo.to/DJSkandalous">https://solo.to/DJSkandalous</a><br /><br />✪ MY PARTNER CHANNELS - DJ SKANDALOUS MUSIC FAM ✪<br />👉 <a rel="nofollow" target="blank" href="https://linktr.ee/DJSkandalousMusicFam">https://linktr.ee/DJSkandalousMusicFam</a><br /><br />Checkout my Patreon for new additional content coming soon!<br />✅ <a rel="nofollow" target="blank" href="https://www.patreon.com/djskandalous">https://www.patreon.com/djskandalous</a><br /><br />🎮 FOLLOW | SUBSCRIBE to my New Twitch Channel!🎮<br /><a rel="nofollow" target="blank" href="https://www.twitch.tv/djskandalous">https://www.twitch.tv/djskandalous</a><br /><br />👻 ADD MY NEW SNAPCHAT for new song clips @dj_skandalous<br />🌐 Peep my website here at <a rel="nofollow" target="blank" href="https://www.djskandalous.com">https://www.djskandalous.com</a><br /><br /><br />If you wish to help support my YouTube channel or my 2Pac website, any donation would be appreciated! <a rel="nofollow" target="blank" href="https://www.paypal.me/2PacRemix">https://www.paypal.me/2PacRemix</a><br /><br /><br />Original Song by J. Clyde<br />►<a rel="nofollow" target="blank" href="https://www.youtube.com/user/jclyde757">https://www.youtube.com/user/jclyde757</a><br />►<a rel="nofollow" target="blank" href="https://www.instagram.com/jclyde757/">https://www.instagram.com/jclyde757/</a><br /><br /><br /><br /> #2Pac #BuiltForThis #DJSkandalous  #eazye #IceCube #EazyE #NWA #2PacRemix #Remix #Oldschool #OldschoolHipHop #OldschoolRap #hiphopdx #worldstarhiphop #2pac2020 #tupac2020{% endraw %}
