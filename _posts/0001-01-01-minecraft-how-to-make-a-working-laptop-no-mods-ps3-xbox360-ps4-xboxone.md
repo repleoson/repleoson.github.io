@@ -1,0 +1,15 @@
+---
+title: "Minecraft: How To Make A WORKING Laptop! (NO MODS) (Ps3\/Xbox360\/PS4\/XboxOne\/PE\/MCPE)"
+image: "https:\/\/i.ytimg.com\/vi\/sbw7CeGkUSI\/hqdefault.jpg"
+vid_id: "sbw7CeGkUSI"
+categories: "Gaming"
+tags: ["Minecraft xbox one","Minecraft xbox one seeds","Minecraft xbox one survival"]
+date: "2021-10-21T00:17:14+03:00"
+vid_date: "2018-05-16T21:00:11Z"
+duration: "PT10M36S"
+viewcount: "757600"
+likeCount: "7713"
+dislikeCount: "2236"
+channel: "Drewsmc"
+---
+{% raw %}Minecraft: How To Make A WORKING Laptop! (NO MODS)  For Minecraft Xbox 360, Minecraft Xbox One and Minecraft Wii U. Not to forget Minecraft PS3. Minecraft PS4 and also Psvita if you guys play that!<br /><br />Also minecraft pocket editiion because technically the xbox one edition of minecraft(the new version ) is cross platform and they are all the same<br /><br />Follow me for the latest updates: <a rel="nofollow" target="blank" href="https://twitter.com/Drewsmc1">https://twitter.com/Drewsmc1</a><br />Instagram :<a rel="nofollow" target="blank" href="https://www.instagram.com/drewsmc1/">https://www.instagram.com/drewsmc1/</a><br />MERCH: <a rel="nofollow" target="blank" href="https://shop.spreadshirt.com/drewsmc-merch/">https://shop.spreadshirt.com/drewsmc-merch/</a><br /><br />SECOND MINECRAFT CHANNEL<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC7LEEvPCzPAtHLbQeYuJo6w">https://www.youtube.com/channel/UC7LEEvPCzPAtHLbQeYuJo6w</a><br /><br />Be sure to make sure your twitter is connected to your youtube channel so that I can see who liked the video on Twitter!<br /><br />Add my Xbox Live Gamertag : KLNG DREW<br />Add my PS4 Gamertag : TheAndrzw<br /><br />Songs I Use - <br />C418 - Sweden (Caution &amp; Crisis Remix)<br />Nivro - YOU [NCS Release]<br />Spektrem - Shine [NCS Release]<br />DEAF KEV - Invincible [NCS Release]<br />Itro  Tobu - Cloud 9 [NCS Release]<br />Laszlo - Fall To Light NCS Release<br />Killercats - Kaibu NCS Release<br />Tobu - Candyland [NCS Release]<br />Disfigure - Blank VIP (feat. Tara Louise) [NCS Release] <br /><br />NCS<br />➞ Twitch <a rel="nofollow" target="blank" href="http://twitch.tv/nocopyrightsounds">http://twitch.tv/nocopyrightsounds</a><br />➞ Spotify <a rel="nofollow" target="blank" href="http://spoti.fi/NCS">http://spoti.fi/NCS</a><br />➞ SoundCloud <a rel="nofollow" target="blank" href="http://soundcloud.com/nocopyrightsounds">http://soundcloud.com/nocopyrightsounds</a><br />➞ Facebook <a rel="nofollow" target="blank" href="http://facebook.com/NoCopyrightSounds">http://facebook.com/NoCopyrightSounds</a><br />➞ Twitter <a rel="nofollow" target="blank" href="http://twitter.com/NCSounds">http://twitter.com/NCSounds</a><br />➞ Google+ <a rel="nofollow" target="blank" href="http://google.com/+nocopyrightsounds">http://google.com/+nocopyrightsounds</a><br />➞ Instagram <a rel="nofollow" target="blank" href="http://instagram.com/nocopyrightsounds_">http://instagram.com/nocopyrightsounds_</a>{% endraw %}
