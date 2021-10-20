@@ -1,0 +1,15 @@
+---
+title: "Alok, Bruno Martini feat. Zeeba - Hear Me Now (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/JVpTp8IHdEg\/hqdefault.jpg"
+vid_id: "JVpTp8IHdEg"
+categories: "Music"
+tags: ["Spinnin'","Records","Alok"]
+date: "2021-10-20T12:06:20+03:00"
+vid_date: "2016-10-21T19:00:02Z"
+duration: "PT4M25S"
+viewcount: "404657244"
+likeCount: "3518735"
+dislikeCount: "85802"
+channel: "Spinnin' Records"
+---
+{% raw %}Stream: <a rel="nofollow" target="blank" href="https://apple.co/3l3qRu6">https://apple.co/3l3qRu6</a><br /><br />Alok and Bruno Martini are a Brazilian dream team when it comes to creating their new hit Hear Me Now. This tune contains an amazing featuring of the vocalist Zeeba, that will touch senses for sure. The smooth guitar lick and melodic chords, enhanced by the sophisticated flute are destined to please some ears. Hear it now!<br /><br />Alok, Bruno Martini feat. Zeeba - Hear Me Now is out now! Like this track? Download on Beatport or add it to your favourite Spotify/Apple Music playlist by clicking HERE: <a rel="nofollow" target="blank" href="https://spinninrecords.lnk.to/HearMeNow!YT">https://spinninrecords.lnk.to/HearMeNow!YT</a><br /><br />Join our Spinnin' Records Top 100 Playlist ► <a rel="nofollow" target="blank" href="https://spinninrecords.lnk.to/top100!YT">https://spinninrecords.lnk.to/top100!YT</a><br /><br />---<br /><br />The Spinnin’ Records YouTube channel is the home for all music videos of the world’s leading dance record label!<br /><br />We feature the latest music videos by Spinnin’ artists like Oliver Heldens, Sam Feldt, KSHMR, Ummet Ozcan, Blasterjaxx, Merk &amp; Kremont, Timmy Trumpet, Tujamo, Alok, Curbi, Mike Williams, Lucas &amp; Steve and many, many more! Expect daily uploads of official music videos, lyric videos and artwork videos across genres like dance, house, electro house, future house, deep house, big room and trap.<br /><br />Make sure to subscribe to Spinnin' Records: <a rel="nofollow" target="blank" href="http://bit.do/spinnintv">http://bit.do/spinnintv</a> <br />..and turn on notifications to stay updated with all new uploads!🔔<br /><br />Follow Spinnin’ Records:<br /><a rel="nofollow" target="blank" href="https://open.spotify.com/user/spinninrecordsofficial">https://open.spotify.com/user/spinninrecordsofficial</a><br /><a rel="nofollow" target="blank" href="https://soundcloud.com/spinninrecords">https://soundcloud.com/spinninrecords</a><br /><a rel="nofollow" target="blank" href="https://facebook.com/SpinninRecords">https://facebook.com/SpinninRecords</a><br /><a rel="nofollow" target="blank" href="https://instagram.com/spinninrecords">https://instagram.com/spinninrecords</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/SpinninRecords">https://twitter.com/SpinninRecords</a><br /><a rel="nofollow" target="blank" href="https://spinninrecords.com">https://spinninrecords.com</a><br /><br />#Alok<br />#BrunoMartini<br />#Zeeba<br />#SpinninRecords<br />#Spinnin{% endraw %}
