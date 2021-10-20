@@ -1,0 +1,15 @@
+---
+title: "WHAT ARE OEMs Original Equipment Manufacturers | OEM industrial spare parts"
+image: "https:\/\/i.ytimg.com\/vi\/M8bJdNso9m8\/hqdefault.jpg"
+vid_id: "M8bJdNso9m8"
+categories: "Science-Technology"
+tags: ["JAES","jaescompany","OEMs"]
+date: "2021-10-20T15:40:17+03:00"
+vid_date: "2019-01-31T10:49:04Z"
+duration: "PT4M2S"
+viewcount: "49158"
+likeCount: "824"
+dislikeCount: "49"
+channel: "JAES Company"
+---
+{% raw %}Did you ever wonder how big companies are able to manufacture complex products such as: a computer, a smartphone or even a car? Thanks to OEMs<br /><br />We can start by clarify the meaning of O-E-M.<br /> <br />The acronym O-E-M means Original Equipment Manufacturers and it refers to those companies that produce parts or equipments that can be assembled on a finished product by another company, which provide to market the item with its own brand. This company is referred to as Parent company. The parent company is almost always bigger than the OEM companies.<br /><br />Let's take the example of vehicles. The majority of the assembled parts of a vehicles are produced by OEM suppliers.<br />In fact, a car consists of a wide variety of components, most of which are not produced directly from the parent company.<br />In many cases, the engine of a car can be manufactured by a OEM company specialized in manufacturing Engineering.<br />Not to mention all the components composing the engine, such as: the battery, the control unit, the oil filter and many other mechanical, electrical and hydraulic components.<br />Furthermore, a car needs wheels to move. The wheels are made of tires and alloy wheels, which can be produced by different companies.<br />Passengers inside the car must be able to sit in a comfortable position, thanks to the seats that are often commissioned to OEM companies specialized in the production of car seats.<br />Thanks to OEM companies specialized in the production of airbags or seatbelts that the passengers can travel safety.<br />Windshield, rear window and side windows, but also the lights or even the mirrors or the radio antenna can be manufactured by OEMs. Very often OEM manufacturers sell the same components to several different car manufacturers.<br />This, is a hydro steering gear as well as a perfect example of OEM. It is installed by automobile manufacturer BMW on its vehicles. However, this component is actually manufactured inside ZF Group factories, a German multinational company producing components for the transport industry. <br />Now let's take the example of a computer or any other electronic devices resulting from the assembly of several components, such as: the motherboard and other electronic boards, the Central Processing unit, the cooling fans, or even the operating system as well as its installed software. They are all made by OEM manufacturers.<br /><br />Linkedin: <a rel="nofollow" target="blank" href="https://it.linkedin.com/company/jaes-srl">https://it.linkedin.com/company/jaes-srl</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/jaescompany/">https://www.facebook.com/jaescompany/</a>{% endraw %}
