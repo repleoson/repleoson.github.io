@@ -1,0 +1,15 @@
+---
+title: "OMC - How Bizarre (Madism Remix)"
+image: "https:\/\/i.ytimg.com\/vi\/qzrNGAw1TIU\/hqdefault.jpg"
+vid_id: "qzrNGAw1TIU"
+categories: "Music"
+tags: ["chill nation","how bizarre","how bizarre omc"]
+date: "2021-10-20T20:31:32+03:00"
+vid_date: "2021-10-20T17:25:10Z"
+duration: "PT2M42S"
+viewcount: "820"
+likeCount: "94"
+dislikeCount: "3"
+channel: "Chill Nation"
+---
+{% raw %}❄️ Follow Chill Nation on Spotify: <a rel="nofollow" target="blank" href="https://chillnation.ffm.to/chillspotify">https://chillnation.ffm.to/chillspotify</a><br />👾 Join our Discord Server: <a rel="nofollow" target="blank" href="https://discord.com/invite/trapnation">https://discord.com/invite/trapnation</a><br />📱Follow Us: <a rel="nofollow" target="blank" href="https://ffm.bio/chillnation">https://ffm.bio/chillnation</a><br />OMC - How Bizarre (Madism Remix)<br />↪︎ <a rel="nofollow" target="blank" href="https://open.spotify.com/track/4fNxBNaDqfOX3Zv41KtQAm?si=d2a60d7fa7fa4e18">https://open.spotify.com/track/4fNxBNaDqfOX3Zv41KtQAm?si=d2a60d7fa7fa4e18</a><br /><br />Spotify Playlists:<br />❄️ Chill Nation: <a rel="nofollow" target="blank" href="https://chillnation.ffm.to/chillspotify">https://chillnation.ffm.to/chillspotify</a><br />☀️ Summer House: <a rel="nofollow" target="blank" href="https://chillnation.ffm.to/chill-house">https://chillnation.ffm.to/chill-house</a><br />🍹Beach Party: <a rel="nofollow" target="blank" href="https://chillnation.ffm.to/beach-playlist">https://chillnation.ffm.to/beach-playlist</a><br /><br />♫ Follow Madism<br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/madismmusic/">https://www.instagram.com/madismmusic/</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/madismmusic">https://twitter.com/madismmusic</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/MadismMusic/">https://www.facebook.com/MadismMusic/</a><br /><br />♫ Follow OMC<br />Spotify: <a rel="nofollow" target="blank" href="https://open.spotify.com/artist/4vdt8TD56jjQfmxFCmhubX?si=awfnGmuUSqqRx-wZT4j55A">https://open.spotify.com/artist/4vdt8TD56jjQfmxFCmhubX?si=awfnGmuUSqqRx-wZT4j55A</a><br /><br />♫ Support Chill Nation<br /><a rel="nofollow" target="blank" href="https://nations.io">https://nations.io</a><br /><a rel="nofollow" target="blank" href="http://instagram.com/chillnation">http://instagram.com/chillnation</a><br /><a rel="nofollow" target="blank" href="http://soundcloud.com/allchillnation">http://soundcloud.com/allchillnation</a><br /><a rel="nofollow" target="blank" href="http://snapchat.com/add/chillnation">http://snapchat.com/add/chillnation</a><br /><a rel="nofollow" target="blank" href="http://open.spotify.com/user/allchillnations">http://open.spotify.com/user/allchillnations</a><br /><br />🚫 The music and the background in the following video are not free to use, if you'd like to use the music in this video, please contact the artist.<br /><br />⚠️ These videos may cause people with photosensitive epilepsy to convulse in seizures. Viewer discretion is advised.{% endraw %}
