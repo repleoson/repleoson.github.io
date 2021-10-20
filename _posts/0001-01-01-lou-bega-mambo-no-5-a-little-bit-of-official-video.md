@@ -1,0 +1,15 @@
+---
+title: "Lou Bega - Mambo No. 5 (A Little Bit of...) (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/EK_LN3XEcnw\/hqdefault.jpg"
+vid_id: "EK_LN3XEcnw"
+categories: "Music"
+tags: ["a little bit of","mambo 5","mambo"]
+date: "2021-10-20T05:20:41+03:00"
+vid_date: "2009-10-25T06:46:13Z"
+duration: "PT3M42S"
+viewcount: "374141668"
+likeCount: "2337909"
+dislikeCount: "78179"
+channel: "LouBegaVEVO"
+---
+{% raw %}Lou Bega's official music video for 'Mambo No. 5 (A Little Bit of.)'. Click to listen to Lou Bega on Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/LouBegaSpotify?IQid=LBegaM5">http://smarturl.it/LouBegaSpotify?IQid=LBegaM5</a><br /><br />As featured on A Little Bit of Mambo. Click to buy the track or album via iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/LBMamboiTunes?IQid=LBegaM5">http://smarturl.it/LBMamboiTunes?IQid=LBegaM5</a><br />Google Play: <a rel="nofollow" target="blank" href="http://smarturl.it/LBMamboPlay?IQid=LBegaM5">http://smarturl.it/LBMamboPlay?IQid=LBegaM5</a><br />Amazon: <a rel="nofollow" target="blank" href="http://smarturl.it/LBMamboAz?IQid=LBegaM5">http://smarturl.it/LBMamboAz?IQid=LBegaM5</a><br /><br />More from Lou Bega<br />Give It Up: <a rel="nofollow" target="blank" href="https://youtu.be/ypebU74u9lg">https://youtu.be/ypebU74u9lg</a><br />I Got A Girl: <a rel="nofollow" target="blank" href="https://youtu.be/jpgSm2AxQ34">https://youtu.be/jpgSm2AxQ34</a><br /><br />More great 90s videos here: <a rel="nofollow" target="blank" href="http://smarturl.it/Ultimate90?IQid=LBegaM5">http://smarturl.it/Ultimate90?IQid=LBegaM5</a><br /><br />Follow Lou Bega<br />Website: <a rel="nofollow" target="blank" href="http://www.lou-bega.com/">http://www.lou-bega.com/</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/loubegaofficial">https://www.facebook.com/loubegaofficial</a><br /><br />Subscribe to Lou Bega on YouTube: <a rel="nofollow" target="blank" href="http://smarturl.it/LouBegaSub?IQid=LBegaM5">http://smarturl.it/LouBegaSub?IQid=LBegaM5</a><br /><br />---------<br /><br />Lyrics:<br /><br />Ladies and gentlemen<br />This is Mambo No. 5!<br /><br />One, two, three, four, five<br />Everybody in the car, so come on let's ride<br />To the liquor store around the corner<br />The boys say they want some gin and juice<br />But I really don't wanna<br />Beer bust, like I had last week<br />I must stay deep, 'cause talk is cheap<br />I like Angela, Pamela, Sandra and Rita<br />And as I continue you know they're getting sweeter<br />So what can I do? I really beg you, my Lord<br />To me flirting is just like a sport<br />Anything fly, it's all good let me dump it<br />Please set in the trumpet<br /><br />A little bit of Monica in my life<br />A little bit of Erica by my side<br />A little bit of Rita is all I need<br />A little bit of Tina is what I see<br />A little bit of Sandra in the sun<br />A little bit of Mary all night long<br />A little bit of Jessica here I am<br />A little bit of you makes me your man{% endraw %}
