@@ -1,0 +1,15 @@
+---
+title: "Sort Of (2021) - Bilal Baig, Fab Filippo, Renuka Jeyapalan - HD Trailer"
+image: "https:\/\/i.ytimg.com\/vi\/Ql727-b00W0\/hqdefault.jpg"
+vid_id: "Ql727-b00W0"
+categories: "Film-Animation"
+tags: ["Sort Of","Canada","Comedy"]
+date: "2021-10-20T20:09:33+03:00"
+vid_date: "2021-09-17T23:50:44Z"
+duration: "PT2M16S"
+viewcount: "548"
+likeCount: "6"
+dislikeCount: "9"
+channel: "Cinematheque Trailers"
+---
+{% raw %}Sort Of (2021) (Canada) Comedy Drama LGBTQ+  <br />Directed by Fab Filippo, Renuka Jeyapalan<br /><br />Official Selection 2021<br />• Toronto International Film Festival<br /><br /><br />Cast: Bilal Baig, Gray Powell, Amanda Cordner, Ellora Patnaik, Grace Lynn Kung, Supinder Wraich, Kaya Kanashiro, Aden Bedard, Gregory Ambrose Calderone, Cassandra James, Becca Blackwell, Alanna Bale<br /><br />SYNOPSIS: Follows a gender-fluid millennial who straddles various identities, exposing the identities and labels that are no longer applicable.<br /><br /> Watch International Film Festival Trailers: <br />Cannes Film Festival <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=huRK7t5cRXg&amp;list=PLf47q1wOy_FwhcRGMhN9NHmG-5CesDIZh">https://www.youtube.com/watch?v=huRK7t5cRXg&amp;list=PLf47q1wOy_FwhcRGMhN9NHmG-5CesDIZh</a><br />Toronto International Film Festival <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=bW2wgPpCNYo&amp;list=PLf47q1wOy_FwWVvfkU53lDms9FiKuPNLB">https://www.youtube.com/watch?v=bW2wgPpCNYo&amp;list=PLf47q1wOy_FwWVvfkU53lDms9FiKuPNLB</a><br />BFI London Film Festival <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=Tm-TEVNXAA4&amp;list=PLf47q1wOy_Fw7vw77yjeDN0JXtZmsldXF&amp;index=1">https://www.youtube.com/watch?v=Tm-TEVNXAA4&amp;list=PLf47q1wOy_Fw7vw77yjeDN0JXtZmsldXF&amp;index=1</a><br />New York Film Festival <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=CNZHlFLVrHA&amp;list=PLf47q1wOy_Fy-X3yNphq6mrVq_ud6Ts82">https://www.youtube.com/watch?v=CNZHlFLVrHA&amp;list=PLf47q1wOy_Fy-X3yNphq6mrVq_ud6Ts82</a><br />Venice Film Festival <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=fc68AURE-O0&amp;list=PLf47q1wOy_FyuNkBQdZ3X_oyUWq-pbI4_">https://www.youtube.com/watch?v=fc68AURE-O0&amp;list=PLf47q1wOy_FyuNkBQdZ3X_oyUWq-pbI4_</a><br />San Sebastián International Film Festival <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=AeN6HFEEgpc&amp;list=PLf47q1wOy_FxPbgATQd1j_dfzLF1rXjN_&amp;index=1">https://www.youtube.com/watch?v=AeN6HFEEgpc&amp;list=PLf47q1wOy_FxPbgATQd1j_dfzLF1rXjN_&amp;index=1</a><br /><br />🎬 Subscribe to Cinematheque Trailers: <br /><a rel="nofollow" target="blank" href="https://www.youtube.com/cinemathequetrailers/?sub_confirmation=1">https://www.youtube.com/cinemathequetrailers/?sub_confirmation=1</a><br /><br />Amazon Prime Video and Movies<br />Watch: <a rel="nofollow" target="blank" href="https://amzn.to/3nX8rij">https://amzn.to/3nX8rij</a><br /><br />&quot;As an Amazon Associate, I earn from qualifying purchases.&quot;{% endraw %}
