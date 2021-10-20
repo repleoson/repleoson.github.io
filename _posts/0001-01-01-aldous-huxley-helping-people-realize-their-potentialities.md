@@ -1,0 +1,15 @@
+---
+title: "Aldous Huxley - Helping People Realize Their Potentialities"
+image: "https:\/\/i.ytimg.com\/vi\/ymiGSa26M1Y\/hqdefault.jpg"
+vid_id: "ymiGSa26M1Y"
+categories: "Education"
+tags: ["psychedelic","psychonaut","duncan trussell"]
+date: "2021-10-20T04:03:25+03:00"
+vid_date: "2015-07-22T05:21:57Z"
+duration: "PT51M39S"
+viewcount: "109272"
+likeCount: "2069"
+dislikeCount: "50"
+channel: "AJ Snook"
+---
+{% raw %}Read Huxley here: <a rel="nofollow" target="blank" href="http://amzn.to/1O92qBL">http://amzn.to/1O92qBL</a><br /><br />From the godfather of modern psychedelia, this speech is rumored to have inspired the legendary Esalen Institute in Big Sur, California which, in turn, served as a platform for the great psychonaut, Terence McKenna. It's important to archive and appreciate this ever so juicy slice of recent history and keep the profound words of Mr. Huxley alive and well.<br /><br />Please take a minute to share, like, comment, and subscribe. Also consider joining the Mind/Body/Spirit subreddit and/or Facebook group (links below) where fair use commenting, archiving, teaching, and scholarship of the related topics can take place.<br /><br />Psychedelic Salon: <a rel="nofollow" target="blank" href="http://www.matrixmasters.net/salon/">http://www.matrixmasters.net/salon/</a><br />Esalen: <a rel="nofollow" target="blank" href="http://www.esalen.org/">http://www.esalen.org/</a><br />My Blog: <a rel="nofollow" target="blank" href="http://ajsnookauthor.blogspot.com">http://ajsnookauthor.blogspot.com</a><br />My Novel: <a rel="nofollow" target="blank" href="http://amzn.to/1Ewx7BD">http://amzn.to/1Ewx7BD</a><br />Mind/Body/Spirit Facebook Group: <a rel="nofollow" target="blank" href="http://on.fb.me/1CsT6CR">http://on.fb.me/1CsT6CR</a><br />Mind/Body/Spirit Subreddit: <a rel="nofollow" target="blank" href="http://bit.ly/1GiigM9">http://bit.ly/1GiigM9</a><br /><br />Aldous Leonard Huxley /ˈhʌksli/ (26 July 1894 – 22 November 1963) was an English writer, philosopher and a prominent member of the Huxley family.<br /><br />He was best known for his novels including Brave New World, set in a dystopian London, and for non-fiction books, such as The Doors of Perception, which recalls experiences when taking a psychedelic drug, and a wide-ranging output of essays. Early in his career Huxley edited the magazine Oxford Poetry, and published short stories and poetry. Mid career and later, he published travel writing, film stories and scripts. He spent the later part of his life in the US, living in Los Angeles from 1937 until his death. In 1962, a year before his death, he was elected Companion of Literature by the Royal Society of Literature.[1]<br /><br />Huxley was a humanist, pacifist, and satirist. He later became interested in spiritual subjects such as parapsychology and philosophical mysticism,[2][3] in particular, Universalism.[4] By the end of his life, Huxley was widely acknowledged as one of the pre-eminent intellectuals of his time.[5] He was nominated for the Nobel Prize in Literature in seven different years.{% endraw %}
