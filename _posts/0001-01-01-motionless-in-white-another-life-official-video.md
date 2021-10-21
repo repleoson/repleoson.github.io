@@ -1,0 +1,15 @@
+---
+title: "Motionless In White - Another Life [OFFICIAL VIDEO]"
+image: "https:\/\/i.ytimg.com\/vi\/Pj2miRJ6bZs\/hqdefault.jpg"
+vid_id: "Pj2miRJ6bZs"
+categories: "Music"
+tags: ["motionless in white","metalcore","metal"]
+date: "2021-10-21T06:39:04+03:00"
+vid_date: "2019-12-04T15:00:10Z"
+duration: "PT3M27S"
+viewcount: "20301535"
+likeCount: "329122"
+dislikeCount: "4306"
+channel: "Motionless In White"
+---
+{% raw %}Motionless In White's official video for 'Another Life' from the record, Disguise - available now on Roadrunner Records.<br /><br />Subscribe to our Youtube channel: <a rel="nofollow" target="blank" href="https://miw.lnk.to/subscribe">https://miw.lnk.to/subscribe</a><br />Stream 'Disguise': <a rel="nofollow" target="blank" href="https://miw.lnk.to/disguise">https://miw.lnk.to/disguise</a><br /><br />Directed by @maxmoorefilms<br /><a rel="nofollow" target="blank" href="http://www.maxmoorefilms.com">http://www.maxmoorefilms.com</a><br />Director of Photography - Nate Spicer<br /><br />Lead Actor - @LeeVillain. Lead Actress @Nina_kate.<br />Actor/actress hair and makeup by @eknmakeup<br /><br />If I can’t let you go… will darkness divide?               <br />For the fiction of love is the truth of our lies<br />We were playing for keeps, but we both knew the cost <br />Now the only way out’s in your heart shaped box. <br /><br />But I hate that it seemed you were never enough<br />We were broken and bleeding but never gave up<br />And I hate that I made you the enemy <br />And I hate that your heart was the casualty <br />Now I hate that I need you  <br /><br />As we rest here alone like notes on a page <br />The finest to compose could not play our pain <br />With a candle through time I can still see your ghost <br />But I can’t close my eyes, for it is there where you haunt me most<br /><br />I hate that it seemed you were never enough<br />We were broken and bleeding but never gave up<br />And I hope that I sing through your memory<br />As we echo through time in the melody           <br />Now I hate that I need you <br /><br />And I hear you now when you said “it hurts, but it had to fall apart to work”<br />As I see you now in what’s left of me <br />Is it too late to plead insanity?<br /><br />Cause I hate that It seemed you were never enough <br />You were broken and bleeding in the name of love <br />And I hope that we meet in another life<br />I don’t hate that I need you<br /><br />Site: <a rel="nofollow" target="blank" href="http://motionlessinwhite.net">http://motionlessinwhite.net</a><br />iTunes: <a rel="nofollow" target="blank" href="http://itunes.com/motionlessinwhite">http://itunes.com/motionlessinwhite</a><br />Facebook: <a rel="nofollow" target="blank" href="http://facebook.com/motionlessinwhite">http://facebook.com/motionlessinwhite</a><br />Twitter: <a rel="nofollow" target="blank" href="http://twitter.com/MIWband">http://twitter.com/MIWband</a><br />Instagram: <a rel="nofollow" target="blank" href="http://instagram.com/MIWband">http://instagram.com/MIWband</a>{% endraw %}
