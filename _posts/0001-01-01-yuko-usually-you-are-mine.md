@@ -1,0 +1,15 @@
+---
+title: "Yuko - Usually You Are Mine"
+image: "https:\/\/i.ytimg.com\/vi\/D-LkrcKmm2U\/hqdefault.jpg"
+vid_id: "D-LkrcKmm2U"
+categories: "Music"
+tags: ["Yuko","Unday","Records"]
+date: "2021-10-21T22:16:35+03:00"
+vid_date: "2014-04-07T14:11:52Z"
+duration: "PT2M40S"
+viewcount: "7670"
+likeCount: "72"
+dislikeCount: "0"
+channel: "undayrecords"
+---
+{% raw %}Out now. Buy here: <a rel="nofollow" target="blank" href="https://itunes.apple.com/album/long-sleeves-cause-accidents">https://itunes.apple.com/album/long-sleeves-cause-accidents</a><br /><br />TRACKLIST<br />1. Yuko - Dive!<br />2. Yuko - While You Figure Things Out<br />3. Yuko - You Took A Swing At Me<br />4. Yuko - First Impression<br />5. Yuko - Usually You Are Mine<br />6. Yuko - Justine Part 1<br />7. Yuko - The Idealist<br />8. Yuko - She Keeps Me Thin<br />9. Yuko - A Couple Of Months On The Couch<br /><br />INFO<br />The phrase 'Long Sleeves Cause Accidents was used as a warning for the working class women replacing their husbands in the factories during World War II. 'Roll up your sleeves and get to work' is also exactly what Yuko's Kristof Deneijs has done. Three years after predecessor As If We Were Dancing, the result of plenty of hard work in the newly built Yuko studios is ready to see the light. Debut For Times When Ears Are Sore's post rock and the more accessible sound of their sophomore album gave way to what Deneijs thinks might just be the ultimate Yuko sound; erratic and unpredictable pop tunes with baroque influences.<br /><br />The initial plan to record an album with cover versions of religious standards has been shelved for now, but traces of these classical influences and inspiration can be heard throughout Yuko's third album. They are interlaced in the very song structures and melodies, most often subtly yet sometimes 'in your face'. It makes Yuko's sound harder than ever to pin down, but who cares? Long Sleeves Cause Accidents is a fascinating and layered tale, told by an engaging band, with an attitude. <br /><br />The new sound originates from a new line-up as well. Karen Willems (Zita Swoon Group, Inwolves) still occupies the drum stool, thank god. Guitarist and sonic boy wonder Jasper Maekelberg (Faces On Tv, worked with Mintzkov, Jef Neve) and bass player Thomas Mortier (Ministers van de Noordzee) joined the band during the formation of this album. Deborah Cachet, a trained and gifted soprano, adds some impressive guest vocals on a couple of tracks. The cover art comes from the amazing London based illustrator David Foldvari, just like Yuko's previous albums.<br /><br /><a rel="nofollow" target="blank" href="http://www.undayrecords.be">http://www.undayrecords.be</a><br /><a rel="nofollow" target="blank" href="http://www.facebook.com/UndayRecords">http://www.facebook.com/UndayRecords</a><br /><a rel="nofollow" target="blank" href="http://www.newsrecords.be/">http://www.newsrecords.be/</a><br /><a rel="nofollow" target="blank" href="http://www.facebook.com/NEWSrecords">http://www.facebook.com/NEWSrecords</a>{% endraw %}
