@@ -1,0 +1,15 @@
+---
+title: "blxty - awful ft. orchid (lyrics)"
+image: "https:\/\/i.ytimg.com\/vi\/saWNEfY2gSg\/hqdefault.jpg"
+vid_id: "saWNEfY2gSg"
+categories: "Music"
+tags: ["blxty awful ft. orchid (lyrics)","blxty - awful ft. orchid (lyrics)","blxty awful ft. orchid"]
+date: "2021-10-21T18:22:53+03:00"
+vid_date: "2021-01-28T22:05:28Z"
+duration: "PT2M5S"
+viewcount: "30405"
+likeCount: "926"
+dislikeCount: "6"
+channel: "you are safe here"
+---
+{% raw %}💠 Spotify playlist - <a rel="nofollow" target="blank" href="https://open.spotify.com/playlist/3NtsyKJCz4uidcZDcDSLfR">https://open.spotify.com/playlist/3NtsyKJCz4uidcZDcDSLfR</a> <br /><br />🔔 Subscribe for daily uploads &amp; don't forget to turn the notifications on<br /><br />🔊 Lyric video for awful by blxty and orchid produced by odel<br /><br />🎤 Follow blxty <br /><br /><a rel="nofollow" target="blank" href="https://soundcloud.com/blxty">https://soundcloud.com/blxty</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/blxty_">https://twitter.com/blxty_</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/blxty/">https://www.instagram.com/blxty/</a><br /><br />🎤 Follow orchid <br /><br /><a rel="nofollow" target="blank" href="https://soundcloud.com/0rch_id">https://soundcloud.com/0rch_id</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/0rch_id">https://twitter.com/0rch_id</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/0rch_id/">https://www.instagram.com/0rch_id/</a><br /><br />🎹 Follow odel<br /><br /><a rel="nofollow" target="blank" href="https://soundcloud.com/odel007">https://soundcloud.com/odel007</a><br /><br />👁️‍🗨️ Sad Boy Vibes Merch - <a rel="nofollow" target="blank" href="https://teespring.com/stores/sadboyvibesyt">https://teespring.com/stores/sadboyvibesyt</a><br /><br />💬 Sad Boy Vibes Discord - <a rel="nofollow" target="blank" href="https://discord.gg/22AZfxu">https://discord.gg/22AZfxu</a><br /><br />🥀 Follow Sad Boy Vibes<br /><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/almost__real/">https://www.instagram.com/almost__real/</a><br /><a rel="nofollow" target="blank" href="https://soundcloud.com/almost_real1">https://soundcloud.com/almost_real1</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/almost__real">https://twitter.com/almost__real</a><br /><br />👁️‍🗨️ Sad boy vibes is a place where we find and promote music from the best underground artists. Everything here is uploaded with the artist's consent. Sad boy vibes creates all the visuals &amp; lyrics for the videos uploaded. This content is both in Transformative and Educational nature. Video is in compliance with Content Quality section of YPP Policies as the editing &amp; visuals adds creative value which makes the content unique.<br /><br />📧 If you have any issues with the uploads, please contact me here - sadboyvibesyt@gmail.com<br /><br />💔 You are safe here<br /><br />🎵 blxty awful ft. orchid (odel)<br />🎵 blxty awful ft. orchid<br /><br />#sadboyvibes #blxty #orchid #odel{% endraw %}
