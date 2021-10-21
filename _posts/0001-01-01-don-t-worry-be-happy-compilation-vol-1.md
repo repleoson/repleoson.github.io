@@ -1,0 +1,15 @@
+---
+title: "Χάρης & Πάνος Κατσιμίχας - Don't Worry Be Happy - Compilation Vol.1"
+image: "https:\/\/i.ytimg.com\/vi\/JKpj33UeRPY\/hqdefault.jpg"
+vid_id: "JKpj33UeRPY"
+categories: "Music"
+tags: ["protasis","protasis music","protasis music productions"]
+date: "2021-10-21T17:49:59+03:00"
+vid_date: "2015-06-11T13:38:34Z"
+duration: "PT4M58S"
+viewcount: "93898"
+likeCount: "795"
+dislikeCount: "29"
+channel: "Protasis Music"
+---
+{% raw %}Subscribe here: <a rel="nofollow" target="blank" href="https://bit.ly/3tJLXlq">https://bit.ly/3tJLXlq</a><br />Steam/Download:<br />Spotify: <a rel="nofollow" target="blank" href="http://spoti.fi/36SlCrt">http://spoti.fi/36SlCrt</a><br />iTunes/Apple Music: <a rel="nofollow" target="blank" href="http://apple.co/3p46Ow7">http://apple.co/3p46Ow7</a><br />Deezer: <a rel="nofollow" target="blank" href="http://bit.ly/3a3O3ET">http://bit.ly/3a3O3ET</a><br /><br />Χάρης &amp; Πάνος Κατσιμίχας - Don't Worry Be Happy - Compilation<br />Στίχοι: Χάρης &amp; Πάνος Κατσιμίχας<br />Μουσική: Bobby McFerrin<br />Τραγούδι:  Χάρης Κατσιμίχας<br />Φωνητικά: Πάνος Κατσιμίχας<br /><br />Αν η δικιά σου, σου κάνει νερά<br />κι αν έχεις χάσει στα χαρτιά...<br />Don't Worry Be Happy<br /><br />Άμα σε πιάσουνε με κάνα ''ψίλο''<br />και σε λυσσάξουνε στο ξύλο...<br />Don't Worry Be Happy<br /><br />Υπάρχουν και χειρότερα<br />μα θα στα πω αργότερα<br />Don't Worry Be Happy<br /><br />Άμα ξυπνήσεις μέσα στη φυλακή<br />και δε σου εξηγεί κανένας γιατί...<br />Don't Worry Be Happy<br /><br />Δεν είναι ανάγκη να το ξέρεις κι εσύ<br />τους φτάνει που το ξέρουν αυτοί...<br />Don't Worry Be Happy<br /><br />Είμαστε όλοι ύποπτοι.<br />Κι εγώ κι εσύ και η γάτα μου μαζί<br />Don't Worry Be Happy<br /><br />Άμα ξυπνήσεις και έχεις βγάλει ουρά,<br />άμα ψαχτείς και έχεις βγάλει βυζιά...<br />Don't Worry Be Happy<br /><br />Άμα η κόρη σου σε λέει μπαμπά, ενώ ο γιος σου σε φωνάζει μαμά...<br />Don't Worry Be Happy<br /><br />Δεν είναι αυτό για να σ’ ανησυχεί, είναι μια ψιλομετάλλαξη...<br />Don't Worry Be Happy<br /><br />Και τι με νοιάζει εμένα δηλαδή,<br />εγώ θα γίνω σταρ του MTV<br />Don't Worry Be Happy<br /><br />Kαι αν τα ρουθούνια μου μείνουν μισά,<br />κανένα πρόβλημα θα βάλω χρυσά...<br />Don't Worry Be Happy.<br /><br /><br />FOLLOW US ON SPOTIFY: <a rel="nofollow" target="blank" href="https://open.spotify.com/user/6yrisfeqa1aa7xn1elhzz09sw">https://open.spotify.com/user/6yrisfeqa1aa7xn1elhzz09sw</a><br />Ακολουθήστε μας στο SPOTIFY: <a rel="nofollow" target="blank" href="https://open.spotify.com/user/6yrisfeqa1aa7xn1elhzz09sw">https://open.spotify.com/user/6yrisfeqa1aa7xn1elhzz09sw</a><br /><br />Συνδεθείτε με την Protasis Music:<br />▶ Website: <a rel="nofollow" target="blank" href="https://www.protasismusic.gr">https://www.protasismusic.gr</a><br />▶ Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/protasismusicproductions/">https://www.facebook.com/protasismusicproductions/</a><br />▶ Google+: google.com/+ProtasisMusic<br /><br />Χάρης &amp; Πάνος Κατσιμίχας - Don't Worry Be Happy - Compilation Vol.1<br />#Compilation #Vol1{% endraw %}
