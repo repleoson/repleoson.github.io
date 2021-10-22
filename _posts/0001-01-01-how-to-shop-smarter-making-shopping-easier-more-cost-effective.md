@@ -1,0 +1,15 @@
+---
+title: "HOW TO SHOP SMARTER | making shopping easier & more cost-effective"
+image: "https:\/\/i.ytimg.com\/vi\/iXTWi_9xbEw\/hqdefault.jpg"
+vid_id: "iXTWi_9xbEw"
+categories: "People-Blogs"
+tags: ["how to shop smarter","how to shop better","how to shop more effectively"]
+date: "2021-10-22T22:20:25+03:00"
+vid_date: "2021-01-20T18:00:09Z"
+duration: "PT15M41S"
+viewcount: "33002"
+likeCount: "1121"
+dislikeCount: "48"
+channel: "Lydia Tomlinson"
+---
+{% raw %}ad. The first section of this video is sponsored by Shoptagr. <br /><br />Download Shoptagr here: <a rel="nofollow" target="blank" href="https://www.clkmg.com/shoptagr_inc/lydiatomlinson01">https://www.clkmg.com/shoptagr_inc/lydiatomlinson01</a><br /><br />Hope you enjoyed these ideas &amp; they were useful for you! Would love to hear your shopping tips below! <br />Lydia x <br />___________________________________<br /><br />INSTAGRAM - <a rel="nofollow" target="blank" href="https://www.instagram.com/lydiajanetomlinson/">https://www.instagram.com/lydiajanetomlinson/</a><br /><br />CONTACT -<br />For all enquires please email me at lydiajanetomlinson@live.co.uk <br /> <br />DISCLAIMER -<br />Some of the links I use are affiliate links. This does not change the way you buy the item, it just means that a small amount of commission goes to me, who has helped drive the sale and market the item. Thank you! <br /><br />Some of the pieces I show are sent to me by the PR company. Unless disclaimed, I am in no way contracted to talk about or promote the item. I only accept and show PR products if it’s something I like.<br /><br />MUSIC - <br />All music is from Epidemic sound, a site that I pay a monthly subscription for in order to access music.<br /><br />_____________________________________________________________________________<br /><br />SHOP MY OUTFIT -<br />Arket shirt (34): <a rel="nofollow" target="blank" href="https://shopstyle.it/l/bqRw7">https://shopstyle.it/l/bqRw7</a><br />Charlotte Tilbury lipstick: <a rel="nofollow" target="blank" href="https://shopstyle.it/l/bqRxj">https://shopstyle.it/l/bqRxj</a><br />LydiaTomlinsonxNorthskull Erg ring: <a rel="nofollow" target="blank" href="https://bit.ly/3dznHKN">https://bit.ly/3dznHKN</a> <br />LydiaTomlinsonxNorthskull Rattan ring: <a rel="nofollow" target="blank" href="https://bit.ly/2SWyLZf">https://bit.ly/2SWyLZf</a> <br />LydiaTomlinsonxNorthskull Merzouga ring: <a rel="nofollow" target="blank" href="https://bit.ly/2Fy2ggH">https://bit.ly/2Fy2ggH</a> <br />LydiaTomlinsonxNorthskull Zwina necklace: <a rel="nofollow" target="blank" href="https://bit.ly/345LK18">https://bit.ly/345LK18</a> <br />LydiaTomlinsonxNorthskull Tinfou earrings: <a rel="nofollow" target="blank" href="https://bit.ly/37d8yOc">https://bit.ly/37d8yOc</a><br />LydiaTomlinsonxNorthskull Racine bracelet: <a rel="nofollow" target="blank" href="https://bit.ly/3lM6noS">https://bit.ly/3lM6noS</a> <br />LydiaTomlinsonxNorthskull Anfa bracelet: <a rel="nofollow" target="blank" href="https://bit.ly/342WBZo">https://bit.ly/342WBZo</a>{% endraw %}
