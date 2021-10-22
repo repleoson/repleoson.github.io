@@ -1,0 +1,15 @@
+---
+title: "FURNISHING MY ENTIRE APARTMENT FOR $1,000!"
+image: "https:\/\/i.ytimg.com\/vi\/Siup6cruV1g\/hqdefault.jpg"
+vid_id: "Siup6cruV1g"
+categories: "Howto-Style"
+tags: ["apartment","tour","furnishing"]
+date: "2021-10-22T11:36:27+03:00"
+vid_date: "2018-11-27T21:58:27Z"
+duration: "PT15M"
+viewcount: "52803"
+likeCount: "836"
+dislikeCount: "39"
+channel: "Ashlan Siford"
+---
+{% raw %}I tried a little bit of a different editing style, let me know if you like it! I am so excited to finally bring this video to you! I have been planning it since we knew we were moving in, and although it is no where near finished, I am excited to show you progress! We came to Georgia with nothing but a couple car loads full of our essentials, and have been able to start fresh with furniture pieces and decor. It was important for us to stay budget friendly, and I am so happy to bring to you some of my advice! <br /><br />Please leave requests and comments below. Subscribe for more videos and give this video a 'like' if you would enjoy seeing more videos like this one! Subscribing and hitting the bell notification helps you to never miss a video!<br /><br /><br /><br />SIMILAR VIDEOS:<br /><br />Under $200 Bedroom Makeover: <a rel="nofollow" target="blank" href="https://goo.gl/WQw5aV">https://goo.gl/WQw5aV</a><br />Free Desk Organization: <a rel="nofollow" target="blank" href="https://goo.gl/gpQ9xV">https://goo.gl/gpQ9xV</a><br />Full Apartment Speed Clean: <a rel="nofollow" target="blank" href="https://goo.gl/Fmi4b1">https://goo.gl/Fmi4b1</a><br />My Awful IKEA Experience: <a rel="nofollow" target="blank" href="https://goo.gl/A87RkR">https://goo.gl/A87RkR</a><br /><br /><br /><br />CONNECT WITH ME:<br /><br />Blog: <a rel="nofollow" target="blank" href="https://www.beingbash.com">https://www.beingbash.com</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/AshlanM">https://www.instagram.com/AshlanM</a><br />Snapchat: <a rel="nofollow" target="blank" href="https://www.snapchat.com/add/Ashlan1219">https://www.snapchat.com/add/Ashlan1219</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/AshlanM">https://www.facebook.com/AshlanM</a><br />Twitter: <a rel="nofollow" target="blank" href="https://www.twitter.com/AshlanM1219">https://www.twitter.com/AshlanM1219</a><br />Poshmark: <a rel="nofollow" target="blank" href="https://poshmark.com/closet/ashlan_moore">https://poshmark.com/closet/ashlan_moore</a><br />Business Inquiries: ashlanmoore@gmail.com<br /><br /><br /><br />EQUIPMENT/ EDITING:<br /><br />Canon G7x Mark ii<br />Canon Rebel T3i <br />Sigma 17-50mm F2.8 EX DC OS <br />Final Cut Pro X<br /><br /><br /><br />MUSIC:<br /><br />Ehrling - Champagne Ocean<br /><br /><br />DISCLAIMER: <br /><br />Transparency is very important to me, so expect me to always be honest with you guys! This is not a sponsored video. All opinions and thoughts are my own. I do not own any of the songs. The rightful owners are listed above. I only choose to use non-copyrighted music!{% endraw %}
