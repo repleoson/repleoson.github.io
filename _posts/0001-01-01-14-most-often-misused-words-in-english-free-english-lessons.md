@@ -1,0 +1,15 @@
+---
+title: "14 most often misused words in English - Free English lessons"
+image: "https:\/\/i.ytimg.com\/vi\/IiIh0ceZ550\/hqdefault.jpg"
+vid_id: "IiIh0ceZ550"
+categories: "Entertainment"
+tags: ["English lessons","Free English","English lesson"]
+date: "2021-10-22T09:07:00+03:00"
+vid_date: "2016-12-28T11:56:38Z"
+duration: "PT14M2S"
+viewcount: "97965"
+likeCount: "1453"
+dislikeCount: "44"
+channel: "Learn English with Let's Talk - Free English Lessons"
+---
+{% raw %}14 most often misused words in English - Free English lessons<br /><a rel="nofollow" target="blank" href="http://www.learnex.in/14-often-misused-words-english">http://www.learnex.in/14-often-misused-words-english</a><br /><br />Another spoken English lesson from Rima to learn the most often misused words in the English language. English students often get confused with these words and end up using them incorrectly  while speaking English. <br /><br />Facebook : <a rel="nofollow" target="blank" href="http://www.facebook.com/letstalkpodcast">http://www.facebook.com/letstalkpodcast</a><br />Website : <a rel="nofollow" target="blank" href="http://www.letstalkpodcast.com">http://www.letstalkpodcast.com</a><br /><br />Adverse means &quot;detrimental.&quot; It does not mean &quot;averse&quot; or &quot;disinclined.&quot; Correct: &quot;There were adverse effects.&quot; / &quot;I'm not averse to doing that.&quot;<br /><br />Appraise means to &quot;ascertain the value of.&quot; It does not mean to &quot;apprise&quot; or to &quot;inform.&quot; Correct: &quot;I appraised the jewels.&quot; / &quot;I apprised him of the situation.&quot;<br /><br />Bemused means &quot;bewildered.&quot; It does not mean &quot;amused.&quot; Correct: &quot;The unnecessarily complex plot left me bemused.&quot; / &quot;The silly comedy amused me.&quot;<br /><br />Depreciate means to &quot;decrease in value.&quot; It does not mean to &quot;deprecate&quot; or to &quot;disparage.&quot; Correct: &quot;My car has depreciated a lot over the years.&quot; / &quot;She deprecated his efforts.&quot;<br /><br />Disinterested means &quot;unbiased.&quot; It does not mean &quot;uninterested.&quot; Correct: &quot;The dispute should be resolved by a disinterested judge.&quot; / &quot;Why are you so uninterested in my story?&quot;<br /><br />Enormity refers to extreme evil. It does not mean &quot;enormousness.&quot; [Note: It is acceptable to use it to mean a deplorable enormousness.] Correct: &quot;The enormity of the terrorist bombing brought bystanders to tears.&quot; / &quot;The enormousness of the homework assignment required several hours of work.&quot;<br /><br />Hone means to &quot;sharpen.&quot; It does not mean to &quot;home in on&quot; or &quot;to converge upon.&quot; Correct: &quot;She honed her writing skills.&quot; / &quot;We're homing in on a solution.&quot;<br /><br />Hung means &quot;suspended.&quot; It does not mean &quot;suspended from the neck until dead.&quot; Correct: &quot;I hung the picture on my wall.&quot; / &quot;The prisoner was hanged.&quot;{% endraw %}
