@@ -1,0 +1,15 @@
+---
+title: "Nas - \"Spicy\" feat. Fivio Foreign & A$AP Ferg (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/798vylI5tTY\/hqdefault.jpg"
+vid_id: "798vylI5tTY"
+categories: "Music"
+tags: ["mass appeal","hip hop","new york"]
+date: "2021-10-22T18:29:55+03:00"
+vid_date: "2020-10-02T16:47:05Z"
+duration: "PT2M50S"
+viewcount: "9206269"
+likeCount: "145236"
+dislikeCount: "3069"
+channel: "Mass Appeal"
+---
+{% raw %}Nas's new album King's Disease Available NOW!<br />Download/Stream King's Disease <br /><a rel="nofollow" target="blank" href="https://nas.lnk.to/kingsdisease">https://nas.lnk.to/kingsdisease</a><br /><br />Tracklist :<br />1. King's Disease<br />2. Blue Benz<br />3. Car #85 (feat. Charlie Wilson)<br />4. Ultra Black (feat. Hit-Boy)<br />5. 27 Summers<br />6. Replace Me (feat. Big Sean &amp; Don Toliver)<br />7. Til The War Is Won (feat. Lil Durk)<br />8. All Bad (feat. Anderson .Paak)<br />9. The Definition (feat. Brucie B.)<br />10. Full Circle (feat. The Firm, AZ, Foxy Brown &amp; Cormega)<br />11. 10 Points <br />12. The Cure<br />13. Spicy (feat. Fivio Foreign &amp; A$AP Ferg)<br /><br />A Psycho Films Production<br />Director: Jack Begert<br />Executive Producers: Sam Canter, Christian Sutton, Peter Bittenbender<br />Producer: Kaream Appleton<br />Co-Producers: Erik Mateo, Vlad Samedi<br />DP: Sing Howe Yam<br />1st AD: Erik Mateo<br />Production Designer: Alvin Harris<br />Editors: Neal Farmer &amp; Jack Begert<br />VFX: Justin Johnson, Andrew Finch, Neal Farmer<br />Colorists: Jacob McKee<br /><br />-----------------Nas-----------------<br /><a rel="nofollow" target="blank" href="http://instagram.com/nas">http://instagram.com/nas</a><br /><a rel="nofollow" target="blank" href="http://twitter.com/nas">http://twitter.com/nas</a><br /><a rel="nofollow" target="blank" href="http://facebook.com/nas">http://facebook.com/nas</a><br /><br /><br />Subscribe to Mass Appeal here:<br /><a rel="nofollow" target="blank" href="http://bit.ly/2qW4NXj">http://bit.ly/2qW4NXj</a> <br />-------------------<br />Mass Appeal is an entertainment company dedicated to telling stories from the perspective of those who shape and shift culture. Since 1996, we have documented the emerging movements that influence popular ideas. Today, Mass Appeal is the elevated voice of Hip Hop and its ever-expanding sphere of influence. Integrated offerings in content, music and creative services stoke Mass Appeal’s ability to maximize the impact of our output. Our diverse school of thought separates us from friends and foes alike. <br /><br />Instagram: <a rel="nofollow" target="blank" href="http://instagram.com/massappeal">http://instagram.com/massappeal</a><br />Twitter: <a rel="nofollow" target="blank" href="http://twitter.com/massappeal">http://twitter.com/massappeal</a><br />Facebook: <a rel="nofollow" target="blank" href="http://facebook.com/massappeal">http://facebook.com/massappeal</a><br />Website: <a rel="nofollow" target="blank" href="http://massappeal.com">http://massappeal.com</a>{% endraw %}
