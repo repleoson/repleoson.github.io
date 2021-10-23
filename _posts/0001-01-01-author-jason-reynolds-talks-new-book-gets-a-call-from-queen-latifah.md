@@ -1,0 +1,15 @@
+---
+title: "Author Jason Reynolds talks new book, gets a call from Queen Latifah"
+image: "https:\/\/i.ytimg.com\/vi\/lC6W88wgYDY\/hqdefault.jpg"
+vid_id: "lC6W88wgYDY"
+categories: "News-Politics"
+tags: ["video","cbs","news"]
+date: "2021-10-23T11:38:18+03:00"
+vid_date: "2017-10-24T17:20:51Z"
+duration: "PT18M44S"
+viewcount: "32972"
+likeCount: "453"
+dislikeCount: "12"
+channel: "CBS Mornings"
+---
+{% raw %}Bestselling author Jason Reynolds is out with a new young adults book, &quot;Long Way Down.&quot; Reynolds sits down with Gayle King in the &quot;CBS This Morning&quot; Toyota Green Room to discuss why he did not read his first novel from cover to cover until he was 17 years old and what it means to write in a natural voice. He also receives a FaceTime call from Queen Latifah, whose work he said was an inspiration to him.<br /><br />Subscribe to the &quot;CBS This Morning&quot; Channel HERE: <a rel="nofollow" target="blank" href="http://bit.ly/1Q0v2hE">http://bit.ly/1Q0v2hE</a><br />Watch &quot;CBS This Morning&quot; HERE: <a rel="nofollow" target="blank" href="http://bit.ly/1T88yAR">http://bit.ly/1T88yAR</a><br />Watch the latest installment of &quot;Note to Self,&quot; only on &quot;CBS This Morning,&quot; HERE: <a rel="nofollow" target="blank" href="http://cbsn.ws/1Sh8XlB">http://cbsn.ws/1Sh8XlB</a><br />Follow &quot;CBS This Morning&quot; on Instagram HERE: <a rel="nofollow" target="blank" href="http://bit.ly/1Q7NGnY">http://bit.ly/1Q7NGnY</a><br />Like &quot;CBS This Morning&quot; on Facebook HERE: <a rel="nofollow" target="blank" href="http://on.fb.me/1LhtdvI">http://on.fb.me/1LhtdvI</a><br />Follow &quot;CBS This Morning&quot; on Twitter HERE: <a rel="nofollow" target="blank" href="http://bit.ly/1Xj5W3p">http://bit.ly/1Xj5W3p</a><br />Follow &quot;CBS This Morning&quot; on Google+ HERE: <a rel="nofollow" target="blank" href="http://bit.ly/1SIM4I8">http://bit.ly/1SIM4I8</a><br /><br />Get the latest news and best in original reporting from CBS News delivered to your inbox. Subscribe to newsletters HERE: <a rel="nofollow" target="blank" href="http://cbsn.ws/1RqHw7T">http://cbsn.ws/1RqHw7T</a><br /><br />Get your news on the go! Download CBS News mobile apps HERE: <a rel="nofollow" target="blank" href="http://cbsn.ws/1Xb1WC8">http://cbsn.ws/1Xb1WC8</a><br /><br />Get new episodes of shows you love across devices the next day, stream local news live, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! <a rel="nofollow" target="blank" href="http://bit.ly/1OQA29B">http://bit.ly/1OQA29B</a><br /><br />---<br />Delivered by Charlie Rose, Norah O’Donnell and Gayle King, &quot;CBS This Morning&quot; offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment. Check local listings for &quot;CBS This Morning&quot; broadcast times.{% endraw %}
