@@ -1,0 +1,15 @@
+---
+title: "Different emotions of chess parents through songs! | ft. Rupali Mullick"
+image: "https:\/\/i.ytimg.com\/vi\/Bt1WXpW47WM\/hqdefault.jpg"
+vid_id: "Bt1WXpW47WM"
+categories: "Sports"
+tags: ["chessbaseindia","interviews","chesstraining"]
+date: "2021-10-23T19:28:59+03:00"
+vid_date: "2021-10-23T06:27:42Z"
+duration: "PT3M6S"
+viewcount: "5452"
+likeCount: "441"
+dislikeCount: "19"
+channel: "ChessBase India"
+---
+{% raw %}Rupali Mullick is a woman with many accomplishments. She is a Ph.D  in chemical engineering from the University of Wisconsin-Madison and is a partner at JVM Industries. She is a journalist and reporter for ChessBase India. But most importantly she is a chess mom to a very talented youngster - IM Raahil Mullick. <br /><br />Rupali travels with Raahil to different tournaments and in this video she expresses the feelings of a parent when their child wins or losses games in the form of different songs!<br /> <br />Video: ChessBase India <br /><br />#Chess #ChessBaseIndia #YerevanOpen2021<br />---------------------------------------------------------------------------<br />Subscribe to the ChessBase India Channel on YouTube for more informative and exciting videos!<br />---------------------------------------------------------------------<br />Subscribe to ChessBase India on YouTube: <a rel="nofollow" target="blank" href="https://www.youtube.com/c/ChessBaseIndiachannel">https://www.youtube.com/c/ChessBaseIndiachannel</a><br /><br />Subscribe to our second channel - ChessBase India clips for fun and exciting content:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCjYrfY1-CCX2pagdnRrNUpA">https://www.youtube.com/channel/UCjYrfY1-CCX2pagdnRrNUpA</a><br /><br />If you like content in Hindi, then do subscribe to Hindi ChessBase India channel:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/c/ChessBaseIndiaHindi">https://www.youtube.com/c/ChessBaseIndiaHindi</a><br /><br />Check out chessbase.in for quality news and updates: <a rel="nofollow" target="blank" href="http://chessbase.in">http://chessbase.in</a><br /><br />Find all latest ChessBase DVD, Quality Chess books and other accessories: <a rel="nofollow" target="blank" href="https://chessbase.in/online-shop/">https://chessbase.in/online-shop/</a><br /><br />You may also buy from ChessBase India storefront in Amazon India: <a rel="nofollow" target="blank" href="https://amzn.to/2vv0XXy">https://amzn.to/2vv0XXy</a><br />------------------------------------<br /><br />ChessBase India on Social Media<br />------------------------------------<br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/ChessbaseIndia">https://twitter.com/ChessbaseIndia</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/chessbaseindia/">https://www.facebook.com/chessbaseindia/</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/chessbaseindia">https://www.instagram.com/chessbaseindia</a> <br />---------------------------------------------<br /><br />In case of any questions feel free to reach out to our team at chessbaseindia@gmail.com{% endraw %}
