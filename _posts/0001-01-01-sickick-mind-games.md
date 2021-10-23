@@ -1,0 +1,15 @@
+---
+title: "Sickick - Mind Games"
+image: "https:\/\/i.ytimg.com\/vi\/c-EkFgViaPE\/hqdefault.jpg"
+vid_id: "c-EkFgViaPE"
+categories: "Music"
+tags: ["electro","electronic","dance"]
+date: "2021-10-23T16:14:43+03:00"
+vid_date: "2017-11-19T20:13:47Z"
+duration: "PT4M16S"
+viewcount: "30961765"
+likeCount: "303297"
+dislikeCount: "5692"
+channel: "xKito Music"
+---
+{% raw %}♫ iTunes: <a rel="nofollow" target="blank" href="https://goo.gl/SBZQVi">https://goo.gl/SBZQVi</a><br />♫ Spotify: <a rel="nofollow" target="blank" href="http://spoti.fi/2zjjD0E">http://spoti.fi/2zjjD0E</a><br /><br /><br />[Genre: Electronic/Hip Hop]<br /><br /><br />►Sickick:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCvnwcyWyrzPjEH46LVjx24Q">https://www.youtube.com/channel/UCvnwcyWyrzPjEH46LVjx24Q</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/sickickmusic">https://www.facebook.com/sickickmusic</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/sickickmusic/">https://www.instagram.com/sickickmusic/</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/sickickmusic">https://twitter.com/sickickmusic</a><br /><a rel="nofollow" target="blank" href="https://soundcloud.com/sickickofficial">https://soundcloud.com/sickickofficial</a><br /><br /><br />►xKito Music:<br /><a rel="nofollow" target="blank" href="https://www.facebook.com/xKitoMusic">https://www.facebook.com/xKitoMusic</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/xkito_music">https://twitter.com/xkito_music</a><br /><a rel="nofollow" target="blank" href="https://instagram.com/belgin.xk/">https://instagram.com/belgin.xk/</a><br /><a rel="nofollow" target="blank" href="https://soundcloud.com/xkitomusic">https://soundcloud.com/xkitomusic</a><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/c/xKitoMusic">https://www.youtube.com/c/xKitoMusic</a><br /><br /><br />►Submit your music to xKito:<br /><a rel="nofollow" target="blank" href="https://goo.gl/mQkm4u">https://goo.gl/mQkm4u</a><br /><br /><br />►SUBMIT YOUR ARTWORK!<br />You like to draw and would like your art to be featured on an xKito Music Video? Submit it here →<br /><a rel="nofollow" target="blank" href="https://goo.gl/uKfWmj">https://goo.gl/uKfWmj</a><br /><br /><br />►PICTURE → <a rel="nofollow" target="blank" href="http://adamantred.tumblr.com/image/129648296445">http://adamantred.tumblr.com/image/129648296445</a><br />©Artwork by: Panta Rhei<br /><a rel="nofollow" target="blank" href="https://www.patreon.com/adamantred">https://www.patreon.com/adamantred</a><br /><a rel="nofollow" target="blank" href="http://adamantred.tumblr.com/">http://adamantred.tumblr.com/</a><br /><br /><br />►Usage Policy:<br />Please get in touch with the artist(s) for usage of this track in your Youtube videos.<br /><br /><br />- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -<br /><br />For business inquiries and other issues please contact xkitomusic@gmail.com{% endraw %}
