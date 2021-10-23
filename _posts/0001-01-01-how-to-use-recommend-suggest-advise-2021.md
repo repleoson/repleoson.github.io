@@ -1,0 +1,15 @@
+---
+title: "How To Use Recommend, Suggest, Advise [2021]"
+image: "https:\/\/i.ytimg.com\/vi\/uDhbCtkxrx4\/hqdefault.jpg"
+vid_id: "uDhbCtkxrx4"
+categories: "Education"
+tags: ["how to use recommend suggest advise","how to use recommend","how to use suggest"]
+date: "2021-10-23T03:53:39+03:00"
+vid_date: "2021-04-24T13:00:18Z"
+duration: "PT13M38S"
+viewcount: "12199"
+likeCount: "1150"
+dislikeCount: "13"
+channel: "JForrest English"
+---
+{% raw %}In this video, learn how to use Recommend, Suggest, Advise. <br /><br />Is RECOMMEND ME correct? Is SUGGEST ME correct? Is ADVISE ME correct? <br /><br />This is the #1 English mistake I hear from all student, including advanced students. <br /><br />Today you'll learn how the correct sentence structure of recommend, suggestion, advise. <br /><br />First we'll look at suggest and recommend grammar. They have the same sentence structure. <br /><br />Next we'll look at advise grammar, because it has a slightly different sentence structure. <br /><br />As a bonus, if you watch to the end I'll also explain how to use EXPLAIN! Is EXPLAIN ME correct? <br /><br />You'll find out at the end! <br /><br />By the end of the video, you'll know how to use recommend, suggest, advise AND explain fluently and confidently. <br /><br />Please subscribe for more videos to help you learn English and sound like a native English speaker!  <br /><br />TABLE OF CONTENTS: <br /><br />00:00 - Intro and Welcome<br />01:00 - Mistakes with Recommend and Suggest<br />02:20 - How To Fix Mistakes with Recommend and Suggest<br />03:18 - Sentence Structure with Clause <br />05:20 - How To Use Recommend Me<br />07:31 - Sentence Structure with Gerund<br />07:50 - How To Use Advise <br />09:40 - How To Use Explain<br />12:00 - Watch Next <br />13:20 - Free Speaking Guide<br /><br />WATCH NEXT: <br /><br />How To Use Recommendation, Suggestion, Advice:  <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=Lm7GPkH27ls&amp;t=9s">https://www.youtube.com/watch?v=Lm7GPkH27ls&amp;t=9s</a> <br /><br />Difference Between Advise and Advice: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=BAVA02AlRvY">https://www.youtube.com/watch?v=BAVA02AlRvY</a><br /><br />Let’s Connect: <br /><br />Facebook Page: <a rel="nofollow" target="blank" href="https://www.facebook.com/JForrestEnglish">https://www.facebook.com/JForrestEnglish</a> <br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/JForrestEnglish">https://twitter.com/JForrestEnglish</a><br />LinkedIn: <a rel="nofollow" target="blank" href="https://www.linkedin.com/in/jennifer-forrest">https://www.linkedin.com/in/jennifer-forrest</a><br />Website: <a rel="nofollow" target="blank" href="http://www.jforrestenglish.com/">http://www.jforrestenglish.com/</a> <br /><br />Free Speaking Guide - How To Speak English Fluently and Confidently in 6 Easy Steps. <br /><a rel="nofollow" target="blank" href="https://jforrestenglish.com/free-guide/">https://jforrestenglish.com/free-guide/</a><br /><br />#JForrestEnglish #SpeakEnglishConfidently{% endraw %}
