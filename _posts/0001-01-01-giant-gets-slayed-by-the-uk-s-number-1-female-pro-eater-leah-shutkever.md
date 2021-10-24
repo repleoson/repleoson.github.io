@@ -1,0 +1,15 @@
+---
+title: "GIANT GETS SLAYED BY THE UK'S NUMBER 1 FEMALE PRO EATER @Leah Shutkever \/\/ MONSTER PANCAKE CHALLENGE"
+image: "https:\/\/i.ytimg.com\/vi\/r4ioCy_Xs8c\/hqdefault.jpg"
+vid_id: "r4ioCy_Xs8c"
+categories: "People-Blogs"
+tags: ["the giant","jamie johal","aka the giant"]
+date: "2021-10-24T17:10:22+03:00"
+vid_date: "2021-10-21T17:00:26Z"
+duration: "PT17M52S"
+viewcount: "7689"
+likeCount: "453"
+dislikeCount: "3"
+channel: "JAMIE CHRISTIAN AKA THE GIANT"
+---
+{% raw %}Wow guys have we got a treat for you today, something completely out of my comfort zone and going against the best in the UK. Leah is no joke, you have to go watch her videos to realise what an absolute savage she is.<br /><br />Wish me luck in this do or di-abeties 12 monster pancake challenge at the Cabin Sheffield.<br /><br />Here goes nothing!!!<br /><br />SUBSCRIBE - <a rel="nofollow" target="blank" href="http://www.youtube.com/channel/UCRhPJmELaT0Oa1iC1YeT_jA?sub_confirmation=1">http://www.youtube.com/channel/UCRhPJmELaT0Oa1iC1YeT_jA?sub_confirmation=1</a><br /><br />👕BRAND NEW TEAM GIANT MERCH - NEW SITE AND MERCH DROP 15-20TH OCTOBER - KEEP A LOOK OUT<br /><br />Follow Leah on her socials @SHUTKEVEROFFICIAL for IG and LEAH SHUTKEVER for YouTube!<br /><br />Leah's video: <a rel="nofollow" target="blank" href="https://youtu.be/EIm_pvsPkwc">https://youtu.be/EIm_pvsPkwc</a><br /><br />And the amazing Cabin Sheffield @thecabinsheffield on IG for some naughty treats on the daily.<br /><br />FOLLOW Jamie Christian-Johal AKA THE GIANT <br />IG - <a rel="nofollow" target="blank" href="https://www.instagram.com/akathegiant/">https://www.instagram.com/akathegiant/</a><br />WEB - <a rel="nofollow" target="blank" href="https://www.team-giant.com/">https://www.team-giant.com/</a><br />FB - <a rel="nofollow" target="blank" href="https://www.facebook.com/Giant.johal/">https://www.facebook.com/Giant.johal/</a><br /><br />Jamie Christian-Johal (AKA THE GIANT) is an IFBB Professional Bodybuilder &amp; standing at 6' 5&quot; is the tallest ever IFBB professional bodybuilder in the world. <br /><br />Jamie is a sponsored athlete of the UK brand RAWR Sports Nutrition and looks forward to providing you with fun and educational content that will have you laughing and learning all the way.<br /><br />Stay tuned for weekly uploads ;)<br /><br />STAGE WEIGHT - 300LB<br />OFF SEASON WEIGHT - 340LB<br /><br />Jamie Johal (aka THE GIANT) has been bodybuilding competitively since 2009, entering a local gym show and caught the bug after his first showing with a stage weight of 200lbs.<br /><br />From there he went on to compete in the UKBFF and won the British Super Heavyweight title in 2015.<br /><br />In 2018 he made it his sole aim to achieve IFBB PRO status and locked up his pro card in Italy that September. Fast forward to October 2020 where he made his pro debut in Spain 100lb heavier than his very first ever outing and continues to improve and add mass to the largest frame in the IFBB. Next stop, Mr Olympia :) #MassWithClass<br /><br />The Giant has landed and is here to make a huge mark 💪 #TeamGiant{% endraw %}
