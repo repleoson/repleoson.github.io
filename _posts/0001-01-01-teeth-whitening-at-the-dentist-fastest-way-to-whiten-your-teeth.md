@@ -1,0 +1,15 @@
+---
+title: "Teeth Whitening At The Dentist | Fastest Way To Whiten Your Teeth"
+image: "https:\/\/i.ytimg.com\/vi\/IE1P9O3myWw\/hqdefault.jpg"
+vid_id: "IE1P9O3myWw"
+categories: "People-Blogs"
+tags: ["In office teeth whitening","professional teeth whitening","whitening teeth at the dentist"]
+date: "2021-10-24T20:21:43+03:00"
+vid_date: "2021-02-18T17:00:14Z"
+duration: "PT4M26S"
+viewcount: "2875025"
+likeCount: "39235"
+dislikeCount: "877"
+channel: "Teeth Talk Girl"
+---
+{% raw %}This video shows what to expect when getting your teeth professionally whitened at the dentist.  If you want white teeth and you want them fast, in-office whitening is probably one of your best options!<br /><br />$20 OFF The Backpack with code: TEETHTALKGIRL<br /><a rel="nofollow" target="blank" href="https://bit.ly/HTxTEETHTALKGIRL">https://bit.ly/HTxTEETHTALKGIRL</a> <br /><br />▶HELP KEEP THIS CONTENT FREE - <a rel="nofollow" target="blank" href="https://www.patreon.com/teethtalkgirl">https://www.patreon.com/teethtalkgirl</a><br /><br />▶3 Ways To Whiten Your Teeth: <a rel="nofollow" target="blank" href="https://youtu.be/M_e2xDcR0yY">https://youtu.be/M_e2xDcR0yY</a><br /><br />▶Whitening Percentages Explained:  <a rel="nofollow" target="blank" href="https://youtu.be/7_4IHhJM9JM">https://youtu.be/7_4IHhJM9JM</a><br /><br />WANT EVEN MORE TEETH TALK?<br />VISIT MY WEBSITE:  <a rel="nofollow" target="blank" href="https://teethtalkgirl.com/videos/teeth-whitening-at-the-dentist-procedure-cost">https://teethtalkgirl.com/videos/teeth-whitening-at-the-dentist-procedure-cost</a><br />#teethwhitening <br />AND FOLLOW MY SOCIAL MEDIA :)<br /><br />▶ INSTAGRAM: <a rel="nofollow" target="blank" href="https://instagram.com/TeethTalkGirl/">https://instagram.com/TeethTalkGirl/</a><br />@TeethTalkGirl<br />▶ FACEBOOK: <a rel="nofollow" target="blank" href="https://facebook.com/TeethTalkGirl/">https://facebook.com/TeethTalkGirl/</a><br />@TeethTalkGirl<br />▶ TWITTER: <a rel="nofollow" target="blank" href="https://twitter.com/TeethTalkGirl">https://twitter.com/TeethTalkGirl</a><br />@TeethTalkGirl<br /><br />▶ VIDEO EQUIPMENT:<br />Camera: Panasonic LUMIX GH5 <br /><a rel="nofollow" target="blank" href="https://amzn.to/37zR3Eo">https://amzn.to/37zR3Eo</a><br />Lights: LimeStudio 700w<br /><a rel="nofollow" target="blank" href="http://amzn.to/2rJ5WAJ">http://amzn.to/2rJ5WAJ</a><br />Sound:  Rode GO<br /><a rel="nofollow" target="blank" href="https://amzn.to/2QBEK3c">https://amzn.to/2QBEK3c</a><br />Editing Software: Finalcut Pro X<br />Background Music: bensound.com<br /><br />▶This video is based on reenactments.  No actual treatment is being performed in this video.<br /><br />***This video does not provide medical advice and is intended for informational purposes only. Always seek the advice of your dentist or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have heard or seen on YouTube.***<br /><br />✌ P E A C E ♥ L O V E ☺ T E E T H ☺{% endraw %}
