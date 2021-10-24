@@ -1,0 +1,15 @@
+---
+title: "World Religions Ranking - Population Growth by Religion (1800-2100)"
+image: "https:\/\/i.ytimg.com\/vi\/q3EneZhsM0Y\/hqdefault.jpg"
+vid_id: "q3EneZhsM0Y"
+categories: "People-Blogs"
+tags: ["religions","religion","world religion"]
+date: "2021-10-24T12:16:35+03:00"
+vid_date: "2019-08-16T16:01:55Z"
+duration: "PT6M15S"
+viewcount: "6275898"
+likeCount: "125873"
+dislikeCount: "15154"
+channel: "Global Stats"
+---
+{% raw %}World Religions Ranking – Population Growth by Religion (1800-2100)<br /><br />This visualization shows the Worlds most followed Religions, and their growth between the years 1800 and 2100. <br /><br />Subscribe for high quality visualizations uploaded every week!<br /><br />See also: <br />Every Nuclear Bomb Explosion in World History : <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=zTTTCM02mY4">https://www.youtube.com/watch?v=zTTTCM02mY4</a><br /><br />Religious groups in this ranking: Christians, Muslims, Hindus, Bhudists, Folk Religions, Jews. Also in this ranking, “Unaffiliated” refering to Agnostics, Atheist, and people who don´t identify with any religion, and “other”, refering to all other religions.<br /><br />------------------------------------------------<br />DISCLAIMER:<br />Welcome to Global Stats. Our aim is to turn a wide variety of data, statistics and information into interesting, high quality videos and images, adding value, motion and an artistic dimension.  We work hard by making this original content. Our videos are not “auto generated”- The process of making our videos involve many steps that are described in our Channel trailer: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=XYMaEYM2g18">https://www.youtube.com/watch?v=XYMaEYM2g18</a> <br /><br />More info at www.globalstats.net<br />------------------------------------------------<br /><br />Data Source:<br /><br />- Statistics and Forecasts for World Religions: 1800-2025, Gordon-Conwell Theological Seminary. <br /><a rel="nofollow" target="blank" href="https://www.researchgate.net/publication/308361629_Status_of_Global_Christianity_2015_in_the_Context_of_1900-2050">https://www.researchgate.net/publication/308361629_Status_of_Global_Christianity_2015_in_the_Context_of_1900-2050</a><br /><br /> - The Future of World Religions: Population Growth Projections, 2010-2050 Conrad Hackett, Alan Cooperman.<br /> <a rel="nofollow" target="blank" href="https://www.pewforum.org/2015/04/02/religious-projections">https://www.pewforum.org/2015/04/02/religious-projections</a><br /><br />-2010-2050/ - The World’s Religions in Figures: An Introduction to International Religious Demography. Todd M. Johnson and Brian J. Grim.<br /><a rel="nofollow" target="blank" href="https://www.amazon.com/Worlds-Religions-Figures-Introduction-International/dp/0470674547">https://www.amazon.com/Worlds-Religions-Figures-Introduction-International/dp/0470674547</a><br /><br />Music: <br />Artist: Scott Buckley<br />Name: Life Is (Creative Commons Attribution 4.0){% endraw %}
