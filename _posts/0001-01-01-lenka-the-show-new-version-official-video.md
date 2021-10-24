@@ -1,0 +1,15 @@
+---
+title: "Lenka - The Show (New Version) (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/elsh3J5lJ6g\/hqdefault.jpg"
+vid_id: "elsh3J5lJ6g"
+categories: "Music"
+tags: ["Lenka The Show","Epic","official"]
+date: "2021-10-24T18:23:55+03:00"
+vid_date: "2009-10-25T07:02:39Z"
+duration: "PT3M56S"
+viewcount: "66053980"
+likeCount: "553236"
+dislikeCount: "10695"
+channel: "LenkaVEVO"
+---
+{% raw %}Lenka's official music video for 'The Show'. Click to listen to Lenka on Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/LenkaSpotify?IQid=LenkaTS">http://smarturl.it/LenkaSpotify?IQid=LenkaTS</a><br /><br />As featured on Lenka. Click to buy the track or album via iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/LenkaAlbum?IQid=LenkaTS">http://smarturl.it/LenkaAlbum?IQid=LenkaTS</a><br />Google Play: <a rel="nofollow" target="blank" href="http://smarturl.it/TheShowGPlay?IQid=LenkaTS">http://smarturl.it/TheShowGPlay?IQid=LenkaTS</a><br />Amazon: <a rel="nofollow" target="blank" href="http://smarturl.it/LenkaAmazon?IQid=LenkaTS">http://smarturl.it/LenkaAmazon?IQid=LenkaTS</a><br /><br />More From Lenka<br />Heart Skips A Beat: <a rel="nofollow" target="blank" href="https://youtu.be/DW8rg6XeP3U">https://youtu.be/DW8rg6XeP3U</a><br />Trouble Is A Friend: <a rel="nofollow" target="blank" href="https://youtu.be/QHpvlr_kG6U">https://youtu.be/QHpvlr_kG6U</a><br />Everything At Once: <a rel="nofollow" target="blank" href="https://youtu.be/eE9tV1WGTgE">https://youtu.be/eE9tV1WGTgE</a><br /><br />More great 00s videos here: <a rel="nofollow" target="blank" href="http://smarturl.it/Ultimate00?IQid=LenkaTS">http://smarturl.it/Ultimate00?IQid=LenkaTS</a><br /><br />Follow Lenka<br />Website: <a rel="nofollow" target="blank" href="http://lenkamusic.com/">http://lenkamusic.com/</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/lenka">https://www.facebook.com/lenka</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/lenkamusic">https://twitter.com/lenkamusic</a><br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/lenkamusic/">https://instagram.com/lenkamusic/</a><br /><br /><br />Subscribe to Lenka on YouTube: <a rel="nofollow" target="blank" href="http://smarturl.it/LenkaSub?IQid=LenkaTS">http://smarturl.it/LenkaSub?IQid=LenkaTS</a><br /><br />---------<br /><br />Lyrics:<br /><br />I'm just a little bit caught in the middle<br />Life is a maze and love is a riddle<br />I don't know where to go I can't do it alone I've tried<br />And I don't know why<br /><br />Slow it down<br />Make it stop<br />Or else my heart is going to pop<br />'Cause it's too much<br />Yeah, it's a lot<br />To be something I'm not<br /><br />I'm a fool<br />Out of love<br />'Cause I just can't get enough<br /><br />I'm just a little bit caught in the middle<br />Life is a maze and love is a riddle<br />I don't know where to go I can't do it alone I've tried<br />And I don't know why<br /><br />#Lenka #TheShow #Vevo{% endraw %}
