@@ -1,0 +1,15 @@
+---
+title: "I Stole my Friends Among Us Statue"
+image: "https:\/\/i.ytimg.com\/vi\/uWSUnZ_exoM\/hqdefault.jpg"
+vid_id: "uWSUnZ_exoM"
+categories: "Gaming"
+tags: ["rekrap2","rekrap","rek"]
+date: "2021-10-24T23:41:25+03:00"
+vid_date: "2021-10-23T14:00:32Z"
+duration: "PT17M38S"
+viewcount: "491375"
+likeCount: "16522"
+dislikeCount: "251"
+channel: "rekrap2"
+---
+{% raw %}I stole my Friends Among Us statue, and it started a whole detective case that I got wrapped up in. This one's a good one. Enjoy!<br /><br />People I play with:<br />   • A Civilian: <a rel="nofollow" target="blank" href="https://bit.ly/3emZTsz">https://bit.ly/3emZTsz</a><br />   •Branzy: <a rel="nofollow" target="blank" href="https://bit.ly/2CtyDvj">https://bit.ly/2CtyDvj</a> <br />   •Cakeman: <a rel="nofollow" target="blank" href="https://bit.ly/3vnEdGb">https://bit.ly/3vnEdGb</a><br />   •CeylaPlays: <a rel="nofollow" target="blank" href="https://bit.ly/2DC4NFt">https://bit.ly/2DC4NFt</a> <br />   •DcDeckard: <a rel="nofollow" target="blank" href="https://bit.ly/2WcpaPU">https://bit.ly/2WcpaPU</a> <br />   •DylanRhyne: <a rel="nofollow" target="blank" href="https://bit.ly/3viIaM9">https://bit.ly/3viIaM9</a><br />   •Iconic Bluejay: <a rel="nofollow" target="blank" href="https://bit.ly/3foevLY">https://bit.ly/3foevLY</a><br />   •Lagging_Daze: <a rel="nofollow" target="blank" href="https://bit.ly/2ZmiBMz">https://bit.ly/2ZmiBMz</a> <br />   •Lucid: <a rel="nofollow" target="blank" href="https://bit.ly/2C3RcWX">https://bit.ly/2C3RcWX</a> <br />   •Madtiger416: <a rel="nofollow" target="blank" href="https://bit.ly/2TbbTIE">https://bit.ly/2TbbTIE</a><br />   •MattyPixel: <a rel="nofollow" target="blank" href="https://bit.ly/3enLfBt">https://bit.ly/3enLfBt</a> <br />   •Miyukina: <a rel="nofollow" target="blank" href="https://bit.ly/300JVPL">https://bit.ly/300JVPL</a> <br />   •MrRedClaw: <a rel="nofollow" target="blank" href="https://bit.ly/2W7qe7J">https://bit.ly/2W7qe7J</a> <br />   •Souli Layce: <a rel="nofollow" target="blank" href="https://bit.ly/3fF1Rac">https://bit.ly/3fF1Rac</a><br />   •That Chief Guy: <a rel="nofollow" target="blank" href="https://bit.ly/3oSE6Qv">https://bit.ly/3oSE6Qv</a><br />   •SkillsNoLogic: <a rel="nofollow" target="blank" href="https://bit.ly/2RNOyfJ">https://bit.ly/2RNOyfJ</a><br />   •Skyelre: <a rel="nofollow" target="blank" href="https://bit.ly/3oP2r9M">https://bit.ly/3oP2r9M</a><br />   •ZL: <a rel="nofollow" target="blank" href="https://bit.ly/2QS2MMb">https://bit.ly/2QS2MMb</a><br /><br />Where I get my music: <a rel="nofollow" target="blank" href="https://www.epidemicsound.com/referral/hdky6e/">https://www.epidemicsound.com/referral/hdky6e/</a><br />-Epidemic sound-        referal link ⬆<br /><br />~FAQ~<br />Q: Where do you get your music?<br />A: Epidemic sound<br />Q: Is your name really Parker?<br />A: yup. rekrap spelled backwards<br />Q: What editing software do you use?<br />A: Adobe Premiere <br /><br />twitch.tv/rekrap22<br />Echocraft Discord: <a rel="nofollow" target="blank" href="https://discord.gg/UeGTsBdytX">https://discord.gg/UeGTsBdytX</a><br />Patreon: patreon.com/rekrap2{% endraw %}
