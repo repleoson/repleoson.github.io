@@ -1,0 +1,15 @@
+---
+title: "Jamie Miller - Here's Your Perfect (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/cRi-x2r88no\/hqdefault.jpg"
+vid_id: "cRi-x2r88no"
+categories: "Music"
+tags: ["Jamie Miller","Hold You 'Til We're Old","Jamie Miller TikTok"]
+date: "2021-10-24T14:07:19+03:00"
+vid_date: "2021-04-30T14:00:15Z"
+duration: "PT2M50S"
+viewcount: "58542559"
+likeCount: "1003923"
+dislikeCount: "9677"
+channel: "Jamie Miller"
+---
+{% raw %}Download/stream 'Here's Your Perfect': <a rel="nofollow" target="blank" href="https://JamieMiller.lnk.to/HeresYourPerfectID">https://JamieMiller.lnk.to/HeresYourPerfectID</a><br /><br />Subscribe to Jamie's channel: <a rel="nofollow" target="blank" href="https://JamieMiller.lnk.to/SubscribeID">https://JamieMiller.lnk.to/SubscribeID</a><br /><br />Join Jamie's mailing list: <a rel="nofollow" target="blank" href="https://www.jamiemillermusic.com/">https://www.jamiemillermusic.com/</a><br /><br />Lyrics: <br />I remember the day, even wrote down the date, that I fell for you<br />Now it’s crossed out in red but I still can’t forget if I wanted to<br />And it drives me insane, think I’m hearing your name everywhere I go<br />But it’s all in my head<br />It’s just all in my head<br /><br />But you won’t see me break, call you up in three days<br />Send you a bouquet, sayin’ it’s a mistake<br />Drink my troubles away, one more glass of champagne<br />And you know<br /><br />I’m the first to say that I’m not perfect<br />And you’re the first to say you want the best thing<br />But now I know a perfect way to let you go<br />Give my last hello, hope it’s worth it<br />Here’s your perfect<br /><br />My best was just fine, <br />I tried, I tried to be great for you<br />I’m flawed by design and you love to remind me no matter what I do<br /><br />But you won’t see me break, call you up in three days, oh<br />Send you a bouquet, sayin’ it’s a mistake<br />Drink my troubles away, one more glass of champagne<br />And you know<br /><br />I’m the first to say that I’m not perfect<br />And you’re the first to say you want the best thing<br />But now I know a perfect way to let you go<br />Give my last hello, hope it’s worth it<br /><br />I’m the first to say that I’m not perfect<br />And you’re the first to say you want the best thing<br />But now I know a perfect way to let you go<br />Give my last hello, hope it’s worth it<br /><br />Say yeah<br /><br />But now I know a perfect way to let you go<br />Give my last hello, hope it’s worth it<br />Here’s your perfect<br /><br />Follow Jamie Miller<br /><a rel="nofollow" target="blank" href="http://www.facebook.com/jamiemillmusic">http://www.facebook.com/jamiemillmusic</a><br /><a rel="nofollow" target="blank" href="http://www.twitter.com/jamiemillmusic">http://www.twitter.com/jamiemillmusic</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/jamiemillmusic">https://www.instagram.com/jamiemillmusic</a><br /><a rel="nofollow" target="blank" href="https://www.tiktok.com/@jamiemillmusic">https://www.tiktok.com/@jamiemillmusic</a><br /><br />#JamieMiller #HeresYourPerfect #OfficialVideo{% endraw %}
