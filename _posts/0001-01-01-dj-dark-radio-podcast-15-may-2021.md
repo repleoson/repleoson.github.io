@@ -1,0 +1,15 @@
+---
+title: "Dj Dark @ Radio Podcast (15 May 2021)"
+image: "https:\/\/i.ytimg.com\/vi\/6Aljnq7rnDg\/hqdefault.jpg"
+vid_id: "6Aljnq7rnDg"
+categories: "Music"
+tags: ["Dj Dark @ Radio Podcast (15 May 2021)","mixuri Dj Dark","muzica noua"]
+date: "2021-10-24T11:54:49+03:00"
+vid_date: "2021-05-15T16:40:02Z"
+duration: "PT57M15S"
+viewcount: "297961"
+likeCount: "2324"
+dislikeCount: "79"
+channel: "Dj Dark"
+---
+{% raw %}▶  Subscribe &amp; turn ON the 🔔 : <a rel="nofollow" target="blank" href="https://short.djdark.ro/subscribe">https://short.djdark.ro/subscribe</a><br />▶ 💰 Donate: <a rel="nofollow" target="blank" href="https://short.djdark.ro/donate">https://short.djdark.ro/donate</a><br />▶  Download + Tracklist: <a rel="nofollow" target="blank" href="https://djdark.ro/?p=14965">https://djdark.ro/?p=14965</a><br /><br />✈ Booking: +4 0723 548 116 / booking@bestshow.ro<br />☑️ Listen on Soundcloud: <a rel="nofollow" target="blank" href="https://short.djdark.ro/djdark15may">https://short.djdark.ro/djdark15may</a><br />☑️ Download: <a rel="nofollow" target="blank" href="https://short.djdark.ro/djdark15mayyt">https://short.djdark.ro/djdark15mayyt</a><br /><br />↪︎ Follow Dj Dark:<br /><a rel="nofollow" target="blank" href="https://short.djdark.ro/socials">https://short.djdark.ro/socials</a><br /><br />↪︎ Tracklist:<br />00:00 Alina Eremia - Dependenta mea (Dj Dark &amp; Mentol Remix)<br />03:02 Purple Disco Machine, Sophie and the Giants - Hypnotized (Lori B. Bootleg)<br />06:23 Diplo x Major Lazer x Fisher - On My Mind (F.N.C JUMP UP)<br />09:59 T-Pain &amp; Flo Rida Vs DMNDS, ft.Nito Onna - Calabria (Zelaa Low Slap House Edit)<br />11:52 R3hab &amp; Fafaq &amp; Dnf &amp; ATB &amp; Topic &amp; A7S - Your Love x Ringtone x Breaking Me (Cenk Bayrak Edit)<br />15:20 Royal Gigolos - California Dreamin' (Jenia Smile &amp; Ser Twister Remix)<br />18:27 Alizée - Moi... Lolita (Ayur Tsyrenov Remix)<br />21:57 Mahmut Orhan &amp; Sena Sener - Fly Above (Dj Dark &amp; Mentol Remix)<br />24:48 Joel Corry, RAYE &amp; David Guetta - BED (Oliver Nelson Remix)<br />28:24 Purple Disco Machine ft.Moss Kena &amp; The Knocks - Fireworks (Extended Mix)<br />32:44 Mark Stam ft.Sore - E Ok (Adrian Funk X OLiX Remix)<br />36:03 INNA - Flashbacks (Dj Dark &amp; Mentol Remix)<br />39:02 Arash ft.Helena - Angels Lullaby (Leo Burn Remix)<br />41:43 Sonny Fodera, Just Kiddin, Lilly Ahlberg - Closer (Extended Mix)<br />44:55 Manuel Grandi - It's Not Right But It's Ok (Yvvan Back, JL, Zetaphunk, Silk Remix)<br />48:51 Dj Dark &amp; Mentol - Porto (Extended)<br />52:14 Robert Cristian - Get Down Low (Original Mix)<br />54:24 Julian Kid - Wanna Be (Extended Mix)<br /><br />_________________________________________________________________<br />🚫 If you have any problem with copyright issues, or question please do not report me, take your time to contact us via mail, and i will respond within 48h - <br />💌 contact@djdark.ro 💌<br /><br />#djdark​​​​​​​​​​ #radio​​​​​​​​​​ #podcast{% endraw %}
