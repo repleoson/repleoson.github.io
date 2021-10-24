@@ -1,0 +1,15 @@
+---
+title: "KSI – No Time (feat. Lil Durk) [Official Video]"
+image: "https:\/\/i.ytimg.com\/vi\/uvSZZVPvoNA\/hqdefault.jpg"
+vid_id: "uvSZZVPvoNA"
+categories: "Music"
+tags: ["ksi","lil durk","lil durk ksi"]
+date: "2021-10-25T00:36:26+03:00"
+vid_date: "2021-10-22T15:00:25Z"
+duration: "PT3M4S"
+viewcount: "1187767"
+likeCount: "163721"
+dislikeCount: "1890"
+channel: "KSI"
+---
+{% raw %}ALL OVER THE PLACE OUT NOW: <a rel="nofollow" target="blank" href="https://ksi.lnk.to/AllLinks">https://ksi.lnk.to/AllLinks</a><br /> <br />MY SHOP: <a rel="nofollow" target="blank" href="https://shopksi.com/">https://shopksi.com/</a><br /> <br />Watch more from All Over The Place: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list...">https://www.youtube.com/playlist?list...</a><br /> <br />Follow KSI<br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/ksi/">https://www.instagram.com/ksi/</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/KSIOlajidebt/">https://www.facebook.com/KSIOlajidebt/</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/KSI?ref_src=twsrc...">https://twitter.com/KSI?ref_src=twsrc...</a><br />TikTok: <a rel="nofollow" target="blank" href="https://www.tiktok.com/@ksi?lang=en">https://www.tiktok.com/@ksi?lang=en</a><br />Spotify: <a rel="nofollow" target="blank" href="https://open.spotify.com/artist/1nzgt...">https://open.spotify.com/artist/1nzgt...</a><br /> <br />Follow Lil Durk<br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/lildurk/?hl=en">https://www.instagram.com/lildurk/?hl=en</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/lildurk">https://www.facebook.com/lildurk</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/lildurk?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">https://twitter.com/lildurk?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor</a><br />TikTok: <a rel="nofollow" target="blank" href="https://www.tiktok.com/@lildurk?lang=en">https://www.tiktok.com/@lildurk?lang=en</a><br />Spotify: <a rel="nofollow" target="blank" href="https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7?si=7LoEts6dQg2Ckazpls9h4g">https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7?si=7LoEts6dQg2Ckazpls9h4g</a><br /> <br />Directed and Animated by @KDCVisions<br /><br />Executive Producer<br />Peter Jideonwo<br />Grade A<br /> <br />Producer<br />JaJa Kisses<br /> <br />Concept Art<br />Josh Okunola <br />Sam Jones<br />Caleb Smith<br /> <br />Modelling Team<br />Sina Piruzfar<br />Ludovic Habas<br />Cameron Mundy<br /><br />Visual Effects<br />Quivko<br />iana1<br /> <br />Management: Mams Taylor - mams@properloud.com <a rel="nofollow" target="blank" href="https://www.properloud.com/">https://www.properloud.com/</a><br /> <br />RBC Records - <a rel="nofollow" target="blank" href="https://rbcrecords.com/">https://rbcrecords.com/</a><br />BMG - <a rel="nofollow" target="blank" href="https://www.bmg.com/us/">https://www.bmg.com/us/</a><br /> <br />#KSI #LilDurk #NoTime{% endraw %}
