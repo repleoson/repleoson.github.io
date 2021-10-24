@@ -1,0 +1,15 @@
+---
+title: "جرثومة المعدة وعلاجها وليد سرحان من بلد السويد"
+image: "https:\/\/i.ytimg.com\/vi\/bkB4WCuTAXU\/hqdefault.jpg"
+vid_id: "bkB4WCuTAXU"
+categories: "Education"
+tags: ["نضارة البشرة","تجميل","شباب"]
+date: "2021-10-24T23:35:57+03:00"
+vid_date: "2021-10-24T19:50:04Z"
+duration: "PT9M52S"
+viewcount: "575"
+likeCount: "214"
+dislikeCount: "3"
+channel: "الدكتور وليد سرحان استشاري امراض القلب في السويد"
+---
+{% raw %}التدريب على دوره سلامة قلبك المجانيه مع تدريب مجاني للحفاظ على صحتك والروابط في الاسفل حسب الاقامه والسكن دورة سلامة قلبك في العراق <br /><br /><a rel="nofollow" target="blank" href="https://t.me/IMIsweden">https://t.me/IMIsweden</a><br /><br />دوره سلامة قلبك في استراليا و نيوزلندا  <br /><br /><a rel="nofollow" target="blank" href="https://t.me/joinchat/r2Wlp5t7zYQzODk0">https://t.me/joinchat/r2Wlp5t7zYQzODk0</a><br /><br />دورة سلامة قلبك في اسيا وافريقيا <br /><br /><a rel="nofollow" target="blank" href="https://t.me/joinchat/fsmov602gkxlNmU0">https://t.me/joinchat/fsmov602gkxlNmU0</a><br /><br />دورة سلامة قلبك في الشرق العربي <br /><br /><a rel="nofollow" target="blank" href="https://t.me/joinchat/BZ_O_lMWpQ1lZTg0">https://t.me/joinchat/BZ_O_lMWpQ1lZTg0</a><br /><br />دورة سلامة قلبك في اوربا <br /><br /><a rel="nofollow" target="blank" href="https://t.me/joinchat/GVQEHi9wdBc2ZDM0">https://t.me/joinchat/GVQEHi9wdBc2ZDM0</a><br /><br />دورة سلامة قلبك في امريكا وكندا <br /><br /><a rel="nofollow" target="blank" href="https://t.me/joinchat/XVz3-YSuhtZmMzA0">https://t.me/joinchat/XVz3-YSuhtZmMzA0</a><br /><br />دورة سلامة قلبك في المغرب العربي وشمال افريقيا <br /><br /><a rel="nofollow" target="blank" href="https://t.me/joinchat/6m1lRYRDHykwMDE0✅الاستشارة">https://t.me/joinchat/6m1lRYRDHykwMDE0✅الاستشارة</a> المحانيه كل يوم الساعه ١٠  مساءا بتوقيت بغداد في البث المباشر في رابط القناة<br /><br /><a rel="nofollow" target="blank" href="https://tinyurl.com/n72j6ruc">https://tinyurl.com/n72j6ruc</a><br /><br />✅مريض السويد يتصل بالرقم 0705558157 <br /><br /><a rel="nofollow" target="blank" href="https://t.me/IMIsweden">https://t.me/IMIsweden</a> ✅التلكرام مع مدرب مجانا <br /><br /><br />✅صفحة الفيس بوك<br /><a rel="nofollow" target="blank" href="https://www.facebook.com/International.Medical.Institution.AB/">https://www.facebook.com/International.Medical.Institution.AB/</a><br /><br />✅تيك توك <br /><a rel="nofollow" target="blank" href="https://vm.tiktok.com/ZS3Kp1xa/">https://vm.tiktok.com/ZS3Kp1xa/</a><br /><br />✅الانستجرام<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/dr.waleedsurhan/">https://www.instagram.com/dr.waleedsurhan/</a><br />✅سناب جات<br /><br />✅دوره سلامة قلبك. الطبعة الاولى<br />‏ <a rel="nofollow" target="blank" href="https://tinyurl.com/yvnnnppc">https://tinyurl.com/yvnnnppc</a><br /><br />✅دوره سلامة قلبك الطبعه الثانيه<br />‏ <a rel="nofollow" target="blank" href="https://tinyurl.com/pyhy5htz">https://tinyurl.com/pyhy5htz</a><br /><br />✅الدورة السويدية  للصحة #الدورة_السويدية #وليد_سرحان<br />‏ <a rel="nofollow" target="blank" href="https://tinyurl.com/5amh4smn">https://tinyurl.com/5amh4smn</a>{% endraw %}
