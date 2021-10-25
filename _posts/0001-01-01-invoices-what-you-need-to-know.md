@@ -1,0 +1,15 @@
+---
+title: "Invoices: What You NEED TO KNOW"
+image: "https:\/\/i.ytimg.com\/vi\/O6qtAT_SnIM\/hqdefault.jpg"
+vid_id: "O6qtAT_SnIM"
+categories: "Education"
+tags: ["what is an invoice","invoice for beginners","invoice terms"]
+date: "2021-10-25T12:19:53+03:00"
+vid_date: "2019-01-28T04:46:48Z"
+duration: "PT6M54S"
+viewcount: "246219"
+likeCount: "7142"
+dislikeCount: "136"
+channel: "Accounting Stuff"
+---
+{% raw %}🔴Subscribe for more Accounting Tutorials → <a rel="nofollow" target="blank" href="https://geni.us/subtothechannel">https://geni.us/subtothechannel</a><br /><br />Everything you need to know about the Invoice. In this episode of Accounting Basics you'll learn what an Invoice is, why it's important and what's typical invoice format.<br /><br />Invoicing is an essential part of any business whether you're working for yourself or for a corporation.  If you want to get paid you've got to know what an Invoice is and how to use it.<br /><br />In this Invoice tutorial, you'll discover the key features of an Invoice template.  Invoice number, date and amount?  All of these Invoice terms will be explained in full.<br /><br />⏱️TIMESTAMPS<br />00:00 - Intro<br />00:50 - What is an Invoice?<br />01:48 - Why are Invoices important?<br />02:41 - What do Invoices look like?<br />04:55 - When to Invoice?<br />05:09 - Invoices vs Receipts<br />05:30 - Sales Invoice vs Supplier Invoice vs Purchase Invoice<br />05:50 - Are Invoices legally binding?<br /><br />🔝 CLOUD ACCOUNTING SOFTWARE<br />▪ QuickBooks Online USA (FREE TRIAL/DISCOUNT) → <a rel="nofollow" target="blank" href="http://geni.us/jA9N">http://geni.us/jA9N</a><br />▪ QuickBooks Online Canada (FREE TRIAL/DISCOUNT) → <a rel="nofollow" target="blank" href="https://geni.us/bNN7">https://geni.us/bNN7</a><br />▪ Xero → <a rel="nofollow" target="blank" href="https://www.xero.com/">https://www.xero.com/</a><br />▪ FreshBooks → <a rel="nofollow" target="blank" href="https://www.freshbooks.com/">https://www.freshbooks.com/</a><br /><br />🔎FAQ<br />▪ My Favourite Accounting Book for Beginners → <a rel="nofollow" target="blank" href="http://geni.us/5mKR7m">http://geni.us/5mKR7m</a><br /><br />🚶FOLLOW ME ON<br />▪ Insta → <a rel="nofollow" target="blank" href="https://www.instagram.com/accountingstuff">https://www.instagram.com/accountingstuff</a><br />▪ Twitter → <a rel="nofollow" target="blank" href="https://twitter.com/AccountantStuff">https://twitter.com/AccountantStuff</a><br /><br />🎬LEARN ACCOUNTING BASICS FOR FREE<br />▪ The Full Playlist → <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PL5zKSeS09l339nB6ujJPQ9Rsv99_b-aTb">https://www.youtube.com/playlist?list=PL5zKSeS09l339nB6ujJPQ9Rsv99_b-aTb</a><br />________________________<br />DISCLAIMER <br /><br />Some of the links above are affiliate links, where I earn a small commission if you click on the link and purchase an item. You are not obligated to do so, but it does help fund these videos in hopes of bringing value to you! <br />________________________<br /><br />#invoice #accountingbasics #accountingstuff{% endraw %}
