@@ -1,0 +1,15 @@
+---
+title: "I’d Rather - Luther Vandross (REYNE COVER)"
+image: "https:\/\/i.ytimg.com\/vi\/Kyk5nLG28JM\/hqdefault.jpg"
+vid_id: "Kyk5nLG28JM"
+categories: "Music"
+tags: ["Cover","Remix","Mix"]
+date: "2021-10-26T06:17:36+03:00"
+vid_date: "2021-05-24T01:32:49Z"
+duration: "PT3M53S"
+viewcount: "4156449"
+likeCount: "29518"
+dislikeCount: "793"
+channel: "REYNE"
+---
+{% raw %}Buy my New Merch Online! <br /><a rel="nofollow" target="blank" href="https://teespring.com/stores/iamme-7">https://teespring.com/stores/iamme-7</a><br /><br />Stream my music with the link below!<br /><a rel="nofollow" target="blank" href="https://linktr.ee/Reynelabarrete">https://linktr.ee/Reynelabarrete</a><br /><br />Follow me! <br />IG: @reynelabarrete<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/reynelabarrete/?hl=en">https://www.instagram.com/reynelabarrete/?hl=en</a><br />Facebook: @REYNEOFFICIAL<br /><a rel="nofollow" target="blank" href="https://www.facebook.com/REYNEOFFICIAL">https://www.facebook.com/REYNEOFFICIAL</a><br />Tiktok: @reynelabarrete<br /><a rel="nofollow" target="blank" href="https://vm.tiktok.com/ZMJmMSUV3/">https://vm.tiktok.com/ZMJmMSUV3/</a><br /><br />Contact Info:<br />reyne.laba@gmail.com<br /><br />LYRICS:<br />I thought sometime alone<br />Was what we really needed<br />You said this time would hurt more than it helps<br />But I couldn't see that<br />I thought it was the end<br />Of a beautiful story<br />And so I left the one I loved at home to be alone<br /><br />And I tried and found<br />Out this one thing is true<br />That I'm nothing without you<br />I know better now<br />And I've had a change of heart<br /><br />I'd rather have bad times with you, than good times with someone else<br />I'd rather be beside you in a storm, than safe and warm by myself<br />I'd rather have hard times together, than to have it easy apart<br />I'd rather have the one who holds my heart<br />Whoo-oo-oo-oo yeah<br /><br />And then I met someone<br />And thought she could replace you<br />We got a long just fine<br />We wasted time because she was not you<br />We had a lot of fun<br />Though we knew we were faking<br />Love was not impressed with our connection built on lies, all lies<br /><br />So I'm here cause I found this one thing is true<br />That I'm nothing without you<br />I know better now<br />And I've had a change of heart<br /><br />I'd rather have bad times with you, than good times with someone else<br />I'd rather be beside you in a storm, than safe and warm by myself<br />I'd rather have hard times together, than to have it easy apart<br />I'd rather have the one who holds my heart<br />Who holds my heart<br /><br />I can't blame you if you turn away from me, like I've done you,<br />I can only prove the things I say with time,<br />Please be mine,<br /><br />I'd rather have bad times with you, than good times with someone else<br />I'd rather be beside you in a storm, than safe and warm by myself<br />I'd rather have hard times together, than to have it easy apart<br />I'd rather have the one who holds my heart,<br />I'd rather have the one who holds my heart..{% endraw %}
