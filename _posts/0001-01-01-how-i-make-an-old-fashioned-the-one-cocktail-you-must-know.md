@@ -1,0 +1,15 @@
+---
+title: "How I Make an Old Fashioned | the ONE cocktail you must know"
+image: "https:\/\/i.ytimg.com\/vi\/pdcrJ5V7YKM\/hqdefault.jpg"
+vid_id: "pdcrJ5V7YKM"
+categories: "People-Blogs"
+tags: ["make an old fashioned","old fashioned","old fashioned cocktail"]
+date: "2021-10-26T09:47:00+03:00"
+vid_date: "2020-05-22T16:00:35Z"
+duration: "PT5M32S"
+viewcount: "819668"
+likeCount: "27789"
+dislikeCount: "492"
+channel: "Anders Erickson"
+---
+{% raw %}We're going back to the original cocktail! In this video, I make an old fashioned. With numerous variations, every bartender’s old fashioned varies from the next. Here’s a recipe I love.<br /><br />For more on the topic, I recommend the book <br />THE OLD FASHIONED, by Robert Simonson.<br /><a rel="nofollow" target="blank" href="https://amzn.to/2VmB60v">https://amzn.to/2VmB60v</a><br /><br />Cheers!<br /><br />TIME STAMPS<br />Intro: 0:00<br />The Booze: 1:59<br />The Recipe: 2:34<br />Sips &amp; Sign Off: 4:36<br /><br />THE RECIPE<br />2 oz. (60 ml) Colonel E.H. Taylor Small Batch Bourbon<br />0.25 oz. (7.5 ml) rich Demerara syrup*<br />4 dashes Angostura bitters<br />1 small piece of orange<br />Orange and cocktail cherry for garnish<br /><br />*RICH DEMERARA SYRUP RECIPE<br />In a small sauce pan, combine 2 parts Demerara sugar and 1 part water. Stir over heat until sugar is completely dissolved. Remove from heat and let cool.<br /><br />THE TOOLS<br />My workhorse double jigger: <a rel="nofollow" target="blank" href="https://amzn.to/3lmmKrK">https://amzn.to/3lmmKrK</a><br />My favorite mixing glass: <a rel="nofollow" target="blank" href="https://amzn.to/2ZhoJbk">https://amzn.to/2ZhoJbk</a><br />Bar spoon: <a rel="nofollow" target="blank" href="https://amzn.to/3D02IMQ">https://amzn.to/3D02IMQ</a><br />Julep strainer: <a rel="nofollow" target="blank" href="https://amzn.to/3mymEyA">https://amzn.to/3mymEyA</a><br />Peeler: <a rel="nofollow" target="blank" href="https://amzn.to/36tNxOo">https://amzn.to/36tNxOo</a><br />Pitchfork ice pick: <a rel="nofollow" target="blank" href="https://amzn.to/3B3dOQu">https://amzn.to/3B3dOQu</a><br />Ice tongs: <a rel="nofollow" target="blank" href="https://amzn.to/3cvNYLE">https://amzn.to/3cvNYLE</a><br />Rubber bar mat (6&quot;x12&quot;): <a rel="nofollow" target="blank" href="https://amzn.to/3h2IJER">https://amzn.to/3h2IJER</a><br /><br />As an Amazon Associate I earn from qualifying purchases. I get commissions for purchases made through links in this post.<br /><br />Follow Me:<br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/anderserickson/">https://www.instagram.com/anderserickson/</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/anderserickson_">https://twitter.com/anderserickson_</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/andersericksoncocktails">https://www.facebook.com/andersericksoncocktails</a><br /><br />Co-produced with the lovely Azusa &quot;Az&quot; Inaba 🎥 🎨{% endraw %}
