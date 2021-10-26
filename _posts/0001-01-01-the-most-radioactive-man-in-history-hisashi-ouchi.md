@@ -1,0 +1,15 @@
+---
+title: "The Most Radioactive Man in History - Hisashi Ouchi"
+image: "https:\/\/i.ytimg.com\/vi\/2TxLrfdMKWY\/hqdefault.jpg"
+vid_id: "2TxLrfdMKWY"
+categories: "Film-Animation"
+tags: ["Most radioactive man in history","most radiactive man in history","most radioactive man in hstory"]
+date: "2021-10-26T15:29:46+03:00"
+vid_date: "2021-01-01T20:10:50Z"
+duration: "PT21M30S"
+viewcount: "4191274"
+likeCount: "121931"
+dislikeCount: "2255"
+channel: "Peaked Interest"
+---
+{% raw %}What happened to the most radioactive man in history? <br /><br />This is the second episode in my series examining horrific true stories and true crimes from around the world. <br /><br />A japanese man named Hisashi Ouchi was involved in an accident in which he was blasted with radiation. The dose was the highest any single living human had received in history. His harrowing experience after is a story of suffering no man, woman, child or animal should ever experience. <br /><br />This video is exploring the terrifying experience of Ouchi and the medical team which desperately fought to save his life and reduce his suffering. <br /><br />*Correction - during the section discussing how nuclear fuel rods are made the on screen graphics are incorrect. the formulas stated on screen are an error. I also address this error in the following podcast <a rel="nofollow" target="blank" href="https://youtu.be/nwC6kLTWKG8.">https://youtu.be/nwC6kLTWKG8.</a> thanks to the commenters for pointing this out <br /><br />#truecrime #truestory<br />New Merchandise and website - <a rel="nofollow" target="blank" href="https://nevadabaron.wixsite.com/peakedinterestgear">https://nevadabaron.wixsite.com/peakedinterestgear</a><br /><br />♦Support the Channel - <br /><a rel="nofollow" target="blank" href="https://.patreon.com/ThatMovieShow">https://.patreon.com/ThatMovieShow</a><br /><a rel="nofollow" target="blank" href="https://.paypal.me/nevadaleebaron">https://.paypal.me/nevadaleebaron</a> <br />-----------------------------------------------------------------------------------------------------------------------<br />♦Accident or Murder - <a rel="nofollow" target="blank" href="https://youtu.be/3OPhUt_XJ6Q">https://youtu.be/3OPhUt_XJ6Q</a><br />-----------------------------------------------------------------------------------------------------------------------<br />♦Other YouTuber Videos<br /><a rel="nofollow" target="blank" href="https://youtu.be/tfys1qUSYn0">https://youtu.be/tfys1qUSYn0</a> - Injustice System<br /><a rel="nofollow" target="blank" href="https://youtu.be/X9WfY6BSOtI">https://youtu.be/X9WfY6BSOtI</a> - Oliver Harper<br /><a rel="nofollow" target="blank" href="https://youtu.be/MrE1IJoS6H8">https://youtu.be/MrE1IJoS6H8</a> - PewdiePie<br />------------------------------------------------------------------------------------------------------------------------<br />♦Social Media<br />www.twitter.com/Peaked1nterest<br />www.facebook.com/ThatMovieShow<br />__________________________________________________________________________{% endraw %}
