@@ -1,0 +1,15 @@
+---
+title: "THE STUDENTS - \"EVERY DAY OF THE WEEK\"  (1958)"
+image: "https:\/\/i.ytimg.com\/vi\/wS6WaUGgxA8\/hqdefault.jpg"
+vid_id: "wS6WaUGgxA8"
+categories: "Entertainment"
+tags: ["THE STUDENTS","EVERY DAY OF THE WEEK","(1958)"]
+date: "2021-10-26T08:08:15+03:00"
+vid_date: "2013-11-08T05:45:25Z"
+duration: "PT2M32S"
+viewcount: "126714"
+likeCount: "1512"
+dislikeCount: "21"
+channel: "MANNY MORA"
+---
+{% raw %}Teen R&amp;B vocal group the Students formed in Cincinnati in 1956 -- according to Marv Goldberg's profile in the June 2000 issue of Discoveries, lead Leroy King, first tenor Dorsey Porter, second tenor Roy Ford, baritone John Bolden, bass Richard Johnson, and guitarist Ralph Byrd all met while attending Samuel Ach Junior High School. For the first two years of its existence the group performed as the D'Italians, and after a winning a series of local talent shows caught the attention of Otis Williams &amp; the Charms, at that time Cincinnati's most popular R&amp;B act. Williams not only helped the D'Italians land gigs but also brought them to the attention of Chess Records distributor Mel Herman, and in mid-1958 they signed to Chess' Checkerboard subsidiary. At Herman's urging, they rechristened themselves the Students before traveling to Chess' Chicago studio to cut their debut single, &quot;I'm So Young,&quot; a song given to them by writer William &quot;Prez&quot; Tyus, a local high schooler.<br /><br />For reasons unknown, &quot;I'm So Young&quot; appeared on both Checker and the tiny Note label at virtually the same time, becoming a hit throughout much of the Midwest. Its success enabled the Students to tour, and in the fall of 1958 they spent a week at New York City's legendary Apollo Theater. The following spring the Students returned to Chicago to record their sophomore release, &quot;My Vow to You&quot; -- this time, only a Note release was in the cards, but the quintet nevertheless spent the summer touring the U.S. as part of the All-American Shows tent revue. Minus Byrd, whose exit prompted the addition of guitarist Wilbur Longmeier, the Students began preparing for their third single in late 1959. After turning down an unreleased demo called &quot;Cathy's Clown&quot; (later a massive hit for the Everly Brothers), the group opted to record versions of &quot;Misty&quot; and &quot;If I Were King&quot; in a modern harmony style that did not appeal to Chess, which declined to release the single and released the group from its contract instead.<br /><br />Without the Students' knowledge, Chess' Argo subsidiary reissued &quot;I'm So Young&quot; in 1961, scoring a national Top 40 R&amp;B hit in the process. The group was oblivious to this unexpected revival, however, playing only the occasional gig before splitting the following year. In 1983, the original Students lineup reunited for the first time in two decades to appear at Radio City Music Hall -- sadly, the subsequent deaths of King, Bolden, and Ford guaranteed it would be their final reunion as well.{% endraw %}
