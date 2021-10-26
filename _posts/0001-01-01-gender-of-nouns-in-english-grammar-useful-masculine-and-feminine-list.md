@@ -1,0 +1,15 @@
+---
+title: "Gender of Nouns in English Grammar | Useful Masculine and Feminine List"
+image: "https:\/\/i.ytimg.com\/vi\/qvJmMkO9NNI\/hqdefault.jpg"
+vid_id: "qvJmMkO9NNI"
+categories: "Education"
+tags: ["common gender examples","common gender list","common gender names"]
+date: "2021-10-26T23:13:56+03:00"
+vid_date: "2018-06-27T12:30:02Z"
+duration: "PT11M20S"
+viewcount: "2923811"
+likeCount: "22892"
+dislikeCount: "3466"
+channel: "7ESL Learning English"
+---
+{% raw %}Gender of Nouns in English!<br />Grammatical Gender and Masculine &amp; Feminine Gender List: <a rel="nofollow" target="blank" href="https://7esl.com/gender-of-nouns/">https://7esl.com/gender-of-nouns/</a><br /><br />Masculine and Feminine Words List in English.<br /><br />• Duke – Duchess<br />• Enchanter – Enchantress<br />• Songster – Songstress<br />• Hero – Heroine<br />• Sultan – Sultana<br />• Czar – Czarina<br />• Signor – Signora<br />• Manservant – Maidservant<br />...<br />---------------------------------------------------------------------------------------- <br />WATCH MORE: <br />★ Grammar: <a rel="nofollow" target="blank" href="https://goo.gl/pK8eBC">https://goo.gl/pK8eBC</a> <br />★ Vocabulary: <a rel="nofollow" target="blank" href="https://goo.gl/d4dJfR">https://goo.gl/d4dJfR</a><br />★ Expressions: <a rel="nofollow" target="blank" href="https://goo.gl/mNKvAB">https://goo.gl/mNKvAB</a><br />★ Phrasal Verbs: <a rel="nofollow" target="blank" href="https://goo.gl/Riw1r6">https://goo.gl/Riw1r6</a><br />★ Idioms: <a rel="nofollow" target="blank" href="https://goo.gl/KrEMRx">https://goo.gl/KrEMRx</a><br />★ Conversations: <a rel="nofollow" target="blank" href="https://goo.gl/MxQEnV">https://goo.gl/MxQEnV</a><br />★ Kids Vocabulary: <a rel="nofollow" target="blank" href="https://goo.gl/K96toU">https://goo.gl/K96toU</a><br />★ English Writing: <a rel="nofollow" target="blank" href="https://goo.gl/3zxuQB">https://goo.gl/3zxuQB</a><br />★ IELTS: <a rel="nofollow" target="blank" href="https://goo.gl/5fi2Sk">https://goo.gl/5fi2Sk</a><br />★ TOEFL: <a rel="nofollow" target="blank" href="https://goo.gl/3rdyML">https://goo.gl/3rdyML</a><br />★ British vs. American English: <a rel="nofollow" target="blank" href="https://goo.gl/ySYPWp">https://goo.gl/ySYPWp</a><br />★ Pronunciation: <a rel="nofollow" target="blank" href="https://goo.gl/UXYD2M">https://goo.gl/UXYD2M</a><br />★ Business English: <a rel="nofollow" target="blank" href="https://goo.gl/xpVNkr">https://goo.gl/xpVNkr</a><br />---------------------------------------------------------------------------------------- <br />OUR SOCIAL MEDIA:<br />Pinterest: <a rel="nofollow" target="blank" href="https://www.pinterest.com/7english/">https://www.pinterest.com/7english/</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.fb.com/7ESLLearningEnglish/">https://www.fb.com/7ESLLearningEnglish/</a><br /><br />----------------------------------------------------------------------------------------<br />For more videos and lessons visit: <br /><a rel="nofollow" target="blank" href="https://7esl.com/">https://7esl.com/</a>{% endraw %}
