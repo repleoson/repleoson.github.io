@@ -1,0 +1,15 @@
+---
+title: "INDUSTRY - STATE OF THE NATION (1984) (HQ)"
+image: "https:\/\/i.ytimg.com\/vi\/noS1viHX6zA\/hqdefault.jpg"
+vid_id: "noS1viHX6zA"
+categories: "Music"
+tags: ["Disco","80","rock"]
+date: "2021-10-27T01:53:41+03:00"
+vid_date: "2010-01-16T19:18:45Z"
+duration: "PT3M28S"
+viewcount: "2447394"
+likeCount: "15685"
+dislikeCount: "397"
+channel: "Cowboy"
+---
+{% raw %}The song is from the album &quot;Stranger to Stranger&quot; of the  band INDUSTRY.(Cool song:). I will upload whole album if YOU wish.:)<br /><br /><br /><br />I see them marching off to war<br /><br />They're looking so heroic<br /><br />I'm told they won't be gone for long<br /><br />But that's a lie and they know it<br /><br />Ten thousand gone they won't return<br /><br />Never to be seen again<br /><br />Strategic games is all we learn in the end<br /><br />But they say:<br /><br /><br /><br />Don't you worry about the situation<br /><br />(A message from the telephone)<br /><br />They out there fighting for the state of the nation<br /><br />(I'm waiting a chance to come home)<br /><br />They always have to fight the alienation<br /><br />(I realize I'm fighting alone)<br /><br /><br /><br />When nightmares memories fades to dust<br /><br />We'll get back on our feet again<br /><br />This war has nothing to do with us<br /><br />But somehow we're still involved in it<br /><br /><br /><br />Well...<br /><br /><br /><br />Don't you worry about the situation<br /><br />(A message from the telephone)<br /><br />They out there fighting for the state of the nation<br /><br />(I'm waiting a chance to come home)<br /><br />Well, Don't you worry about the situation<br /><br />(A message from the telephone)<br /><br />They always have to fight the alienation<br /><br />(I realize I'm fighting alone)<br /><br /><br /><br />There's no place like home<br /><br />There's no place like home<br /><br />There's no place I don't want to be anywhere else<br /><br /><br /><br />There's no place like home<br /><br />There's no place like home<br /><br />There's no place I don't want to be anywhere else<br /><br /><br /><br />There's no place like home<br /><br />There's no place like home<br /><br />There's no place I don't want to be anywhere else<br /><br /><br /><br />There's no place like home<br /><br />There's no place like home<br /><br />There's no place I don't want to be anywhere<br /><br /><br /><br />Don't you worry about the situation<br /><br />They out there fighting for the state of the nation<br /><br /><br /><br />Don't you worry about the situation<br /><br />(A message from the telephone)<br /><br />They always have to fight the alienation<br /><br />(I realize I'm fighting alone)<br /><br /><br /><br />They out there fighting for the state of the nation<br /><br />(I'm waiting a chance to come home)<br /><br /><br /><br />They always have to fight the alienation<br /><br />(I realize I'm fighting alone)<br /><br /><br /><br />There's no place like home<br /><br />There's no place like home<br /><br />There's no place like home{% endraw %}
