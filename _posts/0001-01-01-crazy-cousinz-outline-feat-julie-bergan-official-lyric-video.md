@@ -1,0 +1,15 @@
+---
+title: "Crazy Cousinz - Outline feat. Julie Bergan (Official Lyric Video)"
+image: "https:\/\/i.ytimg.com\/vi\/_UPi8yIFCoc\/hqdefault.jpg"
+vid_id: "_UPi8yIFCoc"
+categories: "Music"
+tags: ["crazycousinz","crazy cousinz","cousinz"]
+date: "2021-10-27T08:24:25+03:00"
+vid_date: "2020-04-24T10:20:32Z"
+duration: "PT3M23S"
+viewcount: "376674"
+likeCount: "2116"
+dislikeCount: "49"
+channel: "Crazy Cousinz"
+---
+{% raw %}Crazy Cousinz - Outline (feat. Julie Bergan) is out now! <br /><a rel="nofollow" target="blank" href="https://wcr.ec/crazycousinz-outline">https://wcr.ec/crazycousinz-outline</a><br /><br />Follow Crazy Cousinz<br />Instagram <a rel="nofollow" target="blank" href="https://wcr.ec/crazycousinz_ig">https://wcr.ec/crazycousinz_ig</a><br />Facebook <a rel="nofollow" target="blank" href="https://wcr.ec/crazycousinz_fb">https://wcr.ec/crazycousinz_fb</a><br />Twitter <a rel="nofollow" target="blank" href="https://wcr.ec/crazycousinz_tw">https://wcr.ec/crazycousinz_tw</a><br /><br />Follow Julie Bergan<br />Instagram <a rel="nofollow" target="blank" href="http://instagram.com/juliebergan">http://instagram.com/juliebergan</a> <br />Facebook <a rel="nofollow" target="blank" href="http://facebook.com/julieberganmusic">http://facebook.com/julieberganmusic</a><br />Twitter <a rel="nofollow" target="blank" href="http://twitter.com/juliebergan">http://twitter.com/juliebergan</a> <br /><br />Lyrics<br />I barely sleep<br />Falling too deep for you <br />We're getting close<br />But I need more from you<br /><br />Cos when we talk that talk<br />You don’t walk that walk<br />Are you scared to go<br />Some place you don’t know <br />Baby take my hand <br />I'll help you understand<br />Show me what's inside <br /><br />You gotta let me into your heart<br />You gotta open up every part <br />Cos right now<br />I don't know how you feel inside <br />Yeah you're just showing me the outline<br /><br />I need the words<br />Make me believe <br />It's real <br />Cos these silhouettes <br />They don't mean nothing to me <br /><br />Cos when we talk that talk<br />You don’t walk that walk<br />Are you scared to go<br />Some place you don’t know <br />Baby take my hand <br />I'll help you understand<br />Show me what's inside<br /><br />You gotta let me into your heart<br />You gotta open up every part <br />Cos right now<br />I don't know how you feel inside <br />Yeah You're just showing me the outline<br /><br />I wanna know you better, you better<br />I wanna Know you better, no more outlines<br />I wanna know you better, know you better baby<br />I wanna know you better, no more outlines<br /><br />I don't wanna love somebody new<br />I just wanna love someone that's you <br />There's a missing heart that I cant see <br />It's just the outline <br />You give to me <br />The outline <br /><br />You gotta let me into your heart<br />You gotta open up every part <br />Cos right now<br />I don't know how you feel inside <br />Yeah you're just showing me the outline{% endraw %}
