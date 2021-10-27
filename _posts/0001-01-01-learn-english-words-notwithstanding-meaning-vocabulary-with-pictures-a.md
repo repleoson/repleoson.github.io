@@ -1,0 +1,15 @@
+---
+title: "Learn English Words: NOTWITHSTANDING - Meaning, Vocabulary with Pictures and Examples"
+image: "https:\/\/i.ytimg.com\/vi\/tCfq2VfHeWo\/hqdefault.jpg"
+vid_id: "tCfq2VfHeWo"
+categories: "Education"
+tags: ["learn english","advanced english","english"]
+date: "2021-10-27T06:49:21+03:00"
+vid_date: "2017-12-06T13:11:06Z"
+duration: "PT1M7S"
+viewcount: "8354"
+likeCount: "104"
+dislikeCount: "4"
+channel: "VocabularyHelp - Learn English Words With Meaning"
+---
+{% raw %}✔️ LEARN 20 WORDS <a rel="nofollow" target="blank" href="https://youtu.be/TSGdNMzlrcg">https://youtu.be/TSGdNMzlrcg</a><br /><br />✅ 10 WORDS PLAYLIST ► <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=KC0P_WLsE_U&amp;index=1&amp;list=PL5oykh1rbQ4MFaPkUAS4XZJ8EcbAG0Fns">https://www.youtube.com/watch?v=KC0P_WLsE_U&amp;index=1&amp;list=PL5oykh1rbQ4MFaPkUAS4XZJ8EcbAG0Fns</a><br /><br />What does Notwithstanding mean? Learn the meaning of Notwithstanding as we define this advanced vocabulary word with a simple definition, pictures, example sentences, English pronunciation and audio.<br /><br />Notwithstanding definition (adverb) despite; regardless    <br /><br />Notwithstanding pronunciation: not-with-stan-ding<br /><br />Examples of Notwithstanding in a sentence:<br /><br />1. Notwithstanding his injured knee, the football player made two touchdowns.<br /><br />2. I have to pick up my daughter from school, notwithstanding my headache.<br /><br />3. Notwithstanding the fact he was grounded, Phil went to the cookout.<br /><br />4. My wife really wanted to buy the antique car, notwithstanding my objections.<br /><br />5. Notwithstanding her awful childhood, Marsha was a wonderful mother to her own children.<br /><br />Notwithstanding synonyms and other related words for Notwithstanding<br /><br />nevertheless, but, however, nonetheless, though, yet, still, despite, all the same, although, howbeit, even so, in spite of, albeit, even though, regardless of, even, while, just the same, regardless, for all that, having said that, none the less, still and all, with that said, withal, anyway, at any rate, in any case, on the other hand, hence<br /><br />Dictionary Definition &amp; Sentences Page <br /><a rel="nofollow" target="blank" href="https://wordsinasentence.com/notwithstanding-in-a-sentence/">https://wordsinasentence.com/notwithstanding-in-a-sentence/</a><br /><br />FOLLOW ME ON TWITTER + VISIT OUR VOCABULARY RESOURCE LEARNING WEBSITES (Bookmark 'em!) 👇<br /><br />► <a rel="nofollow" target="blank" href="http://VocabularyVideos.com">http://VocabularyVideos.com</a> - a memorable name that'll redirect you to our word of the day vocabulary videos.<br /><br />► <a rel="nofollow" target="blank" href="https://WordsinaSentence.com">https://WordsinaSentence.com</a> - our sentence dictionary Website, where we define words with sentences<br /><br />► <a rel="nofollow" target="blank" href="https://Twitter.com/vocabularyhelp">https://Twitter.com/vocabularyhelp</a> - Twitter account for my vocabularic tweets{% endraw %}
