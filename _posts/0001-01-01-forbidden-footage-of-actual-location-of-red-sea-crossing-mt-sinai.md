@@ -1,0 +1,15 @@
+---
+title: "Forbidden footage of actual location of Red Sea Crossing & Mt. Sinai"
+image: "https:\/\/i.ytimg.com\/vi\/8y-uiccIiSY\/hqdefault.jpg"
+vid_id: "8y-uiccIiSY"
+categories: "Nonprofits-Activism"
+tags: ["A Rood Awakening","Michael Rood","Hebrew Roots"]
+date: "2021-10-27T16:01:01+03:00"
+vid_date: "2017-07-07T15:49:18Z"
+duration: "PT54M40S"
+viewcount: "2786285"
+likeCount: "37392"
+dislikeCount: "1887"
+channel: "A Rood Awakening!"
+---
+{% raw %}The real exodus location has been found.  Did the Red Sea crossing in Exodus happen and if so where is the evidence? This episode is packed full of evidence from photographs to video footage of the actual location of this historical event.    <br /> <br />This episode is one to share with your friends and family.  There is evidence at the bottom of the Red Sea from chariot wheels to bones covered in coral.  Cave drawings, altars, and even destroyed columns can still be found in Mount Sinai.  Your faith won’t be shaken again!<br /><br />For more information visit: <a rel="nofollow" target="blank" href="http://www.aroodawakening.tv">http://www.aroodawakening.tv</a><br />To receive free teachings contact us at: 888-766-3610.<br />Sign up for our email list to receive more information on the life of Yeshua: <a rel="nofollow" target="blank" href="https://www.aroodawakening.tv/join-newsletter/">https://www.aroodawakening.tv/join-newsletter/</a><br /><br /><br />===YOUR DONATION KEEPS THESE VIDEOS COMING - THANK YOU!===<br /><a rel="nofollow" target="blank" href="https://aroodawakening.tv/donate/">https://aroodawakening.tv/donate/</a><br /><br /><br />===JOIN US AT PASSOVER 2020===<br /><a rel="nofollow" target="blank" href="https://aroodawakening.tv/events/passover-2020-home/">https://aroodawakening.tv/events/passover-2020-home/</a><br /><br /><br />===GET A GIFT FOR YOUR DONATION===<br /><a rel="nofollow" target="blank" href="https://roodstore.com/collections/monthly-love-gift">https://roodstore.com/collections/monthly-love-gift</a><br /><br /><br />===BUY MICHAEL ROOD VIDEOS AND BOOKS===<br /><a rel="nofollow" target="blank" href="https://roodstore.com/">https://roodstore.com/</a><br /><br /><br />===FACEBOOK===<br /><a rel="nofollow" target="blank" href="https://www.facebook.com/michael.j.rood/">https://www.facebook.com/michael.j.rood/</a><br /><br /><br />===INSTAGRAM===<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/michaeljrood/">https://www.instagram.com/michaeljrood/</a><br /><br /><br />===BIBLICAL FEAST DATES===<br /><a rel="nofollow" target="blank" href="https://aroodawakening.tv/feast/upcoming-feast-dates/">https://aroodawakening.tv/feast/upcoming-feast-dates/</a><br /><br /><br />===BIBLICAL CALENDAR===<br /><a rel="nofollow" target="blank" href="https://aroodawakening.tv/biblical-hebrew-calendar/">https://aroodawakening.tv/biblical-hebrew-calendar/</a><br /><br /><br />===ASK A QUESTION===<br /><a rel="nofollow" target="blank" href="https://aroodawakening.tv/support/contact-us/">https://aroodawakening.tv/support/contact-us/</a>{% endraw %}
