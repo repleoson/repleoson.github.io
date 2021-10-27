@@ -1,0 +1,15 @@
+---
+title: "rum•gold - Waiting For ft. Jamila Woods"
+image: "https:\/\/i.ytimg.com\/vi\/zNauMtd_LDs\/hqdefault.jpg"
+vid_id: "zNauMtd_LDs"
+categories: "Music"
+tags: ["rum•gold","Waiting","Jamila"]
+date: "2021-10-27T09:36:11+03:00"
+vid_date: "2020-04-24T04:00:18Z"
+duration: "PT3M21S"
+viewcount: "213072"
+likeCount: "4442"
+dislikeCount: "45"
+channel: "rum•gold"
+---
+{% raw %}Follow here:<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/rum.gold/">https://www.instagram.com/rum.gold/</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/rumdotgold/">https://www.facebook.com/rumdotgold/</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/rumdotgold">https://twitter.com/rumdotgold</a><br /><br />Credits:<br />Produced by Alissia Bienveniste<br />Artwork by Alexis Eke<br /><br />Lyrics:<br />(Jamila Woods)<br />Would we lose it all in the morning <br />Suddenly the sun makes it all feel alarming Breaking up our routine <br />this new thing it’s daunting <br />Rest my head on you it’s a border I’m crossing <br /><br />(rum•gold)<br />Just another drop, fill me up, till I’m holy<br />Heaven only knows <br />What we’d do when we’re Lonely<br />Break the bread and watch as the seas come calling<br /><br />(Jamila Woods)<br />All in my head should I play it safe<br />Hide away feelings and play the game<br />How can I tell if you feel the same<br />I hear a change, when u say my name <br />yea<br /><br />(rum•gold)<br />Searching for the words to tell you...<br /><br />(Jamila Woods)<br />You <br />I cannot pretend no more<br />You<br />Tell me what’s behind that door<br />You <br />I would risk it all and more<br />You<br />Could be who I’ve waited for<br /><br />(rum•gold)<br />You<br />I can’t get you out my head<br />You<br />Were the ghost to haunt my bed<br />You<br />I can’t risk it all no more <br />You<br />Can’t be who Im waiting for<br /><br />Ohh<br />Ohh<br />Ohh<br />Ohh<br /><br />(Jamila Woods)<br />I just need some space <br />please hear me out<br />I can’t hear myself think <br />in this house <br />I am not your hearts first casualty <br />maybe you should set me free<br /><br />(rum•gold)<br />Take one step closer and you’re done<br />Heaven only knows what i’ve become<br />Oh you gave me love<br />I want it but I had to give you up<br /><br />(Jamila Woods)<br />All in my head should I play it safe<br />Hide away feelings and play the game<br />How can I tell / if you feel the same<br />I hear a change, when u say my name <br />yea<br /><br />(rum•gold)<br />Searching for the words to tell you...<br /><br />(Jamila Woods)<br />You <br />I cannot pretend no more<br />You<br />Tell me what’s behind that door<br />You <br />I would risk it all and more<br />You<br />Could be who I’ve waited for<br /><br />(rum•gold)<br />You<br />I can’t get you out my head<br />You<br />Were the ghost to haunt my bed<br />You<br />I can’t risk it all no more <br />You<br />Can’t be who Im waiting for<br /><br />Ohh<br />Ohh<br />Ohh<br />Ohh<br /><br />#rumgold #RNB #aiMless{% endraw %}
