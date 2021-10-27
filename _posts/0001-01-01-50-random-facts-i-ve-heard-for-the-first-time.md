@@ -1,0 +1,15 @@
+---
+title: "50+ Random Facts I've Heard for the First Time"
+image: "https:\/\/i.ytimg.com\/vi\/pA_jMnbpPDU\/hqdefault.jpg"
+vid_id: "pA_jMnbpPDU"
+categories: "Howto-Style"
+tags: ["bright side","brightside","cars"]
+date: "2021-10-27T20:15:19+03:00"
+vid_date: "2021-02-03T03:00:12Z"
+duration: "PT10M1S"
+viewcount: "168824"
+likeCount: "3241"
+dislikeCount: "96"
+channel: "BRIGHT SIDE"
+---
+{% raw %}You only really pay attention to your car tires when they're either flat or need cleaning. But have you ever noticed those random numbers and letters written on them? Well, they're not as random as they seem! You can tell everything about a tire and the car its on just by looking at these numbers. <br /><br />#brightside<br /><br />Preview photo credit: <br />Person with their head in in their hands showing human brain, computer illustration: By SEBASTIAN KAULITZKI/Science Photo Library RF/East News, <a rel="nofollow" target="blank" href="https://www.eastnews.ru/pictures/picture/id/71302297/i/58/t/126">https://www.eastnews.ru/pictures/picture/id/71302297/i/58/t/126</a><br />Animation is created by Bright Side.<br /><br />We know how to lift your mood! Our App - <a rel="nofollow" target="blank" href="https://bit.ly/3g9KM8j.">https://bit.ly/3g9KM8j.</a><br /><br />----------------------------------------------------------------------------------------<br />Music by Epidemic Sound  <a rel="nofollow" target="blank" href="https://www.epidemicsound.com/">https://www.epidemicsound.com/</a><br />ES_Heart &amp; Soul (Instrumental Version) - Blood Red Sun.mp3<br />ES_Hopeless Lover (Instrumental Version) - Blacktop Banks.mp3<br />ES_It's a Drag, a Blast (Instrumental Version) - Coma Svensson.mp3<br />ES_Magic Day (Instrumental Version) - Loving Caliber.mp3<br /><br />Subscribe to Bright Side : <a rel="nofollow" target="blank" href="https://goo.gl/rQTJZz">https://goo.gl/rQTJZz</a><br />----------------------------------------------------------------------------------------<br />Our Social Media:<br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/brightside/">https://www.facebook.com/brightside/</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/brightgram/">https://www.instagram.com/brightgram/</a><br />5-Minute Crafts Youtube: <a rel="nofollow" target="blank" href="https://www.goo.gl/8JVmuC">https://www.goo.gl/8JVmuC</a><br /><br />Stock materials (photos, footages and other):<br /><a rel="nofollow" target="blank" href="https://www.depositphotos.com">https://www.depositphotos.com</a><br /><a rel="nofollow" target="blank" href="https://www.shutterstock.com">https://www.shutterstock.com</a><br /><a rel="nofollow" target="blank" href="https://www.eastnews.ru">https://www.eastnews.ru</a><br /><br />----------------------------------------------------------------------------------------<br />For more videos and articles visit:<br /><a rel="nofollow" target="blank" href="http://www.brightside.me/">http://www.brightside.me/</a>{% endraw %}
