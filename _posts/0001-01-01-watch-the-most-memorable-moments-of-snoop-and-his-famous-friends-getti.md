@@ -1,0 +1,15 @@
+---
+title: "Watch the Most Memorable Moments of Snoop and His Famous Friends Getting High AF | BEST OF GGN"
+image: "https:\/\/i.ytimg.com\/vi\/TBiBqhzRHfg\/hqdefault.jpg"
+vid_id: "TBiBqhzRHfg"
+categories: "People-Blogs"
+tags: ["snoop dogg","snoop lion","snoop"]
+date: "2021-10-27T08:58:09+03:00"
+vid_date: "2018-10-02T15:45:10Z"
+duration: "PT14M13S"
+viewcount: "3298613"
+likeCount: "41349"
+dislikeCount: "932"
+channel: "SnoopDoggTV"
+---
+{% raw %}MERRY JANE<br /><a rel="nofollow" target="blank" href="https://www.merryjane.com">https://www.merryjane.com</a><br /><br />In case you haven’t noticed, Snoop is always burning some bud. So when it comes time for guests to join the Doggfather behind the GGN desk and break down their life stories, career goals, and deepest secrets, it’s no surprise that some of your favorite celebs are eager to join the rotation with the rap game’s most notorious pot smoker. But while some stars take it easy, hitting the blunt just once or twice, others have gone all out trying to keep up with our host — sometimes ending up too lost in the sauce to even finish the interview.<br /><br />In this very special episode, we take a look back at the most stoned moments from our Los Angeles studio, including stumbling stories, love ballads to ice cream, and plenty of unplanned pauses and laughing fits.<br /><br />While our fearless leader sits back and puffs endlessly, A-listers like A$AP Rocky, Chief Keef, Ilana Glazer, Kathy Bates, and more get spun out and buzzed after a few pulls of Snoop’s super-charged stash.<br /><br />So sit back, light up your favorite strain, and find out which of your favorite stars can go toe-to-toe with Snoop on weed.<br /><br />Follow MERRY JANE!<br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/merryjane">https://www.facebook.com/merryjane</a><br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/merryjane">https://instagram.com/merryjane</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/merryjane">https://twitter.com/merryjane</a><br />Snapchat: <a rel="nofollow" target="blank" href="https://www.snapchat.com/add/merryjanemedia">https://www.snapchat.com/add/merryjanemedia</a><br /><br />Subscribe to MERRY JANE's channel: <a rel="nofollow" target="blank" href="http://www.youtube.com/c/merryjane">http://www.youtube.com/c/merryjane</a><br /><br />Follow Snoop Dogg!<br />Facebook: <a rel="nofollow" target="blank" href="http://facebook.com/snoopdogg">http://facebook.com/snoopdogg</a><br />Instagram: <a rel="nofollow" target="blank" href="http://instagram.com/snoopdogg">http://instagram.com/snoopdogg</a><br />Twitter: <a rel="nofollow" target="blank" href="http://twitter.com/snoopdogg">http://twitter.com/snoopdogg</a><br />Snapchat: <a rel="nofollow" target="blank" href="https://www.snapchat.com/add/snoopdogg">https://www.snapchat.com/add/snoopdogg</a><br /><br />Subscribe to WestFestTV:<br /><a rel="nofollow" target="blank" href="http://www.youtube.com/snoopdogg">http://www.youtube.com/snoopdogg</a>{% endraw %}
