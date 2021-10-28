@@ -1,0 +1,15 @@
+---
+title: "Lizzo - Tempo (feat. Missy Elliott) [Official Video]"
+image: "https:\/\/i.ytimg.com\/vi\/Srq1FqFPwj0\/hqdefault.jpg"
+vid_id: "Srq1FqFPwj0"
+categories: "Music"
+tags: ["lizzo","lizzo music","big grrrls"]
+date: "2021-10-28T05:12:03+03:00"
+vid_date: "2019-07-26T13:57:45Z"
+duration: "PT2M57S"
+viewcount: "38163715"
+likeCount: "643868"
+dislikeCount: "24428"
+channel: "Lizzo Music"
+---
+{% raw %}The official music video for Lizzo's &quot;Tempo (feat. Missy Elliott)&quot;<br />From the album 'Cuz I Love You' available now.<br />Listen here: <a rel="nofollow" target="blank" href="https://Lizzo.lnk.to/CuzILoveYouAY">https://Lizzo.lnk.to/CuzILoveYouAY</a><br /><br />Directed by Andy Hines<br />Produced by Nic Neary<br />Executive Produced by Nathan Scherrer<br />Production Company Freenjoy<br /><br />Subscribe for more content from Lizzo: <br /><a rel="nofollow" target="blank" href="https://atlanti.cr/subscribetolizzo">https://atlanti.cr/subscribetolizzo</a><br /><br />Follow Lizzo<br /><a rel="nofollow" target="blank" href="https://facebook.com/LizzoMusic">https://facebook.com/LizzoMusic</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/lizzo">https://twitter.com/lizzo</a><br /><a rel="nofollow" target="blank" href="https://instagram.com/lizzobeeating">https://instagram.com/lizzobeeating</a><br /><a rel="nofollow" target="blank" href="https://soundcloud.com/lizzomusic">https://soundcloud.com/lizzomusic</a><br /><a rel="nofollow" target="blank" href="http://lizzomusic.com">http://lizzomusic.com</a><br /><br />The official YouTube channel of Atlantic Records and Nice Life artist Lizzo. Subscribe for the latest music videos, performances, and more.<br /><br />Born in Houston and raised in Detroit, Lizzo adopted her moniker in 2011 and fronted Lizzo &amp; the Larva Ink after moving to Minneapolis. Her work began to intertwine with the city's indie scene, allowing her to work with artists like Gayngs and Doomtree.<br /><br />Since then, Lizzo has collaborated with a variety of creatives--Clean Bandit, Bastille, and Big Freedia, to name a few--and was named one of Forbes Magazine's 2018 &quot;30 Under 30&quot;. Her top singles &quot;Good As Hell&quot; and &quot;Truth Hurts&quot; have gained over 34.5 million Spotify streams combined. In addition to headlining her own Good As Hell tour in 2017, Lizzo joined Haim on the Sister Sister Sister tour in 2018.<br /><br />Subscribe for the latest official music videos, official audio videos, performances, bts and more from Lizzo: <a rel="nofollow" target="blank" href="https://lnk.to/SubscribeToLizzo">https://lnk.to/SubscribeToLizzo</a><br /><br />#Lizzo #Tempo #LizzoTempo #Atlantic #AtlanticRecords #OfficialVideo #CuzILoveYou<br /><br />Listen to Best of Lizzo playlist ➤ <a rel="nofollow" target="blank" href="https://bit.ly/3afMdhW">https://bit.ly/3afMdhW</a><br /><br />Watch Lizzo’s Official Music Videos ➤ <a rel="nofollow" target="blank" href="https://bit.ly/3bgDQ5y">https://bit.ly/3bgDQ5y</a><br /><br />Dance At Home Music from Lizzo ➤ <a rel="nofollow" target="blank" href="https://bit.ly/LizzoDanceAtHome">https://bit.ly/LizzoDanceAtHome</a>{% endraw %}
