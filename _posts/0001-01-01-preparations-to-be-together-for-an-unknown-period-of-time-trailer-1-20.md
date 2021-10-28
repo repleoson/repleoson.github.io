@@ -1,0 +1,15 @@
+---
+title: "Preparations to be Together for an Unknown Period of Time Trailer #1 (2021) | Movieclips Indie"
+image: "https:\/\/i.ytimg.com\/vi\/mtl_Td_jVEg\/hqdefault.jpg"
+vid_id: "mtl_Td_jVEg"
+categories: "Film-Animation"
+tags: ["Preparations to be Together for an Unknown Period of Time","Preparations to be Together for an Unknown Period of Time Trailer","Trailer"]
+date: "2021-10-28T03:03:25+03:00"
+vid_date: "2021-01-09T01:00:15Z"
+duration: "PT2M19S"
+viewcount: "26786"
+likeCount: "307"
+dislikeCount: "9"
+channel: "Movieclips Indie"
+---
+{% raw %}Check out the new trailer for Preparations to be Together for an Unknown Period of Time starring Natasa Stork! Let us know what you think in the comments below.<br />► Visit <a rel="nofollow" target="blank" href="https://www.fandangonow.com?cmp=Indie_YouTube_Desc">https://www.fandangonow.com?cmp=Indie_YouTube_Desc</a><br /><br />Want to be notified of all the latest indie movies? Subscribe to the channel and click the bell icon to stay up to date.<br /><br />US Release Date: January 22, 2021<br />Starring: Natasa Stork, Viktor Bodó, Benett Vilmányi<br />Directed By: Lili Horvát <br />Synopsis: After 20 years in the United States, a Hungarian neurosurgeon returns to Budapest for a romantic rendezvous with a fellow doctor she met at a conference. When the love of her life is nowhere to be seen, she tracks him down only to have the bewildered man claim the two have never met.<br /><br />Watch More: <br />► New Indie Trailers: <a rel="nofollow" target="blank" href="http://bit.ly/2Ey7fYy">http://bit.ly/2Ey7fYy</a><br />► In Theaters This Week: <a rel="nofollow" target="blank" href="http://bit.ly/2FrFEK1">http://bit.ly/2FrFEK1</a><br />► Drama Trailers: <a rel="nofollow" target="blank" href="http://bit.ly/2DjXQ7E">http://bit.ly/2DjXQ7E</a><br />► International Trailers: <a rel="nofollow" target="blank" href="http://bit.ly/2FvqaEY">http://bit.ly/2FvqaEY</a><br />► Movie Clips: <a rel="nofollow" target="blank" href="http://bit.ly/2qTZMRE">http://bit.ly/2qTZMRE</a><br />► Behind the Scenes: <a rel="nofollow" target="blank" href="http://bit.ly/2AQ16on">http://bit.ly/2AQ16on</a><br /><br />Fuel Your Movie Obsession: <br />► Subscribe to INDIE: <a rel="nofollow" target="blank" href="http://bit.ly/2Ewwuuf">http://bit.ly/2Ewwuuf</a><br />► Watch Movieclips ORIGINALS: <a rel="nofollow" target="blank" href="http://bit.ly/2D3sipV">http://bit.ly/2D3sipV</a><br />► Like us on FACEBOOK: <a rel="nofollow" target="blank" href="http://bit.ly/2DikvkY">http://bit.ly/2DikvkY</a> <br />► Follow us on TWITTER: <a rel="nofollow" target="blank" href="http://bit.ly/2mgkaHb">http://bit.ly/2mgkaHb</a><br />► Follow us on INSTAGRAM: <a rel="nofollow" target="blank" href="http://bit.ly/2mg0VNU">http://bit.ly/2mg0VNU</a><br /><br />Fandango MOVIECLIPS INDIE channel is the destination for all things related to indie, foreign, and documentary films. Subscribe to keep up with the latest festival news, art house openings, film reviews, and more.{% endraw %}
