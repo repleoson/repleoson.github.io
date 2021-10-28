@@ -1,0 +1,15 @@
+---
+title: "It Is So | Live | At Midnight | Elevation Worship"
+image: "https:\/\/i.ytimg.com\/vi\/gwQxZ8ofTCc\/hqdefault.jpg"
+vid_id: "gwQxZ8ofTCc"
+categories: "Music"
+tags: ["elevation worship","elevation worship 2019","new music"]
+date: "2021-10-29T00:22:18+03:00"
+vid_date: "2019-09-23T16:00:11Z"
+duration: "PT5M43S"
+viewcount: "1817928"
+likeCount: "24953"
+dislikeCount: "290"
+channel: "Elevation Worship"
+---
+{% raw %}Elevation Worship leading “It Is So,” live from their album “At Midnight.&quot; <br /><br />Subscribe to get the latest videos and songs: <a rel="nofollow" target="blank" href="https://bit.ly/2kzs91K">https://bit.ly/2kzs91K</a><br /><br />Find chord charts, lyrics, and more at: <a rel="nofollow" target="blank" href="https://elevationworship.com/song-resources/">https://elevationworship.com/song-resources/</a><br /><br />Available everywhere now: <br />EW Website | <a rel="nofollow" target="blank" href="https://elevationworship.com">https://elevationworship.com</a><br />Apple Music | <a rel="nofollow" target="blank" href="http://ele.vc/4ijEej">http://ele.vc/4ijEej</a><br />iTunes | <a rel="nofollow" target="blank" href="http://ele.vc/txf2S4">http://ele.vc/txf2S4</a><br />Spotify | <a rel="nofollow" target="blank" href="http://ele.vc/UwOZTS">http://ele.vc/UwOZTS</a><br />Amazon | <a rel="nofollow" target="blank" href="http://ele.vc/AAFotA">http://ele.vc/AAFotA</a><br />Pandora | <a rel="nofollow" target="blank" href="http://ele.vc/2AQ4ED">http://ele.vc/2AQ4ED</a><br /><br />Connect with Elevation Worship:<br />Facebook | <a rel="nofollow" target="blank" href="https://www.facebook.com/elevationworship/">https://www.facebook.com/elevationworship/</a><br />Instagram | <a rel="nofollow" target="blank" href="https://www.instagram.com/elevationworship/">https://www.instagram.com/elevationworship/</a><br />Twitter | <a rel="nofollow" target="blank" href="https://twitter.com/elevation_wrshp">https://twitter.com/elevation_wrshp</a><br /><br />Lyrics:<br />There is a promise<br />That points beyond my failure<br />There is a still voice<br />To silence all my fears<br />Even the worst of my mistakes<br />Are miracles in the making<br />A miracle’s in the making<br /><br />By your stripes I am healed<br />With one touch I am made whole<br />You have spoken<br />And I know that it is so<br />In the storm You are peace<br />And your love won’t let me go<br />You have spoken<br />And I know that it is so<br /><br />In every season<br />Your purpose is unchanging<br />In every moment<br />You’re working for my good<br />Jesus the Rock that never fails<br />Your kingdom will not be shaken<br />Your kingdom will not be shaken<br /><br />Your word is settled in heaven<br />It will be done, Father let it be done<br />Yours is the kingdom forever<br />Your will be done, let it be done<br /><br />Written by Steven Furtick, Chris Brown, Tiffany Hammer, Brian Johnson<br />CCLI #: 7124943<br />ISRC: US-PJT-19-00026<br /><br />#elevationworship #itisso #atmidnight #live{% endraw %}
