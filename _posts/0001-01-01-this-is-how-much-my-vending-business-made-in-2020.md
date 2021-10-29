@@ -1,0 +1,15 @@
+---
+title: "This Is HOW MUCH My Vending Business Made in 2020!!"
+image: "https:\/\/i.ytimg.com\/vi\/g213vVBSYMY\/hqdefault.jpg"
+vid_id: "g213vVBSYMY"
+categories: "Education"
+tags: ["collecting money from my vending business","how much money do i need to start a vending business","THIS Is How Much MONEY I Collected From 5 VENDING MACHINES!!"]
+date: "2021-10-29T04:24:32+03:00"
+vid_date: "2021-01-30T22:27:01Z"
+duration: "PT21M53S"
+viewcount: "202144"
+likeCount: "7619"
+dislikeCount: "152"
+channel: "Jaime Ibanez"
+---
+{% raw %}Here you go - This is EXACTLY how much I made from my vending machine business in 2020 - Enjoy! <br />▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬<br />► The Vending Course:  <br />Learn EXACTLY how to get your first vending machine and what methods I use to find a NEW location EVERY single month!!  <br /><a rel="nofollow" target="blank" href="http://jaimeibanez.info">http://jaimeibanez.info</a><br /><br />► Where I Buy My Vending Machine's From:<br />Get 0% interest financing on BRAND NEW machines and also $150 Off PER MACHINE with promo code JI100<br /><a rel="nofollow" target="blank" href="https://pages.vending.com/VC-LP-JI-How-to-Start-a-Vending-Business.html">https://pages.vending.com/VC-LP-JI-How-to-Start-a-Vending-Business.html</a><br />▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬<br />My Vending Equipment:<br />► Credit Card Reader: <a rel="nofollow" target="blank" href="https://m.nayax.com/jaime-ibanez">https://m.nayax.com/jaime-ibanez</a><br />► Bill Acceptor Cleaning Strips: <a rel="nofollow" target="blank" href="https://amzn.to/2MJd3nm">https://amzn.to/2MJd3nm</a><br />► Vending Machine Locks: <a rel="nofollow" target="blank" href="https://thevendingempire.com">https://thevendingempire.com</a><br />► Vending Machine Drink Labels: <a rel="nofollow" target="blank" href="https://thevendingempire.com/">https://thevendingempire.com/</a><br />► Bill Counter: <a rel="nofollow" target="blank" href="https://amzn.to/3pzHyPr">https://amzn.to/3pzHyPr</a><br /><br />My YouTube Equipment:<br />► Main Camera: <a rel="nofollow" target="blank" href="https://amzn.to/2Dt2NPA">https://amzn.to/2Dt2NPA</a><br />► Microphone: <a rel="nofollow" target="blank" href="https://amzn.to/2WctwX7">https://amzn.to/2WctwX7</a><br />► Monitor: <a rel="nofollow" target="blank" href="https://amzn.to/391aE2R">https://amzn.to/391aE2R</a><br />▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬<br />Check Out These Videos!<br /><br />► Apartment Tour:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=KPuH_AsX9BU">https://www.youtube.com/watch?v=KPuH_AsX9BU</a><br /><br />► My Vending Machine Flooded...<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=-P34sy4pPiw">https://www.youtube.com/watch?v=-P34sy4pPiw</a><br /><br />► Pulling Cash From Claw Kickers Arcade!<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=7QzCg9S9D1Y&amp;t=634s">https://www.youtube.com/watch?v=7QzCg9S9D1Y&amp;t=634s</a><br />▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬<br /><br />►Business Inquires: Ibanezmain@gmail.com<br /><br />Thanks For Watching!!{% endraw %}
