@@ -1,0 +1,15 @@
+---
+title: "9 Most Disgusting Delicacies From Around The World"
+image: "https:\/\/i.ytimg.com\/vi\/6rsJ5zy56TI\/hqdefault.jpg"
+vid_id: "6rsJ5zy56TI"
+categories: "Education"
+tags: ["Delicacies","disgusting","food"]
+date: "2021-10-29T03:12:34+03:00"
+vid_date: "2017-12-22T21:00:00Z"
+duration: "PT11M32S"
+viewcount: "20413"
+likeCount: "292"
+dislikeCount: "36"
+channel: "World List"
+---
+{% raw %}Every country has their traditional dishes but sometimes these authentic and weird preparation methods can create the most disgusting delicacies. <br /><br />Subscribe to World5List <a rel="nofollow" target="blank" href="http://goo.gl/cpJSA6">http://goo.gl/cpJSA6</a><br /><br />Find us on...<br />-- <a rel="nofollow" target="blank" href="http://www.boredbadger.com">http://www.boredbadger.com</a><br />-- <a rel="nofollow" target="blank" href="http://www.facebook.com/world5list">http://www.facebook.com/world5list</a><br /><br />We’re all guilty of having a favorite food that most consider disgusting – maple syrup spaghetti or ham and pineapple pizza for instance – but our list of disgusting delicacies, including fish sperm, fermented birds, and even maggot cheese, takes it to a whole new level.<br /><br />Sannakiji<br />If you like to be reminded that your food was once a living, moving creature, this is the dish for you. Sannakjii is raw baby octopus, and it’s a beloved Korean delicacy.<br />Shirako<br />Fish eggs, also known as caviar, is considered a delicacy all over the world, including the United States, that typically only the wealthy have the privilege of enjoying.<br /><br />Balut<br />Moving on from sperm to the egg, the next delicacy on our list is Balut. It sounds and looks normal enough…that is, until you crack it open.<br /><br />Four-Century Eggs<br />While we’re on the topic of eggs, did you know that in as little as seven weeks, you can make eggs that look like they were laid four centuries ago?<br /><br />Kivak<br />Kivak is more than a holiday delicacy – it’s a tradition. Months before the Christmas season is upon them, the Inuits in Greenland start preparing for the star of their holiday dinner table.<br /><br />Tepa<br />Looking for a no-cook fish recipe? You got it. Preparing stinkhead entails taking the “inedible” parts of fish and letting them rot until they’re edible.<br /><br />Honorable Mentions<br />Rocky Mountain Oysters - Japan isn’t the only place people enjoy animal genitalia – Bull testicles, also called rocky mountain oysters or prairie oysters, are a fan favorite in North America. <br /><br />Bird’s Nest Soup – This Chinese delicacy is made out of the nest of the swiftlet bird, but don’t worry - if you order it, you won’t be eating sticks and leaves.<br /><br />Pacha or Smalahove – When we get slabs of meat in the store, we often don’t associate it with a cute cow or piggy out in a field…not the case with pacha.<br /><br />Casu Marzu – Rotten Cheese<br />Fewer things in life are better than cheese, but if casu marzu ever shows up at your next holiday party, you’ll definitely want to pass, that is if you’re not vomiting first.{% endraw %}
