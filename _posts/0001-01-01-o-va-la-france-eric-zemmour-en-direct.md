@@ -1,0 +1,15 @@
+---
+title: "Où va la France ? Eric Zemmour [EN DIRECT]"
+image: "https:\/\/i.ytimg.com\/vi\/61AN7Vf4RSs\/hqdefault.jpg"
+vid_id: "61AN7Vf4RSs"
+categories: "News-Politics"
+tags: ["Thinkerview"]
+date: "2021-10-29T07:38:21+03:00"
+vid_date: "2021-10-20T17:34:56Z"
+duration: "PT1H36M15S"
+viewcount: "1493487"
+likeCount: "34903"
+dislikeCount: "9367"
+channel: "Thinkerview"
+---
+{% raw %}POSEZ VOS QUESTIONS EN DIRECT :<br />▶️ <a rel="nofollow" target="blank" href="https://discord.gg/Ey3pBWV">https://discord.gg/Ey3pBWV</a><br /><br />SOURCEZ, VERIFIEZ LES FAITS EN DIRECT :<br />▶️ <a rel="nofollow" target="blank" href="https://captainfact.io/videos/">https://captainfact.io/videos/</a><br /><br />SOUTENEZ-NOUS :<br />▶️ <a rel="nofollow" target="blank" href="https://tipeee.com/thinkerview">https://tipeee.com/thinkerview</a><br /><br />APPLICATION THINKERVIEW ( Video + Podcast !)<br />▶️ Thinkerview sur Android : <a rel="nofollow" target="blank" href="https://play.google.com/store/apps/details?id=com.thinkerview&amp;hl=fr">https://play.google.com/store/apps/details?id=com.thinkerview&amp;hl=fr</a><br />▶️ Thinkerview sur Iphone : <a rel="nofollow" target="blank" href="https://apps.apple.com/fr/app/thinkerview/id1406076265?l=en">https://apps.apple.com/fr/app/thinkerview/id1406076265?l=en</a><br />▶️ Soutenez l'App Thinkerview : <a rel="nofollow" target="blank" href="https://ko-fi.com/pierrebresson">https://ko-fi.com/pierrebresson</a><br /><br />ECOUTER EN PODCAST AUDIO :<br />▶️ <a rel="nofollow" target="blank" href="https://open.spotify.com/show/3OjPEKZAQkc7dXrTTi6DyZ">https://open.spotify.com/show/3OjPEKZAQkc7dXrTTi6DyZ</a><br />▶️ <a rel="nofollow" target="blank" href="https://itunes.apple.com/fr/podcast/thinkerview/id1196519121">https://itunes.apple.com/fr/podcast/thinkerview/id1196519121</a><br /><br /><br />▶️ SITE : <a rel="nofollow" target="blank" href="https://thinkerview.com">https://thinkerview.com</a><br />▶️ YOUTUBE : <a rel="nofollow" target="blank" href="https://youtube.com/Thinkerview">https://youtube.com/Thinkerview</a><br />▶️ FACEBOOK : <a rel="nofollow" target="blank" href="https://facebook.com/Thinkerview">https://facebook.com/Thinkerview</a><br />▶️ TWITTER : <a rel="nofollow" target="blank" href="https://twitter.com/Thinker_View">https://twitter.com/Thinker_View</a><br />▶️ MASTODON : <a rel="nofollow" target="blank" href="https://mamot.fr/@thinkerview">https://mamot.fr/@thinkerview</a><br />▶️ PEERTUBE : <a rel="nofollow" target="blank" href="https://thinkerview.video">https://thinkerview.video</a><br /><br />(CC BY-NC-SA 4.0) <a rel="nofollow" target="blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">https://creativecommons.org/licenses/by-nc-sa/4.0/</a><br />Cette œuvre vidéo et sonore de Thinkerview est mise à disposition selon les termes de la Licence Creative Commons Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions 4.0 International.<br />Mettre obligatoirement un lien vers la source originale entière en cas de réutilisation. Merci.{% endraw %}
