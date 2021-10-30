@@ -1,0 +1,15 @@
+---
+title: "Billy Joel - You May Be Right (Official Audio)"
+image: "https:\/\/i.ytimg.com\/vi\/ilsv0C1-aBw\/hqdefault.jpg"
+vid_id: "ilsv0C1-aBw"
+categories: "Music"
+tags: ["billy joel songs","you may be right song 1980","music"]
+date: "2021-10-30T23:43:46+03:00"
+vid_date: "2013-04-03T10:31:26Z"
+duration: "PT4M18S"
+viewcount: "8235595"
+likeCount: "53480"
+dislikeCount: "1878"
+channel: "billyjoelVEVO"
+---
+{% raw %}In 1980, Billy Joel released his album titled Glass Houses. Listen to Billy Joel perform the track 'You May Be Right'.<br /><br /><a rel="nofollow" target="blank" href="http://smarturl.it/BJ_MBRGH_YT?IQid=ytd.bj.ymbra">http://smarturl.it/BJ_MBRGH_YT?IQid=ytd.bj.ymbra</a><br />Listen to music off of Glass Houses<br /><br /><a rel="nofollow" target="blank" href="http://smarturl.it/BJ_MBRMV_YT?IQid=ytd.bj.ymbra">http://smarturl.it/BJ_MBRMV_YT?IQid=ytd.bj.ymbra</a><br />Watch the original music video for 'You May Be Right'<br /><br />iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/BJ_TEBJ_iTunes?IQid=ytd.bj.ymbra">http://smarturl.it/BJ_TEBJ_iTunes?IQid=ytd.bj.ymbra</a><br />Amazon: <a rel="nofollow" target="blank" href="http://smarturl.it/BJ_TEBJ_Amzn?IQid=ytd.bj.ymbra">http://smarturl.it/BJ_TEBJ_Amzn?IQid=ytd.bj.ymbra</a><br />Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/BillyJoel_Spotify?IQid=ytd.bj.ymbra">http://smarturl.it/BillyJoel_Spotify?IQid=ytd.bj.ymbra</a><br />Google Play: <a rel="nofollow" target="blank" href="http://smarturl.it/BJ_Gplay?IQid=ytd.bj.ymbra">http://smarturl.it/BJ_Gplay?IQid=ytd.bj.ymbra</a><br /><br />Facebook: <a rel="nofollow" target="blank" href="http://smarturl.it/BJ_YD_FB?IQid=ytd.bj.ymbra">http://smarturl.it/BJ_YD_FB?IQid=ytd.bj.ymbra</a><br />Twitter: <a rel="nofollow" target="blank" href="http://smarturl.it/BJ_YD_T?IQid=ytd.bj.ymbra">http://smarturl.it/BJ_YD_T?IQid=ytd.bj.ymbra</a><br />Subscribe: <a rel="nofollow" target="blank" href="http://smarturl.it/BJ_YD_YT?IQid=ytd.bj.ymbra">http://smarturl.it/BJ_YD_YT?IQid=ytd.bj.ymbra</a><br /><br />Lyrics:<br />I've been stranded in the combat zone<br />I walked through Bedford Stuy alone<br />Even rode my motorcycle in the rain<br />And you told me not to drive<br />But I made it home alive<br />So you said that only proves that I'm insane<br /><br />You may be right<br />I may be crazy<br />But it just may be a lunatic you're looking for<br />Turn out the light<br />Don't try to save me<br />You may be wrong for all I know<br />But you may be right<br /><br />Billy Joel's official YouTube channel features music videos, live performances, interviews, TV appearances and more. Best known for his first hit song, 'Piano Man', in 1973, Billy has written and recorded thirty- three Top 40 hits in the United States. He is a six-time Grammy Award winner, a 23-time Grammy nominee and one of the world's best-selling artists of all time, having sold over 150 million records worldwide. Billy Joel is the sixth-best-selling recording artist and the third-best-selling solo artist in the United States.<br /><br />#BillyJoel #YouMayBeRight #Vevo{% endraw %}
