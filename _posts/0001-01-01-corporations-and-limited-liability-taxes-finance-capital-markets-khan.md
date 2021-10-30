@@ -1,0 +1,15 @@
+---
+title: "Corporations and limited liability | Taxes | Finance & Capital Markets | Khan Academy"
+image: "https:\/\/i.ytimg.com\/vi\/VnTlKcIigyY\/hqdefault.jpg"
+vid_id: "VnTlKcIigyY"
+categories: "Education"
+tags: ["Corporations","limited","liability"]
+date: "2021-10-30T09:44:16+03:00"
+vid_date: "2011-04-18T17:10:16Z"
+duration: "PT9M58S"
+viewcount: "129671"
+likeCount: "811"
+dislikeCount: "20"
+channel: "Khan Academy"
+---
+{% raw %}Why people set up corporations. Created by Sal Khan.<br /><br />Watch the next lesson: <br /><a rel="nofollow" target="blank" href="https://www.khanacademy.org/economics-finance-domain/core-finance/taxes-topic/corporate-taxation/v/is-limited-liability-or-double-taxation-fair?utm_source=YT&amp;utm_medium=Desc&amp;utm_campaign=financeandcapitalmarkets">https://www.khanacademy.org/economics-finance-domain/core-finance/taxes-topic/corporate-taxation/v/is-limited-liability-or-double-taxation-fair?utm_source=YT&amp;utm_medium=Desc&amp;utm_campaign=financeandcapitalmarkets</a><br /><br />Missed the previous lesson? Watch here: <a rel="nofollow" target="blank" href="https://www.khanacademy.org/economics-finance-domain/core-finance/taxes-topic/taxes/v/married-taxes-clarification?utm_source=YT&amp;utm_medium=Desc&amp;utm_campaign=financeandcapitalmarkets">https://www.khanacademy.org/economics-finance-domain/core-finance/taxes-topic/taxes/v/married-taxes-clarification?utm_source=YT&amp;utm_medium=Desc&amp;utm_campaign=financeandcapitalmarkets</a><br /><br />Finance and capital markets on Khan Academy: In exchange for being treated as a person-like-legal entity (and the limited liability this gives for its owners), most corporations pay taxes. This tutorial focuses on what corporations are, &quot;double taxation&quot; and a few ways that multinationals might try to get out of paying taxes.<br /><br />About Khan Academy: Khan Academy offers practice exercises, instructional videos, and a personalized learning dashboard that empower learners to study at their own pace in and outside of the classroom. We tackle math, science, computer programming, history, art history, economics, and more. Our math missions guide learners from kindergarten to calculus using state-of-the-art, adaptive technology that identifies strengths and learning gaps. We've also partnered with institutions like NASA, The Museum of Modern Art, The California Academy of Sciences, and MIT to offer specialized content.<br /><br />For free. For everyone. Forever. #YouCanLearnAnything<br /><br />Subscribe to Khan Academy’s Finance and Capital Markets channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCQ1Rt02HirUvBK2D2-ZO_2g?sub_confirmation=1">https://www.youtube.com/channel/UCQ1Rt02HirUvBK2D2-ZO_2g?sub_confirmation=1</a><br />Subscribe to Khan Academy: <a rel="nofollow" target="blank" href="https://www.youtube.com/subscription_center?add_user=khanacademy">https://www.youtube.com/subscription_center?add_user=khanacademy</a>{% endraw %}
