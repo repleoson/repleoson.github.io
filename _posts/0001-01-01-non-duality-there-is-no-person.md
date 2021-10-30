@@ -1,0 +1,15 @@
+---
+title: "Non Duality - There Is No Person"
+image: "https:\/\/i.ytimg.com\/vi\/xU5vsjWW0nI\/hqdefault.jpg"
+vid_id: "xU5vsjWW0nI"
+categories: "Education"
+tags: ["non-duality","non duality","non dual"]
+date: "2021-10-30T16:20:47+03:00"
+vid_date: "2016-04-09T14:38:24Z"
+duration: "PT18M8S"
+viewcount: "74027"
+likeCount: "1505"
+dislikeCount: "53"
+channel: "GP Walsh"
+---
+{% raw %}Experience GP's FREE inner reconciliation course <br /> ➜ <a rel="nofollow" target="blank" href="http://gpwalsh.com/ir-free-course-yt">http://gpwalsh.com/ir-free-course-yt</a><br /><br />Share This Video ➜ <br /><br />Subscribe :<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCbvLAXdzvdTH9MAx7fHvXiA?sub_confirmation=1">https://www.youtube.com/channel/UCbvLAXdzvdTH9MAx7fHvXiA?sub_confirmation=1</a><br /><br />Try out free courses from GP ➜ mhicourses.com<br /><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/innerreconciliation/?ref=br_rs">https://www.facebook.com/innerreconciliation/?ref=br_rs</a><br /><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/gpwalsh?lang=en">https://twitter.com/gpwalsh?lang=en</a><br /><br />Thank you watching and/or subscribing to the GP Walsh / Inner Reconciliation channel. We are continually adding new videos and playlists, so check it out often.<br /><br />GP &amp; the MasterHEART Institute are dedicated to helping you live the fullest, richest, most creative and free life you possibly can. We want you to realize your unique gifts and prosper by sharing them with the world. This is the reason you are here.<br /><br />All the YouTube, from GP Walsh and the MasterHEART Institute videos are a production of the MasterHEART Institute, which is solely responsible for its content. All opinions offered are those of GP Walsh, his associates and his guests are are not to be construed as medical, financial or legal advice of any kind.<br /><br />While I am confident that the information presented here can bring about dramatic progress and transformation, in many areas for your life, I need to state that you must take responsibility for your own well-being. I can make no claims as to what, if any, benefits you will receive especially when it comes to matters of your health, your finances or anything regarding legalities. I am not a doctor, a lawyer or a financial expert and the information presented here is not intended to replace appropriate treatment by a physician or mental health professional, a licensed attorney or an expert financial consultant.<br /><br />Inner Reconciliation, EFT and even meditation are still in the experimental stage and, while a growing number of PhD's and MD's are adopting these and things like it, we cannot claim that it is risk free. That said, after many years of practice, I am unaware of anyone experiencing negative side effects from using these videos or any of the techniques presented in them. However, different people require different care, and depending on a number of variables, it is possible you could uncover deeper issues within the process that cannot be addressed in these video.{% endraw %}
