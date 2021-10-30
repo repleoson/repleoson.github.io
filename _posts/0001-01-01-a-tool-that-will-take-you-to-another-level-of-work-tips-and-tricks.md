@@ -1,0 +1,15 @@
+---
+title: "A tool that will take you to another level of work! TIPS AND TRICKS"
+image: "https:\/\/i.ytimg.com\/vi\/5o_xSDZDqXc\/hqdefault.jpg"
+vid_id: "5o_xSDZDqXc"
+categories: "Entertainment"
+tags: ["marcenaria","woodcraft","marcenariaparainiciantes"]
+date: "2021-10-30T09:33:18+03:00"
+vid_date: "2021-10-24T13:00:02Z"
+duration: "PT5M57S"
+viewcount: "240565"
+likeCount: "2230"
+dislikeCount: "304"
+channel: "WillWood - Diy & woodworking"
+---
+{% raw %}A tool that will take you to another level of work! TIPS AND TRICKS<br /><br />✅✅ Make 16,000 Projects With Step By Step Plans ...even if you don't have a large workshop or expensive tools! <br />➡️ Get instant access to 16,000 projects now <a rel="nofollow" target="blank" href="https://e8776pv9zrv8tpgmf11fs9-oeq.hop.clickbank.net/">https://e8776pv9zrv8tpgmf11fs9-oeq.hop.clickbank.net/</a> <br /><br />✅✅ How to launch your own Woodworking Business for under $1000 and Make until $150,000 a yers. <br />➡️Step-by-step guide <a rel="nofollow" target="blank" href="https://d365epmhtnwego4jylg93kkg-n.hop.clickbank.net/">https://d365epmhtnwego4jylg93kkg-n.hop.clickbank.net/</a><br /><br />Hello friends, let's go to another video of the saga of homemade tools for your home workshop. This time we bring you a template for making dowels by hand, simple, practical and very easy to make, using just two metal nuts. Follow the step by step of this video and make one right now for your workshop. Hug and see you in the next video.<br /><br />Our channel intends to always bring the best content on carpentry for beginners, in addition to handcrafted ideas. We do our best to always have new videos weekly. To not miss any news, subscribe to our channel, activate the bell for all notifications. <br /><br />00:00 - Tool manufacturing / Woodworking <br /><br />Link: <a rel="nofollow" target="blank" href="https://youtu.be/5o_xSDZDqXc">https://youtu.be/5o_xSDZDqXc</a><br /><br />Follow our profile on Instagram: https: //www.instagram.com/canal_willw ... <br />Contact email: willwoodarte@gmail.com<br /><br />_________________________________________________________________________<br /><br />Get access to our other videos at the links below: <br /><br />CUTS WITH SAW TICO TICO AS YOU HAVE NEVER SEEN BEFORE: <br /><a rel="nofollow" target="blank" href="https://youtu.be/IDYYy1Ous-8">https://youtu.be/IDYYy1Ous-8</a> <br /><br />HALF HANDLE FOR CIRCULAR SAW - JOINERY FOR BEGINNERS: <a rel="nofollow" target="blank" href="https://youtu.be/AeSGwCZj6tM">https://youtu.be/AeSGwCZj6tM</a> <br /><br />JIG SERRA TICO TICO ROUND CUTS // ROUNDS CUTS JIGSAW: <br /><a rel="nofollow" target="blank" href="https://youtu.be/GWBU2zTyYg0">https://youtu.be/GWBU2zTyYg0</a> <br /><br />CIRCULAR SAW WORKBENCH DW745 | DW745 CIRCULAR SAW WORKBENCH: <a rel="nofollow" target="blank" href="https://youtu.be/ww7u7tGkjlc">https://youtu.be/ww7u7tGkjlc</a> <br /><br />&quot;AMAZING&quot; Grinder Support - DIY: <br /><a rel="nofollow" target="blank" href="https://youtu.be/ZS24OMtf2kU">https://youtu.be/ZS24OMtf2kU</a> <br /><br />#Carpentry #Woodworking #Marcenariaparainiciantes{% endraw %}
