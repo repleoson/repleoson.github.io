@@ -1,0 +1,15 @@
+---
+title: "Why Green Cardamom Is So Expensive | So Expensive"
+image: "https:\/\/i.ytimg.com\/vi\/fXOaWevi6f8\/hqdefault.jpg"
+vid_id: "fXOaWevi6f8"
+categories: "News-Politics"
+tags: ["Business Insider","Business News","Green Cardamom"]
+date: "2021-11-01T02:36:51+03:00"
+vid_date: "2021-10-30T15:00:20Z"
+duration: "PT6M46S"
+viewcount: "384580"
+likeCount: "7834"
+dislikeCount: "140"
+channel: "Business Insider"
+---
+{% raw %}Green cardamom is the third most expensive spice in the world, after saffron and vanilla. Just 100 grams of the spice can cost about $9. That’s about $90 for a kilogram. But getting that little bit of cardamom requires a lot of work. Harvesters need to collect 6 kilograms of raw pods by hand to produce just 1 kilogram of green cardamom. But just because several pods from the same tree are ripe doesn’t mean they all will be. This is why each pod must be plucked by hand. So why is it so hard to grow green cardamom? And is that what makes it so expensive?<br /><br />For more information, visit <a rel="nofollow" target="blank" href="https://www.westernghatsspices.in/.">https://www.westernghatsspices.in/.</a><br /><br />MORE SO EXPENSIVE VIDEOS:<br />Why Pine Nuts Are So Expensive | So Expensive<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=k88Cu5SoABg">https://www.youtube.com/watch?v=k88Cu5SoABg</a><br />Why Japanese Calligraphy Brushes Are So Expensive | So Expensive<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=ZEMi3s2IDS8">https://www.youtube.com/watch?v=ZEMi3s2IDS8</a><br />Why Japanese Ruby Roman Grapes Are So Expensive | So Expensive<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=EE7NqzhMDms">https://www.youtube.com/watch?v=EE7NqzhMDms</a><br /><br />------------------------------------------------------<br /><br />#GreenCardamom #Spice #BusienssInsider<br /><br />Business Insider tells you all you need to know about business, finance, tech, retail, and more.<br /><br />Visit us at: <a rel="nofollow" target="blank" href="https://www.businessinsider.com">https://www.businessinsider.com</a><br />Subscribe: <a rel="nofollow" target="blank" href="https://www.youtube.com/user/businessinsider">https://www.youtube.com/user/businessinsider</a><br />BI on Facebook: <a rel="nofollow" target="blank" href="https://read.bi/2xOcEcj">https://read.bi/2xOcEcj</a><br />BI on Instagram: <a rel="nofollow" target="blank" href="https://read.bi/2Q2D29T">https://read.bi/2Q2D29T</a><br />BI on Twitter: <a rel="nofollow" target="blank" href="https://read.bi/2xCnzGF">https://read.bi/2xCnzGF</a><br />BI on Snapchat: <a rel="nofollow" target="blank" href="https://www.snapchat.com/discover/Business_Insider/5319643143">https://www.snapchat.com/discover/Business_Insider/5319643143</a><br />Boot Camp on Snapchat: <a rel="nofollow" target="blank" href="https://www.snapchat.com/discover/Boot_Camp/3383377771">https://www.snapchat.com/discover/Boot_Camp/3383377771</a><br /><br />Why Green Cardamom Is So Expensive | So Expensive{% endraw %}
