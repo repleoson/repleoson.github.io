@@ -1,0 +1,15 @@
+---
+title: "Xavi • Being Barcelona’s treble-winning captain, Johan Cruyff’s advice, and becoming a coach"
+image: "https:\/\/i.ytimg.com\/vi\/Oyyz58x1Rkw\/hqdefault.jpg"
+vid_id: "Oyyz58x1Rkw"
+categories: "Sports"
+tags: ["soccer","futbol","football"]
+date: "2021-10-31T23:26:54+03:00"
+vid_date: "2021-10-29T16:31:11Z"
+duration: "PT8M4S"
+viewcount: "70087"
+likeCount: "3605"
+dislikeCount: "23"
+channel: "The Coaches' Voice"
+---
+{% raw %}Subscribe to the CV Academy... <a rel="nofollow" target="blank" href="https://bit.ly/3pK77QJ">https://bit.ly/3pK77QJ</a><br /><br />0:00 - Intro<br />0:18 - How Luis Enrique convinced him to stay <br />1:44 - Being the treble-winning captain<br />2:35 - Finishing his playing career in Qatar <br />3:27 - Adapting as a player in a new team and then moving from player to head coach <br />4:31 - An exciting new project <br />6:00 - Helping the Qatar national team <br />6:59 - Johan Cruyff’s coaching advice<br /><br />Xavi Hernández had won everything there is to win for club and country a few times over by the time Luis Enrique was appointed Barcelona manager in the summer of 2014. Convinced to stay for one more season by the new manager, he duly added another treble to his significant medal haul. Following a Champions League final victory over Juventus, Xavi finally departed the club at which he had spent his entire professional career and moved to Al Sadd in Qatar.<br /><br />Xavi finished his playing career with four successful – and typically trophy-laden – years at Al Sadd before taking over as the club’s head coach in the summer of 2019. In this exclusive interview with the Coaches’ Voice, the Barcelona and Spain legend talks us through the final years of his playing career, and the impressive move into management that could yet lead him back to Europe.<br /><br />The Coaches’ Voice<br /><br />Website: <a rel="nofollow" target="blank" href="https://coachesvoice.com">https://coachesvoice.com</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/CoachesVoice">https://twitter.com/CoachesVoice</a><br />Facebook: <a rel="nofollow" target="blank" href="https://facebook.com/CoachesVoice">https://facebook.com/CoachesVoice</a><br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/CoachesVoice">https://instagram.com/CoachesVoice</a><br /><br />The Coaches’ Voice Academy<br /><br />Subscribe today: <a rel="nofollow" target="blank" href="https://academy.coachesvoice.com/join">https://academy.coachesvoice.com/join</a><br />Website: <a rel="nofollow" target="blank" href="https://academy.coachesvoice.com">https://academy.coachesvoice.com</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/cv_academy">https://twitter.com/cv_academy</a><br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/cv_academy">https://instagram.com/cv_academy</a><br />Join our coaching forum: <a rel="nofollow" target="blank" href="http://bit.ly/31BuDA3">http://bit.ly/31BuDA3</a><br /><br />#Xavi #FCBarcelona #JohanCruyff{% endraw %}
