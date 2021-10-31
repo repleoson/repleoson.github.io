@@ -1,0 +1,15 @@
+---
+title: "Erasure - Sometimes (Official HD Video)"
+image: "https:\/\/i.ytimg.com\/vi\/S1a8QABKNo0\/hqdefault.jpg"
+vid_id: "S1a8QABKNo0"
+categories: "Music"
+tags: ["Erasure","Sometimes","Group"]
+date: "2021-11-01T02:24:53+03:00"
+vid_date: "2015-10-22T17:29:07Z"
+duration: "PT3M46S"
+viewcount: "10450193"
+likeCount: "63516"
+dislikeCount: "2259"
+channel: "Erasure"
+---
+{% raw %}Official HD music video for “Sometimes” by Erasure. <br /><br />The breakthrough single from Erasure (Vince Clarke &amp; Andy Bell) was released in October 1986. The first release from the band’s second album,‘The Circus’, the single reached number 2 in the UK charts.<br /><br />The iconic rooftop video was directed by Gerard De Thame, who also produced videos for Lloyd Cole, Black, Tinita Tikaram and The Damned.<br /><br />Download or Stream   <a rel="nofollow" target="blank" href="https://erasure.lnk.to/TheCircusID">https://erasure.lnk.to/TheCircusID</a><br /><br />Follow Erasure<br /><br /><a rel="nofollow" target="blank" href="https://www.erasureinfo.com">https://www.erasureinfo.com</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/erasureinfo">https://www.facebook.com/erasureinfo</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/erasureinfo">https://twitter.com/erasureinfo</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/erasureinfo">https://www.instagram.com/erasureinfo</a><br /><a rel="nofollow" target="blank" href="https://open.spotify.com/user/erasurespotify">https://open.spotify.com/user/erasurespotify</a><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/erasureinfo">https://www.youtube.com/erasureinfo</a><br /><a rel="nofollow" target="blank" href="https://music.apple.com/za/artist/erasure/153089">https://music.apple.com/za/artist/erasure/153089</a><br /><br />Lyrics:<br /><br />It's not the way you lead me<br />By the hand into the bedroom<br />It's not the way you throw your clothes<br />Upon the bathroom floor<br /><br />Been thinking about you<br />I just couldn't wait to see<br />Fling my arms around you<br />As we fall in ecstasy<br />Ooh sometimes<br />The truth is harder<br />Than the pain inside, yeah<br />Ooh sometimes<br />It's the broken heart<br />That decides<br />It's not the way you caress me<br />Toy with my affection<br />It's not my sense of emptiness<br />You fill with your desire<br />Climb in bed beside me<br />We can lock the world outside<br />Touch me satisfy me<br />Warm your body next to mine<br />Ooh sometimes<br />The truth is harder<br />Than the pain inside, yeah<br />Ooh sometimes<br />It's the broken heart<br />That decides<br />Ooh sometimes<br />The truth is harder<br />Than the pain inside, yeah<br />Ooh sometimes<br />It's the broken heart<br />That decides<br />Ooh sometimes<br />The truth is harder<br />Than the pain inside, yeah<br />Ooh sometimes<br />It's the broken heart<br />That decides<br /><br />#Erasure #VinceClarke #AndyBell #TheCircus #DepecheMode<br />#Yazoo <br /><br /> (C)1986 Mute Records, a BMG Company.{% endraw %}
