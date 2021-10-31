@@ -1,0 +1,15 @@
+---
+title: "Bill & Gloria Gaither - Look for Me [Live] ft. Tanya Goodman Sykes"
+image: "https:\/\/i.ytimg.com\/vi\/SIU-14gS2Oo\/hqdefault.jpg"
+vid_id: "SIU-14gS2Oo"
+categories: "Music"
+tags: ["Bill","Gloria","Gaither"]
+date: "2021-10-31T13:01:57+03:00"
+vid_date: "2012-11-02T00:00:59Z"
+duration: "PT4M13S"
+viewcount: "12214672"
+likeCount: "38702"
+dislikeCount: "2883"
+channel: "GaitherVEVO"
+---
+{% raw %}Tanya Goodman Sykes - Official Video for 'Look for Me [Live]', available now!<br /><br />Buy the full length DVD/CD 'Singin' In My Soul' Here: <a rel="nofollow" target="blank" href="http://smarturl.it/SinginInMySoul">http://smarturl.it/SinginInMySoul</a><br />Available at iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/SinginInMySoul.iT">http://smarturl.it/SinginInMySoul.iT</a><br /><br />Subscribe to Gaither Music YouTube Channel: <a rel="nofollow" target="blank" href="http://smarturl.it/GaitherMusicTV_Subsc">http://smarturl.it/GaitherMusicTV_Subsc</a><br />Subscribe to GaitherVEVO Channel: <a rel="nofollow" target="blank" href="http://smarturl.it/GaitherVEVOSubscribe">http://smarturl.it/GaitherVEVOSubscribe</a><br />Subscribe to Gaither TV: <a rel="nofollow" target="blank" href="http://smarturl.it/GaitherTV_Subscribe">http://smarturl.it/GaitherTV_Subscribe</a><br /><br />Follow Gaither Music for updates on your favorite artists.<br />Facebook: <a rel="nofollow" target="blank" href="http://smarturl.it/FB_GaitherMusic">http://smarturl.it/FB_GaitherMusic</a><br />Twitter: <a rel="nofollow" target="blank" href="http://smarturl.it/TW_GaitherMusic">http://smarturl.it/TW_GaitherMusic</a><br />Instagram: <a rel="nofollow" target="blank" href="http://smarturl.it/IG_GaitherMusic">http://smarturl.it/IG_GaitherMusic</a><br />Website: <a rel="nofollow" target="blank" href="http://smarturl.it/gaither.com">http://smarturl.it/gaither.com</a><br /><br />LYRICS:<br /><br />When you finally, make your entrance, to that city <br />Of jasper walls, and bright gold avenues <br />As you behold ,all it's beauty, and it's splendor <br />Remember, there's just one request I make of you <br /><br />Chorus: <br />Look for me, for I will be there too <br />I realize, when you arrive, there'll be so much to view <br />After you've been there 10,000 years, a million, maybe two <br />Look for me, for I will be there too <br /><br />As you go down your list of firsts, there's no question <br />You'll want to see your loved ones, waiting there for you <br />And when you feel, you've shared your story with the last one <br />That wants to hear you tell, just how you made it through <br /><br />Look for me, I'd like to hear it too <br />I realize when you arrive, there'll be so much to view <br />After you've been there 10,000 years, a million, maybe two <br />Look for me, for I will be there too<br /><br />Music video by Bill &amp; Gloria Gaither performing Look for Me (feat. Tanya Goodman Sykes) [Live]. (P) (C) 2012 Spring House Music Group. All rights reserved. Unauthorized reproduction is a violation of applicable laws.  Manufactured by EMI Christian Music Group,<br /><br />#Gaither #LookForMe #Vevo #Christian{% endraw %}
