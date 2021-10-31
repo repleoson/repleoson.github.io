@@ -1,0 +1,15 @@
+---
+title: "The Neighbourhood - I Can't Even ft. French Montana LYRICS"
+image: "https:\/\/i.ytimg.com\/vi\/g5Ozp1_xVYQ\/hqdefault.jpg"
+vid_id: "g5Ozp1_xVYQ"
+categories: "Entertainment"
+tags: ["icanteven","thenbhd","nbhd"]
+date: "2021-10-31T20:56:44+03:00"
+vid_date: "2014-11-22T22:57:55Z"
+duration: "PT3M56S"
+viewcount: "3292311"
+likeCount: "46633"
+dislikeCount: "471"
+channel: "Hector Parra"
+---
+{% raw %}DISCLAIMER: I DO NOT OWN ANY COPYRIGHT OF THIS SONG!!<br />FOR ENTERTAINMENT PURPOSES ONLY!!<br /><br />[Verse 1: The Neighbourhood]<br />Just got cheated on, no it's not my day<br />That's not my b*tch, she's not my girl, she's not my babe<br />My stomach's in pain<br />I hope I don't throw up all over what you told<br />But it hurts oh no no<br /><br />[Hook: The Neighbourhood]<br />I can't even, I can't even believe what you did to me<br />You can't even, you can't even say I'm overreacting<br />I can't even, can't even hear your side<br />Shame on me, you fooled me twice<br />And you said I wasn't just like anyone, like<br />But you treated me just like everyone, like everyone else<br />You like to say that you're right<br />Did it make you feel bad<br />When you cheated on your man last night<br />Did I even ever cross your mind<br />You like to say that you're right<br />Did it make you feel bad<br />When you cheated on your man last night<br />Did I even ever cross your mind<br />You like to say that you're right<br />You like to say that you're right<br /><br />[Verse 2: French Montana]<br />Drop head with a time hoodie on me<br />Bought a hundred chains now the b*tches all linger<br />Walk by the crib, smell the kitchen all stanky<br />Floor seats, 4 quarter, spent a quarter on the link<br />Ridin' through Philly, Meek Milly never lost<br />Still ridin' through the strip catchin' licks with my dog<br />30 for the whole, 15 for the half<br />You could break it down, come and see me with the bag<br />Shorty fell in love with a young rich n*gga<br />Blunt full of smoke and a cup full of liquor<br />Say what I mean and I mean what I said baby<br />Silk sheets, I be slippin' off the bed baby<br /><br />[Verse 1: The Neighbourhood]<br />Just got cheated on, no it's not my day<br />That's not my b*tch, she's not my girl, she's not my babe<br />My stomach's in pain<br />I hope I don't throw up all over what you told<br />But it hurts oh no no<br /><br />[Hook: The Neighbourhood]<br />I can't even, I can't even believe what you did to me<br />You can't even, you can't even say I'm overreacting<br />I can't even, can't even hear your side<br />Shame on me, you fooled me twice<br />And you said I wasn't just like anyone, like<br />But you treated me just like everyone, like everyone else<br />You like to say that you're right<br />Did it make you feel bad<br />When you cheated on your man last night<br />Did I even ever cross your mind<br />You like to say that you're right<br />Did it make you feel bad<br />When you cheated on your man last night<br />Did I even ever cross your mind<br />You like to say that you're right<br />You like to say that you're right{% endraw %}
