@@ -1,0 +1,15 @@
+---
+title: "Do I Have to Go to Mass? Sunday Obligation Explained"
+image: "https:\/\/i.ytimg.com\/vi\/gHNOaJMR_BA\/hqdefault.jpg"
+vid_id: "gHNOaJMR_BA"
+categories: "Entertainment"
+tags: ["Holy obligation","Sunday obligation","Eucharist"]
+date: "2021-11-01T22:07:26+03:00"
+vid_date: "2021-10-27T20:25:58Z"
+duration: "PT8M14S"
+viewcount: "24581"
+likeCount: "1850"
+dislikeCount: "19"
+channel: "Ascension Presents"
+---
+{% raw %}Why do we go to Mass every Sunday? Is it because of what we &quot;get out of it&quot;? Is it the way it makes us feel? Is it out of love for God? Or something even deeper and more profound?<br /><br />Today, Fr. Mike explains the Church's teaching on Sunday Mass obligation, and why this is the way that God has asked us to worship him.<br /><br />What does God want this Advent? Simple. He wants you. He wants a personal encounter with you. This year, journey through Advent with &quot;Rejoice! Finding Your Place in the Advent Story,&quot; and learn about the places, people, and events that shaped the story of the very first Advent and shape our own lives today: <a rel="nofollow" target="blank" href="https://tinyurl.com/ydmgasls">https://tinyurl.com/ydmgasls</a> <br /><br />❓ Have ideas for future videos ❓ Topics you want to hear about ❓ Questions you want answered ❓ Make sure to put #AskAscension in your comment  👍<br /><br />—  MORE FROM ASCENSION  —<br /><br />🔸Ascension’s main website: <a rel="nofollow" target="blank" href="https://tinyurl.com/yzm3pzjy">https://tinyurl.com/yzm3pzjy</a><br />🔸Ascension Media: <a rel="nofollow" target="blank" href="https://tinyurl.com/yg5qz73v">https://tinyurl.com/yg5qz73v</a><br />🔸The Great Adventure Bible: <a rel="nofollow" target="blank" href="https://tinyurl.com/yj2rfpwz">https://tinyurl.com/yj2rfpwz</a><br /><br />—  SOCIAL MEDIA  —<br /><br />🔸Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/AscensionPress/">https://www.facebook.com/AscensionPress/</a><br />🔸Twitter: <a rel="nofollow" target="blank" href="http://twitter.com/AscensionPress">http://twitter.com/AscensionPress</a><br />🔸LinkedIn:  <a rel="nofollow" target="blank" href="https://www.linkedin.com/company/ascension-press">https://www.linkedin.com/company/ascension-press</a><br />🔸Instagram: <a rel="nofollow" target="blank" href="http://www.instagram.com/catholicfaithformation/">http://www.instagram.com/catholicfaithformation/</a><br />🔸Subscribe: <a rel="nofollow" target="blank" href="https://www.youtube.com/c/ascensionpresents">https://www.youtube.com/c/ascensionpresents</a><br /><br />—  BULLDOG CATHOLIC  —<br /><br />🔸YouTube: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg">https://www.youtube.com/channel/UCXzB400_Skw95z2TmAsSkIg</a><br />🔸iTunes: <a rel="nofollow" target="blank" href="https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688">https://podcasts.apple.com/us/podcast/umd-newman-catholic-campus-ministry/id273537688</a>{% endraw %}
