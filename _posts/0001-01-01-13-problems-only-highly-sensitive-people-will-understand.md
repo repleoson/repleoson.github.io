@@ -1,0 +1,15 @@
+---
+title: "13 Problems Only Highly Sensitive People Will Understand"
+image: "https:\/\/i.ytimg.com\/vi\/TPR1P_D8zjY\/hqdefault.jpg"
+vid_id: "TPR1P_D8zjY"
+categories: "Education"
+tags: ["highly sensitive person","the highly sensitive person","highly sensitive epople"]
+date: "2021-11-01T06:16:16+03:00"
+vid_date: "2020-05-17T00:55:46Z"
+duration: "PT7M47S"
+viewcount: "3165137"
+likeCount: "163911"
+dislikeCount: "1868"
+channel: "Psych2Go"
+---
+{% raw %}Do you consider yourself a deep thinker and feel things much more intensely than others? If you answered yes, then chances are you’re part of the small percentage of people who are highly sensitive. Being a Highly Sensitive Person – or HSP - means that you are naturally predisposed to process and perceive information on a much deeper level than most. You’re also likely perceptive, empathetic, intuitive, and self-aware. HSPs are also emotionally intelligent and incredibly creative, passionate, people.<br /> <br />As you can imagine, though, feeling and processing more intensely has some downsides. So without further ado, here are 13 struggles only Highly Sensitive People will probably relate to<br /><br />Suggested video(s): <br /><br />Understanding the Highly Sensitive Person<br /><a rel="nofollow" target="blank" href="https://youtu.be/sFjDEv-EFxs">https://youtu.be/sFjDEv-EFxs</a><br /><br />8 Things That Make an HSP hard to Love <br /><a rel="nofollow" target="blank" href="https://youtu.be/QJ304PRlkoM">https://youtu.be/QJ304PRlkoM</a><br /><br />6 Types of Highly Sensitive People <br /><a rel="nofollow" target="blank" href="https://youtu.be/ys6zzEqHEg4">https://youtu.be/ys6zzEqHEg4</a><br /><br />Credits: <br />Writer: Chloe Avenasa<br />Script Editor: Denise Ding &amp; Kelly Soong <br />VO: Amanda Silvera<br />Animator: Nida - <a rel="nofollow" target="blank" href="https://www.instagram.com/chubbynida/">https://www.instagram.com/chubbynida/</a> (chubby.nida@gmail.com)<br />Chubbynidastore - <a rel="nofollow" target="blank" href="https://www.instagram.com/chubbynidastore/">https://www.instagram.com/chubbynidastore/</a> <br />YouTube Manager: Cindy Cheong <br /><br />References:<br />· Aron, E. N. (1996). Counseling the highly sensitive person. Counseling and Human Development, 28, 1-7.<br />· Killgore, W. D. (2010). Effects of sleep deprivation on cognition. In Progress in brain research(Vol. 185, pp. 105-129). Elsevier.<br />· Aron, E. (2013). The highly sensitive person. Kensington Publishing Corp.<br />· Sand, I. (2016). Highly Sensitive People in an Insensitive World: How to Create a Happy Life. Jessica Kingsley Publishers.<br />· Zeff, T. (2004). The Highly Sensitive Person’s Survival Guide: Essential Skills for Living Well in an Overstimulating World. New Harbinger Publications.<br /><br />Special thanks to ChubbyNida: <a rel="nofollow" target="blank" href="https://www.instagram.com/chubbynida/">https://www.instagram.com/chubbynida/</a><br /><br />Are you interested in animating for psych2go? Contact Editorial@psych2go.net{% endraw %}
