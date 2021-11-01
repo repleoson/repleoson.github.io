@@ -1,0 +1,15 @@
+---
+title: "Liam Payne - Depend On It (Audio)"
+image: "https:\/\/i.ytimg.com\/vi\/j-OIoLbZIzc\/hqdefault.jpg"
+vid_id: "j-OIoLbZIzc"
+categories: "Music"
+tags: ["Liam","Payne","Depend"]
+date: "2021-11-02T01:50:38+03:00"
+vid_date: "2018-08-24T04:00:03Z"
+duration: "PT2M53S"
+viewcount: "1015359"
+likeCount: "65727"
+dislikeCount: "290"
+channel: "LiamPayneVEVO"
+---
+{% raw %}'Sunshine' out 27th August: <a rel="nofollow" target="blank" href="https://liam-payne.lnk.to/SunshineID">https://liam-payne.lnk.to/SunshineID</a><br /><br />Listen to the Liam Payne complete playlist here: <a rel="nofollow" target="blank" href="https://liam-payne.lnk.to/CollectionID">https://liam-payne.lnk.to/CollectionID</a><br /><br />We used to be loving, touching, kissing<br />Like our lives depend on it<br />How’d we get to lying, crying, always fighting<br />Like our lives depend on it<br /><br />Oh, there you go<br />Putting words in my mouth<br />It’s about to go down<br />I’m not ready yet<br />There’s still a thread left<br /><br />If I can just hold on<br />On to unravelling hope<br />Give it one last go<br />I don’t know why<br />Just need us to try<br /><br />Do, oh, do we find a way to get back<br />That thing we used to have, that<br />Ooh, I need you now<br /><br />We used to be loving, touching, kissing<br />Like our lives depend on it<br />How’d we get to lying, crying, always fighting<br />Like our lives depend on it<br /><br />Why you looking at me with angry eyes?<br />How are we ever gonna make it out alive?<br />If we don’t get back to loving, touching, kissing<br />Like our lives depend on it<br /><br />How could I know<br />What you had hiding there<br />Behind those fire eyes<br />But I make it worse<br />With my wild bursts<br /><br />And ooh, I’ve done it now<br /><br />We used to be loving, touching, kissing<br />Like our lives depend on it<br />How’d we get to lying, crying, always fighting<br />Like our lives depend on it<br /><br />Why you looking at me with angry eyes?<br />How are we ever gonna make it out alive?<br />If we don’t get back to loving, touching, kissing<br />Like our lives depend on it<br /><br />Why you looking at me with angry eyes?<br />How are we ever gonna make it out alive?<br />If we don’t get back to loving, touching, squeezing <br />Like our lives depend on it<br /><br />Follow Liam on:<br />Facebook <a rel="nofollow" target="blank" href="http://liamp.co/Facebook">http://liamp.co/Facebook</a><br />Twitter <a rel="nofollow" target="blank" href="http://liamp.co/Twitter">http://liamp.co/Twitter</a> <br />Instagram <a rel="nofollow" target="blank" href="http://liamp.co/Instagram">http://liamp.co/Instagram</a><br />Snapchat @liampayne<br />Website <a rel="nofollow" target="blank" href="http://liamp.co/Official">http://liamp.co/Official</a><br /><br />Music video by Liam Payne performing Depend On It. © 2018 Hampton Records Limited, under exclusive licence to Capitol Records, a division of Universal Music Operations Limited<br /><br /><a rel="nofollow" target="blank" href="http://vevo.ly/ChRngL">http://vevo.ly/ChRngL</a>{% endraw %}
