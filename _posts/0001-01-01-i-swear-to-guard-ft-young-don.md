@@ -1,0 +1,15 @@
+---
+title: "I SWEAR TO GUARD!! (ft Young Don)"
+image: "https:\/\/i.ytimg.com\/vi\/IGTLRMFrCco\/hqdefault.jpg"
+vid_id: "IGTLRMFrCco"
+categories: "Film-Animation"
+tags: ["swoozie","adande","animation"]
+date: "2021-11-02T00:31:59+03:00"
+vid_date: "2020-08-18T13:33:56Z"
+duration: "PT13M5S"
+viewcount: "6169628"
+likeCount: "195614"
+dislikeCount: "2408"
+channel: "sWooZie"
+---
+{% raw %}If ur smart, u try to avoid confrontation at work. I'm not smart.<br /><br />(voice) Young Don the Sauce God:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/c/YoungDonTheSauceGod/featured">https://www.youtube.com/c/YoungDonTheSauceGod/featured</a><br /><br />Le moi: <a rel="nofollow" target="blank" href="http://www.instagram.com/swoozie">http://www.instagram.com/swoozie</a><br /><br />Animators:<br />Abby:  <a rel="nofollow" target="blank" href="https://twitter.com/memedokies">https://twitter.com/memedokies</a><br /><br />Jenn: <a rel="nofollow" target="blank" href="https://twitter.com/jennpadillart">https://twitter.com/jennpadillart</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/jennpadillart/">https://www.instagram.com/jennpadillart/</a><br /><br />Matt:  <a rel="nofollow" target="blank" href="https://twitter.com/qwilman">https://twitter.com/qwilman</a><br /><br />Richard: <a rel="nofollow" target="blank" href="https://twitter.com/vimvammer">https://twitter.com/vimvammer</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/vimvammer/">https://www.instagram.com/vimvammer/</a><br /><br />Sev: <a rel="nofollow" target="blank" href="https://twitter.com/sevpiehl">https://twitter.com/sevpiehl</a><br /><br />Backgrounds:<br />Bandit<br /><br />Thumbnail art:<br /><a rel="nofollow" target="blank" href="https://twitter.com/Zeurel">https://twitter.com/Zeurel</a><br /><br />Shirt: Master's of the Universe // <a rel="nofollow" target="blank" href="https://www.walmart.com/ip/Masters-Of-The-Universe-What-S-Going-On-Adult-T-Shirt/682920452?wmlspartner=wlpa&amp;selectedSellerId=4749&amp;&amp;adid=22222222227288647097&amp;wl0=&amp;wl1=g&amp;wl2=c&amp;wl3=346726702260&amp;wl4=pla-731365812149&amp;wl5=9060325&amp;wl6=&amp;wl7=&amp;wl8=&amp;wl9=pla&amp;wl10=113945684&amp;wl11=online&amp;wl12=682920452&amp;veh=sem&amp;gclid=Cj0KCQjw-O35BRDVARIsAJU5mQVGhLUCnXoOtSFDP2VyA2TmdH-4bP8e0P3rzeYFd1pP9fq0t6M_FRsaAujCEALw_wcB">https://www.walmart.com/ip/Masters-Of-The-Universe-What-S-Going-On-Adult-T-Shirt/682920452?wmlspartner=wlpa&amp;selectedSellerId=4749&amp;&amp;adid=22222222227288647097&amp;wl0=&amp;wl1=g&amp;wl2=c&amp;wl3=346726702260&amp;wl4=pla-731365812149&amp;wl5=9060325&amp;wl6=&amp;wl7=&amp;wl8=&amp;wl9=pla&amp;wl10=113945684&amp;wl11=online&amp;wl12=682920452&amp;veh=sem&amp;gclid=Cj0KCQjw-O35BRDVARIsAJU5mQVGhLUCnXoOtSFDP2VyA2TmdH-4bP8e0P3rzeYFd1pP9fq0t6M_FRsaAujCEALw_wcB</a><br /><br />Mystery link: <a rel="nofollow" target="blank" href="https://youtu.be/ZZ5LpwO-An4">https://youtu.be/ZZ5LpwO-An4</a>{% endraw %}
