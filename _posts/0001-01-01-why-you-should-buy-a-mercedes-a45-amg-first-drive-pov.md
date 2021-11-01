@@ -1,0 +1,15 @@
+---
+title: "WHY You Should BUY a Mercedes A45 AMG | First Drive & POV"
+image: "https:\/\/i.ytimg.com\/vi\/Nqe17CRrSl8\/hqdefault.jpg"
+vid_id: "Nqe17CRrSl8"
+categories: "Autos-Vehicles"
+tags: ["A45","a45 amg 2017","a45 amg"]
+date: "2021-11-02T02:56:57+03:00"
+vid_date: "2017-10-16T16:00:06Z"
+duration: "PT15M57S"
+viewcount: "496398"
+likeCount: "2624"
+dislikeCount: "390"
+channel: "Zimba Motoring"
+---
+{% raw %}Why you should buy the Mercedes AMG A45. The A45 AMG is one of the craziest Hot Hatches you can get. Follow Church's Performance Cars, the UK's leading A45 AMG Specialist. Glenn the owner of Church's Performance Cars kindly gave me the keys to this hyper hatch for a drive. Hope you enjoy the video and make sure you check out all of their stock and  follow them on their social media pages below.<br /><br /><a rel="nofollow" target="blank" href="http://www.churchsperformancecars.co.uk">http://www.churchsperformancecars.co.uk</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/churchsperformancecars.co.uk/">https://www.facebook.com/churchsperformancecars.co.uk/</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/churchs_performancecars/">https://www.instagram.com/churchs_performancecars/</a><br /><br />-----<br />Follow Me On:<br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/zimbamotoring/">https://www.instagram.com/zimbamotoring/</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/Zimbamotoring/">https://www.facebook.com/Zimbamotoring/</a><br />YouTube: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCo_ksFL2eZ_ZjJP2kiD6efQ">https://www.youtube.com/channel/UCo_ksFL2eZ_ZjJP2kiD6efQ</a><br /><br />-----<br />Music:<br />Song: J.A.K - IWRI (Vlog No Copyright Music)<br />Music provided by Vlog No Copyright Music.<br />Video Link: <a rel="nofollow" target="blank" href="https://youtu.be/dJxYPE9_kvI">https://youtu.be/dJxYPE9_kvI</a><br /><br />And So It Begins by Artificial.Music <a rel="nofollow" target="blank" href="https://soundcloud.com/artificial-music">https://soundcloud.com/artificial-music</a><br />Creative Commons — Attribution 3.0 Unported— CC BY 3.0 <br /><a rel="nofollow" target="blank" href="http://creativecommons.org/licenses/b...">http://creativecommons.org/licenses/b...</a><br />Music promoted by Audio Library <a rel="nofollow" target="blank" href="https://youtu.be/JpoEFiAJdxo">https://youtu.be/JpoEFiAJdxo</a><br /><br />Music promoted by La Musique Libre<br />Ehrling - Chasing Palm Trees: <a rel="nofollow" target="blank" href="https://youtu.be/ySf3S4k8vVI">https://youtu.be/ySf3S4k8vVI</a><br />Ehrling: <a rel="nofollow" target="blank" href="https://soundcloud.com/ehrling">https://soundcloud.com/ehrling</a><br /><br />Song: NOWË - L'ove (Vlog No Copyright Music)<br />Music provided by Vlog No Copyright Music.<br />Video Link: <a rel="nofollow" target="blank" href="https://youtu.be/oUpqewHF24U">https://youtu.be/oUpqewHF24U</a>{% endraw %}
