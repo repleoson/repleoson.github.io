@@ -1,0 +1,15 @@
+---
+title: "Zara Larsson - Uncover (Lyrics)"
+image: "https:\/\/i.ytimg.com\/vi\/ok1-Aug_v0I\/hqdefault.jpg"
+vid_id: "ok1-Aug_v0I"
+categories: "Music"
+tags: ["Zara Larsson","Uncover","Lyrics"]
+date: "2021-11-01T14:44:48+03:00"
+vid_date: "2020-11-17T10:04:42Z"
+duration: "PT3M33S"
+viewcount: "108250"
+likeCount: "2123"
+dislikeCount: "20"
+channel: "Aqua Lyrics"
+---
+{% raw %}Zara Larsson - Uncover (Lyrics)<br /><br />Follow Zara Larsson :<br /><a rel="nofollow" target="blank" href="http://www.instagram.com/zaralarsson">http://www.instagram.com/zaralarsson</a> <br /><a rel="nofollow" target="blank" href="https://www.facebook.com/ZaraLarsson">https://www.facebook.com/ZaraLarsson</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/zaralarsson">https://twitter.com/zaralarsson</a><br /><a rel="nofollow" target="blank" href="http://zaralarsson.se">http://zaralarsson.se</a><br /><a rel="nofollow" target="blank" href="http://www.zaralarssonofficial.com/">http://www.zaralarssonofficial.com/</a><br /><br />Lyrics : Zara Larsson - Uncover<br /><br />[Intro]<br />Nobody sees, nobody knows<br />We are a secret, can't be exposed<br />That's how it is, that's how it goes<br />Far from the others<br />Close to each other<br /><br />[Verse 1]<br />In the daylight, in the daylight<br />When the sun is shinin'<br />On a late night, on a late night<br />When the moon is blindin'<br />In plain sight, plain sight<br />Like stars in hidin'<br />You and I burn on, on<br /><br />[Pre-Chorus]<br />Put two and together, forever<br />We'll never change<br />Two and together<br />We'll never change<br /><br />[Chorus]<br />Nobody sees, nobody knows<br />We are a secret, can't be exposed<br />That's how it is, that's how it goes<br />Far from the others, close to each other<br />That's when we uncover-cover-cover<br />That's when we uncover-cover-cover<br /><br />[Verse 2]<br />My asylum, my asylum<br />Is in your arms<br />When the world gives heavy burdens<br />I can bare a thousand tons<br />On your shoulder, on your shoulder<br />I can reach an endless sky<br />Feels like paradise<br /><br />[Pre-Chorus]<br />Put two and together, forever<br />We'll never change<br />Two and together<br />We'll never change<br /><br />[Chorus]<br />Nobody sees, nobody knows<br />We are a secret, can't be exposed<br />That's how it is, that's how it goes<br />Far from the others, close to each other<br />That's when we uncover-cover-cover<br />That's when we uncover-cover-cover<br /><br />[Bridge]<br />We could build a universe right here<br />All the world could disappear<br />Wouldn't notice, wouldn't care<br />We could build a universe right here<br />The world could disappear<br />Yeah, I just need you near<br /><br />[Chorus]<br />Nobody sees, nobody knows<br />We are a secret, can't be exposed<br />That's how it is, that's how it goes<br />Far from the others, close to each other<br />That's when we uncover-cover-cover<br />That's when we uncover-cover-cover<br />That's when we uncover<br /><br />#ZaraLarsson #Uncover #Lyrics{% endraw %}
