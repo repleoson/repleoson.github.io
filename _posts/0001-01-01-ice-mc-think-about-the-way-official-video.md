@@ -1,0 +1,15 @@
+---
+title: "Ice MC - Think about the way [Official Video]"
+image: "https:\/\/i.ytimg.com\/vi\/rqs6pverp5U\/hqdefault.jpg"
+vid_id: "rqs6pverp5U"
+categories: "Music"
+tags: ["Think About The Way (Musical Recording)","Ian Campbell (Musical Artist)","Music (TV Genre)"]
+date: "2021-11-01T04:05:35+03:00"
+vid_date: "2014-09-05T14:43:07Z"
+duration: "PT4M21S"
+viewcount: "19745421"
+likeCount: "165415"
+dislikeCount: "4841"
+channel: "rdsmusiclabel"
+---
+{% raw %}Ice MC - это итальянская eurodance-группа. Настоящее имя Ice MC - Ян Кэмпбел (Ian Campbell). Он родился 22 марта 1965 г. в Ноттингэме на Восточном Средиземье Англии. В школе его инициалы I.C. вскоре превратились в его прозвище ICE. В 1983 году присоединился к группе брейкдансеров, путешествующих по Европе. В 1989 году в Италии он познакомился с Роберто Занетти — композитором и певцом, более известным под сценическим именем Savage. Занетти в то время занимался продюсерской деятельностью под псевдонимом Robyx и искал подходящего рэпера для нового проекта.<br /><br />Их первый совместный сингл «Easy», выполненный в стиле хип-хаус, вышел в 1989 году и сразу попал в чарты всех европейских хит-парадов, заняв в Италии пятое, а в Германии — третье место. Два последующих сингла «Cinema» и «Scream», а также альбом Cinema, вышедший в 1990 году, также стали популярными в Европе и Японии.<br /><br />Ian Campbell aka ICE MC (born 22 March 1965) is an English hip house/Eurodance rapper who started his professional music career in Italy. Campbell's parents were from Jamaica, and he grew up in the Hyson Green area of Nottingham. When he was in high school his initials IC quickly got him a nickname ICE (lately he interpreted it as Ian Campbell Esquire). In 1983, he joined a group of breakdancers and started touring Europe with them. In 1989 in Italy, he met singer and artist Roberto Zanetti (also as composer known as Savage and producer as Robyx). Their first single called &quot;Easy&quot;, made in a hip-house style, came out in 1989. It became successful all over Europe, reaching the top 5 in Italy and the top 3 in Germany. The two next singles, &quot;Cinema&quot; and &quot;Scream&quot;, and the subsequent debut album, Cinema (released later in 1990), were also successful. His third album, Ice'n'Green, was released in 1994 and featured Alexia on vocals. Three of his most successful songs, &quot;Think about the Way&quot;, &quot;It's a Rainy Day&quot; and &quot;Take Away the Colour&quot;, made the charts all over the world. Campbell got a new look and new style, known as raggamuffin. The album was also released in the US, where the two biggest singles saw substantial club play and moderate dance music radio airplay. In 1995, Ice'n'Green – The Remix Album was released. This contained various remixes of previous hit singles.<br /><br /><a rel="nofollow" target="blank" href="http://vk.com/rdsmusiclabel">http://vk.com/rdsmusiclabel</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/RdsRecords">https://www.facebook.com/RdsRecords</a>{% endraw %}
