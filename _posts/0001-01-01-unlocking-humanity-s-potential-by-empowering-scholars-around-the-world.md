@@ -1,0 +1,15 @@
+---
+title: "Unlocking Humanity’s Potential by Empowering Scholars around the World"
+image: "https:\/\/i.ytimg.com\/vi\/nqJUROaH-ug\/hqdefault.jpg"
+vid_id: "nqJUROaH-ug"
+categories: "Nonprofits-Activism"
+tags: ["philanthropy","stavros niarchos","greece"]
+date: "2021-11-03T20:02:36+03:00"
+vid_date: "2021-04-29T14:24:20Z"
+duration: "PT2M12S"
+viewcount: "10618906"
+likeCount: "30"
+dislikeCount: "8"
+channel: "Stavros Niarchos Foundation"
+---
+{% raw %}* English closed captions are available by clicking on CC in Settings*<br />*το video έχει Ελληνικούς υπότιτλους τους οποίους μπορείτε να ενεργοποιήσετε πατώντας το CC στα «Settings»*<br />From the youngest children learning to read to older adults gaining new skills, access to education is essential. Two core beliefs of the Stavros Niarchos Foundation (SNF)—that young people should have access to opportunity for growth and fulfillment regardless of their background, and that we all benefit from the exchange of knowledge across borders and barriers—meet in the Foundation’s longstanding support for scholarships around the world.<br /><br />From Liechtenstein to Bhutan and Australia to Canada, SNF supports scholarships that enable students to access transformative education at the primary, secondary, undergraduate, and post-graduate levels. <br /><br />Learn more: <a rel="nofollow" target="blank" href="https://www.snf.org/en/newsroom/news/2021/04/empowering-scholars-around-the-world/">https://www.snf.org/en/newsroom/news/2021/04/empowering-scholars-around-the-world/</a><br />---------------------------------------------------------------------<br />Subscribe to our channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC1-Od53nXHHeb6wtrG04MNg?sub_confirmation=1">https://www.youtube.com/channel/UC1-Od53nXHHeb6wtrG04MNg?sub_confirmation=1</a><br /><br />The Stavros Niarchos Foundation (SNF) is an international philanthropic organization that makes grants to nonprofits aiming to achieve a broad, lasting, and positive impact for society. Since 1996, SNF has supported organizations and projects in over 130 countries. <br /><br />Visit <a rel="nofollow" target="blank" href="http://www.snf.org">http://www.snf.org</a> to see more stories of the incredible work our partners are doing around the world. <br /><br />Keep in touch by subscribing to our newsletter: <a rel="nofollow" target="blank" href="http://eepurl.com/dwQKWD">http://eepurl.com/dwQKWD</a> <br />Explore more videos from SNF: <a rel="nofollow" target="blank" href="https://www.youtube.com/c/snforg/videos">https://www.youtube.com/c/snforg/videos</a> <br />Follow SNF on Twitter: <a rel="nofollow" target="blank" href="http://twitter.com/snforg">http://twitter.com/snforg</a>  <br />On Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/SNFoundation">https://www.facebook.com/SNFoundation</a>  <br />And on Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/snforg/">https://www.instagram.com/snforg/</a>{% endraw %}
