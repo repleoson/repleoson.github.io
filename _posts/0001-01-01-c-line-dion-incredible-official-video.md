@@ -1,0 +1,15 @@
+---
+title: "Céline Dion - Incredible (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/QvO5z5tx4ZA\/hqdefault.jpg"
+vid_id: "QvO5z5tx4ZA"
+categories: "Music"
+tags: ["Celine","Celine Dion","Celine Dion Live"]
+date: "2021-11-03T23:56:02+03:00"
+vid_date: "2014-06-05T14:00:03Z"
+duration: "PT4M2S"
+viewcount: "30571046"
+likeCount: "231757"
+dislikeCount: "5847"
+channel: "CelineDionVEVO"
+---
+{% raw %}Celine Dion - Incredible (Duet with Ne-Yo) (Official Video)<br />Listen on Spotify:  <a rel="nofollow" target="blank" href="http://smarturl.it/Celine_Spotify_EN">http://smarturl.it/Celine_Spotify_EN</a> <br />Listen on Apple Music:  <a rel="nofollow" target="blank" href="http://smarturl.it/Celine_AM_EN">http://smarturl.it/Celine_AM_EN</a> <br />Amazon:  <a rel="nofollow" target="blank" href="http://smarturl.it/Celine_Amazon_EN">http://smarturl.it/Celine_Amazon_EN</a> <br />Listen on Deezer:  <a rel="nofollow" target="blank" href="http://smarturl.it/Celine_Deezer">http://smarturl.it/Celine_Deezer</a><br />Listen on YouTube Music:  <a rel="nofollow" target="blank" href="http://smarturl.it/Celine_YTM">http://smarturl.it/Celine_YTM</a> <br /><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/celinedion">https://www.facebook.com/celinedion</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/celinedion">https://twitter.com/celinedion</a> <br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/celinedion">https://www.instagram.com/celinedion</a> <br /><br />Lyrics:<br /><br />Whole world is watchin' us now<br />It's a little intimidating<br />Since there's no way to come down<br />Let's give them something amazing<br />Let's make them remember<br />Using one word<br /><br />Incredible (oh oh oh oh oh)<br />Incredible (oh oh oh oh oh)<br />Let's make them remember<br />We were incredible<br />Simply incredible<br />Oh oh oh ohh<br /><br />We even counted us out<br />We weren't sure we'd make it<br />But we've learned no matter what they dish out<br />It's nothing, we can take it<br />We'll go down in history<br />They'll describe our love as<br /><br />Incredible (oh oh oh oh oh)<br />Oh, incredible (oh oh oh oh oh)<br />Whoa, whoa<br />Let's make them remember<br />We were incredible<br />Simply incredible<br />Oh (oh oh oh oh oh)<br />Everybody say...ohh (oh oh oh oh oh)<br />Sing oh, sing oh (oh oh oh oh oh)<br />Whoa ohh, whoa ohh<br />Oh oh oh oh oh, oh oh oh oh oh<br /><br />Let's make them remember<br />They'll describe our love as<br /><br />Incredible (oh oh oh oh oh)<br />Oh, incredible (oh oh oh oh oh)<br />Whoa, whoa<br />Let's make them remember (That we were)<br />We were incredible<br />Simply incredible (hey)<br />(oh oh oh oh oh) It's something incredible, incredible<br />(whoa, whoa, whoa)<br />Yeah, yeah (oh oh oh oh oh)<br />Ohh ohh whoa, ohh<br />(oh oh oh oh oh, oh oh oh oh oh)<br />Incredible (oh oh oh oh oh, oh oh oh oh oh)<br />(oh oh oh oh oh, oh oh oh oh oh)<br />(oh oh oh oh oh, oh oh oh oh oh)<br /><br />Let's give them something amazing<br /><br />#CelineDion #Incredible #Vevo{% endraw %}
