@@ -1,0 +1,15 @@
+---
+title: "Addition by Counting On"
+image: "https:\/\/i.ytimg.com\/vi\/WRb5iK5fZD0\/hqdefault.jpg"
+vid_id: "WRb5iK5fZD0"
+categories: "Education"
+tags: ["Matholia","Addition by Counting On","matholia.com"]
+date: "2021-11-03T14:42:31+03:00"
+vid_date: "2013-04-30T03:02:44Z"
+duration: "PT2M59S"
+viewcount: "111969"
+likeCount: "328"
+dislikeCount: "74"
+channel: "MatholiaChannel"
+---
+{% raw %}Matholia educational maths video on addition by counting on.<br />#matholia #singaporemath #additionto10 #addition #countingon<br /><a rel="nofollow" target="blank" href="https://matholia.com">https://matholia.com</a><br />New videos added daily! Subscribe here:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCOEucczy2ReGCf7rwAgaOkw?sub_confirmation=1">https://www.youtube.com/channel/UCOEucczy2ReGCf7rwAgaOkw?sub_confirmation=1</a><br /><br />Topic Description:<br />Understanding decomposition of numbers to 10 through number bonds, connecting number bonds to numerical expressions, understanding both the addition conditions of  “putting together and “adding to”, exploring word problems.<br /><br />Learning Targets:<br />I know that numbers can be broken down into parts.<br /><br />I can break numbers apart using objects or drawing models like number bonds.<br /><br />I can write equations to show how I break numbers apart.<br /><br />I can find two numbers that make ten.<br /><br />I can solve addition problems.<br /><br />Suggested Classroom Resources<br />Counters of all kinds<br />Ten frames<br />Numeral cards<br />Dot cards<br />Simple dice games<br />Number lines<br />Pan balance<br />Number balance<br />Part-whole mats<br />Number bond cards<br /><br />For more maths videos for kids and loads of interactive content, visit www.matholia.com.<br /><br />This video lesson is taken from Matholia.com – a world-class online learning resource for K-6 mathematics. Our international curriculum covers a comprehensive range of topics and concepts using the Singapore's teaching approach. Concepts are presented through Concrete, Pictorial, Abstract (CPA) approach. Resources available include dynamic practice, instructional videos, ebooks, interactive tools and progress tracking and recording – all adopting the Singapore pedagogy.<br /><br /><a rel="nofollow" target="blank" href="https://matholia.com">https://matholia.com</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/MatholiaMath">https://twitter.com/MatholiaMath</a><br /><a rel="nofollow" target="blank" href="https://www.pinterest.com/matholiamath/boards/">https://www.pinterest.com/matholiamath/boards/</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/matholia.sg/">https://www.facebook.com/matholia.sg/</a><br /><a rel="nofollow" target="blank" href="http://matholia.blogspot.com">http://matholia.blogspot.com</a><br /><a rel="nofollow" target="blank" href="https://www.reddit.com/user/matholia">https://www.reddit.com/user/matholia</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/matholia_math/">https://www.instagram.com/matholia_math/</a>{% endraw %}
