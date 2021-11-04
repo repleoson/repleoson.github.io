@@ -1,0 +1,15 @@
+---
+title: "Slitta x Flipp x AK - Money Makers (Feat. Stacks) (Prod. By Apollo)"
+image: "https:\/\/i.ytimg.com\/vi\/QoUHicG5BsQ\/hqdefault.jpg"
+vid_id: "QoUHicG5BsQ"
+categories: "Entertainment"
+tags: ["dopeboyz","flipp slitta ak","money makers"]
+date: "2021-11-04T09:01:07+03:00"
+vid_date: "2019-10-24T17:00:11Z"
+duration: "PT3M2S"
+viewcount: "1673673"
+likeCount: "10632"
+dislikeCount: "268"
+channel: "Dope Boyz Entertainment"
+---
+{% raw %}Folé Publishing - <a rel="nofollow" target="blank" href="https://www.smarturl.it/FolePublishing">https://www.smarturl.it/FolePublishing</a><br /><br />______________________________<br /><br /><br />Slitta x Flipp x AK - Money Makers (Feat. Stacks) (Prod. By Apollo)<br /><br />______________________________<br /><br /><br />✔️Did you Subscribe to Dope Boyz Entertainment Official Channel?  👇🏼<br />► <a rel="nofollow" target="blank" href="https://smarturl.it/SubscribeDopeBoyz">https://smarturl.it/SubscribeDopeBoyz</a><br /><br />🎧 Listen on Spotify / Download on iTunes 👇🏼<br />💎 <a rel="nofollow" target="blank" href="https://fanlink.to/MoneyMakers">https://fanlink.to/MoneyMakers</a><br /><br />______________________________<br /><br />🎵 Produced By: Apollo<br />🎵 Mastered By: Lorenc Aliaj (Avaxxus)<br />🎵 Lyrics By: Slitta, Flipp &amp; AK<br />🎥 Video By: Frostbite Films<br /><br />✔️ Published by : FOLÉ PUBLISHING<br /><br />______________________________<br /><br />🎤 Connect with DOPE BOYZ :<br /><br />AK :<br />Instagram ► <a rel="nofollow" target="blank" href="https://www.instagram.com/a.k__db">https://www.instagram.com/a.k__db</a><br /><br />Slitta :<br />Instagram ► <a rel="nofollow" target="blank" href="https://www.instagram.com/slitta_db/">https://www.instagram.com/slitta_db/</a><br /><br />Flipp :<br />Instagram ► <a rel="nofollow" target="blank" href="https://www.instagram.com/flipp__db">https://www.instagram.com/flipp__db</a><br /><br />🎤Connect with STACKS :<br />Instagram ►<a rel="nofollow" target="blank" href="https://www.instagram.com/stacksktg">https://www.instagram.com/stacksktg</a><br /><br />🎵 Connect with APOLLO :<br />Instagram ►<a rel="nofollow" target="blank" href="https://www.instagram.com/apollo_producer">https://www.instagram.com/apollo_producer</a><br /><br /><br /><br />✔️Connect with FOLÉ PUBLISHING:<br />Instagram ►<a rel="nofollow" target="blank" href="https://www.smarturl.it/FolePublishing">https://www.smarturl.it/FolePublishing</a><br /><br />____________________________<br /><br />🔊 Listen Albanian Hits Playlist on YouTube<br />👉 <a rel="nofollow" target="blank" href="https://smarturl.it/ALBPlayListYouTube">https://smarturl.it/ALBPlayListYouTube</a><br />🔊 Listen Albanian Hits Playlist on Spotify<br />👉 <a rel="nofollow" target="blank" href="https://smarturl.it/HiteShqipSpotify">https://smarturl.it/HiteShqipSpotify</a>  <br /><br />____________________________<br /><br />#dopeboyz #MoneyMakers #folé<br /><br /><br />℗ &amp; © Dope Boyz Entertainment &amp; FOLE PUBLISHING. All Rights Reserved.{% endraw %}
