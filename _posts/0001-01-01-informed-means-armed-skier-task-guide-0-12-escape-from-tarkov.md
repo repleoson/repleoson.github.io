@@ -1,0 +1,15 @@
+---
+title: "Informed Means Armed - Skier Task Guide 0.12 - Escape From Tarkov"
+image: "https:\/\/i.ytimg.com\/vi\/3N6qKB_q-gg\/hqdefault.jpg"
+vid_id: "3N6qKB_q-gg"
+categories: "Gaming"
+tags: ["informed means armed","skier","escape from tarkov"]
+date: "2021-11-04T11:46:33+03:00"
+vid_date: "2019-02-18T03:00:00Z"
+duration: "PT2M17S"
+viewcount: "196509"
+likeCount: "2016"
+dislikeCount: "25"
+channel: "Piranha"
+---
+{% raw %}Piranha’s Tarkov Wiki ---- <a rel="nofollow" target="blank" href="https://piranha.tv">https://piranha.tv</a> ----<br />Piranha's Twitch Channel ---- <a rel="nofollow" target="blank" href="https://www.twitch.tv/piranha_">https://www.twitch.tv/piranha_</a> ----<br /><br />Keys: <a rel="nofollow" target="blank" href="http://bit.ly/Piranha-Keys-List">http://bit.ly/Piranha-Keys-List</a><br />Tasks: <a rel="nofollow" target="blank" href="http://bit.ly/Piranha-Tasks-List">http://bit.ly/Piranha-Tasks-List</a><br />Extracts: <a rel="nofollow" target="blank" href="http://bit.ly/Piranha-Extracts-List">http://bit.ly/Piranha-Extracts-List</a><br />Gunbuilds: <a rel="nofollow" target="blank" href="http://bit.ly/Piranha-Gunbuilds-List">http://bit.ly/Piranha-Gunbuilds-List</a><br /><br />----------Task Guide Details------------<br /><br />This is a guide for the Skier Task, Informed Means Armed on Escape From Tarkov<br /><br />Task Requirements:<br />*Must be Level 24 to start this task<br /><br />Task Objectives:<br />*Install a WIFI camera to watch the pier<br />*Install the WIFI camera to watch the road to port<br />*Install the WIFI camera to watch Kiba Arms store<br /><br />Task Rewards:<br />*21,000 EXP<br />*Skier Rep +0.1<br />*45,000 Roubles<br />*2x Fab Defense UAS for AK<br /><br />For more information visit: <a rel="nofollow" target="blank" href="https://piranha.tv/informed-means-armed/">https://piranha.tv/informed-means-armed/</a><br /><br />---------------About Piranha---------------<br /><br />If you feel inclined in to supporting me please use this link that will take you to Mind charity, <a rel="nofollow" target="blank" href="http://bit.ly/Mind-Charity">http://bit.ly/Mind-Charity</a><br /><br />---------------Stream Schedule GMT---------------<br /><br />Everyday starting at 8AM<br />Check Discord for updates on Streams<br /><br />---------------Video Details---------------<br /><br />Outro Song: Dubby Steps 7 - Niklas Gustavsson<br /><br />---------------Piranha's Links---------------<br /><br />Twitch: <a rel="nofollow" target="blank" href="http://bit.ly/Piranha-Twitch">http://bit.ly/Piranha-Twitch</a><br />Discord: <a rel="nofollow" target="blank" href="http://bit.ly/Piranha-Discord">http://bit.ly/Piranha-Discord</a><br />Twitter: <a rel="nofollow" target="blank" href="http://bit.ly/Piranha-Twitter">http://bit.ly/Piranha-Twitter</a><br />Instagram: <a rel="nofollow" target="blank" href="http://bit.ly/Piranha-Instagram">http://bit.ly/Piranha-Instagram</a><br />Merchandise: <a rel="nofollow" target="blank" href="http://bit.ly/Piranha-Merchandise">http://bit.ly/Piranha-Merchandise</a>{% endraw %}
