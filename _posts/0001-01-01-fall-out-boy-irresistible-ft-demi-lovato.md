@@ -1,0 +1,15 @@
+---
+title: "Fall Out Boy - Irresistible ft. Demi Lovato"
+image: "https:\/\/i.ytimg.com\/vi\/2Lb2BiUC898\/hqdefault.jpg"
+vid_id: "2Lb2BiUC898"
+categories: "Music"
+tags: ["Fall","Out","Boy"]
+date: "2021-11-04T16:06:54+03:00"
+vid_date: "2016-01-05T16:00:01Z"
+duration: "PT3M31S"
+viewcount: "85132363"
+likeCount: "991113"
+dislikeCount: "30842"
+channel: "FallOutBoyVEVO"
+---
+{% raw %}Best of Fall Out Boy: <a rel="nofollow" target="blank" href="https://goo.gl/NQaRzd">https://goo.gl/NQaRzd</a><br />Subscribe here: <a rel="nofollow" target="blank" href="https://goo.gl/rQoGSD">https://goo.gl/rQoGSD</a><br /><br /><br />What if in the NSYNC video for “It’s Gonna Be Me” there was an analog to the story? Where in the same store there was a dollar bin full of toys that no one really wanted that would band together like the misfit, offbrand little outsiders they were. “Irresistible&quot; is the video for that story, it's about the toys no one ever wanted come to life. It was directed by Wayne Isham, the director who did the original NSYNC video and features Demi Lovato and special cameos by Joey Fatone and Chris Kirkpatrick. Watch the video for “It’s Gonna Be Me” <a rel="nofollow" target="blank" href="https://youtu.be/GQMlWwIXg3M">https://youtu.be/GQMlWwIXg3M</a><br /> <br />“Irresistible ft. Demi Lovato” out now - get it on<br /> <br />- iTunes <a rel="nofollow" target="blank" href="http://smarturl.it/IrresistibleFOB">http://smarturl.it/IrresistibleFOB</a><br />- Amazon <a rel="nofollow" target="blank" href="http://smarturl.it/IrresistibleFOBam">http://smarturl.it/IrresistibleFOBam</a> <br />- Google Play <a rel="nofollow" target="blank" href="http://smarturl.it/IrresistibleFOBgp">http://smarturl.it/IrresistibleFOBgp</a> <br />- Spotify <a rel="nofollow" target="blank" href="http://smarturl.it/IrresistibleFOBsp">http://smarturl.it/IrresistibleFOBsp</a> <br />- Apple Music <a rel="nofollow" target="blank" href="http://smarturl.it/IrresistibleFOBa">http://smarturl.it/IrresistibleFOBa</a><br /> <br />WINTOUR IS COMING w/ AWOLNATION &amp; PVRIS - dates + tickets: <a rel="nofollow" target="blank" href="http://falloutboy.com/tour">http://falloutboy.com/tour</a> <br /> <br />&quot;American Beauty/American Psycho&quot; out now on DCD2/Island Records <a rel="nofollow" target="blank" href="http://smarturl.it/FOBABAP">http://smarturl.it/FOBABAP</a><br /> <br /><a rel="nofollow" target="blank" href="http://falloutboy.com">http://falloutboy.com</a><br /><a rel="nofollow" target="blank" href="http://facebook.com/falloutboy">http://facebook.com/falloutboy</a><br /><a rel="nofollow" target="blank" href="http://twitter.com/falloutboy">http://twitter.com/falloutboy</a><br /><a rel="nofollow" target="blank" href="http://youtube.com/falloutboy">http://youtube.com/falloutboy</a><br /><a rel="nofollow" target="blank" href="http://instagram.com/falloutboy">http://instagram.com/falloutboy</a><br /><a rel="nofollow" target="blank" href="http://spoti.fi/T3yFgI">http://spoti.fi/T3yFgI</a><br /><br /><a rel="nofollow" target="blank" href="http://vevo.ly/1isrFR">http://vevo.ly/1isrFR</a>{% endraw %}
