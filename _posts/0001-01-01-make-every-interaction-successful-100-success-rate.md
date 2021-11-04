@@ -1,0 +1,15 @@
+---
+title: "Make EVERY interaction successful (100% success rate!!)"
+image: "https:\/\/i.ytimg.com\/vi\/5tGEGFBWuwY\/hqdefault.jpg"
+vid_id: "5tGEGFBWuwY"
+categories: "Entertainment"
+tags: ["how to make her comfortable","dating advice","how to"]
+date: "2021-11-04T11:29:02+03:00"
+vid_date: "2021-10-15T15:04:53Z"
+duration: "PT11M1S"
+viewcount: "6005"
+likeCount: "355"
+dislikeCount: "17"
+channel: "The Attractive Man"
+---
+{% raw %}► Watch &quot;What to say BEFORE you KISS Her&quot; next - <a rel="nofollow" target="blank" href="https://youtu.be/qwD8-d7qpQw">https://youtu.be/qwD8-d7qpQw</a><br />► Book your breakthrough call here: <a rel="nofollow" target="blank" href="https://www.theattractiveman.co/training/yt/ma/5tGEGFBWuwY">https://www.theattractiveman.co/training/yt/ma/5tGEGFBWuwY</a><br />► Join our Free FB Community Group: <a rel="nofollow" target="blank" href="https://www.facebook.com/groups/totaltenmen/">https://www.facebook.com/groups/totaltenmen/</a><br /><br />You need to make her feel THIS if you want to make a girl fall for you..<br />And it isn't what you normally think you would have to do in order to make a girl want you.<br /><br />That is probably the number one reason why men mess up the date. Or mess up the relationship. Even mess up a perfectly good chance to make her say &quot;yes&quot; - because they fail to prioritize ONE thing:<br /><br />A woman's comfort.<br /><br />Now hear me out. We're not simping or putting her on a pedestal. Listen to what I have to say in the video - because even if you have all the things in a womans checklist that you THINK matters (like looks, muscles, money or all that) but you CAN'T make a girl feel comfortable..<br /><br />Then your chances will go from &quot;incredible&quot; to &quot;never&quot;.<br /><br />In this video, you'll discover:<br />- why women don't like certain dates<br />- how to know if a girl likes you<br />- how to make a girl want you<br />- how to make her comfortable<br />- how to have excellent interactions with women<br />- how to get a girlfriend<br />- how to turn her on<br />- how to not mess a date up<br />- how to not be creepy<br />- many more!<br /><br />Chapters:<br />0:00 Introduction<br />0:45 What the heck is comfort?<br />2:24 Why women worry<br />3:57 What you may be doing wrong<br />5:20 How to make her comfortable around you<br />7:02 What do you want from a woman?<br />8:45 Don't beg for validation<br />9:12 Model Training<br />10:08 Book your call with us<br /><br />Subscribe to the channel for more free weekly content!<br />► <a rel="nofollow" target="blank" href="https://www.youtube.com/subscription_center?add_user=theattractiveman1">https://www.youtube.com/subscription_center?add_user=theattractiveman1</a><br />►Visit our website at <a rel="nofollow" target="blank" href="http://theattractiveman.com/">http://theattractiveman.com/</a><br /><br /><a rel="nofollow" target="blank" href="https://youtu.be/5tGEGFBWuwY">https://youtu.be/5tGEGFBWuwY</a>{% endraw %}
