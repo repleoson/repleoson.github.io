@@ -1,0 +1,15 @@
+---
+title: "LANY - 13 (Official Audio)"
+image: "https:\/\/i.ytimg.com\/vi\/NDWJWILEA7o\/hqdefault.jpg"
+vid_id: "NDWJWILEA7o"
+categories: "Music"
+tags: ["LANY","Polydor","Alternative"]
+date: "2021-11-04T18:52:14+03:00"
+vid_date: "2017-06-02T04:00:01Z"
+duration: "PT3M57S"
+viewcount: "51331322"
+likeCount: "166760"
+dislikeCount: "3886"
+channel: "LANYVEVO"
+---
+{% raw %}Listen to LANY’s new album 'mama's boy': <a rel="nofollow" target="blank" href="https://lany.lnk.to/MamasBoyID">https://lany.lnk.to/MamasBoyID</a><br /><br />New merch: <a rel="nofollow" target="blank" href="https://Lany.lnk.to/LANYSTOREID">https://Lany.lnk.to/LANYSTOREID</a> <br />Sign up at <a rel="nofollow" target="blank" href="http://thisislany.com">http://thisislany.com</a><br /><br />LANY - 13 (Official Audio)<br /><br />Lyrics<br /><br />It could change, but this feels like, like the calm before the storm<br />Not that I don't wanna try, but I've been here before<br />Friends in town, phone's at home, I tell myself it's fine<br />Can't remember how you taste, slept alone too many nights<br /><br />Where did we go wrong? I know we started out alright<br />Where did we go wrong? I swear I knew we'd last this time<br />Where did we go wrong? Oh did you, did you change your mind?<br />How could you change your mind?<br />Who got inside your mind?<br />Where did we go wrong? I know we started out alright<br />Where did we go wrong? I swear I knew we'd last this time<br />Where did we go wrong? Oh did you, did you change your mind?<br />How could you change your mind?<br />Who got inside your mind?<br /><br />Half my clothes are at your house, and I don't want them back<br />The smell of you is way too much, not gonna put my heart through that<br />I don't know how much time we got, I don't know how much to say<br />I don't know, tell me what you want, I want you to want me to stay<br /><br />Where did we go wrong? I know we started out alright<br />Where did we go wrong? I swear I knew we'd last this time<br />Where did we go wrong? Oh did you, did you change your mind?<br />How could you change your mind?<br />Who got inside your mind?<br />Where did we go wrong? I know we started out alright<br />Where did we go wrong? I swear I knew we'd last this time<br />Where did we go wrong? Oh did you, did you change your mind?<br />How could you change your mind?<br />Who got inside your mind?<br /><br />La la la la la la la<br />La la la la oh yeah<br />La la la la la la la<br />Ooh ooh ooh<br /><br />Where did we go wrong? I know we started out alright<br />Where did we go wrong? I swear I knew we'd last this time<br />Where did we go wrong? Oh did you, did you change your mind?<br />How could you change your mind?<br />Who got inside your mind?<br />Where did we go wrong? I know we started out alright<br />Where did we go wrong? I swear I knew we'd last this time<br />Where did we go wrong? Oh did you, did you change your mind?<br />How could you change your mind?<br />Who got inside your mind?<br /><br />#LANY{% endraw %}
