@@ -1,0 +1,15 @@
+---
+title: "[Playlist] 1 Hour of Acoustic Music for a Cozy Autumn Morning | KIRA"
+image: "https:\/\/i.ytimg.com\/vi\/T_30M_XeTDc\/hqdefault.jpg"
+vid_id: "T_30M_XeTDc"
+categories: "Music"
+tags: ["morning playlist","morning playlist chill","autumn playlist"]
+date: "2021-11-04T05:33:36+03:00"
+vid_date: "2021-11-01T02:00:05Z"
+duration: "PT54M24S"
+viewcount: "27049"
+likeCount: "969"
+dislikeCount: "3"
+channel: "The Hanoi Chamomile"
+---
+{% raw %}Hello November. I hope you enjoy a pleasant autumn morning with this cozy acoustic playlist. <br /><br />👋 CONNECT WITH ME<br />Blog: <a rel="nofollow" target="blank" href="https://thehanoichamomile.com/">https://thehanoichamomile.com/</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/kiranguyen__/">https://www.instagram.com/kiranguyen__/</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/thehanoichamomile">https://www.facebook.com/thehanoichamomile</a><br /><br />🍵 SUPPORT ME IF YOU LOVE MY PLAYLIST<br /><a rel="nofollow" target="blank" href="https://www.buymeacoffee.com/hanoichamomile">https://www.buymeacoffee.com/hanoichamomile</a><br /><br />🎧 PLAYLIST <br />00:00 Tears Under The Sun - Dan Pundak<br />02:41 Time Traveling - Sarah Kang <br />05:49 Like the Morning - Giants and Pilgrims <br />09:19 What Is It Like - Loving Caliber <br />12:39 Demons - Evelynn Ray <br />16:21 Here's Where I Belong - Birgersson Lundberg <br />20:08 I'm Thinking About You - Windshield <br />23:52 What Our Love Could Do - Chris Mason<br />25:41 All Those Things We Did Back Then - Wildflowers<br />28:55 Detour - Claire Kelly<br />31:58 Always Mine - Logan Pilcher<br />35:35 When I've Got Your Love - Cayson Renshaw <br />39:11 Bluerock - Cayson Renshaw <br />42:54 Within These Walls - Andrew Word <br />46:36 Love Is a Fooling Game - Birgersson Lundberg <br />50:17 By The Sea - J.A.K <br />52:04 What If I Told You - Cayson Renshaw <br /><br />💻 MUSIC SOURCES<br />--- Artlist.io: <a rel="nofollow" target="blank" href="https://artlist.io/Kira-2427312">https://artlist.io/Kira-2427312</a> (gets 2 extra months for free)<br />Tears Under The Sun - Dan Pundak<br />Time Traveling - Sarah Kang<br />Like the Morning - Giants and Pilgrims<br />What Our Love Could Do - Chris Mason<br />Detour - Claire Kelly <br />Always Mine - Logan Pilcher <br />When I've Got Your Love - Cayson Renshaw <br />Bluerock - Cayson Renshaw <br />Within These Walls - Andrew Word <br />By The Sea - J.A.K <br />What If I Told You - Cayson Renshaw <br />--- Epidemic Sound: <a rel="nofollow" target="blank" href="https://www.epidemicsound.com/referral/ccsn1c">https://www.epidemicsound.com/referral/ccsn1c</a><br />What Is It Like - Loving Caliber <br />Demons - Evelynn Ray <br />Here's Where I Belong - Birgersson Lundberg <br />I'm Thinking About You - Windshield <br />All Those Things We Did Back Then - Wildflowers<br />Love Is a Fooling Game - Birgersson Lundberg<br /><br />🎥 SONY ZV-1<br />☕️ Tranquil Books &amp; Coffee 18B Nguyen Bieu, Hanoi, Vietnam<br />📚 Hello, Habits: A Minimalist's Guide to a Better Life - Fumio Sasaki{% endraw %}
