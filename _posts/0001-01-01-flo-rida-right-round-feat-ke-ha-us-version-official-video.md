@@ -1,0 +1,15 @@
+---
+title: "Flo Rida - Right Round (feat. Ke$ha) [US Version] (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/CcCw1ggftuQ\/hqdefault.jpg"
+vid_id: "CcCw1ggftuQ"
+categories: "Music"
+tags: ["Flo Rida","Right Round","Atlantic Records"]
+date: "2021-11-04T03:11:22+03:00"
+vid_date: "2009-12-12T04:43:21Z"
+duration: "PT3M27S"
+viewcount: "190094631"
+likeCount: "1550596"
+dislikeCount: "36383"
+channel: "Flo Rida"
+---
+{% raw %}The official video for the US Version of &quot;Right Round&quot; by Flo Rida featuring Ke$ha from the album 'R.O.O.T.S. (Route Of Overcoming The Struggle)'<br /><br />Subscribe for more official content from Atlantic Records:<br /><a rel="nofollow" target="blank" href="https://Atlantic.lnk.to/subscribe">https://Atlantic.lnk.to/subscribe</a><br /><br />Follow Flo Rida<br /><a rel="nofollow" target="blank" href="https://facebook.com/officialflo">https://facebook.com/officialflo</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/official_flo">https://twitter.com/official_flo</a><br /><a rel="nofollow" target="blank" href="https://youtube.com/user/officialflo">https://youtube.com/user/officialflo</a><br /><a rel="nofollow" target="blank" href="http://instagram.com/official_flo">http://instagram.com/official_flo</a><br /><a rel="nofollow" target="blank" href="http://officialflo.com/">http://officialflo.com/</a><br /><br />Follow Atlantic Records<br /><a rel="nofollow" target="blank" href="https://facebook.com/atlanticrecords">https://facebook.com/atlanticrecords</a><br /><a rel="nofollow" target="blank" href="https://instagram.com/atlanticrecords">https://instagram.com/atlanticrecords</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/AtlanticRecords">https://twitter.com/AtlanticRecords</a><br /><a rel="nofollow" target="blank" href="http://atlanticrecords.com">http://atlanticrecords.com</a><br /><br />The official Atlantic Records YouTube Channel is home to the hottest in hip-hop, rock, pop, R&amp;B, indie, musicals and soundtracks. With over 70 years of global recorded music history, Atlantic Records’ legacy and passion for artistry continues with Top 40 hitmakers like Wiz Khalifa, Sean Paul, Trey Songz, Bruno Mars, Charlie Puth, Janelle Monáe, and B.o.B. <br /><br />Atlantic Records prides itself for working on Motion Picture Soundtracks, such as “The Greatest Showman”, “Suicide Squad” and “The Fate of the Furious.” As well as Musical Soundtracks including “Dear Evan Hansen,” and Grammy and Tony Award Winning “Hamilton”.<br /> <br />It is home to world-renowned record labels representing music from every genre, including Asylum, Big Beat, Canvasback, Elektra, Fueled By Ramen, Rhino, Roadrunner, and Sire.<br /> <br />Subscribe for the latest official music videos, official audio videos, performances, bts and more from our artists and projects.<br /><a rel="nofollow" target="blank" href="https://Atlantic.lnk.to/Subscribe">https://Atlantic.lnk.to/Subscribe</a><br /><br />#FloRida #RightRound #Kesha #ROOTS #RouteOfOvercomingTheStruggle #OfficialVideo #AtlanticRecords #Atlantic{% endraw %}
