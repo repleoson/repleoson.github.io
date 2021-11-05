@@ -1,0 +1,15 @@
+---
+title: "Stocking Up on Basic Supplies While We Still Can"
+image: "https:\/\/i.ytimg.com\/vi\/6NL6ywZFa5Y\/hqdefault.jpg"
+vid_id: "6NL6ywZFa5Y"
+categories: "Howto-Style"
+tags: ["Stocking","Basic","Supplies"]
+date: "2021-11-05T23:49:04+03:00"
+vid_date: "2021-10-31T00:15:31Z"
+duration: "PT17M54S"
+viewcount: "69389"
+likeCount: "3447"
+dislikeCount: "62"
+channel: "The Provident Prepper"
+---
+{% raw %}What are the items that would be most difficult for you to obtain if you were unable to purchase them? We did a quick pick-up order at our local Walmart to make sure that we had the basics that we can't produce on our own property.<br /><br />In this video, we will share exactly what things we decided to purchase along with a few of the cost-saving tricks that we use in our life every day. <br /><br />You may be interested in these posts at TheProvidentPrepper.org<br /><br />Disinfecting Water Using Calcium Hypochlorite<br /><a rel="nofollow" target="blank" href="https://theprovidentprepper.org/disinfecting-water-using-calcium-hypochlorite/">https://theprovidentprepper.org/disinfecting-water-using-calcium-hypochlorite/</a><br /><br />No Toilet Paper? No Problem! 14 Emergency Alternatives<br /><a rel="nofollow" target="blank" href="https://theprovidentprepper.org/no-toilet-paper-no-problem-14-emergency-alternatives/">https://theprovidentprepper.org/no-toilet-paper-no-problem-14-emergency-alternatives/</a><br /><br />Newbie Prepper: Ten Simple Steps to Get Started<br /><a rel="nofollow" target="blank" href="https://theprovidentprepper.org/newbie-prepper-ten-simple-steps-to-get-started/">https://theprovidentprepper.org/newbie-prepper-ten-simple-steps-to-get-started/</a><br /><br />Newbie Prepper Step 3 - Emergency Sanitation <br /><a rel="nofollow" target="blank" href="https://youtu.be/uOHkbbo3oOs">https://youtu.be/uOHkbbo3oOs</a><br /><br />Baking Soda: The Smart Prepper's Secret Problem Solver <br /><a rel="nofollow" target="blank" href="https://theprovidentprepper.org/baking-soda-the-smart-preppers-secret-problem-solver/">https://theprovidentprepper.org/baking-soda-the-smart-preppers-secret-problem-solver/</a><br /><br />Follow us!<br />*Instagram – theprovidentprepper <a rel="nofollow" target="blank" href="https://www.instagram.com/theprovidentprepper/">https://www.instagram.com/theprovidentprepper/</a><br />*Facebook – The Provident Prepper: Building Your Family Ark <a rel="nofollow" target="blank" href="https://www.facebook.com/ProvidentPrepper">https://www.facebook.com/ProvidentPrepper</a><br />*Pinterest – The Provident Prepper <a rel="nofollow" target="blank" href="https://www.pinterest.com/TheProvidentPrepper/">https://www.pinterest.com/TheProvidentPrepper/</a><br /><br />Thanks for being part of the solution!<br /><br />TheProvidentPrepper.org is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. This site also participates in other affiliate programs and is compensated for referring traffic and business to these companies.{% endraw %}
