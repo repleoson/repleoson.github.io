@@ -1,0 +1,15 @@
+---
+title: "Juche - May Not Be"
+image: "https:\/\/i.ytimg.com\/vi\/QnXdl9q_nN0\/hqdefault.jpg"
+vid_id: "QnXdl9q_nN0"
+categories: "Music"
+tags: ["#Juche #wave #electronic #experimental #darkstar_whitelight"]
+date: "2021-11-05T20:56:38+03:00"
+vid_date: "2019-05-30T20:56:56Z"
+duration: "PT4M27S"
+viewcount: "13746"
+likeCount: "307"
+dislikeCount: "5"
+channel: "DSWL"
+---
+{% raw %}#Juche #wave #electronic <br /><br />TRACK <br /><a rel="nofollow" target="blank" href="http://fromjuche.bandcamp.com/track/may-not-be">http://fromjuche.bandcamp.com/track/may-not-be</a><br /><br />_________________| Juche |__________________<br /><a rel="nofollow" target="blank" href="http://fromjuche.bandcamp.com">http://fromjuche.bandcamp.com</a><br /><a rel="nofollow" target="blank" href="https://soundcloud.com/erejuche">https://soundcloud.com/erejuche</a><br /><a rel="nofollow" target="blank" href="https://fromjuche.bandcamp.com">https://fromjuche.bandcamp.com</a><br /><a rel="nofollow" target="blank" href="https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL?si=-3gbeTkaS8i5TzEix79aBw">https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL?si=-3gbeTkaS8i5TzEix79aBw</a><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCd6Caf2nnRrR5w7b6DjN7Lg">https://www.youtube.com/channel/UCd6Caf2nnRrR5w7b6DjN7Lg</a><br /><a rel="nofollow" target="blank" href="https://fromjuche.tumblr.com">https://fromjuche.tumblr.com</a><br /><a rel="nofollow" target="blank" href="https://mobile.twitter.com/erejuche">https://mobile.twitter.com/erejuche</a><br /><a rel="nofollow" target="blank" href="https://m.facebook.com/erejuche">https://m.facebook.com/erejuche</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/fromjuche/?igshid=1xrr5ukanyqgq">https://www.instagram.com/fromjuche/?igshid=1xrr5ukanyqgq</a><br /><a rel="nofollow" target="blank" href="https://m.vk.com/futurelovestory">https://m.vk.com/futurelovestory</a><br /><br /><br />⭐I DO NOT OWN THIS IMAGE⭐<br />no copyright infringement intended if you want it removed please contact me. All credits go to author of this image (found by web search)<br />IMAGE SOURCE:https: <a rel="nofollow" target="blank" href="https://pin.it/sapzm2dm23duc7">https://pin.it/sapzm2dm23duc7</a><br />ph0-tograph.tumblr.com<br /><br />⭐darkstarwhitelight⭐<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLypK-1AXJ5GSxMRiO6aAR6yVluyxGfsTm">https://www.youtube.com/playlist?list=PLypK-1AXJ5GSxMRiO6aAR6yVluyxGfsTm</a><br /><a rel="nofollow" target="blank" href="https://soundcloud.com/darkstarwhitelight">https://soundcloud.com/darkstarwhitelight</a><br /><a rel="nofollow" target="blank" href="https://bandcamp.com/icewater">https://bandcamp.com/icewater</a><br /><a rel="nofollow" target="blank" href="https://vk.com/id545646658">https://vk.com/id545646658</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/darkstar_whitelight">https://www.instagram.com/darkstar_whitelight</a><br />darkstarwhitelight@gmail.com <br /><br />💜LOVE AND SUBSCRIBE💜{% endraw %}
