@@ -1,0 +1,15 @@
+---
+title: "Baby Keem - Honest (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/-r4Xcns47YA\/hqdefault.jpg"
+vid_id: "-r4Xcns47YA"
+categories: "Music"
+tags: ["baby keem","nba youngboy","nle choppa"]
+date: "2021-11-05T08:38:19+03:00"
+vid_date: "2019-07-31T16:35:43Z"
+duration: "PT3M7S"
+viewcount: "3380360"
+likeCount: "79975"
+dislikeCount: "1048"
+channel: "Baby Keem"
+---
+{% raw %}DIE FOR MY BITCH OUT NOW - SMARTURL.IT/DIEFORMYBITCH<br /><br />Directed by: James R. Weneta<br /><br />Lyrics:<br />Half past twelve I was all alone<br />I can't be compromised<br />Fuckin' on my ex, we ain't apologize<br />'Cause I'm way too young and you always right<br />Threw it in my face, I'm on another flight<br />Girl at home, I ain't been living right<br />The little arguments always start the fight<br />I had to get away so I'm with you tonight<br />Is there another guy?<br /><br />Be honest, honest, honest, are you honest?<br />'Cause I'm honest, honest, honest, let's be honest<br />'Cause I'm honest, honest, honest, are you honest?<br />'Cause I'm honest, honest, honest, let's be honest<br />'Cause I'm honest<br /><br />You're not who I love <br />I just need to pass the time <br />Felt good, you felt that<br />Come and get a peace of mind <br />Move on, bands on me<br />Stripes in my pocket and a check on me<br />Never needed shit so don't you check on me<br />Home last night, the scent of sex on me<br />Baby Keem, shit, I'm chosen<br />I work that red Toyota like it's stolen<br />I treat my lil' orange soda like a hellcat<br />She put me out in the winter, feet frozen<br />She wanna fuck with me 'cause I'm famous<br />And that's okay with me, 'cause you been my favorite<br />I let her do it, she do a lil' bit<br />A lil' air in her room, she do a lil' bit<br /><br />Half past twelve I was all alone<br />I can't be compromised<br />Fuckin' on my ex, we ain't apologize<br />'Cause I'm way too young and you always right<br />Threw it in my face, I'm on another flight<br />Girl at home, I ain't been living right<br />The little arguments always start the fight<br />I had to get away so I'm with you tonight<br />Is there another guy?<br /><br />Be honest, honest, honest, are you honest?<br />'Cause I'm honest, honest, honest, let's be honest<br />'Cause I'm honest, honest, honest, are you honest?<br />'Cause I'm honest, honest, honest, lets be honest<br />'Cause I'm honest<br /><br />Baby Keem online:<br /><a rel="nofollow" target="blank" href="https://twitter.com/babykeem_">https://twitter.com/babykeem_</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/keem">https://www.instagram.com/keem</a><br /><a rel="nofollow" target="blank" href="https://soundcloud.com/hykeemcarter">https://soundcloud.com/hykeemcarter</a><br /><br />All official videos here: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PL2wqegW2C9KbHOgubIn3Rjbnh6oT98jsP">https://www.youtube.com/playlist?list=PL2wqegW2C9KbHOgubIn3Rjbnh6oT98jsP</a>{% endraw %}
