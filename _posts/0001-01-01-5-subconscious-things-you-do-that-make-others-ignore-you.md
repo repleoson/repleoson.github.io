@@ -1,0 +1,15 @@
+---
+title: "5 Subconscious Things You Do That Make Others Ignore You"
+image: "https:\/\/i.ytimg.com\/vi\/iJWptrfikbw\/hqdefault.jpg"
+vid_id: "iJWptrfikbw"
+categories: "Education"
+tags: ["ignore me","why is she ignoring me","why is he ignoring me"]
+date: "2021-11-06T14:25:53+03:00"
+vid_date: "2021-06-08T14:49:13Z"
+duration: "PT5M33S"
+viewcount: "2701097"
+likeCount: "161747"
+dislikeCount: "1853"
+channel: "Psych2Go"
+---
+{% raw %}Do you constantly feel like whatever you say falls on deaf ears? Are you puzzled why people ignore you all the time? But what if it is due to something you may be doing? It’s a truth universally acknowledged that having good and healthy relationships can make you a relatively happier person when compared to others. An environment where you are constantly getting ignored can have a negative impact on how you think of yourself and others. This is especially true if you are not aware of why they do so. Do you think there might be some habits you might have that cause people to ignore what you say?<br /><br />Are you worried that your behaviors might make others dislike you? Watch this video: <a rel="nofollow" target="blank" href="https://youtu.be/fsc28I2Qnas">https://youtu.be/fsc28I2Qnas</a> <br /><br />References can be found in our original article: <a rel="nofollow" target="blank" href="https://psych2go.net/6-reasons-why-people-are-ignoring-you/">https://psych2go.net/6-reasons-why-people-are-ignoring-you/</a> <br /><br />Credit: <br />Writer: Xinyi <br />Script Editor: Rida Batool <br />Script Manager: Kelly Soong <br />VO: Amanda Silvera <br />Animator: Sun Biscuit (New Animator)<br />YouTube Manager: Cindy Cheong<br /><br />Join this channel to get access to perks:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCkJEpR7JmS36tajD34Gp4VA/join">https://www.youtube.com/channel/UCkJEpR7JmS36tajD34Gp4VA/join</a><br /><br />Would you like to animate for the team? Check out this: <a rel="nofollow" target="blank" href="https://psych2go.net/interested-in-animating-for-pych2go-faq/">https://psych2go.net/interested-in-animating-for-pych2go-faq/</a><br /><br />Keating, J., 2020. When People Ignore You: 10 Reasons You May Turn People Off. [online] Love Panky. Available at: www.lovepanky.com/my-life/better-life/when-people-ignore-you [Accessed 2 December 2020].<br /><br />Kiki, I., 2020. 11 Reasons Why People Ignore You. [online] Life Hacks. Available at: www.lifehacks.io/why-people-ignore-you/ [Accessed 2 December 2020].<br /><br />Mahalli, A., 2020. Why Do People Ignore Me? (9 Potential Reasons According To Experts). [online] Up Journey. www.upjourney.com/why-do-people-ignore-me [Accessed 2 December 2020].<br /><br />TopThink, 2020. 10 Reasons Why People Are Ignoring You.<br /><br />Available at: www.youtube.com/watch?v=i5mUrQ5fHbs&amp;ab_channel=TopThink [Accessed 2 December 2020].<br /><br />Young, K., 2016. Toxic People Affect Kids Too: Know The Signs And How To Explore A Little Deeper. [online] Hey Sigmund. www.heysigmund.com/toxic-people-affect-kids-too-know-the-signs-then-explore-a-little-deeper [Accessed 2 December 2020].{% endraw %}
