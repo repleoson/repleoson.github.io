@@ -1,0 +1,15 @@
+---
+title: "Sami Yusuf - Healing"
+image: "https:\/\/i.ytimg.com\/vi\/Tug63dI4MEY\/hqdefault.jpg"
+vid_id: "Tug63dI4MEY"
+categories: "Music"
+tags: ["Sami Yusuf","Sami Yusuf Make Me Strong","Sami Yusuf - Healing"]
+date: "2021-11-06T18:02:32+03:00"
+vid_date: "2010-08-12T01:16:59Z"
+duration: "PT4M19S"
+viewcount: "22120479"
+likeCount: "95763"
+dislikeCount: "2387"
+channel: "Sami Yusuf"
+---
+{% raw %}Download/Stream 'Wherever You Are' album <a rel="nofollow" target="blank" href="http://andnt.co/WhereverYouAre">http://andnt.co/WhereverYouAre</a><br />Watch Sami's Official YouTube playlist <a rel="nofollow" target="blank" href="http://andnt.co/SYplaylist">http://andnt.co/SYplaylist</a><br />Listen to samples from the album <a rel="nofollow" target="blank" href="https://goo.gl/qa1XWY">https://goo.gl/qa1XWY</a><br /><br />– Join Sami Yusuf on Spotify and add your favourite tracks to your personal playlist <a rel="nofollow" target="blank" href="http://andnt.co/SY-Spotify">http://andnt.co/SY-Spotify</a><br /> – Subscribe to Sami Yusuf official YouTube channel <a rel="nofollow" target="blank" href="http://andnt.co/YT-samiyusuf">http://andnt.co/YT-samiyusuf</a><br /><br />Follow Sami Yusuf on:<br /><a rel="nofollow" target="blank" href="http://www.twitter.com/samiyusuf">http://www.twitter.com/samiyusuf</a><br /><a rel="nofollow" target="blank" href="http://www.facebook.com/samiyusuf">http://www.facebook.com/samiyusuf</a><br /><a rel="nofollow" target="blank" href="http://www.instagram.com/samiyusuf">http://www.instagram.com/samiyusuf</a><br /><a rel="nofollow" target="blank" href="http://www.samiyusufofficial.com">http://www.samiyusufofficial.com</a><br /><br /><br />CREDITS<br /><br />Music &amp; words by Sami Yusuf <br />Arabic lyrics by Dr. Walid Al-Fitaihi<br />Published by Andante Records Administered by Fairwood Music (UK) Ltd for the World <br /><br /><br />LYRICS<br /><br />It's so hard to explain<br />What I'm feeling<br />But I guess it's ok<br />Cause I'll keep believing<br />There's something deep inside<br />Something that's calling<br />It's calling you and I<br />It's taking us up high<br /><br />Healing, a simple act of kindness bring such meaning<br />A smile can change a life let's start believing<br />And feeling, let's start healing<br /><br />Heal and you will be healed<br />Break every border<br />Give and you will receive<br />It's nature's order<br />There is a hidden force<br />Pulling us closer<br />It's pulling you and I<br />It's pulling us up high to...<br /><br />Healing, a simple act of kindness brings such meaning<br />A smile can change a life lets start believing<br />And feeling, let's start healing<br /><br />Hearts in the hand of another heart and in God's hand are all hearts<br />An eye takes care of another eye and from God's eye nothing hides<br />Seek only to give and you'll receive<br />So, heal and you will be healed<br /> <br />#SamiYusuf #AndanteRecords #Healing<br /><br />© Andante Records. All rights reserved{% endraw %}
