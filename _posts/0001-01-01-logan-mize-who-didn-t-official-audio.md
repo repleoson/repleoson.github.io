@@ -1,0 +1,15 @@
+---
+title: "Logan Mize - \"Who Didn't\" (Official Audio)"
+image: "https:\/\/i.ytimg.com\/vi\/yISPREm7u3Y\/hqdefault.jpg"
+vid_id: "yISPREm7u3Y"
+categories: "Music"
+tags: ["Logan","Didn't\"","(Official"]
+date: "2021-11-06T13:36:48+03:00"
+vid_date: "2020-09-11T05:00:20Z"
+duration: "PT2M58S"
+viewcount: "26613"
+likeCount: "450"
+dislikeCount: "6"
+channel: "Logan Mize"
+---
+{% raw %}The official audio for &quot;Who Didn't&quot; by Logan Mize!<br /><br />Listen Now: <a rel="nofollow" target="blank" href="https://fanlink.to/WhoDidnt">https://fanlink.to/WhoDidnt</a><br /><br />Stay Up to Date:<br />Facebook: <a rel="nofollow" target="blank" href="https://fanlink.to/LoganMizeFB">https://fanlink.to/LoganMizeFB</a><br />Instagram: <a rel="nofollow" target="blank" href="https://fanlink.to/LoganMizeIG">https://fanlink.to/LoganMizeIG</a><br />Twitter:  <a rel="nofollow" target="blank" href="https://fanlink.to/LoganMizeTwitter">https://fanlink.to/LoganMizeTwitter</a><br />Website + Tour Dates: <a rel="nofollow" target="blank" href="https://fanlink.to/LoganMizeWebsite">https://fanlink.to/LoganMizeWebsite</a><br /><br />Lyrics:<br />Who didn’t drive in grandaddy’s lap <br />Skin their knee when the tire got flat<br />Have old wooden spoons hanging up on the wall of the kitchen<br />Yeah, who didn’t<br /><br />Who didn’t get their hair cut at the house<br />Swim in a pool that was all above ground <br />Have one pair of boots for work and they went to church in ‘em <br />Yeah, who didn’t<br /><br />Work like hell <br />Pray in the huddle <br />Cruise 'round a two-lane no name bubble <br />Put it in park for some cold beer kissing <br />We didn’t know anybody who didn’t <br />Mow their own yard <br />Fill their own tank <br />Check on the temp on the sign at the bank<br />Not everybody lived in those city limits <br />But we didn’t know anybody who didn’t <br /><br />Yeah who didn’t have a swing out on the porch <br />Burn up their fingers every July 4th<br />Save up for a new used car with the hubcap missing<br />Yeah, who didn’t<br /><br />Work like hell <br />Pray in the huddle <br />Cruise 'round a two-lane no name bubble <br />Put it in park for some cold beer kissing <br />We didn’t know anybody who didn’t <br />Mow their own yard <br />Fill their own tank <br />Check on the temp on the sign at the bank<br />Not everybody lived in those city limits <br />But we didn’t know anybody who didn’t <br /><br />Who didn’t fall in love<br />Grow up too fast<br />And try to leave and then come right back<br />If that ain’t you then you don’t know what you’re missing <br /><br />If you didn’t work like hell <br />Pray in the huddle <br />Cruise 'round a two-lane no name bubble <br />Put it in park for some cold beer kissing <br />We didn’t know anybody who didn’t <br />Mow their own yard <br />Fill their own tank <br />Check on the temp on the sign at the bank<br />Not everybody lived in those city limits <br />But we didn’t know anybody who didn’t <br /><br />Yeah, we didn’t know anybody who didn’t<br />Yeah<br />We didn’t know anybody who didn’t{% endraw %}
