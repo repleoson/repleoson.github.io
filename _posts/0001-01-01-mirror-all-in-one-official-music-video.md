@@ -1,0 +1,15 @@
+---
+title: "MIRROR 《All In One》Official Music Video"
+image: "https:\/\/i.ytimg.com\/vi\/qmZuaRy1LuQ\/hqdefault.jpg"
+vid_id: "qmZuaRy1LuQ"
+categories: "Music"
+tags: ["MIRROR","MIRRORweare"]
+date: "2021-11-06T15:48:23+03:00"
+vid_date: "2021-11-03T05:00:12Z"
+duration: "PT3M30S"
+viewcount: "594307"
+likeCount: "40395"
+dislikeCount: "1462"
+channel: "MIRROR"
+---
+{% raw %}未夠專心就是萬能吧！<br /><br />MIRROR集合12份力量, 銳變萬能!!<br /><br />集合各人既強, 育成無比力量, <br />繼《BOSS》後，<br />MIRROR成軍3週年, 為大家帶黎更多正能量, 誓要令大家超級興奮!!<br /><br />愈要驚喜, 就最好一起。<br />患難患病也好, 也未算做絕地。<br /><br />遇到任何順境逆境, 排除萬難...<br />只要大家在一起。<br />快樂永遠都在你, 你和你身邊. <br /><br />MIRROR 每個成員集合在一起<br />成為大家心中的《All in One》<br /><br />#MIRROR #ALLINONE<br /><br />《All In One》<br /><br />曲：Val Del Prete / Hwan Yang<br />詞：林寶<br />編：Val Del Prete / Hwan Yang <br />監：Edward Chan<br />唱：MIRROR<br /><br />門縫已開 黑雲散開<br /><br />遊樂場突然在搖擺<br />喉嚨已鬆 即時有歌<br /><br />耳朵也尖叫一切別停擺<br /><br /><br />Waited for so long long long long long oh<br /><br />Now I’m feeling strong strong strong strong<br /><br />You’re my energy<br /><br />寂寞哪樣迴避 (Oh what a day)<br /><br />悶極了便回氣 (You're gonna sway)<br /><br />你我脫下防備 (We're gonna play)<br /><br />能令過山車飛起<br /><br /><br />愈要驚喜 就最好一起<br /><br />患難患病也好 也未算做絕地<br />(開張)  開心 (都開) 得起 (得起)<br />As long as you love me<br /><br /><br />愈了不起 愈滿足不起<br />現在熱鬧正好 有電放盡未<br /><br />(親身) 親暱 (都親) 得起 (得起)<br />As long as you love me<br /><br /><br />Rap<br /><br />3…2…1…Play<br />閉關完結 我想你想見就見<br />見到我 請記得帶親吻場面 <br />節目表 已袋好 精彩係義務 <br /><br />Oh 你想要就好 梗會望到<br /><br /><br />Waited for so long long long long long oh<br />Now I’m feeling strong strong strong strong<br />I’m your energy<br /><br /><br />未用帶備遊記 (Oh what a day)<br /><br />就地努力遊戲 (You're gonna sway)<br /><br />已夠偉大完美 (We're gonna play)<br /><br />唯獨外太空可比<br /><br /><br />愈要驚喜 就最好一起<br />患難患病也好 也未算做絕地<br /> (開張)  開心 (都開) 得起 (得起)<br />As long as you love me<br /><br />愈了不起 愈滿足不起<br />現在熱鬧正好 有電放盡未<br />(親身) 親暱 (都親) 得起 (得起)<br />As long as you love me<br /><br />你 此刻 一眨眼 全部有我<br /><br />Rap: <br /><br />氧氣不夠分 我亦可配給 <br />有口罩太緊 送你 更近包圍感<br /><br />有愛要親口告白至能壓扁沉鬱<br /><br />We gonna take it to the top<br /><br />Straight to the top<br /><br />有冰冷感 我幫你飲<br /><br />燙手 小心 聽者有份<br /><br />So let me know you feel the same yo<br /><br />I’m going crazy feeling so hot<br /><br />Let’s get it<br /><br />呼吸已押後  高燒已洩漏 仍然未熱夠<br /><br />Hey hey, as long as you love me<br /><br />超出了氣候  衝出了宇宙 仍然未熱夠<br />Hey hey, as long as you love me<br /><br />Oh....As long as you love me oh~<br /><br />現在動力儲好 各就各位預備<br /><br />(追捧) 高溫 (都追) 得起 (得起)<br />As long as you love me<br /><br />愈了不起 愈滿足不起<br /><br />現在熱鬧正好 我未會避忌<br /><br />(多麼) 鋪張 (都貪) 得起 (得起)<br /><br />As long as you love me<br /><br />As long as you love me<br /><br />As long as you love me<br /><br />As long as you love me<br /><br /><br /><br /><br />OP: Music Jam (admin by Sony Music Publishing Korea)/Five Rocks Limited<br />SP: Sony Music Publishing (Hong Kong) Ltd/Warner Chappell Music, Hong Kong Ltd{% endraw %}
