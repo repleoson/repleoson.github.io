@@ -1,0 +1,15 @@
+---
+title: "10 Iconic NYC Restaurants To Visit When Social Distancing Is Over | Legendary Eats Marathon"
+image: "https:\/\/i.ytimg.com\/vi\/Qum9GFEecjo\/hqdefault.jpg"
+vid_id: "Qum9GFEecjo"
+categories: "Travel-Events"
+tags: ["INSIDER","FOOD INSIDER","social distancing"]
+date: "2021-11-06T19:58:39+03:00"
+vid_date: "2020-03-26T16:00:21Z"
+duration: "PT1H2M33S"
+viewcount: "6601183"
+likeCount: "47302"
+dislikeCount: "1708"
+channel: "Food Insider"
+---
+{% raw %}On March 17, New York City Mayor Bill de Blasio ordered all bars and restaurants in the city to close or serve only delivery and takeout in light of the COVID-19 pandemic. To pass the time during social distancing or potential quarantine, Insider is taking a look back at some of our favorite New York City eateries. From pizza and hot dogs to pastrami sandwiches and falafel, the Big Apple is never short of legendary places to eat. We visited 10 iconic restaurants in New York to see what makes these places a rite of passage for locals and tourists alike.<br /><br />Episodes featured: <br />Katz's Delicatessen - 00:21<br />Ray's Candy Store - 7:43<br />Dominique Ansel Bakery - 12:57<br />Mamoun's Falafel - 18:58<br />Keens Steakhouse - 26:18<br />Papaya King - 31:58<br />Sylvia's Restaurant - 37:48 <br />Peter Luger Steak House - 43:30<br />Lucali - 48:42<br />Nathan's Famous - 57:22<br /><br />------------------------------------------------------<br /><br />#LegendaryEats #SocialDistancing #FoodInsider<br /><br />Insider is great journalism about what passionate people actually want to know. That’s everything from news to food, celebrity to science, politics to sports and all the rest. It’s smart. It’s fearless. It’s fun. We push the boundaries of digital storytelling. Our mission is to inform and inspire.<br /><br />Subscribe to our channel and visit us at: <a rel="nofollow" target="blank" href="https://www.insider.com">https://www.insider.com</a><br />Food Insider on Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/foodinsider/">https://www.facebook.com/foodinsider/</a><br />Food Insider on Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/thisisinsiderfood/">https://www.instagram.com/thisisinsiderfood/</a><br />Food Insider on Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/InsiderFood">https://twitter.com/InsiderFood</a><br />Insider on Snapchat: <a rel="nofollow" target="blank" href="https://www.snapchat.com/discover/Insider/4020934530">https://www.snapchat.com/discover/Insider/4020934530</a><br />Insider on Amazon Prime: <a rel="nofollow" target="blank" href="https://www.amazon.com/v/thisisinsider">https://www.amazon.com/v/thisisinsider</a><br />Insider on TikTok: <a rel="nofollow" target="blank" href="https://www.tiktok.com/@insider">https://www.tiktok.com/@insider</a><br />Food Insider on Dailymotion: <a rel="nofollow" target="blank" href="https://www.dailymotion.com/foodinsider">https://www.dailymotion.com/foodinsider</a><br /><br />10 Iconic NYC Restaurants To Visit When Social Distancing Is Over | Legendary Eats Marathon{% endraw %}
