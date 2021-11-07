@@ -1,0 +1,15 @@
+---
+title: "Our SCARY Return to Investigate Haunted Cannock Chase War Cemetery | REAL PARANORMAL ACTIVITY"
+image: "https:\/\/i.ytimg.com\/vi\/3rJqSrhkjX8\/hqdefault.jpg"
+vid_id: "3rJqSrhkjX8"
+categories: "Entertainment"
+tags: ["Black Eyed Children","Cannock","Black Eyed Child"]
+date: "2021-11-07T04:28:16+03:00"
+vid_date: "2021-11-06T19:00:11Z"
+duration: "PT32M44S"
+viewcount: "4286"
+likeCount: "799"
+dislikeCount: "19"
+channel: "Haunted Finders"
+---
+{% raw %}Cannock Chase Black eyed Children, Haunted War Cemetery. SCARY Real Paranormal Activity caught on tape in Haunted Cannock Chase. Real Ghost Caught on Tape<br /><br />On this video we go in search of the many ghosts that are said to plague the Cannock Chase war cemetery and have terrified locals.<br /><br />What we uncovered when just three of us spent the entire night in this terrifying and extremely haunted location was horrifying. This is real paranormal activity caught on tape<br /><br />Cannock is one of the largest paranormal hotspots in the UK and has had reports of paranormal happenings for decades. From demonic child ghosts, Slender man, Werewolves, UFO's you name it it has been sighted here. We spent an entire night in this extremely terrifying haunted war graveyard to try and come into contact with any of these entities. This is scary paranormal footage<br /><br />Real Paranormal Activity Caught on Video<br /><br />Follow me on other social media for regular updates.<br /><br />Subscribe to my channel for more videos<br /><br />----------------------------------------­­­­­­-----------------------------------­-­-­-­-­-­---------<br />Facebook: <a rel="nofollow" target="blank" href="http://www.facebook.com/tombparanormal">http://www.facebook.com/tombparanormal</a> <br /><br />Click the link below to SUBSCRIBE!<br /><a rel="nofollow" target="blank" href="http://tinyurl.com/subscribehf">http://tinyurl.com/subscribehf</a><br /><br />Merchandise<br /><a rel="nofollow" target="blank" href="http://www.teespring.com/stores/hfstore">http://www.teespring.com/stores/hfstore</a> <br /><br />Follow me on Instagram<br /><a rel="nofollow" target="blank" href="http://www.instagram.com/tombuckmasterreal">http://www.instagram.com/tombuckmasterreal</a><br /><br />BECOME A MEMBER: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCJJMNlmA_O8ssqP_QJcA1KA/join">https://www.youtube.com/channel/UCJJMNlmA_O8ssqP_QJcA1KA/join</a><br /><br />Download our new Spirit Talker App HERE<br />Android: <a rel="nofollow" target="blank" href="https://play.google.com/store/apps/details?id=com.SpottedGhosts.SpiritTalker">https://play.google.com/store/apps/details?id=com.SpottedGhosts.SpiritTalker</a> <br />iOS: <a rel="nofollow" target="blank" href="https://apps.apple.com/us/app/spirit-talker/id1536762482">https://apps.apple.com/us/app/spirit-talker/id1536762482</a><br /><br />Paratek Box 15% OFF with this link: <a rel="nofollow" target="blank" href="https://www.etsy.com/uk/shop/AppyDroid?coupon=HAUNTED">https://www.etsy.com/uk/shop/AppyDroid?coupon=HAUNTED</a>{% endraw %}
