@@ -1,0 +1,15 @@
+---
+title: "Understanding Pharmaceutical industry by Kris Kristensen | Webinar | Technology | Starweaver |"
+image: "https:\/\/i.ytimg.com\/vi\/JoX3xoCMW7g\/hqdefault.jpg"
+vid_id: "JoX3xoCMW7g"
+categories: "Education"
+tags: ["Pharma bio","life sciences","industry analysis"]
+date: "2021-11-08T03:21:19+03:00"
+vid_date: "2019-12-17T21:38:00Z"
+duration: "PT50M1S"
+viewcount: "45888"
+likeCount: "920"
+dislikeCount: "17"
+channel: "Starweaver"
+---
+{% raw %}Understanding #PharmaIndustry by #KrisKristensen | Webinar | #StarweaverGroup |<br /><br />Entering the world of pharmaceuticals can seem like going into a black hole.  From the nuances of drug discovery to the complexity of governmental regulations, understanding how pharmaceutical companies operate seems almost incomprehensible.  However, by exploring some of the foundational building blocks of the industry you can begin to see what it takes for a drug to go from an idea to being dispensed at your local pharmacy.<br /><br />During this 50-minute #webinar , we will go on a deep dive into four key building blocks of the pharmaceutical industry:<br /><br />Introduction to the Industry<br />Drug Discovery<br />Drug Development<br />Medical Affairs<br /><br />This invaluable resource provides a rich overview of these critical components of the industry and describes who some of the main players are and what they do.  This webinar also sets the context and prepares you for further exploration into this fascinating industry.<br /><br />By attending this webinar, you will be able to<br /><br />Describe the industry’s size and scope<br />Articulate the industry’s contribution to global health<br />Describe the regulatory environment governing the industry<br />Understand the mission of discovery in the industry<br />Describe the “anatomy” of a clinical trial<br />Understand the Medical Affairs function’s many responsibilities<br /><br />You can’t understand everything in such a short webinar, but you will take away a great deal.<br /><br />This webinar was conducted by Kris Kristensen. Kris is the Director of Learning Technology &amp; Creative Services at Syneos Health and an expert in the heath care business. Kris has led numerous training and development initiatives.  Kris holds a Doctor of Philosophy in Psychology and a Master of Science in Psychology and is both an engaging and informative instructor.<br /><br />Follow us for more information:<br />Facebook:    <a rel="nofollow" target="blank" href="https://www.facebook.com/starweavergroup">https://www.facebook.com/starweavergroup</a><br /><br />Instagram:  <a rel="nofollow" target="blank" href="https://www.instagram.com/starweavergroup">https://www.instagram.com/starweavergroup</a> <br />                          <br />Twitter:    <a rel="nofollow" target="blank" href="https://www.Twitter.com/starweavergroup">https://www.Twitter.com/starweavergroup</a><br /><br />Youtube: <a rel="nofollow" target="blank" href="https://www.Youtube.com/c/StarweaverGroup">https://www.Youtube.com/c/StarweaverGroup</a>{% endraw %}
