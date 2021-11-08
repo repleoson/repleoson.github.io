@@ -1,0 +1,579 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
+    <link rel="dns-prefetch" href="//images1-focus-opensocial.googleusercontent.com" />
+    <link rel="dns-prefetch" href="//static.addtoany.com" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="msvalidate.01" content="B8A25537AAF9937E20F7D91657E6264D">
+    <meta name="yandex-verification" content="4fbd47676dc8c0ae">
+    <meta name="google-site-verification" content="rQqb6AA5bVlMq3k9Xv-GWec-Bsuc1TIrOnYqHSwzCUw">
+    <meta charset="UTF-8" />
+    <title>Introduction to Classes and Objects - Part 1 (Data Structures &amp; Algorithms #3)</title>
+    <meta name="description" content="Object oriented programming tutorial! Java &amp;amp; Python sample code available below.Check out Brilliant.org (https://brilliant....">
+	<meta name="keywords" content="classes python,objects python,object oriented programming python">
+    <meta property="og:site_name" content="Repleoson">
+    <meta property="og:url" content="https://repleoson.github.io/introduction-to-classes-and-objects-part-1-data-structures-algorithms.html">
+    <meta property="og:title" content="Introduction to Classes and Objects - Part 1 (Data Structures &amp; Algorithms #3)">
+    <meta property="og:image" content="https://i.ytimg.com/vi/8yjkWGRlUmY/hqdefault.jpg">
+    <meta property="og:description" content="Object oriented programming tutorial! Java &amp;amp; Python sample code available below.Check out Brilliant.org (https://brilliant....">
+    <meta name='twitter:card' content='summary_large_image' />
+    <link rel="canonical" href="https://repleoson.github.io/introduction-to-classes-and-objects-part-1-data-structures-algorithms.html" />
+    <script type="application/ld+json">
+      {
+        "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://repleoson.github.io/introduction-to-classes-and-objects-part-1-data-structures-algorithms.html"
+        },
+        "@context":"https://schema.org",
+        "@type":"BlogPosting",
+        "headline":"Introduction to Classes and Objects - Part 1 (Data Structures &amp; Algorithms #3)",
+        "keywords": "classes python,objects python,object oriented programming python",
+        "description": "Object oriented programming tutorial! Java &amp;amp; Python sample code available below.Check out Brilliant.org (https://brilliant.org/CSDojo/), a website for learning math and computer science concepts through solving problems. First 200 subscribers will get 20% off through the link above.Special thanks to Brilliant for sponsoring this video.Find sample code in Python and Java here: https://www.csdojo.io/classYou can find the entire data structures &amp;amp; algorithms series in a playlist here: https://goo.gl/wy3CWF",
+        "url":"https://repleoson.github.io/introduction-to-classes-and-objects-part-1-data-structures-algorithms.html",
+        "image":"https://i.ytimg.com/vi/8yjkWGRlUmY/hqdefault.jpg",
+        "datePublished":"2021-11-08T16:41:54+00:00",
+        "dateModified":"2021-11-08T16:41:54+00:00",
+          "author":{
+            "@type":"Person",
+            "name":"Repleoson"
+          },
+         "publisher":{
+            "@type":"Organization",
+            "name":"Repleoson",
+            "url":"https://repleoson.github.io/",
+            "logo":{
+               "@type":"ImageObject",
+               "url":"https://repleoson.github.io/logo.png"
+          }
+        }
+      }
+    </script>
+    <link rel="stylesheet" href="https://repleoson.github.io/inc/main.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css">
+</head>
+<body class="bg-light">
+    <nav class="navbar mb-3 navbar-expand-lg navbar-light bg-white mb-4 shadow-sm">
+        <div class="container py-2"><a class="navbar-brand" href="https://repleoson.github.io/">Repleoson</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-urls" aria-controls="navbar-urls" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <form
+                action="/search/" class="my-2 my-lg-0 offset-md-2 col-md-6 col-sm-12 px-0 mr-auto">
+                <div class="input-group"><input name="s" class="form-control rounded-0 py-2" type="text" placeholder="video search..." id="example-search-input"><span class="input-group-append"><button aria-label="search" role="button" class="btn btn-secondary rounded-0" type="submit"><span class="px-2"><svg class="svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg></span></button>
+                    </span>
+                </div>
+                </form>
+                <div class="collapse navbar-collapse flex-md-grow-0" id="navbar-urls">
+
+                </div>
+        </div>
+    </nav>
+    <div class="container min-height-62" >
+        <div class="resp-container" id="top_720"></div>
+        <div class="row">
+            <div class="col-12 col-md-8">
+                <div class="bg-white"><noscript><a href="https://www.youtube.com/watch?v=8yjkWGRlUmY"><img alt="Introduction to Classes and Objects - Part 1 (Data Structures &amp; Algorithms #3)" src="https://i.ytimg.com/vi/8yjkWGRlUmY/hqdefault.jpg" /></a></noscript>
+                    <div id="video-player"></div>
+                    <div class="p-3">
+                        <h1 class="h5 video-title bwr">Introduction to Classes and Objects - Part 1 (Data Structures &amp; Algorithms #3)</h1>
+                        <div class="py-1 row">
+                            <div class="col-12 col-md-6 my-auto"><b class="text-danger">Share this & earn $10</b></div>
+                            <div class="col-12 col-md-6">
+                                <div class="a2a_kit a2a_kit_size_32 a2a_default_style"><a class="a2a_dd" href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_reddit"></a><a class="a2a_button_facebook_messenger"></a><a class="a2a_button_whatsapp"></a></div>
+                            </div>
+                        </div>
+                        <div align="center" class="py-1">
+
+                        </div>
+                        <div class="py-1">
+                            <div class="row">
+                                <div class="col-12 col-md-6">
+                                    <div class="mb-2 bwr"><strong>CS Dojo</strong><br> Published at : 08 Nov 2021  </div>
+                                </div>
+                                <div class="col-12 col-md-6">
+                                    <div class="h-100 d-flex align-items-center justify-content-center"><a  target="_blank" rel="noopener" class="btn btn-block btn-danger bwr" href="https://www.youtube.com/watch?v=8yjkWGRlUmY">Subscribe to CS Dojo</a></div>
+                                </div>
+                            </div>
+                            <div class="resp-container" id="in_post_bottomads"></div>
+                        </div>
+                        <div class="py-1">
+                            <div class="row">
+                                <div class="col-12 col-md-6">
+                                    <div class="text-center bg-light mb-2 p-1 bwr"><span><span class="pr-1"><svg class="svg-inline--fa fa-eye fa-w-18" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M569.354 231.631C512.969 135.949 407.81 72 288 72 168.14 72 63.004 135.994 6.646 231.631a47.999 47.999 0 0 0 0 48.739C63.031 376.051 168.19 440 288 440c119.86 0 224.996-63.994 281.354-159.631a47.997 47.997 0 0 0 0-48.738zM288 392c-75.162 0-136-60.827-136-136 0-75.162 60.826-136 136-136 75.162 0 136 60.826 136 136 0 75.162-60.826 136-136 136zm104-136c0 57.438-46.562 104-104 104s-104-46.562-104-104c0-17.708 4.431-34.379 12.236-48.973l-.001.032c0 23.651 19.173 42.823 42.824 42.823s42.824-19.173 42.824-42.823c0-23.651-19.173-42.824-42.824-42.824l-.032.001C253.621 156.431 270.292 152 288 152c57.438 0 104 46.562 104 104z"></path></svg></span>                                        787492 views </span>
+                                    </div>
+                                </div>
+                                <div class="col-12 col-md-6">
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <div class="text-center bg-light p-1 bwr"><span><span class="pr-1"><svg class="svg-inline--fa fa-thumbs-up fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M104 224H24c-13.255 0-24 10.745-24 24v240c0 13.255 10.745 24 24 24h80c13.255 0 24-10.745 24-24V248c0-13.255-10.745-24-24-24zM64 472c-13.255 0-24-10.745-24-24s10.745-24 24-24 24 10.745 24 24-10.745 24-24 24zM384 81.452c0 42.416-25.97 66.208-33.277 94.548h101.723c33.397 0 59.397 27.746 59.553 58.098.084 17.938-7.546 37.249-19.439 49.197l-.11.11c9.836 23.337 8.237 56.037-9.308 79.469 8.681 25.895-.069 57.704-16.382 74.757 4.298 17.598 2.244 32.575-6.148 44.632C440.202 511.587 389.616 512 346.839 512l-2.845-.001c-48.287-.017-87.806-17.598-119.56-31.725-15.957-7.099-36.821-15.887-52.651-16.178-6.54-.12-11.783-5.457-11.783-11.998v-213.77c0-3.2 1.282-6.271 3.558-8.521 39.614-39.144 56.648-80.587 89.117-113.111 14.804-14.832 20.188-37.236 25.393-58.902C282.515 39.293 291.817 0 312 0c24 0 72 8 72 81.452z"></path></svg></span>                                                21407 </span>
+                                            </div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="text-center bg-light p-1 bwr"><span><span class="pr-1"><svg class="svg-inline--fa fa-thumbs-down fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M0 56v240c0 13.255 10.745 24 24 24h80c13.255 0 24-10.745 24-24V56c0-13.255-10.745-24-24-24H24C10.745 32 0 42.745 0 56zm40 200c0-13.255 10.745-24 24-24s24 10.745 24 24-10.745 24-24 24-24-10.745-24-24zm272 256c-20.183 0-29.485-39.293-33.931-57.795-5.206-21.666-10.589-44.07-25.393-58.902-32.469-32.524-49.503-73.967-89.117-113.111a11.98 11.98 0 0 1-3.558-8.521V59.901c0-6.541 5.243-11.878 11.783-11.998 15.831-.29 36.694-9.079 52.651-16.178C256.189 17.598 295.709.017 343.995 0h2.844c42.777 0 93.363.413 113.774 29.737 8.392 12.057 10.446 27.034 6.148 44.632 16.312 17.053 25.063 48.863 16.382 74.757 17.544 23.432 19.143 56.132 9.308 79.469l.11.11c11.893 11.949 19.523 31.259 19.439 49.197-.156 30.352-26.157 58.098-59.553 58.098H350.723C358.03 364.34 384 388.132 384 430.548 384 504 336 512 312 512z"></path></svg></span>                                                200 </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <hr/>
+                        <div class="py-1 d-md-block bwr" id="video-description"><p>Object oriented programming tutorial! Java &amp; Python sample code available below.<br /><br />Check out Brilliant.org (<a rel="nofollow" target="blank" href="https://brilliant.org/CSDojo/),">https://brilliant.org/CSDojo/),</a> a website for learning math and computer science concepts through solving problems. First 200 subscribers will get 20% off through the link above.<br />Special thanks to Brilliant for sponsoring this video.<br /><br />Find sample code in Python and Java here: <a rel="nofollow" target="blank" href="https://www.csdojo.io/class">https://www.csdojo.io/class</a><br />You can find the entire data structures &amp; algorithms series in a playlist here: <a rel="nofollow" target="blank" href="https://goo.gl/wy3CWF">https://goo.gl/wy3CWF</a></p>
+</div>
+                        <div class="d-none"><span>classes python</span><span>objects python</span><span>object oriented programming python</span></div>
+                        <hr/>
+                        <div class="py-3"><div class="resp-container" id="extra_bottomads"><iframe data-aa="1774389" src="//ad.a-ads.com/1774389?size=468x60" style="width:468px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;" ></iframe>
+</div></div>
+                    </div>
+                </div>
+                <div class="position-sticky fixed-top d-md-block d-none">
+                    <div align="center" class="py-2">
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4">
+            <div class="mb-4">
+                <div class="resp-container py-3" id="sidebar_300"></div>
+            </div>
+                
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/soilwork-death-in-general-official-video.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/kme-sxY2pAQ/mqdefault.jpg" alt="SOILWORK - Death In General (OFFICIAL VIDEO)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">SOILWORK - Death In General (OFFICIAL VIDEO)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/coogie-right-away-feat-ph-1-lyrics.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/l3-7LWVmzqY/mqdefault.jpg" alt="쿠기 (Coogie) - Right away (Feat. pH-1)ㅣLyrics/가사">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">쿠기 (Coogie) - Right away (Feat. pH-1)ㅣLyrics/가사</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/attorneys-bombarded-with-hundreds-of-calls-per-day-from-people-wanting.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/9mt4-2qWly8/mqdefault.jpg" alt="Attorneys Bombarded With &#39;Hundreds of Calls Per Day&#39; From People Wanting to Avoid Vaccine Mandate">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Attorneys Bombarded With &#39;Hundreds of Calls Per Day&#39; From People Wanting to Avoid Vaccine Mandate</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/tsitsipas-tiafoe-duel-zverev-seeks-300th-win-vienna-2021-highlights-da.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/p87uTtYx8Ao/mqdefault.jpg" alt="Tsitsipas &amp; Tiafoe Duel; Zverev Seeks 300th Win | Vienna 2021 Highlights Day 4">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Tsitsipas &amp; Tiafoe Duel; Zverev Seeks 300th Win | Vienna 2021 Highlights Day 4</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/wise-mission-update-q3-2021.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/5Q_arZ7U-ec/mqdefault.jpg" alt="Wise Mission Update Q3 2021">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Wise Mission Update Q3 2021</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/doja-cat-need-to-know.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/Z7SAuscPS9c/mqdefault.jpg" alt="Doja Cat - Need To Know">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Doja Cat - Need To Know</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/types-of-customers-17-funny-situations-with-food-delivery.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/s7MK0iQhBvc/mqdefault.jpg" alt="Types of Customers/ 17 Funny Situations with Food Delivery">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Types of Customers/ 17 Funny Situations with Food Delivery</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/11-she-has-got-a-towel-english-course-for-children.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/AK3QXw2DNes/mqdefault.jpg" alt="11 She has got a towel -  English course for children">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">11 She has got a towel -  English course for children</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/daniel-cainer-ziggy-stardog-astrology-song-week-commencing-31st-oct-20.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/mSz6WZC1Pt0/mqdefault.jpg" alt="Daniel Cainer - Ziggy Stardog - Astrology Song -  Week commencing 31st Oct 2021">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Daniel Cainer - Ziggy Stardog - Astrology Song -  Week commencing 31st Oct 2021</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/maple-leafs-sign-morgan-rielly-to-8-year-extension.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/9UM1zGL4Elk/mqdefault.jpg" alt="MAPLE LEAFS SIGN MORGAN RIELLY TO 8-YEAR EXTENSION">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">MAPLE LEAFS SIGN MORGAN RIELLY TO 8-YEAR EXTENSION</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/this-hearing-is-another-example-of-the-undeniable-fact-that-america-is.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/HQ0e9AOpfC4/mqdefault.jpg" alt="This hearing is another example of the undeniable fact that America is under constant #Cyber attack">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">This hearing is another example of the undeniable fact that America is under constant #Cyber attack</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/making-suggestions-in-english-spoken-english-lesson.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/7wT7BzAoyj0/mqdefault.jpg" alt="Making Suggestions in English - Spoken English Lesson">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Making Suggestions in English - Spoken English Lesson</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/this-ibm-personal-computer-held-quite-a-few-surprises-for-me.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/Vi23m6hZCVw/mqdefault.jpg" alt="This IBM Personal Computer held quite a few SURPRISES for me!">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">This IBM Personal Computer held quite a few SURPRISES for me!</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/new-analysis-of-health-conditions-high-risk-for-c-19-anxiety-obesity-m.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/iY98nuD3Bco/mqdefault.jpg" alt="New Analysis of Health Conditions &amp; High Risk for C*19: Anxiety, Obesity + More">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">New Analysis of Health Conditions &amp; High Risk for C*19: Anxiety, Obesity + More</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/top-5-best-laptops-of-2021.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/qdcYDkOUKxs/mqdefault.jpg" alt="Top 5 Best Laptops of (2021)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Top 5 Best Laptops of (2021)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/tydus-hit-that-combo-official-music-video.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/tyim7Eyh8SA/mqdefault.jpg" alt="TYDUS - Hit That Combo (Official Music Video)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">TYDUS - Hit That Combo (Official Music Video)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/one-direction-one-thing-lyrics.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/PiuRQr9b6Bc/mqdefault.jpg" alt="One Direction - One Thing (Lyrics)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">One Direction - One Thing (Lyrics)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/stephen-merchant-s-endearing-story-of-growing-up-in-bristol-the-graham.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/LBrKh4sxOEU/mqdefault.jpg" alt="Stephen Merchant&#39;s Endearing Story Of Growing Up In Bristol | The Graham Norton Show">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Stephen Merchant&#39;s Endearing Story Of Growing Up In Bristol | The Graham Norton Show</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/an-attainable-heritage-dive-watch-from-an-overlooked-brand-mido-ocean.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/-ATEZGXrYN0/mqdefault.jpg" alt="An Attainable Heritage Dive Watch from an Overlooked Brand - Mido Ocean Star Tribute">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">An Attainable Heritage Dive Watch from an Overlooked Brand - Mido Ocean Star Tribute</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/can-or-be-able-to-advanced-english-grammar.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/Qku9v6UUpVQ/mqdefault.jpg" alt="Can or Be Able To - Advanced English Grammar">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Can or Be Able To - Advanced English Grammar</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/top-10-most-hilarious-slapstick-comedians.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/qr7onP8c8q8/mqdefault.jpg" alt="Top 10 Most Hilarious Slapstick Comedians">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Top 10 Most Hilarious Slapstick Comedians</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/chartmaster-says-it-may-be-time-to-start-buying-treasurys.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/vF740QKkVA8/mqdefault.jpg" alt="Chartmaster says it may be time to start buying Treasurys">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Chartmaster says it may be time to start buying Treasurys</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/put-this-ingredients-in-your-shampoo-it-speeds-up-hair-growth-and-trea.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/BeZ0r602D1Y/mqdefault.jpg" alt="Put this Ingredients in Your Shampoo, it Speeds up Hair Growth and Treat Baldness">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Put this Ingredients in Your Shampoo, it Speeds up Hair Growth and Treat Baldness</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/tcmu87kh5j8.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/tCMU87Kh5j8/mqdefault.jpg" alt="Ο κήπος μας">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Ο κήπος μας</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/tottenham-weigh-up-chelsea-transfer-which-may-make-frosty-boardroom-re.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/E8I5o2idFnE/mqdefault.jpg" alt="Tottenham weigh up Chelsea transfer which may make &#39;frosty&#39; boardroom relationship explode - ne...">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Tottenham weigh up Chelsea transfer which may make &#39;frosty&#39; boardroom relationship explode - ne...</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/what-if-your-body-could-produce-strongest-spider-web.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/poYGhVpGTz0/mqdefault.jpg" alt="What If Your Body Could Produce Strongest Spider Web">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">What If Your Body Could Produce Strongest Spider Web</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/this-is-exactly-what-s-wrong-with-this-generation.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/2RdDdiL3qc4/mqdefault.jpg" alt="This is EXACTLY What&#39;s Wrong With This Generation">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">This is EXACTLY What&#39;s Wrong With This Generation</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/dub-fx-so-are-you-official-video-2016.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/Bd1CUTrcy5U/mqdefault.jpg" alt="Dub FX - So Are You [Official Video 2016]">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Dub FX - So Are You [Official Video 2016]</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/relaxing-music-24-7-stress-relief-music-sleep-music-meditation-music-s.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/DYFm66Rc6FA/mqdefault.jpg" alt="🔴 Relaxing Music 24/7, Stress Relief Music, Sleep Music, Meditation Music, Study, Calming Music">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">🔴 Relaxing Music 24/7, Stress Relief Music, Sleep Music, Meditation Music, Study, Calming Music</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/mi-arsenal-the-classy.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/KtiwM62qj3U/mqdefault.jpg" alt="Mi Arsenal - The Classy">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Mi Arsenal - The Classy</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/osho-meditation-is-a-very-simple-phenomenon.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/0peVQTdI3Yg/mqdefault.jpg" alt="OSHO: Meditation Is a Very Simple Phenomenon">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">OSHO: Meditation Is a Very Simple Phenomenon</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/domestic-issues-sekuru-vane-makore-64-varikudanana-nemusikana-ane-26-y.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/UXLGOVNRwhk/mqdefault.jpg" alt="Domestic Issues: Sekuru vane makore 64 varikudanana nemusikana ane 26 years.">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Domestic Issues: Sekuru vane makore 64 varikudanana nemusikana ane 26 years.</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/how-does-insurance-work.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/3ctoSEQsY54/mqdefault.jpg" alt="How Does Insurance Work?">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">How Does Insurance Work?</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/twinfresh-comfo-ra1-50-climate-control-for-a-comfortable-home.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/okBHRl35Ssw/mqdefault.jpg" alt="TwinFresh Comfo RA1-50: climate control for a comfortable home">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">TwinFresh Comfo RA1-50: climate control for a comfortable home</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/non-obligatory-fasts.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/v0IIW1uBYrc/mqdefault.jpg" alt="Non-Obligatory Fasts">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Non-Obligatory Fasts</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/saske-x-hawk-checks-prod-by-grandbois-official-music-video.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/nMy4r7On_4U/mqdefault.jpg" alt="Saske x Hawk - Checks (prod. by Grandbois) (Official Music Video)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Saske x Hawk - Checks (prod. by Grandbois) (Official Music Video)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/ac-dc-realize-official-video.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/ga5qfM2-kog/mqdefault.jpg" alt="AC/DC - Realize (Official Video)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">AC/DC - Realize (Official Video)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/tremendously-to-be-alive-1998.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/xtlBQTJsRjc/mqdefault.jpg" alt="Tremendously - To be Alive (1998)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Tremendously - To be Alive (1998)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/cbblaay3e6q.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/CbBlAay3E6Q/mqdefault.jpg" alt="Area">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Area</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/doris-day-perhaps-perhaps-perhaps.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/GUVT1NZtZPo/mqdefault.jpg" alt="Doris Day ~~~ Perhaps Perhaps Perhaps">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Doris Day ~~~ Perhaps Perhaps Perhaps</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/when-you-could-parry-in-street-fighter-alpha.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/zfKIsLJ0m0w/mqdefault.jpg" alt="When you could Parry in Street Fighter Alpha">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">When you could Parry in Street Fighter Alpha</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/the-aristocracy-never-the-same-again.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/fjslf3dtAJ0/mqdefault.jpg" alt="The Aristocracy - Never the Same Again">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">The Aristocracy - Never the Same Again</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/willy-woo-be-prepared-i-m-very-bullish-on-btc-eth-now-bitcoin-news-tod.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/N9Bgy71MyhY/mqdefault.jpg" alt="Willy Woo: BE PREPARED!!! I&#39;M VERY BULLISH ON BTC &amp; ETH NOW - Bitcoin News Today">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Willy Woo: BE PREPARED!!! I&#39;M VERY BULLISH ON BTC &amp; ETH NOW - Bitcoin News Today</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/conflict-management-funny.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/f3NmLUINP80/mqdefault.jpg" alt="Conflict Management Funny">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Conflict Management Funny</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/justin-bieber-intentions-official-video-short-version-ft-quavo.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/3AyMjyHu1bA/mqdefault.jpg" alt="Justin Bieber - Intentions (Official Video (Short Version)) ft. Quavo">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Justin Bieber - Intentions (Official Video (Short Version)) ft. Quavo</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/foundation-official-teaser-2-apple-tv.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/wvOAA1U0li8/mqdefault.jpg" alt="Foundation — Official Teaser 2 | Apple TV+">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Foundation — Official Teaser 2 | Apple TV+</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/est-gee-in-town-feat-lil-durk-official-audio.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/vSSFE0sAzOY/mqdefault.jpg" alt="EST Gee - In Town (feat. Lil Durk) [Official Audio]">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">EST Gee - In Town (feat. Lil Durk) [Official Audio]</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/effective-efficient-they-mean-different-things-in-english.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/kDM_9O9Kxbs/mqdefault.jpg" alt="Effective - Efficient. They mean different things in English">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Effective - Efficient. They mean different things in English</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://repleoson.github.io/ethereum-price-ready-to-explode-frank-holmes.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/TGfaTyYPTkM/mqdefault.jpg" alt="Ethereum Price Ready To Explode – Frank Holmes">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Ethereum Price Ready To Explode – Frank Holmes</h2>
+    </div>
+
+            </div>
+    </div>
+    </div>
+    <script type="text/javascript">
+        function load_vid() { var player = document.getElementById('video-player'); player.innerHTML = labnolThumb(); player.onclick = labnolIframe; } function labnolThumb() { return '<div class="d-flex align-items-center justify-content-center"><div class="image-16by9"><img class="w-100" src="https://repleoson.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/8yjkWGRlUmY/hqdefault.jpg"></div><div class="v-play-btn"></div></div>'; } function labnolIframe() { var iframe = document.createElement("iframe"); iframe.setAttribute("src", "//www.youtube-nocookie.com/embed/8yjkWGRlUmY?rel=0&amp;showinfo=0"); iframe.setAttribute("frameborder", "0"); iframe.setAttribute("allowfullscreen", "1"); var div = document.createElement("div"); div.setAttribute("class", "embed-responsive embed-responsive-16by9"); div.innerHTML = iframe.outerHTML; this.parentNode.replaceChild(div, this); } load_vid()
+    </script>
+    <script async src="https://static.addtoany.com/menu/page.js"></script>
+        <footer class="mt-auto bg-white pt-4">
+        <div class="container-fluid text-center text-md-left">
+            <div class="row">
+                <div class="col-md-6 mt-md-0 mt-3">
+                    <h5 class="text-uppercase">Repleoson Network</h5>
+                    <p>Entertainment content from all over the web.</p>
+                </div>
+                <hr class="clearfix w-100 d-md-none pb-3">
+                <div class="col-md-3 mb-md-0 mb-3">
+                    <h5>Privacy & Terms</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="">DMCA</a></li>
+                        <li><a href="">Privacy</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3 mb-md-0 mb-3">
+                    <h5>Links</h5>
+                    <ul class="list-unstyled">
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="text-center py-3"> © Copyright : <a target="_blank" rel="noopener" href="https://www.youtube.com"> youtube.com</a></div>
+    </footer>
+    <script async="" src="https://repleoson.github.io/js/app.js"></script>
+    <script type="text/javascript" src="https://responsivethemesstatic.github.io/static/wp.js"></script>
+    <script type="text/javascript">
+        if(!Histats_variables){var Histats_variables=[];}
+        Histats_variables.push("tags","https://repleoson.github.io");
+        var _Hasync= _Hasync|| [];
+        _Hasync.push(['Histats.start', '1,4360507,4,0,0,0,00000000']);
+        _Hasync.push(['Histats.fasi', '1']);
+        _Hasync.push(['Histats.track_hits', '']);
+        (function() {
+        var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+        hs.src = ('//s10.histats.com/js15_as.js');
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+        })();
+    </script>
+</body>
+</html>
