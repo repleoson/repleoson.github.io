@@ -1,0 +1,15 @@
+---
+title: "$uicideBoy$ - ...And To Those I Love, Thanks For Sticking Around (Lyrics) '' i'll be dead by dawn''"
+image: "https:\/\/i.ytimg.com\/vi\/wgS3joLhYZc\/hqdefault.jpg"
+vid_id: "wgS3joLhYZc"
+categories: "Entertainment"
+tags: ["weary","tik tok","tik tok songs"]
+date: "2021-11-09T01:24:59+03:00"
+vid_date: "2020-05-10T23:16:35Z"
+duration: "PT2M49S"
+viewcount: "14516621"
+likeCount: "333456"
+dislikeCount: "2813"
+channel: "weary"
+---
+{% raw %}💜 listen to $uicideBoy$ - And To Those I Love, Thanks For Sticking Around : <a rel="nofollow" target="blank" href="https://open.spotify.com/track/41LhQUkElADQ5YUbpYv2D0?si=eATF9EW7T-ST78m0CBndwQ">https://open.spotify.com/track/41LhQUkElADQ5YUbpYv2D0?si=eATF9EW7T-ST78m0CBndwQ</a><br />🎵 follow our tiktok songs playlists: <a rel="nofollow" target="blank" href="https://lnk.to/wearyS">https://lnk.to/wearyS</a><br /><br /><br />support weary°<br /><a rel="nofollow" target="blank" href="https://lnk.to/wearyS">https://lnk.to/wearyS</a><br /><a rel="nofollow" target="blank" href="https://instagram.com/">https://instagram.com/</a><br /><br />support artist<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/suicideboys/">https://www.instagram.com/suicideboys/</a><br /><a rel="nofollow" target="blank" href="https://soundcloud.com/g59">https://soundcloud.com/g59</a><br /><br /><br />lyrics for And To Those I Love, Thanks For Sticking Around by $uicideBoy$:<br />[Verse 1: Romeo da Black Rose]<br />Take me home<br />Take me home, it's the one place I can rest in peace<br />Turn off my phone<br />So many messages I wish I could just delete<br />Questioning my existence (Existence)<br />Questioning my decisions (Decisions)<br />Burning down all the bridges (Bridges)<br />Dig a moat, now I'm finished<br />Sorry, don't want you to visit, no<br />No<br />One last pic and I'll be gone<br />Make it count, put the flash on<br />Never really felt like I belonged<br />So I'll be on my way and I won't be long<br />I'll be dead by dawn<br />I'll be dead by dawn<br />I'll be dead by dawn<br />I'll be dead by dawn<br /><br />[Verse 2: Lil' Dark]<br />Scrolling through my texts<br />Shit I left unread<br />Never tryna deal with that<br />There's bliss up in my ignorance<br />Ten dope dealers<br />Ex want me to see her<br />Can't trust her, don't believe her<br />Reply, turn into a needle, yeah<br />Don't wanna do it again<br />Got shit I'm not tryna relive<br />Head fucked up and I'm sick<br />These old habits will kill me quick<br />Quicker than I can blink<br />Quicker than I could think<br />Lift me up, don't want to sink<br />Pour me up, I need a drink<br />What the fuck do I do<br />When sabotage is all I know? Oh<br />I done dug myself<br />My own grave in this hole, oh, more, woah<br />Kill me slow, slow<br />Curtains closed low<br />Fuck, I don't see what's the point of going on, no<br /><br />a lyric video for And To Those I Love, Thanks For Sticking Around by $uicideBoy$ on weary°.<br /><br />hashtags: #$uicideBoy$ #TikTok #Weary{% endraw %}
