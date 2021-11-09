@@ -1,0 +1,15 @@
+---
+title: "IN REALITY || Official Trailer #1"
+image: "https:\/\/i.ytimg.com\/vi\/9I9s3eB2St0\/hqdefault.jpg"
+vid_id: "9I9s3eB2St0"
+categories: "People-Blogs"
+tags: ["in reality","los angles film festival","port townsend film festival"]
+date: "2021-11-09T10:58:36+03:00"
+vid_date: "2018-09-28T22:34:29Z"
+duration: "PT1M28S"
+viewcount: "61178"
+likeCount: "258"
+dislikeCount: "22"
+channel: "Ann Lupo"
+---
+{% raw %}Available now on <br />@itunes -  apple.co/2C1oova<br />Amazon - amzn.to/2uGgAuw <br />Google Play - <a rel="nofollow" target="blank" href="https://bit.ly/2IQFJtp">https://bit.ly/2IQFJtp</a><br /><br />&quot;IN REALITY fearlessly shatters the illusion of the 'rom-com' romance...&quot; (Refinery29) <br /><br />&quot;A convincing, relatable look at one woman’s inner workings and the vicissitudes of love and friendship.&quot; (Los Angeles Times)<br /><br />&quot;Aggressively whimsical&quot; (The Hollywood Reporter) <br /><br />An award-winning feature film, IN REALITY takes you on an autobiographical rollercoaster ride through the fantastical mind of a young woman falling in and out of love. #inrealityfilm<br /><br />------------------<br />“What’s Your Fantasy?”<br />LTD Theatrical Tour<br />TICKETS ON SALE <br /><br />March 23rd at Treefort Music Festival (Boise, Idaho) - <a rel="nofollow" target="blank" href="https://bit.ly/2HZogBP">https://bit.ly/2HZogBP</a><br />March 23rd &amp; 24th at Annapolis Film Festival - <a rel="nofollow" target="blank" href="https://bit.ly/2TpYxXF">https://bit.ly/2TpYxXF</a> <br />March 29th-April 4th at Arena Cinelounge (Los Angeles, CA) - <a rel="nofollow" target="blank" href="https://bit.ly/2E8rkaz">https://bit.ly/2E8rkaz</a><br />March 30th at Women's Film Festival (Brattleboro, Vermont) - <a rel="nofollow" target="blank" href="https://bit.ly/1V9DAtr">https://bit.ly/1V9DAtr</a><br />April 5th in New York, NY (Location to be announced) <br />April 8th at Garden Cinema (Norwalk, CT) - <a rel="nofollow" target="blank" href="https://bit.ly/2NIIRJJ">https://bit.ly/2NIIRJJ</a> <br />April 9th at Nitehawk (Brooklyn, NY) - <a rel="nofollow" target="blank" href="https://bit.ly/2XFsQbR">https://bit.ly/2XFsQbR</a><br />April 11th at Piano Fight (San Francisco, CA)  - <a rel="nofollow" target="blank" href="https://bit.ly/2HfJMA6">https://bit.ly/2HfJMA6</a><br />April 20th at FilmBar (Phoenix, AZ) - <a rel="nofollow" target="blank" href="https://bit.ly/2NG74Ae">https://bit.ly/2NG74Ae</a><br />April 23rd at Alamo Drafthouse Village (Austin, TX) - COMING SOON<br />April 24th at Logan Theatre (Chicago, IL) - <a rel="nofollow" target="blank" href="https://bit.ly/2UnTvw2">https://bit.ly/2UnTvw2</a><br /><br />@inreality_film<br /><br /><br />Want to book a screening in your town? Email us at hello@inrealityfilm.com<br /><br />Follow Us: <br />Instagram: @inreality_film<br />Facebook &amp; Twitter: @inrealityfilm  <br />Sign up for release updates HERE - <a rel="nofollow" target="blank" href="https://bit.ly/2N65nM5">https://bit.ly/2N65nM5</a>{% endraw %}
