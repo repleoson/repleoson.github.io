@@ -1,0 +1,15 @@
+---
+title: "SELLING her CAR and SURPRISING her with a NEW ONE!!"
+image: "https:\/\/i.ytimg.com\/vi\/R-8ww4wBqgE\/hqdefault.jpg"
+vid_id: "R-8ww4wBqgE"
+categories: "Entertainment"
+tags: ["Lizzy Capri","lizzy","Team RAR"]
+date: "2021-11-09T23:14:42+03:00"
+vid_date: "2021-11-09T16:12:12Z"
+duration: "PT16M28S"
+viewcount: "48731"
+likeCount: "3084"
+dislikeCount: "68"
+channel: "Lizzy Capri"
+---
+{% raw %}Thanks to CarMax for sponsoring this video. Go to CarMax.com and get an offer to sell your car in less than 2 minutes. <a rel="nofollow" target="blank" href="https://bit.ly/3Am0hn0">https://bit.ly/3Am0hn0</a><br />#CarMax #CarMaxInstantOffer @CarMax <br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC-kNP_fPjvyQqC25VcHhDMQ">https://www.youtube.com/channel/UC-kNP_fPjvyQqC25VcHhDMQ</a><br /><br />Today Lizzy Capri and her best friend Deniesse pranked her assistant by selling her car because they had a huge surprise up their sleeve. To pull off this epic prank @Carter Sharer helped. Team RAR pranked Elena so good and then surprised her with a new car! She had no clue what was going and when she found out she could pick a new car at carmax to be her very own she almost burst into tears!<br /><br />I had a blast planning the ultimate surprise for Team RAR all-star Elena! <br /><br />Join this channel to get access to perks:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCXOSzGyN3EPZfKE2hujeIYA/join">https://www.youtube.com/channel/UCXOSzGyN3EPZfKE2hujeIYA/join</a><br /><br />GET YOUR MERCH 👚<a rel="nofollow" target="blank" href="https://lizzy.teamrar.com/">https://lizzy.teamrar.com/</a> USE DISCOUNT CODE LIZZY FOR 5$ OFF!!<br /><br />📷INSTAGRAM → <a rel="nofollow" target="blank" href="https://www.instagram.com/lizzycapri/">https://www.instagram.com/lizzycapri/</a><br />⏰TIK TOK → <a rel="nofollow" target="blank" href="https://www.tiktok.com/@lizzycapri">https://www.tiktok.com/@lizzycapri</a><br />📘FACEBOOK → LIZZY CAPRI <a rel="nofollow" target="blank" href="https://goo.gl/AX1d4t">https://goo.gl/AX1d4t</a><br />💬DISCORD → <a rel="nofollow" target="blank" href="https://discordapp.com/invite/lizzycord">https://discordapp.com/invite/lizzycord</a><br />-----------------------------------------------------------------------------------------------------------<br /><br />VIDEO EDITOR: ONJONET WILLIAMS @Onjofficial<br />Business Inquiries: lizzy.integrations@teamrar.com<br /><br />WARNING: <br />This video is only for entertainment purposes. Do not attempt to recreate any of the acts in this video, as they may be dangerous if not done correctly, and could result in serious injury. If you rely on the information portrayed in this video, you assume the responsibility for the results. Have fun, but always think ahead, and remember that every project you try is at YOUR OWN RISK.<br /><br />This footage is property of Dream Team Studios LLC and is not allowed to be repurposed without written consent from Dream Team Studios LLC. For any requests from media contact us at lizzy.integrations@teamrar.com{% endraw %}
