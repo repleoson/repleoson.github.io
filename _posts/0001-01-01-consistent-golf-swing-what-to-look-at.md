@@ -1,0 +1,15 @@
+---
+title: "CONSISTENT GOLF SWING - What To Look At?"
+image: "https:\/\/i.ytimg.com\/vi\/7-n3ek5sxx4\/hqdefault.jpg"
+vid_id: "7-n3ek5sxx4"
+categories: "Sports"
+tags: ["paul wilson golf","golf look at ball","beginner golf"]
+date: "2021-11-10T01:28:32+03:00"
+vid_date: "2021-07-08T23:15:43Z"
+duration: "PT10M41S"
+viewcount: "37786"
+likeCount: "1203"
+dislikeCount: "10"
+channel: "Paul Wilson Golf"
+---
+{% raw %}I get asked the question &quot;what to look at&quot; all of the time.  So I decided to do a video explaining it.  Once you know what to look at, you can develop a consistent golf swing.<br /><br />You would this what to look at would be pretty obvious but it isn't.  Based on your skill level you look at different things.  Beginners just need to consistently make contact with the ball so what they look at versus what a pro would look at are two different things.<br /><br />So watch this tip so you know what to look at then try to do this the next time you practice so you can develop a consistent golf swing.<br /><br />Free samples from my Body Swing book and video series here:  <a rel="nofollow" target="blank" href="https://bodyswing.com/freesamples/">https://bodyswing.com/freesamples/</a><br /><br />-------------------------------------------------<br />My Websites<br />-------------------------------------------------<br /><br /><a rel="nofollow" target="blank" href="https://ignitiongolf.com">https://ignitiongolf.com</a><br /><a rel="nofollow" target="blank" href="https://paulwilsongolf.com">https://paulwilsongolf.com</a><br /><a rel="nofollow" target="blank" href="https://bodyswing.com">https://bodyswing.com</a> <br /><a rel="nofollow" target="blank" href="https://swingmachinegolf.com">https://swingmachinegolf.com</a> <br /><a rel="nofollow" target="blank" href="http://howtohitdriver.com">http://howtohitdriver.com</a><br /><br />-------------------------------------------------<br />My App<br />-------------------------------------------------<br /><br />Work with me live from anywhere in the world through my new app called COACHLINK.<br />Available for both Apple and Android devices.  Watch a Demo here: <a rel="nofollow" target="blank" href="https://www.coachlinkapp.com/demo/">https://www.coachlinkapp.com/demo/</a><br /><br />-------------------------------------------------<br />My Channels<br />-------------------------------------------------<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/paulwilsongolf">https://www.youtube.com/paulwilsongolf</a><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/ignitiongolftips">https://www.youtube.com/ignitiongolftips</a><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/thebodyswing">https://www.youtube.com/thebodyswing</a><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/swingmachinegolf">https://www.youtube.com/swingmachinegolf</a><br /><br />Tip Link: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=7-n3ek5sxx4">https://www.youtube.com/watch?v=7-n3ek5sxx4</a>{% endraw %}
