@@ -1,0 +1,15 @@
+---
+title: "Alesana - This is usually the part where people Scream"
+image: "https:\/\/i.ytimg.com\/vi\/KbtOLetVbAI\/hqdefault.jpg"
+vid_id: "KbtOLetVbAI"
+categories: "Music"
+tags: ["Alesana","This","is"]
+date: "2021-11-10T09:18:01+03:00"
+vid_date: "2008-06-01T05:10:13Z"
+duration: "PT4M51S"
+viewcount: "434459"
+likeCount: "2245"
+dislikeCount: "50"
+channel: "Beandon S."
+---
+{% raw %}Alesana<br /><br />This is usually the part where people scream<br /><br />Where myth fades to Legend<br /><br /><br /><br />You'll beat me? <br /><br />Bring it on bring it on. <br /><br />Your gonna save the day? <br /><br />Bring it on bring it on. <br /><br />You ready? <br /><br />Bring it on! <br /><br />Ill show you another thing or two. <br /><br /><br /><br />You may think your clever but your not. you better get the coffins out. <br /><br />Trust me kid thats where your sleeping tonight.<br /><br />There's no guarantee well get out alive.<br /><br /><br /><br />Stop your whining. <br /><br />Lets get busy <br /><br /><br /><br />Baby it's time to lock and load. <br /><br />Stop your whining <br /><br />Lets get busy.<br /><br /><br /><br />Welcome to the show, <br /><br />It's a story that youve heard a thousand times <br /><br />So take a seat and get lost with me, this tale will never stop being told. welcome to the show,<br /><br />It's a chance to save the world <br /><br />but lose the girl. <br /><br />Lets save the world. <br /><br />Heroes will save the day. <br /><br />You may think youve won but I promise you it's not over. <br /><br />You may think youve won <br /><br />But I promise you it's not over. <br /><br /><br /><br />This could be our one last chance to finally rise up. <br /><br />So here we stand and here we will fight. none of us shall run from anyone storms are gathering<br /><br /><br /><br />There's no guarantee well get out alive. <br /><br />Stop your whining lets get busy. <br /><br />We have to rise above and fight. <br /><br />Well be heroes. <br /><br /><br /><br />Welcome to the show, <br /><br />It's a sotry that youve heard a thousand times<br /><br />So take a seat and get losst with me, this tale will never stop being told. welcome to the show, <br /><br />It's a chance to save the world <br /><br />but lose the girl. <br /><br />Lets save the world. <br /><br />Heroes will save the day. <br /><br /><br /><br />This is the part where you are supposed to scream <br /><br />When you scream well be heroes. <br /><br /><br /><br />Welcome to the show, <br /><br />It's a story that youve heard a thousand times. <br /><br />So take a seat and get lost with me, this tale will never stop being told. welcome ot the show <br /><br />It's a chance to save the world <br /><br />but lose the girl. <br /><br /><br /><br />Lets save the world <br /><br />Heroes will save the day. <br /><br />Lets save the world <br /><br />Heroes will save the day.<br /><br />Ets save the world <br /><br />Heroes will save the day.<br /><br /><br /><br /><br /><br /><br /><br />(BTW, please dont type any kind of chains, im going to delete them anyway =P){% endraw %}
