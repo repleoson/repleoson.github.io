@@ -1,0 +1,15 @@
+---
+title: "Conventions (I miss them)"
+image: "https:\/\/i.ytimg.com\/vi\/RgQdIGKh1Ks\/hqdefault.jpg"
+vid_id: "RgQdIGKh1Ks"
+categories: "Comedy"
+tags: ["Convention","con","phoenix comic con"]
+date: "2021-11-10T20:31:10+03:00"
+vid_date: "2020-06-13T16:38:31Z"
+duration: "PT8M31S"
+viewcount: "20590922"
+likeCount: "758452"
+dislikeCount: "12964"
+channel: "TheOdd1sOut"
+---
+{% raw %}I hope these videos aren’t CONVENTIONal to you<br />Buy one get one 50% off sale on shirts ➤ <a rel="nofollow" target="blank" href="https://theodd1sout.com/collections/apparel/shirt">https://theodd1sout.com/collections/apparel/shirt</a> <br />Sign up to our newsleter to get a collectors card for my next game ➤ <a rel="nofollow" target="blank" href="https://theodd1sout.com/pages/kickstarter">https://theodd1sout.com/pages/kickstarter</a><br /><br />Additional artists: <br />GetMadz ➤ <a rel="nofollow" target="blank" href="https://www.youtube.com/user/TheMadz2012">https://www.youtube.com/user/TheMadz2012</a> <br />Rushlight Invader ➤ <a rel="nofollow" target="blank" href="https://www.youtube.com/user/RushLightInvader">https://www.youtube.com/user/RushLightInvader</a> <br />Annie Loomis ➤ <a rel="nofollow" target="blank" href="https://twitter.com/annieloomisart">https://twitter.com/annieloomisart</a> <br />PantslessPajamas ➤ <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCR0O-1cvuPNxDosvSDLpWHg">https://www.youtube.com/channel/UCR0O-1cvuPNxDosvSDLpWHg</a> <br />Hexrin ➤ <a rel="nofollow" target="blank" href="https://twitter.com/hexriin">https://twitter.com/hexriin</a> <br />Funymony ➤ <a rel="nofollow" target="blank" href="https://www.youtube.com/user/funymony">https://www.youtube.com/user/funymony</a> <br />Nine Doodles ➤ <a rel="nofollow" target="blank" href="https://twitter.com/NineDoodles">https://twitter.com/NineDoodles</a> <br />Georden Whitman ➤ <a rel="nofollow" target="blank" href="https://twitter.com/geordenwhitman">https://twitter.com/geordenwhitman</a><br />ThePivotsXXD ➤ <a rel="nofollow" target="blank" href="https://www.youtube.com/user/ThePivotsXXD">https://www.youtube.com/user/ThePivotsXXD</a><br /><br />Bowser wallet art ➤ <a rel="nofollow" target="blank" href="https://twitter.com/Cheesysoup">https://twitter.com/Cheesysoup</a><br />Bowser print art ➤ <a rel="nofollow" target="blank" href="https://twitter.com/NineDoodles">https://twitter.com/NineDoodles</a> <br />Bowser bandanna art ➤ <a rel="nofollow" target="blank" href="https://twitter.com/stablercake">https://twitter.com/stablercake</a><br /><br />Second channel ➤ <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC0GLNhtTu7yI8rl6ZZGeezw">https://www.youtube.com/channel/UC0GLNhtTu7yI8rl6ZZGeezw</a> <br />Twitter ➤ <a rel="nofollow" target="blank" href="https://twitter.com/Theodd1sout">https://twitter.com/Theodd1sout</a> <br />Instagram ➤ <a rel="nofollow" target="blank" href="https://www.instagram.com/theodd1sout/">https://www.instagram.com/theodd1sout/</a> <br />Website/Merch ➤ <a rel="nofollow" target="blank" href="https://theodd1sout.com/">https://theodd1sout.com/</a>{% endraw %}
