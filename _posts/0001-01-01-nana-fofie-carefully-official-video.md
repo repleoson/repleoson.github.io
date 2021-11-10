@@ -1,0 +1,15 @@
+---
+title: "Nana Fofie   Carefully (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/oPdKa0IQZpI\/hqdefault.jpg"
+vid_id: "oPdKa0IQZpI"
+categories: "Music"
+tags: ["Fofie","Carefully","(Official"]
+date: "2021-11-10T10:18:17+03:00"
+vid_date: "2021-04-14T13:05:38Z"
+duration: "PT2M14S"
+viewcount: "205257"
+likeCount: "7203"
+dislikeCount: "47"
+channel: "Nana Fofie"
+---
+{% raw %}Stream / Download 'Carefully': <a rel="nofollow" target="blank" href="https://hyperurl.co/carefully">https://hyperurl.co/carefully</a><br /><br />Connect with Nana Fofie:<br /><a rel="nofollow" target="blank" href="https://www.facebook.com/nanafofieoff...​">https://www.facebook.com/nanafofieoff...​</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/nanafofiee/​​​">https://www.instagram.com/nanafofiee/​​​</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/nanafofiee​">https://twitter.com/nanafofiee​</a><br /><br /><br /><br /><br /><br />Special thanks to Immersive Studios <br /><a rel="nofollow" target="blank" href="https://www.immersivestudios.nl/">https://www.immersivestudios.nl/</a><br />@immersive.studios<br />Cort van der Lindenstraat 18,Rijswijk <br /><br />Shot by Selfmademedia<br />www.selfmademedia.nl <br />Produced by Vanessa Gout<br /><br />Lyrics<br />(intro)<br />It's Nana Baby<br />Ooh yeah<br /><br /><br />Listen carefully<br />No go do you wrong put your trust in me<br />Everything you do do do do for me<br />Got you till the end baby you gon see yeah<br />Listen carefully<br />No go do you wrong put your trust in me<br />Everything you do do do do for me<br />Got you till the end baby you gon see yeah<br /><br /><br />Darling<br />The first thing I think of in the morning<br />I'll give you my all imma' go all in<br />Won't slip won't slip<br />Nobody's falling<br />Yeah<br />Anopa tutu don't worry fre mi<br />Im right here<br />I No go do do do you wrong boy<br />Get me<br />Ooh<br /><br /><br />Listen carefully<br />No go do you wrong put your trust in me<br />Everything you do do do do for me<br />Got you till the end baby you gon see yeah<br />Listen carefully<br />No go do you wrong put your trust in me<br />Everything you do do do do for me<br />Got you till the end baby you gon see yeah<br /><br /><br />Baby you know that I'm frеaky when I put it down on you<br />Greedy when it comes down to you<br />Baby I'm needy causе' I really need it<br />Every single thing you do you make it look so easy<br />Quand tu me regardes ça me Rend tebé<br />Toi et moi<br />Peut on se voir en prive<br />Your secret's safe with me<br />Hmm<br />Yeah imma' keep it between us<br /><br /><br />Listen carefully<br />No go do you wrong put your trust in me<br />Everything you do do do do for me<br />Got you till the end baby you gon see yeah<br />Listen carefully<br />No go do you wrong put your trust in me<br />Everything you do do do do for me<br />Got you till the end baby you gon see yeah<br /><br />(OUTRO)<br />Listen carefully<br />Everything you do do do do for me 2{% endraw %}
