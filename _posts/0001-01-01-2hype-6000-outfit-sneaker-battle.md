@@ -1,0 +1,15 @@
+---
+title: "2HYPE $6000 Outfit + Sneaker Battle"
+image: "https:\/\/i.ytimg.com\/vi\/QuQnEasPzN0\/hqdefault.jpg"
+vid_id: "QuQnEasPzN0"
+categories: "Sports"
+tags: ["2hype","lsk","kristopher london"]
+date: "2021-11-10T11:44:22+03:00"
+vid_date: "2021-03-27T20:00:02Z"
+duration: "PT31M53S"
+viewcount: "1699261"
+likeCount: "52471"
+dislikeCount: "1065"
+channel: "2HYPE"
+---
+{% raw %}This week we went to Cool Kicks LA to see who could put together the best fit + shoes for 1000 dollars each (some of us might even have more than 1000). We picked up some heat and even had a surprise appearance from DaBaby. <br /><br />Thanks so much to Adeel and the whole crew at Cool Kicks for letting us come by. Definitely Check out their channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/c/coolkicks/">https://www.youtube.com/c/coolkicks/</a> <br /><br />★Follow us on Socials!★<br />●Instagram <a rel="nofollow" target="blank" href="https://www.instagram.com/2hypehouse/">https://www.instagram.com/2hypehouse/</a><br />●Twitter <a rel="nofollow" target="blank" href="https://twitter.com/official2HYPE">https://twitter.com/official2HYPE</a><br /><br />⭐ 2HYPE Merch ⭐<br />● <a rel="nofollow" target="blank" href="https://2hype.com">https://2hype.com</a><br /><br />★2HYPE MEMBERS★<br />● JESSER -<br />Channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/user/JesserPlays">https://www.youtube.com/user/JesserPlays</a><br />Instagram <a rel="nofollow" target="blank" href="https://www.instagram.com/jesser/">https://www.instagram.com/jesser/</a><br />● KRIS -<br />Channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/KristopherLondon">https://www.youtube.com/KristopherLondon</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/iamkrislondon/">https://www.instagram.com/iamkrislondon/</a><br />● JAMES -<br />Channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/user/JiedelPlays">https://www.youtube.com/user/JiedelPlays</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/jiedel/">https://www.instagram.com/jiedel/</a><br />● CASH -<br />Channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/user/WhatChaMaCalling">https://www.youtube.com/user/WhatChaMaCalling</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/cashnasty/">https://www.instagram.com/cashnasty/</a><br />● ZACK -<br />Channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCTs5PJGf9AwnA7mNV3ejNTQ">https://www.youtube.com/channel/UCTs5PJGf9AwnA7mNV3ejNTQ</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/zackttg/">https://www.instagram.com/zackttg/</a><br />● MOOCHIE - <br />Instagram - <a rel="nofollow" target="blank" href="https://www.instagram.com/moochieyt/">https://www.instagram.com/moochieyt/</a><br />Channel - <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCY-BsNVd33_mzyXQzMorv1Q">https://www.youtube.com/channel/UCY-BsNVd33_mzyXQzMorv1Q</a><br />#2HYPE #Sneakers #Hypebeast{% endraw %}
