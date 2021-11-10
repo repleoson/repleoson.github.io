@@ -1,0 +1,15 @@
+---
+title: "Halsey - Gasoline (Audio)"
+image: "https:\/\/i.ytimg.com\/vi\/zRHNi3QfFlE\/hqdefault.jpg"
+vid_id: "zRHNi3QfFlE"
+categories: "Music"
+tags: ["Halsey","Gasoline","Astralwerks"]
+date: "2021-11-10T14:52:33+03:00"
+vid_date: "2015-08-28T07:00:02Z"
+duration: "PT3M18S"
+viewcount: "120290456"
+likeCount: "1323486"
+dislikeCount: "25650"
+channel: "HalseyVEVO"
+---
+{% raw %}Listen to the newest album “If I Can’t Have Love, I Want Power” out now: <a rel="nofollow" target="blank" href="https://halsey.lnk.to/IICHLIWPID">https://halsey.lnk.to/IICHLIWPID</a><br /><br />Discover more Halsey on Spotify: <a rel="nofollow" target="blank" href="https://halsey.lnk.to/insidemyhead">https://halsey.lnk.to/insidemyhead</a> <br /> <br />Sign up for the official Halsey newsletter: <a rel="nofollow" target="blank" href="http://smarturl.it/HalseyMailingList?IQid=YT">http://smarturl.it/HalseyMailingList?IQid=YT</a> <br />Download “BADLANDS” on iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/HalseyBadlands?IQid=YT.gasoline">http://smarturl.it/HalseyBadlands?IQid=YT.gasoline</a><br />Order deluxe box of “BADLANDS”: <a rel="nofollow" target="blank" href="http://smarturl.it/HalseyStore?IQid=YT.gasoline">http://smarturl.it/HalseyStore?IQid=YT.gasoline</a><br />Order deluxe edition of “BADLANDS” from Target: <a rel="nofollow" target="blank" href="http://smarturl.it/halseytarget?IQid=YT.gasoline">http://smarturl.it/halseytarget?IQid=YT.gasoline</a><br />Listen to “BADLANDS” on Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/BADLANDSspotify?IQid=YT.gasoline">http://smarturl.it/BADLANDSspotify?IQid=YT.gasoline</a><br /><br />Visit Halsey’s ‘Room 93’<br />Stream Halsey’s ‘Room 93’ EP:  <a rel="nofollow" target="blank" href="http://smarturl.it/Room93Spotify?IQid=YT.gasoline">http://smarturl.it/Room93Spotify?IQid=YT.gasoline</a><br />Download Halsey’s 'Room 93' EP: <a rel="nofollow" target="blank" href="http://smarturl.it/HalseyRoom93?IQid=YT.gasoline">http://smarturl.it/HalseyRoom93?IQid=YT.gasoline</a><br />Watch the 'Room 93' video series: <a rel="nofollow" target="blank" href="http://smarturl.it/Room93videos?IQid=YT.gasoline">http://smarturl.it/Room93videos?IQid=YT.gasoline</a><br /><br />Subscribe to Halsey’s YouTube channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/iamhalsey">https://www.youtube.com/iamhalsey</a><br /><br />Follow Halsey<br /><a rel="nofollow" target="blank" href="http://iamhalsey.com">http://iamhalsey.com</a><br /><a rel="nofollow" target="blank" href="http://twitter.com/halsey">http://twitter.com/halsey</a> <br /><a rel="nofollow" target="blank" href="https://www.facebook.com/HalseyMusic">https://www.facebook.com/HalseyMusic</a> <br /><a rel="nofollow" target="blank" href="http://instagram.com/iamhalsey">http://instagram.com/iamhalsey</a><br />Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/HalseySpotify">http://smarturl.it/HalseySpotify</a><br /><br />Music video by Halsey performing Gasoline. (C) 2015 Astralwerks<br /><br /><a rel="nofollow" target="blank" href="http://vevo.ly/Kqpote">http://vevo.ly/Kqpote</a>{% endraw %}
