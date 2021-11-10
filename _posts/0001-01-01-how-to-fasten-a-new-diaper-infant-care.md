@@ -1,0 +1,15 @@
+---
+title: "How to Fasten a New Diaper | Infant Care"
+image: "https:\/\/i.ytimg.com\/vi\/GQFQ-4h34GA\/hqdefault.jpg"
+vid_id: "GQFQ-4h34GA"
+categories: "Howto-Style"
+tags: ["Baby","baby care","newborn baby care"]
+date: "2021-11-10T04:26:30+03:00"
+vid_date: "2012-08-04T00:27:23Z"
+duration: "PT2M14S"
+viewcount: "63210"
+likeCount: "73"
+dislikeCount: "49"
+channel: "Howcast"
+---
+{% raw %}Full Playlist: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PL46D624C8FB4FE6D8">https://www.youtube.com/playlist?list=PL46D624C8FB4FE6D8</a><br />-<br />-<br />Watch more How to Take Care of a New Baby videos: <a rel="nofollow" target="blank" href="http://www.howcast.com/videos/502441-How-to-Fasten-a-New-Diaper-Infant-Care">http://www.howcast.com/videos/502441-How-to-Fasten-a-New-Diaper-Infant-Care</a><br /><br /><br /><br /><br />After you've wiped everything then you apply the cream. And again, some families say, &quot;What do I need the cream for? The baby doesn't have a rash.&quot; But the cream is a preventative measure. It prevents the diaper rash.<br /><br />And there's many different types of creams. There's a protective ointment that you can use and you would either use with your fingers or a stick to keep it as sanitary as possible. Now, this cream is a preventative measure. It seals the area so that when the baby does go to the bathroom it doesn't burn the skin. But an ointment like this wouldn't treat diaper rash.<br /><br />If you have a diaper rash you would need something with a zinc in it, which is similar to these products. Those white creams are what you use when the baby does have a rash. And an ointment is what you would use as preventative measure.<br /><br />So again, you don't want to be stingy with the cream. Pour as much as you can, everywhere you can. From high up on a baby all the way up to their back. Because when they go to the bathroom it gets everywhere.<br /><br />Then you have the diaper that's dirty, throw it away. And since everything is within very close reach you have the new diaper and you've lifted the baby's leg. You've put down the new, clean diaper. You've put the diaper between the baby's legs and pulling forward. We're using a very big diaper because we want to highlight how to change this efficiently.<br /><br />If the baby does have their umbilical cord you need to fold the diaper down so that it doesn't irritate that area. Then you want to pull the tape as such. And make sure it's very, very fitted around this area of the baby. I know this is a bigger diaper for the baby. But this is the area that you really want to make sure is very gripped and very secure. Because when babies have accidents and it gets all over their clothes they're not very happy. <br /><br />So you want to have the baby as tight as possible. You want to do all of this in as quick time as possible. But you really want to make sure that the baby is clean and comfortable for the next diaper change.{% endraw %}
