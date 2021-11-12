@@ -1,0 +1,15 @@
+---
+title: "Billie Eilish - Bored (Lyrics) | Giving you every piece of me"
+image: "https:\/\/i.ytimg.com\/vi\/N4h0H8GoeCk\/hqdefault.jpg"
+vid_id: "N4h0H8GoeCk"
+categories: "Music"
+tags: ["bored","billie eilish","bored billie eilish"]
+date: "2021-11-12T14:05:11+03:00"
+vid_date: "2021-09-22T14:30:08Z"
+duration: "PT3M2S"
+viewcount: "2818879"
+likeCount: "45356"
+dislikeCount: "492"
+channel: "Cakes & Eclairs"
+---
+{% raw %}Billie Eilish - Bored (Lyrics) | Giving you every piece of me<br />🎵 Follow Cakes &amp; Eclairs on Spotify: <a rel="nofollow" target="blank" href="http://bit.ly/CakesEclairs">http://bit.ly/CakesEclairs</a><br />Stream Bored Billie Eilish : <a rel="nofollow" target="blank" href="http://smarturl.it/BillieEilishBored">http://smarturl.it/BillieEilishBored</a><br /><br />🔔 Don't forget to subscribe and turn on notifications!<br /><br />Follow Billie Eilish<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/billieeilish">https://www.instagram.com/billieeilish</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/billieeilish">https://twitter.com/billieeilish</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/billieeilish">https://www.facebook.com/billieeilish</a>  <br /><br /><br />Bored Lyrics<br />[Intro]<br />Ah, ah<br /><br />[Verse 1]<br />The games you played were never fun<br />You'd say you'd stay but then you'd run, ah<br /><br />[Pre-Chorus]<br />Giving you what you're begging for<br />Giving you what you say I need<br />I don't want any settled scores<br />I just want you to set me free<br />Giving you what you're begging for<br />Giving you what you say I need, say I need<br /><br />[Chorus]<br />I'm not afraid anymore<br />What makes you sure you're all I need? (I need)<br />Forget about it<br />When you walk out the door and leave me torn<br />You're teaching me to live without it<br />Bored, I'm so bored, I'm so bored, so bored<br /><br />[Verse 2]<br />I'm home alone, you're God-knows-where<br />I hope you don't think that shit's fair, ah<br /><br />[Pre-Chorus]<br />Giving you all you want and more<br />Giving you every piece of me<br />I don't want love I can't afford<br />I just want you to love for free<br />Can't you see that I'm getting bored?<br />Giving you every piece of me, piece of me<br /><br />[Chorus]<br />I'm not afraid anymore<br />What makes you sure you're all I need?<br />Forget about it<br />When you walk out the door and leave me torn<br />You're teaching me to live without it<br />Bored, I'm so bored, I'm so bored, so bored<br /><br />[Pre-Chorus]<br />Giving you what you're begging for<br />Giving you what you say I need<br />I don't want any settled scores<br />I just want you to set me free<br />Giving you what you're begging for<br />Giving you what you say I need, say I need<br /><br />[Chorus]<br />I'm not afraid anymore<br />What makes you sure you're all I need?<br />Forget about it<br />And when you walk out the door and leave me torn<br />You're teaching me to live without it<br /><br />#bored #billieeilish #lyrics{% endraw %}
