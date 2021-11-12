@@ -1,0 +1,15 @@
+---
+title: "CONCEPT (Meaning & Definition Explained) Understanding CONCEPTUAL Mind Knowledge | What is Concept?"
+image: "https:\/\/i.ytimg.com\/vi\/jXHcHjr4R0Q\/hqdefault.jpg"
+vid_id: "jXHcHjr4R0Q"
+categories: "Nonprofits-Activism"
+tags: ["what is concept","concept meaning","concept definition"]
+date: "2021-11-13T01:07:15+03:00"
+vid_date: "2020-12-29T14:18:45Z"
+duration: "PT3M40S"
+viewcount: "5940"
+likeCount: "89"
+dislikeCount: "2"
+channel: "Raise The World Project Now"
+---
+{% raw %}What is a CONCEPT? Understanding the Conceptual Knowledge of the Mind is of great benefit to all Spiritual Seekers. A Concept is an idea or mental picture that is agreed upon by society and becomes accepted and integrated into the collective understanding and consciousness. Concepts are a product of the conceptual ego thinking mind that is limited to perceptually created abstractions, language, ideas, and symbols. Through mental observation, a concept is created to describe, explain, and capture reality as it is understood. But a concept, label or name is not what a thing is in reality... Please enjoy this short video where we describe and explain the definition and meaning of CONCEPT in plain English. Concept Meaning and the Nature of Knowledge Explained and Defined.<br /><br />📺 𝐖𝐚𝐭𝐜𝐡 𝐧𝐞𝐱𝐭<br />INTELLECT<br />►<a rel="nofollow" target="blank" href="https://youtu.be/pR791_s-0_o">https://youtu.be/pR791_s-0_o</a><br />Understanding NON DUALITY<br />►<a rel="nofollow" target="blank" href="https://youtu.be/mXZye2j5oX8">https://youtu.be/mXZye2j5oX8</a><br />The LEVELS of CONSCIOUSNESS<br />►<a rel="nofollow" target="blank" href="https://youtu.be/Y8aFQsBm7Ho">https://youtu.be/Y8aFQsBm7Ho</a><br />Understanding PERSONALITY<br />►<a rel="nofollow" target="blank" href="https://youtu.be/bDn9pmxh-88">https://youtu.be/bDn9pmxh-88</a><br /><br />𝐖𝐚𝐧𝐭 𝐭𝐨 𝐬𝐞𝐞 𝐦𝐨𝐫𝐞 𝐜𝐨𝐧𝐭𝐞𝐧𝐭 𝐥𝐢𝐤𝐞 𝐭𝐡𝐢𝐬? 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐓𝐡𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 <br />👍 Like - It helps the Video &amp; the Channel :)<br />💬 Comment - Say Hi &amp; Connect with Us :)<br />🔗 Share - Benefit people you know :)<br />🔔 Subscribe - <a rel="nofollow" target="blank" href="https://www.youtube.com/c/RaiseTheWorldProjectNow">https://www.youtube.com/c/RaiseTheWorldProjectNow</a><br />☕ Support Us - <a rel="nofollow" target="blank" href="https://www.buymeacoffee.com/RWPN">https://www.buymeacoffee.com/RWPN</a><br />👨‍👩‍👧‍👦Membership - <a rel="nofollow" target="blank" href="https://www.youtube.com/c/RaiseTheWorldProjectNow/join">https://www.youtube.com/c/RaiseTheWorldProjectNow/join</a><br /><br />𝐅𝐨𝐥𝐥𝐨𝐰 𝘂𝐬:<br />🔵 FB: <a rel="nofollow" target="blank" href="https://www.facebook.com/Raise-The-World-Project-Now-110658607273968/">https://www.facebook.com/Raise-The-World-Project-Now-110658607273968/</a><br /><br />📹 All stock videos, photos, and music included free from WeVideo essentials &amp; CanvaPro.<br /><br />#concept #conceptual #conceptmeaning #raisetheworld #projectnow #spiritual #consciousness #oneness #beyondreligion #nonduality #spiritualteachings #spiritualawakening #weareone #lovingkindness{% endraw %}
