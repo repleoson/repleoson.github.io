@@ -1,0 +1,15 @@
+---
+title: "[Eng Sub] A River Runs Through It 16 (Richards Wang, Hu Yixuan) | 上游"
+image: "https:\/\/i.ytimg.com\/vi\/sUjwhjKQ5YQ\/hqdefault.jpg"
+vid_id: "sUjwhjKQ5YQ"
+categories: "Film-Animation"
+tags: ["放学别走","school","campus love"]
+date: "2021-11-12T10:59:28+03:00"
+vid_date: "2021-08-27T14:00:18Z"
+duration: "PT36M26S"
+viewcount: "691986"
+likeCount: "12074"
+dislikeCount: "141"
+channel: "YoYo English Channel"
+---
+{% raw %}【💕Join Our “VIP” Membership And Show Your Support💕】<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC3UUwfyntghfisq02q5v2tw/join">https://www.youtube.com/channel/UC3UUwfyntghfisq02q5v2tw/join</a><br />【💕VIP Members💕】<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLTB73Ibi_X3EdsMU4vrMP9USPCcNz1MES">https://www.youtube.com/playlist?list=PLTB73Ibi_X3EdsMU4vrMP9USPCcNz1MES</a><br />【💕Watch More Episodes💕】<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLTB73Ibi_X3ELixOuSxt5FVJK_UoYeQdQ">https://www.youtube.com/playlist?list=PLTB73Ibi_X3ELixOuSxt5FVJK_UoYeQdQ</a><br /><br />✨Updating✨<br />Drama name: A River Runs Through It<br />Genres: Romance, School, Youth<br />Also known as: Shang You, 眼泪的上游<br /><br />💬Synopsis:<br />A story that follows students who journey through life and share experiences in sadness and joy. It starts with a transfer student who makes a new set of friends at her new school.<br />Xia Xiaoju transferred right before the gaokao examinations. She meets the compassionate Cheng Lang, the straightforward Lu Shiyi (Wang Ruichang), the often dazed Qiu Letao and many others. Despite feeling flustered by her new environment and starting off meeting her new classmates over a misunderstanding, she tries to make the best of it. With gaokao fast approaching, the students make their own decisions that bring about a set of challenges.<br /><br />💕Cast:<br />Lu Shi Yi - Richards Wang<br /> Xia Xiao Ju - Yixuan Hu <br /><br />🌟Similar dramas:<br />Don't Leave After School (Li Tingting, Yao Chi)：<a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLTB73Ibi_X3HeEV_bHCRJPGeFbv6gAvEj">https://www.youtube.com/playlist?list=PLTB73Ibi_X3HeEV_bHCRJPGeFbv6gAvEj</a><br />Remember My Boy (Daniel Zhou, Bubble Zhu):<a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLTB73Ibi_X3EWQ7N4m4o3u9u7gaLT1wy_">https://www.youtube.com/playlist?list=PLTB73Ibi_X3EWQ7N4m4o3u9u7gaLT1wy_</a><br />Professional Single (Ireine Song, Aaron Deng):<a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLTB73Ibi_X3FGMKABcJZZ3t4pup9lmcBj">https://www.youtube.com/playlist?list=PLTB73Ibi_X3FGMKABcJZZ3t4pup9lmcBj</a><br /><br />✨The Best Chinese TV Series Channel✨<br />With the Latest and Fastest ENG SUB on YouTube! <br />Stay with us, you won't be disappointed!<br /><br /><br />#上游 #ARiverRunsThroughIt #WangRuichang #RichardsWang #HuYixuan #王瑞昌 #胡意旋 #YoYoEnglishChannel{% endraw %}
