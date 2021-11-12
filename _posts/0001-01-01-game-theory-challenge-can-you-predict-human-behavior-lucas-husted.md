@@ -1,0 +1,15 @@
+---
+title: "Game theory challenge: Can you predict human behavior? - Lucas Husted"
+image: "https:\/\/i.ytimg.com\/vi\/MknV3t5QbUc\/hqdefault.jpg"
+vid_id: "MknV3t5QbUc"
+categories: "Education"
+tags: ["game theory","2\/3 of the average","game theory prediction"]
+date: "2021-11-12T21:34:57+03:00"
+vid_date: "2019-11-05T16:00:25Z"
+duration: "PT4M59S"
+viewcount: "1248747"
+likeCount: "33311"
+dislikeCount: "539"
+channel: "TED-Ed"
+---
+{% raw %}Solve this classic game theory challenge: given integers from 0 to 100, what would the whole number closest to ⅔ of the average of all numbers guessed be?<br /><br />--<br /><br />Given a range of integers from 0 to 100, what would the whole number closest to 2/3 of the average of all numbers guessed be? For example, if the average of all guesses is 60, the correct guess will be 40. The game is played under conditions known to game theorists as “common knowledge:” every player has the same information— they also know that everyone else does too. Lucas Husted explains.<br /><br />Lesson by Lucas Husted, directed by Anton Trofimov.<br /><br />Animator's website: <a rel="nofollow" target="blank" href="https://www.antontrofimov.com">https://www.antontrofimov.com</a><br />Sign up for our newsletter: <a rel="nofollow" target="blank" href="http://bit.ly/TEDEdNewsletter">http://bit.ly/TEDEdNewsletter</a><br />Support us on Patreon: <a rel="nofollow" target="blank" href="http://bit.ly/TEDEdPatreon">http://bit.ly/TEDEdPatreon</a><br />Follow us on Facebook: <a rel="nofollow" target="blank" href="http://bit.ly/TEDEdFacebook">http://bit.ly/TEDEdFacebook</a><br />Find us on Twitter: <a rel="nofollow" target="blank" href="http://bit.ly/TEDEdTwitter">http://bit.ly/TEDEdTwitter</a><br />Peep us on Instagram: <a rel="nofollow" target="blank" href="http://bit.ly/TEDEdInstagram">http://bit.ly/TEDEdInstagram</a><br />View full lesson: <a rel="nofollow" target="blank" href="https://ed.ted.com/lessons/game-theory-challenge-can-you-predict-human-behavior-lucas-husted">https://ed.ted.com/lessons/game-theory-challenge-can-you-predict-human-behavior-lucas-husted</a><br /><br />Thank you so much to our patrons for your support! Without you this video would not be possible! Clement, Hadi Salahshour, FAWWAZ GHUWAIDI, Dino Biancolini, Reagen O'Connor, Nicu Boanda, Cindy O., Karla Brilman, Jørgen Østerpart, Sergi Páez, rakesh Katragadda, Carolyn Corwin, Charlene You, Boris Langvand, Exal Enrique Cisneros Tuch, Carsten Tobehn, Kin Lon Ma, Katie Dean, Ezgi Yersu, Eunsun Kim, Katrina Harding, Gerald Onyango, alessandra tasso, Astia Rizki Safitri, Côme Vincent, Antony Lee, Melissa Sorrells, Rakshit Kothari, Doreen Reynolds-Consolati, Simon Holst Ravn, Manognya Chakrapani, Ayala Ron, Samantha Chow, Philippe Spoden, Phyllis Dubrow, Michelle Stevens-Stanford, Cas Jamieson, Ophelia Gibson Best, Amber Wood, Paul Schneider, Jun Cai, Tim Robinson, Henrique 'Sorín' Cassús, cnorahs, Lyn-z Schulte, Elaine Fitzpatrick, Karthik Cherala, Clarence E. Harper Jr., Milad Mostafavi and Аркадий Скайуокер.{% endraw %}
