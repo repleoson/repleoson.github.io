@@ -1,0 +1,15 @@
+---
+title: "Beautiful Paintings + Beautiful Classical Music"
+image: "https:\/\/i.ytimg.com\/vi\/8XdHP_fQoB0\/hqdefault.jpg"
+vid_id: "8XdHP_fQoB0"
+categories: "Music"
+tags: ["Classical Music","paintings"]
+date: "2021-11-13T15:10:52+03:00"
+vid_date: "2018-12-18T14:03:37Z"
+duration: "PT3H17M37S"
+viewcount: "1697441"
+likeCount: "22919"
+dislikeCount: "486"
+channel: "Lifting Dreams"
+---
+{% raw %}Beautiful selected paintings combine with some of the best of classical music<br /><br />Playlist:<br /><br />01. Pachelbel - Canon in D Major 0:00<br />02. Strauss II - The Blue Danube Waltz (5:43)<br />03. Bach ~ Brandenburg Concerto No. 4-1 BWV 1049 (15:06)<br />04. Mozart ~ A Little Night Music / Eine Kleine Nachtmusik (22:20)<br />05. Tchaikovsky - Waltz of the Flowers (28:09)<br />06. Handel ~ Messiah (Hallelujah Chorus) (34:54)<br />07. Edvard Grieg ~ Morning Mood (38:38)<br />08. Bach - Prelude in C major (42:17)<br />09. Bizet - Habanera (44:31)<br />10. Beethoven - Fur Elise (46:34)<br />11. Erik Satie - Gymnopédie No. 1 (49:02)<br />12. Erik Satie - Gymnopédie No. 2 (52:09)<br />13. Erik Satie - Gymnopédie No. 3 (54:43)<br />14. Beethoven - Moonlight Sonata 57:04<br />15. Amazing Grace 1:02:16<br />16. Chopin - The Funeral March 1:05:22<br />17. Chopin - Prelude in E Minor (Op. 28 No. 4) 1:14:47<br />18. Liszt - Hungarian Rhapsody No. 2 1:17:14<br />19. Rossini - William Tell Overture 1:28:06<br />20. Mendelssohn - Midsummer Night's Dream 1:39:50<br />21. Tchaikovsky - Dance Of The Sugar Plum Fairies 1:44:53<br />22. Offenbach - Can Can 1:46:53<br />23. Camille Saint Saëns - Danse Macabre 1:56:07<br />24. Bach - Toccata and Fugue in D minor 2:02:53<br />25. Grieg - In the Hall of the Mountain King 2:11:34<br />26. Richard Wagner - Ride of the Valkyries 2:13:55<br />27. Tchaikovsky - 1812 Overture 2:19:18<br />28. Bizet - Les Toreadors from Carmen 2:35:37<br />29. Beethoven - Egmont Overture 2:37:55<br />30. Beethoven - Symphony No. 5 2:47:00<br />31. Beethoven - Symphony No. 9, Ode to Joy 2:53:55<br /><br />&quot;Canon in D major &quot;, “Brandenburg Concerto No. 4-1 BWV1049&quot;, &quot;Gymnopédies No. 1 &amp; No. 2 &amp; No. 3&quot;, &quot;Amazing Grace&quot;, &quot;Dance Of The Sugar Plum Fairies&quot;, &quot;Danse Macabre&quot;, &quot;Toccata and Fugue in D minor&quot;, &quot;Egmont Overture” performed by Kevin MacLeod is licensed under a Creative Commons Attribution license (<a rel="nofollow" target="blank" href="https://creativecommons.org/licenses/by/4.0/)">https://creativecommons.org/licenses/by/4.0/)</a><br />Artist: <a rel="nofollow" target="blank" href="http://incompetech.com/">http://incompetech.com/</a><br /><br />Music come from the YouTube Audio Library<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/audiolibrary/">https://www.youtube.com/audiolibrary/</a><br /><br />All the paintings are in the public domain. You can find them on Wikipedia<br /><br />Thank you for watching! Have a great day! :){% endraw %}
