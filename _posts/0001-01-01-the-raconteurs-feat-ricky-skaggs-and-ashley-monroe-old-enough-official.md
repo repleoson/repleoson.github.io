@@ -1,0 +1,15 @@
+---
+title: "The Raconteurs feat. Ricky Skaggs and Ashley Monroe - Old Enough (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/1qahZ-whM6o\/hqdefault.jpg"
+vid_id: "1qahZ-whM6o"
+categories: "Music"
+tags: ["old enough raconteurs","raconteurs","the raconteurs"]
+date: "2021-11-13T13:53:30+03:00"
+vid_date: "2009-10-29T21:27:28Z"
+duration: "PT6M58S"
+viewcount: "5964202"
+likeCount: "50414"
+dislikeCount: "2629"
+channel: "The Raconteurs"
+---
+{% raw %}Watch the official music video for &quot;Old Enough&quot; by The Raconteurs featuring Ricky Skaggs and Ashley Monroe<br />Listen to The Raconteurs: <a rel="nofollow" target="blank" href="https://TheRaconteurs.lnk.to/listenYD">https://TheRaconteurs.lnk.to/listenYD</a><br /><br />Watch more of The Raconteurs videos: <a rel="nofollow" target="blank" href="https://TheRaconteurs.lnk.to/listenYD/youtube">https://TheRaconteurs.lnk.to/listenYD/youtube</a><br /><br />Subscribe to The Raconteurs official YouTube channel: <a rel="nofollow" target="blank" href="https://TheRaconteurs.lnk.to/subscribeYD">https://TheRaconteurs.lnk.to/subscribeYD</a><br /><br />Follow The Raconteurs:<br />Facebook: <a rel="nofollow" target="blank" href="https://TheRaconteurs.lnk.to/followFI/facebook">https://TheRaconteurs.lnk.to/followFI/facebook</a><br />Instagram: <a rel="nofollow" target="blank" href="https://TheRaconteurs.lnk.to/followII/instagram">https://TheRaconteurs.lnk.to/followII/instagram</a><br />Website: <a rel="nofollow" target="blank" href="https://TheRaconteurs.lnk.to/followWI/websitegeneral">https://TheRaconteurs.lnk.to/followWI/websitegeneral</a><br />Spotify: <a rel="nofollow" target="blank" href="https://TheRaconteurs.lnk.to/followSI/spotify">https://TheRaconteurs.lnk.to/followSI/spotify</a><br /><br />#TheRaconteurs #OldEnough<br /><br />Lyrics:<br />You look pretty in your fancy dress<br />But I detect unhappiness<br />You never speak so I have to guess<br />You're not free<br /><br />There, maybe when you're old enough<br />You'll realize you're not so tough<br />And some days the seas get rough<br />And you'll see<br /><br />You're too young to have it figured out<br />You think you know what you're talking about<br />You think it will all work itself out<br />But we'll see<br /><br />When I was young I thought I knew<br />You probably think you know too<br />Do you?<br />Well do you?<br /><br />I was naive just like you<br />I thought I knew exactly what I wanted to do<br />Well, what you gonna do?<br />(What a fool)<br /><br />And how have you gotten by so far<br />Without having no visible scar?<br />No one knowing who you really are<br />They can't see<br /><br />What you gonna do (what you gonna do)<br />What you gonna do now<br /><br />The only way you'll ever learn a thing<br />Is to admit that you know absolutely nothing<br />Oh nothing<br />Think about this carefully<br />You might not get another chance to speak freely<br />Oh freely<br /><br />Baby when you're old enough<br />You're not free{% endraw %}
