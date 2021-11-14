@@ -1,0 +1,15 @@
+---
+title: "Madison Beer - Reckless (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/TFHCew8DnC0\/hqdefault.jpg"
+vid_id: "TFHCew8DnC0"
+categories: "Music"
+tags: ["madison beer","epic","epic records"]
+date: "2021-11-14T07:05:26+03:00"
+vid_date: "2021-06-29T04:00:11Z"
+duration: "PT3M49S"
+viewcount: "26472889"
+likeCount: "787436"
+dislikeCount: "10376"
+channel: "MadisonBeerMusicVEVO"
+---
+{% raw %}Madison Beer - Reckless (Official Music Video)<br /><br />&quot;Reckless&quot; available at: <a rel="nofollow" target="blank" href="https://madisonbeer.lnk.to/Reckless">https://madisonbeer.lnk.to/Reckless</a><br />Official Lyric Video: <a rel="nofollow" target="blank" href="https://madisonbeer.lnk.to/RecklessLyricVideo">https://madisonbeer.lnk.to/RecklessLyricVideo</a><br /><br />Follow Madison:<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/madisonbeer">https://www.instagram.com/madisonbeer</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/madisonbeer">https://twitter.com/madisonbeer</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/madisonellebeer">https://www.facebook.com/madisonellebeer</a><br /><br />Lyrics:<br />Hey, this is a story I hate <br />And telling it might make me break <br />But I’ll tell it anyway <br />This chapter’s about <br />How you said there was nobody else <br />Then you got up and went to her house <br />You guys always left me out<br /><br />I still have the letter <br />You wrote when you told me <br />That I was the only girl you’d ever want in your life<br />I guess my friends were right<br /><br />Each day goes by <br />Each night I cry <br />Somebody saw you <br />With her last night<br />You gave me your word <br />Don’t worry bout her <br />You might love her now <br />But you loved me first <br />Said you’d never hurt me, but here we are <br />Oh you swore on every star <br />How could you be<br />So reckless with my heart?<br /><br />You check in and out <br />Of my heart like a hotel <br />She must be perfect, oh well <br />I hope you both go to hell <br /><br />I still have the letter <br />You wrote when you told me <br />That I was the only girl you’d ever want in your life<br />I guess my friends were right<br /><br />Each day goes by <br />Each night I cry <br />Somebody saw you <br />With her last night<br />You gave me your word <br />Don’t worry bout her <br />You might love her now <br />But you loved me first <br />Said you’d never hurt me, but here we are <br />Oh you swore on every star <br />How could you be<br />So reckless with my heart?<br /><br />How could you be so reckless <br />How could you be so reckless <br />How could you be so reckless <br />With someone’s heart?<br /><br />Hey, this is a story I hate <br />But I told it to cope with the pain <br />I’m so sorry if you can relate<br /><br />(C) 2021 Epic Records/Sing It Loud<br /><br />#MadisonBeer #Reckless<br /><br /><a rel="nofollow" target="blank" href="http://vevo.ly/CzPrWO">http://vevo.ly/CzPrWO</a>{% endraw %}
