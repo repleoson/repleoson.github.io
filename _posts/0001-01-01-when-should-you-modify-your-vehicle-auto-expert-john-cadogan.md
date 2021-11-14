@@ -1,0 +1,15 @@
+---
+title: "When should you modify your vehicle? | Auto Expert John Cadogan"
+image: "https:\/\/i.ytimg.com\/vi\/-pWc8lJjPjo\/hqdefault.jpg"
+vid_id: "-pWc8lJjPjo"
+categories: "Autos-Vehicles"
+tags: ["should","modify","vehicle?"]
+date: "2021-11-14T13:05:57+03:00"
+vid_date: "2021-08-25T11:53:23Z"
+duration: "PT33M36S"
+viewcount: "62014"
+likeCount: "2684"
+dislikeCount: "43"
+channel: "Auto Expert John Cadogan"
+---
+{% raw %}AUTOEXPERT OLIGHT DISCOUNT (These are awesome.)<br /><a rel="nofollow" target="blank" href="https://bit.ly/3pA9nYi">https://bit.ly/3pA9nYi</a><br />12% off code: AEJC (exclusive of sale periods)<br /><br />Help support my independent reporting, securely, via Patreon: <a rel="nofollow" target="blank" href="https://www.patreon.com/user?u=54778969">https://www.patreon.com/user?u=54778969</a><br />Podcast (audio-only version, for listening in the car, etc.): <a rel="nofollow" target="blank" href="https://anchor.fm/autoexpert">https://anchor.fm/autoexpert</a><br /><br />This episode is an attempt to answer the following question from Gary Sheppard:<br /><br />&quot;I’ve ordered a new Triton via your service (thanks) but have some questions that you might be able to shed some light on. I have been doing research (i.e looking at a million youtube videos) and there’s a lot of advice out there about modifying your car for touring and a bit of 4wd work. I hear about things like catch cans, custom-made dyno tunes, fuel pre filters, 2 inch lifts, GVM upgrades etc.<br /><br />&quot;All of which are said to improve the performance and ability of the vehicle. There is so much info out there that the average Joe doesn't know who to believe. Is it just BS by people trying to sell you stuff?<br /><br />&quot;Does it wipe out your warranty or is it perfectly safe? For instance I emailed the dyno tune people featured on the 4WD-24/7 channel and they said with a properly done dyno tune it would deliver more power, better response while saving fuel and would not affect the warranty. Other people in the comments sections say you wouldn’t be covered. It’s so hard to know what to believe.<br /><br />&quot;Would be possible for you to do a youtube video covering the most common mods and give your expert opinion as to whether they are worthwhile or are just BS? Do they void your warranty if they relate to the part that goes bad? Any advice would be appreciated. Thanks mate. Cheers, Gary&quot;<br /><br />Save thousands on any new car (Australia-only): <a rel="nofollow" target="blank" href="https://autoexpert.com.au/contact">https://autoexpert.com.au/contact</a><br /><br />AutoExpert discount roadside assistance package:<br /><a rel="nofollow" target="blank" href="https://247roadservices.com.au/autoexpert/">https://247roadservices.com.au/autoexpert/</a><br /><br />Did you like this report? You can help support the channel, securely via PayPal: <a rel="nofollow" target="blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=DSL9A3MWEMNBW&amp;source=url">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=DSL9A3MWEMNBW&amp;source=url</a>{% endraw %}
