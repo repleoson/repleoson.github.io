@@ -1,0 +1,15 @@
+---
+title: "Going to the WORST Reviewed *TANNING SALON* in my City (1 STAR)"
+image: "https:\/\/i.ytimg.com\/vi\/FYE1P541rBk\/hqdefault.jpg"
+vid_id: "FYE1P541rBk"
+categories: "Howto-Style"
+tags: ["worst review","worst rated","going to the worst rated tanning salon in my city"]
+date: "2021-11-15T04:24:57+03:00"
+vid_date: "2019-02-02T03:00:42Z"
+duration: "PT14M6S"
+viewcount: "1615459"
+likeCount: "45023"
+dislikeCount: "661"
+channel: "Sylvia Gani"
+---
+{% raw %}SHOP MY PALETTE: <a rel="nofollow" target="blank" href="http://sylviagani.com/bhpalette">http://sylviagani.com/bhpalette</a><br />SHOP S-CLUB MERCH: <a rel="nofollow" target="blank" href="https://fanjoy.co/collections/sylvia-gani">https://fanjoy.co/collections/sylvia-gani</a><br />Hey S-Club, today we go to the worst reviewed tanning salon in my city to see if it's as bad as everyone says it is... Enjoy! xo<br /><br />SUBSCRIBE TO CARRINGTON HERE: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCW-cKKMkVTxivx2M4jIa2yA">https://www.youtube.com/channel/UCW-cKKMkVTxivx2M4jIa2yA</a><br /><br />Watch this video NEXT: Going to the WORST REVIEWED *Nail Salon* in my City <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=jrhnLRzzESk&amp;t=31s">https://www.youtube.com/watch?v=jrhnLRzzESk&amp;t=31s</a><br /><br />Dont forget to THUMBS UP the video if you LIKED it!<br /><br />CALLING ALL S-CLUB... Translate my videos into YOUR language for a shout out in my description! Try it HERE: <a rel="nofollow" target="blank" href="http://bit.ly/2nHx8zP">http://bit.ly/2nHx8zP</a><br /><br />DISCOUNT CODE &quot;SYLVIA&quot; on all bh Cosmetics!<br /><a rel="nofollow" target="blank" href="http://bhcosmetics.com">http://bhcosmetics.com</a><br /><br />MY FAVES FROM TOO FACED: <a rel="nofollow" target="blank" href="http://bit.ly/TFsylvia">http://bit.ly/TFsylvia</a><br /><br />IF YOU READ the entire description COMMENT &quot;Britany Spears commented on your instagram&quot; to confuse everyone who isnt in on the joke haha! xo<br /><br />------------------------------<br />LETS BE FRIENDS ON SOCIAL MEDIA!<br /> <br />- INSTAGRAM  <a rel="nofollow" target="blank" href="https://www.instagram.com/sylviagani">https://www.instagram.com/sylviagani</a><br />- TWITTER        <a rel="nofollow" target="blank" href="https://twitter.com/sylviagani">https://twitter.com/sylviagani</a><br />- SNAPCHAT    username: sylviagani<br />- FACEBOOK     <a rel="nofollow" target="blank" href="https://www.facebook.com/sylviagani">https://www.facebook.com/sylviagani</a><br />- BLOG               <a rel="nofollow" target="blank" href="http://sylviagani.com">http://sylviagani.com</a><br /><br />------------------------------<br /> M U S I C <br /><br />Music by Epidemic Sound (<a rel="nofollow" target="blank" href="http://www.epidemicsound.com)">http://www.epidemicsound.com)</a><br /><br />------------------------------<br />D I S C L A I M E R  <br />This video is not sponsored. As always, all opinions are my own and I keep it 100 with yall - always honest! Thank you for your love and support. XO{% endraw %}
