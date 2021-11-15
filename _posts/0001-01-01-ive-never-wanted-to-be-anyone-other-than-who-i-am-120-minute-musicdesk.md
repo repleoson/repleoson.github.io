@@ -1,0 +1,15 @@
+---
+title: "Ive never wanted to be anyone other than who I am | 120 Minute MusicDesk Relax Music for Deep Sleep"
+image: "https:\/\/i.ytimg.com\/vi\/Zi92leECtSw\/hqdefault.jpg"
+vid_id: "Zi92leECtSw"
+categories: "People-Blogs"
+tags: ["MusicDESK","slow piano","piano playlist"]
+date: "2021-11-15T12:01:07+03:00"
+vid_date: "2021-11-09T08:51:44Z"
+duration: "PT1H51M7S"
+viewcount: "36625"
+likeCount: "0"
+dislikeCount: "0"
+channel: "MusicDESK"
+---
+{% raw %}Ive never wanted to be anyone other than who I am | 120 Minute MusicDesk Relax Music for Deep Sleep<br /><br />Welcome to my channel!<br /><br />MusicDESK is a team of musicians and composers who create piano music for relaxation. We are located in Thailand and we created this company to share inspiration with friends around the world. MusicDESK's goal is to provide people with beautiful piano compositions that will help them relax, focus, or meditate.<br />0:00 Through the forest to the ridges<br />2:49 Though he be led down shadowy pathways where<br />5:32 This to perceive some minds are too refined<br />8:27 Thou shalt ere long thy gallant vessel moor<br />11:03 Those owning thy maternal claim<br />13:57 This shifty heart of ours to hunt<br />16:38 Though in the language of your land<br />19:31 This is the blessed region where<br />22:26 Thou shalt rest and have no fear<br />25:02 Thou by whose page we break the precious bread<br />27:45 Thou miht upon my beneicoun<br />30:40 Though in the language of your land<br />33:33 Three hundred steeds and bridles<br />36:16 Through Time to that clear reconciling height<br />39:23 Thrice twelve months have hastened by<br />42:02 This spiteful ray which still upbraideth me<br />44:41 This badge of the Loyal Legion<br />47:26 Thou by whose page we break the precious bread<br />50:08 This look of quiet flatters thus<br />52:49 Thoughts that have slumbered long awake and burn<br />55:39 This little pony looks quite smart<br />58:34 Through the shadowed waters gleam<br />1:01:28 Thir stellar vertue on all kinds that grow<br />1:04:16 This look of quiet flatters thus<br />1:06:57 Throned in the seats the brave may reach<br />1:09:45 Thus I sang my cares and murmurs<br />1:12:40 Through the rocks in wildest courses<br />1:15:21 Thou canst not have forgotten all<br />1:18:04 Think of the creeping pain<br />1:20:50 Till the treacherous pool<br />1:23:32 This poem is surely more full of a certain quality of extreme<br />1:26:08 Thou wert never seen or heard of<br />1:28:52 Through the thick vapours Mars with fiery beam<br />1:31:45 Three spells I have laid on the rising sun<br />1:34:27 Thus I sang my cares and murmurs<br />1:37:22 Though his black broadcloth glories to be seen<br />1:40:20 Till the treacherous pool<br />1:43:01 Thou to whom Life and Time surrender<br /><br /><br />All rights belong to our team.<br />Please do not re-upload!<br />Please subscribe my channel for more videos!<br /><br />#MusicDESK #MusicDESKcalmpiano #MusicDESKrelaxingpiano #MusicDESKpianolofi #120MinuteMusicDeskRelaxMusicforDeepSleep{% endraw %}
