@@ -1,0 +1,15 @@
+---
+title: "Magical Iniesta Moments That Will Not Repeat in Football!"
+image: "https:\/\/i.ytimg.com\/vi\/C-xfcSloHUg\/hqdefault.jpg"
+vid_id: "C-xfcSloHUg"
+categories: "Film-Animation"
+tags: ["Magical Iniesta Moments That Will Not Repeat in Football!","Moments That Can't Be Repeated In Football","Football Moments That Cannot Be Repeated"]
+date: "2021-11-16T01:39:08+03:00"
+vid_date: "2021-03-13T19:57:17Z"
+duration: "PT18M26S"
+viewcount: "1169365"
+likeCount: "21510"
+dislikeCount: "473"
+channel: "BarcaStudio"
+---
+{% raw %}👍Magical Iniesta Moments That Will Not Repeat in Football! Like Johan Cruyff Once Said: “Playing Football is Simple But Playing Simple Football is The Hardest Thing There Is. Andres Iniesta Believes no one can repeat the golden generation with Leo Messi and Xavi at Barcelona.  No Fancy Tricks, Just Silky Smooth Iniesta Touches<br />----------------------------------------­------------------------------------------ <br />VIDEO CHAPTER:<br />00:00-00:09 Intro BarcaStudio<br />00:09-00:15 Question Time<br />00:15-00:19 Enable Spanish or English Subtitles <br />00:20-1:17 Iniesta Underrated Genius Intro<br />1:18- 2:15  (13)Humiliating Zidane in first Clásico at the Bernabéu (2005)<br />2:16-2:31  Interview Xavi Hernandez &amp; Pep Guardiola<br />2:32-2:38 Check Out Our G.O.A.T. MERCHANDISE <br />2:39-4:08 (12) Iniesta Super-Sub UCL Final (2006)<br />4:09-4:21 Interview Samuel Eto’o <br />4:22-5:51 (11) The Joy of Six for Barça, May 2, 2009,  Real Madrid 2-6 Barcelona<br />5:52-7:02 (10) Iniesta’s Stamford Bridge Masterpiece, May 6, 2009, Semi-final Champions League<br />7:03-8:37 (9) Iniesta Roaming In Rome (2009)<br />8:38-9:39 (8) Iniesta Comes Through In The Biggest Moment To Seal Spanish World Cup Glory (2010)<br />9:40-12:33 (7) Xavi, Iniesta &amp; Messi Put Manchester United Back on The Carousel (2011)<br />12:34-12:41 Check Out Our G.O.A.T. MERCHANDISE <br />12:42-13:04 (6) Iniesta Makes Spain The Best In Europe AGAIN (2012)<br />13:05-13:16 Interview with Luis Enrique &amp; Neymar Junior<br />13:17-13:41 (5) Iniesta's Magical Assist for Neymar Against PSG<br />13:42-14:12 (4) Iniesta Makes Champions League History With Second Treble (2015)<br />14:13-15:29 (3)  Iniesta's Unexpected Standing Ovation At The Santiago Bernabéu (2015)<br />15:30-16:56 (2)  The Iniesta Final (2018)<br />16:57-18:12 (1) He doesn’t look like a footballer. He’s too small, too weak, he can’t move.<br />18:13-18:20 Solution Time<br />18:21-18:30 Outro Barcastudio<br /> ----------------------------------------­------------------------------------------ <br />TAGS:   <br />Magical Iniesta Moments That Will Not Repeat in Football!,  Moments That Can't Be Repeated In Football,  Football Moments That Cannot Be Repeated, andres iniesta moments, andres iniesta best moments, andres iniesta moments, andres iniesta best passes, andres iniesta best plays, andres iniesta best skills, andres iniesta highlights, andres iniesta xavi, Tiki-Taka Goals That Won't Be Repeated!,Top 10 Barca Goals Impossible to repeat,10 Teamplays that won't repeat{% endraw %}
