@@ -1,0 +1,15 @@
+---
+title: "An initially nervous patient with a popaholic wife: Nice Cyst Squeeze & whiteheads!"
+image: "https:\/\/i.ytimg.com\/vi\/HaKmI6c5-v4\/hqdefault.jpg"
+vid_id: "HaKmI6c5-v4"
+categories: "Education"
+tags: ["dr pimple popper","drpimplepopper","drsandralee"]
+date: "2021-11-16T21:33:00+03:00"
+vid_date: "2016-08-25T15:00:00Z"
+duration: "PT12M39S"
+viewcount: "4068059"
+likeCount: "25060"
+dislikeCount: "2087"
+channel: "Dr. Sandra Lee (aka Dr. Pimple Popper)"
+---
+{% raw %}An epidermoid cyst (Epidermal Inclusion cyst, Infundibular cyst),  is a benign growth commonly found in the skin and typically appears on the face, neck or trunk, but can occur anywhere on the body.  Another name used is “sebacous cyst” but this is actually an antiquated misnomer, and is not a term used by dermatologists. They are also the most common type of cutaneous cysts. Epidermoid cysts result from the reproduction of epidermal cells within a confined space of the dermis. The pasty contents are mostly composed of macerated keratin (wet skin cells), which creates this “cheesy” consistency, and there can be a pungent odor. An epidermoid cyst may have no symptoms and are typically harmless. Usually people seek removal but they don’t like the appearance of these bumps, or the cyst has ruptured or been inflamed or “infected” in the past.  Rupture is associated with sudden redness, pan, swelling, and local heat, and can lead to abscess formation. Also, a history of inflammation, often increases scar tissue in the area, makes the cyst more firmly adherent to surrounding skin, and makes it more difficult to remove.  Surgical excision is curative, but the complete cyst removal including the entire cyst sac and contents need to be removed to ensure that the cyst won’t reoccur. <br /><br />Subscribe to my Dermatology educational channel, Dr Pimple Popper University!  Link is here: <br /><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCvaD01Jb_ruxsAcVqVmTHzQ">https://www.youtube.com/channel/UCvaD01Jb_ruxsAcVqVmTHzQ</a><br /><br />To buy your own Official Dr. Pimple Popper Comedone Extractor, click here:<br /><br /><a rel="nofollow" target="blank" href="https://www.drpimplepopper.com/shop">https://www.drpimplepopper.com/shop</a><br /><br />For more content, exclusive content, and of course to get more Dr. Pimple Popper schwag, visit us at www.drpimplepopper.com!<br /><br />Instagram: <br />      @DrPimplePopper for 24/7 pops<br />      @DrSandraLee for my work, my life, my pops<br /><br />Facebook: facebook.com/DrSandraLeeDermatology<br /><br />Twitter: @SandraLeeMD<br /><br />Snapchat: drpimplepopper<br /><br />Periscope: Dr. Sandra Lee<br /><br />You can watch my TV appearances here: <br /><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCOixDRVQAsKe4STSuWU8U0Q">https://www.youtube.com/channel/UCOixDRVQAsKe4STSuWU8U0Q</a><br /><br />This video may contain dermatologic surgical and/or procedural content. The content seen in this video is provided only for medical education purposes and is not intended to be a substitute for professional medical advice, diagnosis, or treatment.{% endraw %}
