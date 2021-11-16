@@ -1,0 +1,15 @@
+---
+title: "الفرق بين have been و has been و had been في اللغه الانجليزيه"
+image: "https:\/\/i.ytimg.com\/vi\/TeAOcWorbOQ\/hqdefault.jpg"
+vid_id: "TeAOcWorbOQ"
+categories: "Education"
+tags: ["have been","has been","had been"]
+date: "2021-11-16T19:26:32+03:00"
+vid_date: "2017-05-12T12:05:50Z"
+duration: "PT10M10S"
+viewcount: "1644502"
+likeCount: "57409"
+dislikeCount: "1091"
+channel: "دروس أونلاين"
+---
+{% raw %}السلام عليكم :)<br />أهلا بك في درس جديد من دروس اونلاين , ان شاء الله درس النهاردا عن الفرق بين <br />have been و has been و had been ودول من الحاجات اللي ساعات بتلغبط والناس مش عارفه الفرق بينهم .<br />الدرس دا للناس اللي مستواهم فوق المتوسط , فلو انت مش مستوعب الكلام , شوف الفيديوهات اللي تحت دول الاول <br /><br />Enjoy :)<br /><br />شرح المضارع التام :<br /> <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=cfYSzcZSw3U">https://www.youtube.com/watch?v=cfYSzcZSw3U</a><br /><br />شرح المضارع التام المستمر : <br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=2EptvhLbLEU">https://www.youtube.com/watch?v=2EptvhLbLEU</a><br /><br />الافعال المساعده : <br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=AdWa7qXxTsU&amp;index=1&amp;list=PL5isa5XjlZ5qWNN8YxmC5F-L3DlXbWgDr">https://www.youtube.com/watch?v=AdWa7qXxTsU&amp;index=1&amp;list=PL5isa5XjlZ5qWNN8YxmC5F-L3DlXbWgDr</a><br /><br />المعدات التي أستخدمها : <br />Camers: <br /><br />Canon 70d : <a rel="nofollow" target="blank" href="http://amzn.to/2nbbrbb">http://amzn.to/2nbbrbb</a><br />Canon 700d : <a rel="nofollow" target="blank" href="http://amzn.to/2nkokji">http://amzn.to/2nkokji</a><br /><br />Lenses :<br /><br /> Sigma 18-35 f 1.8 :  <a rel="nofollow" target="blank" href="http://amzn.to/2mSfTso">http://amzn.to/2mSfTso</a><br />Canon 10-18 : <a rel="nofollow" target="blank" href="http://amzn.to/2nyGVsC">http://amzn.to/2nyGVsC</a><br />Canon 50 STM f 1.8 : <a rel="nofollow" target="blank" href="http://amzn.to/2nHl3vE">http://amzn.to/2nHl3vE</a><br /><br />Mics :<br /><br />Sony ECM-CS3 : <a rel="nofollow" target="blank" href="http://amzn.to/2n56oHx">http://amzn.to/2n56oHx</a><br />Blue Spark : <a rel="nofollow" target="blank" href="http://amzn.to/2nyX4hL">http://amzn.to/2nyX4hL</a><br />Rode Mic go : <a rel="nofollow" target="blank" href="http://amzn.to/2naYQo2">http://amzn.to/2naYQo2</a><br /><br />Lighting<br /><br />Ring light  : <a rel="nofollow" target="blank" href="http://amzn.to/2mqmO08">http://amzn.to/2mqmO08</a><br />Soft boxes :<a rel="nofollow" target="blank" href="http://amzn.to/2nbbMKR">http://amzn.to/2nbbMKR</a><br /><br />_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <br /><br /> صفحتنا علي فيسبوك:<br /><a rel="nofollow" target="blank" href="http://www.facebook.com/droosonline">http://www.facebook.com/droosonline</a><br /><br />وهذا الايميل الشخصي لي:<br />contact@droosonline.com<br /><br />وهذا هو موقعنا:<br /> <a rel="nofollow" target="blank" href="http://www.droosonline.com">http://www.droosonline.com</a>{% endraw %}
