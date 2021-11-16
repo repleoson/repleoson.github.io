@@ -1,0 +1,15 @@
+---
+title: "Evidence - Jim Dean (Prod. by Nottz) [Official Video]"
+image: "https:\/\/i.ytimg.com\/vi\/8cRDx9-ODUc\/hqdefault.jpg"
+vid_id: "8cRDx9-ODUc"
+categories: "Music"
+tags: ["Evidence","Weather or Not","Jim Dean"]
+date: "2021-11-16T18:42:20+03:00"
+vid_date: "2017-11-17T17:12:29Z"
+duration: "PT4M4S"
+viewcount: "3033056"
+likeCount: "36455"
+dislikeCount: "870"
+channel: "Rhymesayers Entertainment"
+---
+{% raw %}Buy &quot;Weather or Not&quot; Now : <a rel="nofollow" target="blank" href="https://rse.lnk.to/WeatherOrNot">https://rse.lnk.to/WeatherOrNot</a><br />Subscribe for more: <a rel="nofollow" target="blank" href="http://bit.ly/RhymesayersYT">http://bit.ly/RhymesayersYT</a><br />Limited Jim Dean T-shirts Pre-order: <a rel="nofollow" target="blank" href="http://bit.ly/JimDeanTees">http://bit.ly/JimDeanTees</a><br /><br />*** Due to numerous requests for the shirts featured in this video, we are manufacturing an EXTREMELY LIMITED run of three exclusive designs from the video. All three shirts feature photos taken by the director, Jason Goldwatch! Order here before they're gone: <a rel="nofollow" target="blank" href="http://bit.ly/JimDeanTees">http://bit.ly/JimDeanTees</a> ***<br /><br />&quot;The first Dilated Peoples Video, “Third Degree”, was directed by Jason. My first solo video “Mr Slow Flow” was directed by Jason, he’s always been a part of my team, not just some guy for hire. Being that he moved to LA from NY recently, we knew it was time to work. The new video is jumping all over LA to narrate the lyrics through still and moving images. Jason came up with an amazing way to have it all transition together through SSUR t-shirts coming to life. The locations in the video are personally important to me -the alley where I grew up, Alchemist’s studio etc…” -Evidence<br /><br />“Jim Dean” is the second single from Evidence’s forthcoming album “Weather or Not” releasing 1/26/18!<br /><br />Pre-order today from iTunes, Amazon or FifthElementOnline.com and receive a instant digital download of “Jim Dean” and “Throw It All Away&quot;. Album available digitally, on CD and double custom blue colored vinyl.<br /><br />Video:<br />Directed By Jason Goldwatch<br />DP: Ryan Postas<br />AC: Boota<br />SFX: Peter Fineberg<br />COLOR: The Jokerr<br />TITLES: Ricardo Castaneda<br /><br />Special thanks to... <br />SSUR, <br />Deck of Aces in Burbank, <br />Connecting Dots,<br />ProductsGo<br />DECON / MASS APPEAL<br />Tristan Eaton<br />Boota<br />Russ<br />Jerry<br />Dan<br />Kwesi<br /><br /><br />THANK YOU<br /><br />Song:<br />Written and performed by Evidence<br />Produced by Nottz<br />Scratches by DJ Babu<br /><br /><a rel="nofollow" target="blank" href="http://www.rhymesayers.com/evidence">http://www.rhymesayers.com/evidence</a><br /><a rel="nofollow" target="blank" href="http://www.facebook.com/misterevidence">http://www.facebook.com/misterevidence</a><br /><a rel="nofollow" target="blank" href="http://www.instagram.com/evidence">http://www.instagram.com/evidence</a><br /><a rel="nofollow" target="blank" href="http://twitter.com/evidence">http://twitter.com/evidence</a>{% endraw %}
