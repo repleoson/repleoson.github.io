@@ -1,0 +1,15 @@
+---
+title: "Buster Keaton's Stunts that nearly killed him!"
+image: "https:\/\/i.ytimg.com\/vi\/qpk7O6HNT7E\/hqdefault.jpg"
+vid_id: "qpk7O6HNT7E"
+categories: "Entertainment"
+tags: ["fact","factxtract","info"]
+date: "2021-11-18T00:19:17+03:00"
+vid_date: "2013-04-24T21:30:13Z"
+duration: "PT1M57S"
+viewcount: "180650"
+likeCount: "527"
+dislikeCount: "156"
+channel: "Mastan Travel"
+---
+{% raw %}Famous comedian Buster Keaton performed so many dangerous stunts himself that in some cases, he could have got himself killed! Let's take a look at two of his popular stunts that nearly cost him his life!<br /><br />In a scene from Steamboat Bill Junior, Keaton had to remain stand-still on a particular spot. Next, the facade of a two-story building toppled forward on top of him. Keaton emerged with no injury, thanks to a single open window, which passed directly over him. The stunt was indeed very risky. The danger was to due to the significant weight of the prop house and the fact that the window only offered a few inches of space around Keaton's body. The sequence has now become one of the iconic scenes in his career.<br /><br />However, Buster Keaton wasn't always so lucky!<br /><br />For instance, during filming a sequence in the movie Sherlock Junior, a torrent of water fell on him from a water tower and washed him onto the nearby railroad track. This resulted in fracturing his neck to the point of almost breaking it. Keaton, however, didn't realize that his neck had been fractured. After making Sherlock Junior, for several years he suffered from severe migraines, until a doctor finally diagnosed the problem.<br /><br />Check out my stories and posts on Instagram and TikTok:<br /> <a rel="nofollow" target="blank" href="https://www.instagram.com/mastan.travel">https://www.instagram.com/mastan.travel</a><br /><a rel="nofollow" target="blank" href="https://www.tiktok.com/@mastan.travel">https://www.tiktok.com/@mastan.travel</a><br /><br /><br />Image sources:<br /><a rel="nofollow" target="blank" href="http://en.wikipedia.org/wiki/File:KeatonPorkpie.jpg">http://en.wikipedia.org/wiki/File:KeatonPorkpie.jpg</a><br /><a rel="nofollow" target="blank" href="http://www.natebutler.com/silentmovies.html">http://www.natebutler.com/silentmovies.html</a><br /><br />Clip Sources:<br /><a rel="nofollow" target="blank" href="http://www.youtube.com/watch?v=vjl2Fj-_Hg0">http://www.youtube.com/watch?v=vjl2Fj-_Hg0</a><br /><a rel="nofollow" target="blank" href="http://www.youtube.com/watch?v=cC1aD7e4ZHs">http://www.youtube.com/watch?v=cC1aD7e4ZHs</a><br /><br /><br />Music:<br />&quot;Work is work&quot; by by Kevin MacLeod (<a rel="nofollow" target="blank" href="http://incompetech.com/)">http://incompetech.com/)</a><br />We are using the music under the Creative Commons License.<br /><br />Sources of information<br /><a rel="nofollow" target="blank" href="http://www.imdb.com/title/tt0015324/trivia?ref_=tt_trv_trv">http://www.imdb.com/title/tt0015324/trivia?ref_=tt_trv_trv</a><br /><a rel="nofollow" target="blank" href="http://en.wikipedia.org/wiki/Sherlock,_Jr.">http://en.wikipedia.org/wiki/Sherlock,_Jr.</a>{% endraw %}
