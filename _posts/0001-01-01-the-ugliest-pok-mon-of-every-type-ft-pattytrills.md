@@ -1,0 +1,15 @@
+---
+title: "The UGLIEST Pokémon of Every Type (Ft. @PattyTrills)"
+image: "https:\/\/i.ytimg.com\/vi\/5tfjKb1iS_o\/hqdefault.jpg"
+vid_id: "5tfjKb1iS_o"
+categories: "Gaming"
+tags: ["Pokemon","Top 10 Pokemon","Ugly Pokemon"]
+date: "2021-11-17T12:45:33+03:00"
+vid_date: "2020-04-11T21:32:37Z"
+duration: "PT12M43S"
+viewcount: "561100"
+likeCount: "10300"
+dislikeCount: "1911"
+channel: "Lumiose Trainer Zac"
+---
+{% raw %}In this video we go over the Ugliest Pokémon of Every Type!<br /><br />PattyTrills<br />►<a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCveJOWFiRsvgykzS_FXFl_w">https://www.youtube.com/channel/UCveJOWFiRsvgykzS_FXFl_w</a><br /><br />#Pokemon #UglyPokemon #SwordandShield<br />▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬<br />PATREON<br />►<a rel="nofollow" target="blank" href="https://www.patreon.com/LumioseTrainerZac">https://www.patreon.com/LumioseTrainerZac</a><br />MERCH<br />► <a rel="nofollow" target="blank" href="https://teespring.com/stores/lumiosetrainerzac">https://teespring.com/stores/lumiosetrainerzac</a><br />TWITTER<br />►<a rel="nofollow" target="blank" href="https://twitter.com/LumioseTrainerZ">https://twitter.com/LumioseTrainerZ</a><br />▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬<br /> Trainer Art by Oscar Belmonte<br />►https:// <a rel="nofollow" target="blank" href="https://twitter.com/RGreywind">https://twitter.com/RGreywind</a><br />Logo by Nitex<br />►<a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCo3sIa5JeK1HbIGqCRF-XaQ">https://www.youtube.com/channel/UCo3sIa5JeK1HbIGqCRF-XaQ</a><br />▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬<br />♫ Intro ♫<br />Mewmore – Battle! Red &amp; Blue Remix<br />►<a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=j9IhUqYi6-8">https://www.youtube.com/watch?v=j9IhUqYi6-8</a><br /><br />♫ Other ♫<br />Galar Mines<br />► <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=0cDdQQckDL0">https://www.youtube.com/watch?v=0cDdQQckDL0</a><br />Eterna Forest<br />► <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=ASiX63rMsHs">https://www.youtube.com/watch?v=ASiX63rMsHs</a><br />Mahalo Trail<br />► <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=Nu1W0RyxY7Q">https://www.youtube.com/watch?v=Nu1W0RyxY7Q</a><br />Glimwood Tangle<br />► <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=kce3GCD4lQc">https://www.youtube.com/watch?v=kce3GCD4lQc</a><br /><br />▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬<br />PATRONS:<br />Davon Carter<br />Justin Holland<br />Pranay Someshwar<br />Woopsire<br />Wilmer Astacio<br />▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬<br />&quot;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &quot;fair use&quot; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use&quot;{% endraw %}
