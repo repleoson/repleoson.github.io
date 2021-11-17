@@ -1,0 +1,15 @@
+---
+title: "(Sub) 四款最簡單的美味雞胸料理 | 讓雞胸肉軟嫩的秘訣？(健身減脂人士必學) 4 Chicken breast recipes for weight loss"
+image: "https:\/\/i.ytimg.com\/vi\/ff7CNzCOyiA\/hqdefault.jpg"
+vid_id: "ff7CNzCOyiA"
+categories: "Sports"
+tags: ["(Sub)","四款最簡單的美味雞胸料理","讓雞胸肉軟嫩的秘訣？(健身減脂人士必學)"]
+date: "2021-11-18T02:24:27+03:00"
+vid_date: "2021-11-11T13:00:11Z"
+duration: "PT8M36S"
+viewcount: "27218"
+likeCount: "1196"
+dislikeCount: "6"
+channel: "May Fit"
+---
+{% raw %}*此影片無商業合作<br />.<br />0:00 Intro<br />1:05 雞胸肉如何處理<br />1:47 雞胸肉如何醃製才軟嫩好吃<br />2:39 義式紅椒洋蔥烤雞<br />3:48 咖哩風味嫩煎雞柳<br />5:40 番茄菇菇手撕雞<br />6:53 胡麻蒜味手撕雞<br />.<br />營養素如下(僅供參考)<br />.<br />義式紅椒洋蔥烤雞<br />Paprika roasted chicken with onions <br />263 kcal <br />Protein 蛋白質 40g<br />Carbs 碳水4g<br />Fats脂肪 7g<br /><br />咖喱嫩煎雞柳<br />Curry flavor grilled chicken breast <br />268kcal<br />Protein蛋白質 41g<br />Carbs碳水 4g<br />Fats脂肪 9g<br /><br />番茄菇菇手撕雞<br />Tomatoes &amp; mushrooms shredded chicken <br />275 kcal<br />Protein蛋白質 41g<br />Carbs碳水 6g<br />Fats脂肪 8g<br /><br />胡麻蒜味手撕雞<br />Sesame shredded chicken with veggies <br />278 kcal<br />Protein蛋白質40g<br />Carbs碳水8g<br />Fats脂肪 8g<br />.<br />追蹤May Fit instagram ▶ <a rel="nofollow" target="blank" href="https://www.instagram.com/may8572fit/">https://www.instagram.com/may8572fit/</a><br />逛逛我的品牌網站▶ <a rel="nofollow" target="blank" href="https://www.mayyoufit.com/">https://www.mayyoufit.com/</a><br />.<br />加入女力健身app (享十四天免費試用) ▶<a rel="nofollow" target="blank" href="http://join.nuli.app/may_youtube">http://join.nuli.app/may_youtube</a><br />追蹤品牌Line官方帳號專屬ID： @mayufit  ▶ <a rel="nofollow" target="blank" href="https://lin.ee/tiQ1zgb">https://lin.ee/tiQ1zgb</a><br />更多May Fit居家徒手/啞鈴訓練 ▶ <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLol39BuP8rM-6l2PNZqXFETC6oCkjnXoi">https://www.youtube.com/playlist?list=PLol39BuP8rM-6l2PNZqXFETC6oCkjnXoi</a><br />健身初學女孩必看！人氣觀念影片▶ <a rel="nofollow" target="blank" href="https://youtube.com/playlist?list=PLol39BuP8rM_llhEej42eRX9SnogqW8yz">https://youtube.com/playlist?list=PLol39BuP8rM_llhEej42eRX9SnogqW8yz</a><br />.<br />Music by Clueless Kit - Rooftop - <a rel="nofollow" target="blank" href="https://thmatc.co/?l=7EFA73F9">https://thmatc.co/?l=7EFA73F9</a><br />Music by Joey Howard - Autumn Leaves Fall (feat. B.C.Hill) - <a rel="nofollow" target="blank" href="https://thmatc.co/?l=8849C8A6">https://thmatc.co/?l=8849C8A6</a><br />Music by Elon Dust &amp; Melissa Heart - Bubbles - <a rel="nofollow" target="blank" href="https://thmatc.co/?l=9911CF7F">https://thmatc.co/?l=9911CF7F</a><br />Music by Eric Reprid - Lukewarm - <a rel="nofollow" target="blank" href="https://thmatc.co/?l=477B4ED5">https://thmatc.co/?l=477B4ED5</a><br />Music by Anja Kotar - Tuscany - <a rel="nofollow" target="blank" href="https://thmatc.co/?l=ED4D2275">https://thmatc.co/?l=ED4D2275</a><br />Music by Michael Russ - Go Wild - <a rel="nofollow" target="blank" href="https://thmatc.co/?l=AF36B834">https://thmatc.co/?l=AF36B834</a><br />Music by Jaylon Ashaun - Forever - <a rel="nofollow" target="blank" href="https://thmatc.co/?l=4CC9E6AF">https://thmatc.co/?l=4CC9E6AF</a>{% endraw %}
