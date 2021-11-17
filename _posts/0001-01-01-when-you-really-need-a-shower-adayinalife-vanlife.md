@@ -1,0 +1,15 @@
+---
+title: "When You Really Need A Shower #adayinalife #vanlife"
+image: "https:\/\/i.ytimg.com\/vi\/IMNCNmZRfgY\/hqdefault.jpg"
+vid_id: "IMNCNmZRfgY"
+categories: "People-Blogs"
+tags: ["Really","Shower","#adayinalife"]
+date: "2021-11-18T00:01:00+03:00"
+vid_date: "2021-11-16T18:47:26Z"
+duration: "PT17M28S"
+viewcount: "1968"
+likeCount: "356"
+dislikeCount: "2"
+channel: "Static CamperVan"
+---
+{% raw %}#vanlife #fulltimevanlife #shower<br />We’ve been experiencing some warmer than usual weather lately. In this video, I give a little advice on showering and staying clean while living life on the road. Have you ever thought about using the showers in a State Campground? Well, I am here to remind you that those showers are for the use of registered campers only.  <br /><br />If you enjoy my videos and would like to help me keep making them, please take a look at these links to support me:<br /><a rel="nofollow" target="blank" href="https://teespring.com/stores/static-campervan">https://teespring.com/stores/static-campervan</a><br /><a rel="nofollow" target="blank" href="https://www.patreon.com/StaticCampervan">https://www.patreon.com/StaticCampervan</a><br />CashApp: $StaticCampervan<br />Venmo: @Static-Campervan<br /><a rel="nofollow" target="blank" href="https://www.paypal.me/StaticCamperVan">https://www.paypal.me/StaticCamperVan</a><br /><br />My name is Scott and in 2015, I bought a Ram ProMaster City to live in. Even though I didn’t know much about RV’s and campervans, I set about building the van out as a minivan camper. And in April of 2016, I moved into my minivan full time.<br />Over the years, I’ve learned you don’t need to have a big skill set to build your own campervan. And that living as a minimalist and utilizing solar power can be a less expensive way to live. I’ve also learned that a minivan can be a very comfortable home. <br />Please follow along as I document my journey.<br /><br />My Channel Stickers are now available for purchase through PayPal. If you would like to purchase them, please send me $4 for one sticker or $7 for two stickers. <br />At this time, I will only be accepting PayPal for payments. <br />Please make sure to include your mailing address in the notes. Unfortunately, I will only be able to ship to the US and Canada. <br />Also, I will be mailing out all orders once a week. So please be patient with me. <br /><br />In an effort to help viewers search for the best prices on products that I use, I’ve started an Amazon Influencer link:<br /><a rel="nofollow" target="blank" href="https://www.amazon.com/shop/staticcampervan">https://www.amazon.com/shop/staticcampervan</a><br />My hope is that you will use this link as a starting point to search for the best price. If you're looking for an item that isn't listed, feel free to drop me a question or comment and I will do my best to find a link.<br /><br />Get 10% off Solar Power equipment from Renogy with this link:<br /><a rel="nofollow" target="blank" href="http://73renogy.refr.cc/staticcampervan">http://73renogy.refr.cc/staticcampervan</a>{% endraw %}
