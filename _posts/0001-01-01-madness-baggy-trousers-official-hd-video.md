@@ -1,0 +1,15 @@
+---
+title: "Madness - Baggy Trousers (Official HD Video)"
+image: "https:\/\/i.ytimg.com\/vi\/Dc3AovUZgvo\/hqdefault.jpg"
+vid_id: "Dc3AovUZgvo"
+categories: "Music"
+tags: ["madness","baggy","trousers"]
+date: "2021-11-17T05:10:54+03:00"
+vid_date: "2011-09-02T12:03:29Z"
+duration: "PT2M44S"
+viewcount: "12997913"
+likeCount: "67092"
+dislikeCount: "1998"
+channel: "Madness"
+---
+{% raw %}You are watching the official HD video for Baggy Trousers by Madness.<br /><br />Click here for more Madness: <a rel="nofollow" target="blank" href="https://madnessband.lnk.to/bestofID">https://madnessband.lnk.to/bestofID</a> <br /><br />One of Madness's true anthems, 'Baggy Trousers' captured the imagination of kids and parents all over the UK when it was released in 1980. The video, which begins with that unmistakable &quot;thing-a-ling-a-ling&quot;, finds Madness back at school remembering the fun they had. According to the song all Madness learned at school was &quot;how to bend, not break the rules&quot; and they've been doing it ever since. <br /><br />Lyrics:<br />Naughty boys in nasty schools<br />Headmasters breaking all the rules<br />Having fun and playing fools<br />Smashing up the woodwork tools<br />All the teachers in the pub<br />Passing 'round the ready-rub<br />Trying not to think of when<br />The lunch-time bell will ring again.<br />Oh what fun we had<br />But, did it really turn out bad<br />All I learnt at school<br />Was how to bend not break the rules<br />Oh what fun we had<br />But at the time it seemed so bad<br />Trying different ways<br />To make a difference to the days.<br />Headmaster's had enough to-day<br />All the kids have gone away<br />Gone to fight with next-door's school<br />Every term, that is the rule<br />Sits alone and bends his cane<br />Same old backsides again<br />All the small ones tell tall tales<br />Walking home and squashing snails.<br />Oh what fun we had<br />But, did it really turn out bad<br />All I learnt at school<br />Was how to bend not break the rules<br />Oh what fun we had<br />But at the time it seemed so bad<br />Trying different ways<br />To make a difference to the days.<br />Lots of girls and lots of boys<br />Lots of smells and lots of noise<br />Playing football in the park<br />Kicking push bikes after dark<br />Baggy trousers, dirty shirt<br />Pulling hair and eating dirt<br />Teacher comes to break it up<br />Back of the 'ead with a plastic cup.<br />Oh what fun we had<br />But, did it really turn out bad<br />All I learnt at school<br />Was how to bend not break the rules<br />Oh what fun we had<br />But at the time it seemed so bad<br />Trying different ways<br />To make a difference to the days.<br />Baggy trousers, baggy trousers, baggy trousers<br />Baggy trousers, baggy trousers, baggy trousers<br /><br />Discover more about Madness on their website: <a rel="nofollow" target="blank" href="http://www.madness.co.uk">http://www.madness.co.uk</a><br />#Madness  #BaggyTrousers  #OurHouse2021{% endraw %}
