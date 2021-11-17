@@ -1,0 +1,15 @@
+---
+title: "Dean Johnson | \"True Love\" | Western AF"
+image: "https:\/\/i.ytimg.com\/vi\/00qvTE1WWxs\/hqdefault.jpg"
+vid_id: "00qvTE1WWxs"
+categories: "Music"
+tags: ["western af","dean johnson","far away skies"]
+date: "2021-11-17T05:21:43+03:00"
+vid_date: "2021-11-16T23:18:55Z"
+duration: "PT5M14S"
+viewcount: "1981"
+likeCount: "305"
+dislikeCount: "0"
+channel: "Western AF"
+---
+{% raw %}Support Western AF videos: <a rel="nofollow" target="blank" href="https://www.patreon.com/westernaf​​​​">https://www.patreon.com/westernaf​​​​</a><br />Subscribe: <a rel="nofollow" target="blank" href="https://tinyurl.com/6u5khe5m​​​​">https://tinyurl.com/6u5khe5m​​​​</a><br /> <br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/WesternAF​​​​">https://www.facebook.com/WesternAF​​​​</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/westernaf?lang=en...">https://twitter.com/westernaf?lang=en...</a><br />Patreon: <a rel="nofollow" target="blank" href="https://www.patreon.com/westernaf​​​​">https://www.patreon.com/westernaf​​​​</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/westernasfu...">https://www.instagram.com/westernasfu...</a><br />...<br />The truth of what makes Western AF work is obviously the musicians, but we wouldn't be anywhere without their artist suggestions. We don't pretend to be discoverers of all of these musicians and they certainly don't miraculously fall into our laps. No, we really owe it to people like Chris Acker, that showed us the amazing music of Dean Johnson.<br /><br />You may have heard of Dean. One of the members of the band, Sons of Rainier. Another great band that can't be missed. Please go listen to them.<br /><br />Dean has been working on his debut album for several years and it's almost time for it to come to light. Maybe another half year or so from now, y'all will be able to hear some of the most amazing songwriting we've ever laid ears on. <br /><br />This was a special time in our WAF outings. It was my first time going solo without a crew, and learning how to make these vids by myself. It was also scurry with COVID on the rise. We all were trying to be proper and not get each other sick. But we made it work. <br /><br />We shot this at AL's TAVERN in Seattle, WA. Chris Acker told me all about this place. That as much as I wanted to go the famous Dick's burgers, a Seattle trip wouldn't be complete with a visit to Al's. It had been closed for a while. The windows were bordered up, floor cluttered. I think having Dean, Chris and Sam seemed to revive the character of that place. <br />...<br /><br />Sound Mixer: Curtis Harnish<br />Second Camera: Reed McCoy<br />Editor: Manuel Deakins<br />Executive Producer: Johnny Callahan &amp; Chris Acker<br />Special thanks: Al's Tavern, Sam Gelband &amp; Charlie Meyer<br />Producers: Brian Harrington &amp; Mike Vanata ( Square State Film )<br /><br />All rights reserved 2021 © Square State Film<br />For more WESTERN AF videos and content visit <a rel="nofollow" target="blank" href="https://www.westernaf.net/">https://www.westernaf.net/</a>{% endraw %}
