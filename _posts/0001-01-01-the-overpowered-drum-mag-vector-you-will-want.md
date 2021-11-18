@@ -1,0 +1,15 @@
+---
+title: "The Overpowered DRUM-MAG \"VECTOR\" you will WANT."
+image: "https:\/\/i.ytimg.com\/vi\/Gnwe9I7kv4o\/hqdefault.jpg"
+vid_id: "Gnwe9I7kv4o"
+categories: "Gaming"
+tags: ["toys"]
+date: "2021-11-19T02:19:46+03:00"
+vid_date: "2020-08-26T19:13:41Z"
+duration: "PT8M52S"
+viewcount: "2381272"
+likeCount: "49663"
+dislikeCount: "852"
+channel: "Silo Entertainment"
+---
+{% raw %}SSP45: <a rel="nofollow" target="blank" href="https://silo-airsoft.com/product/silo-ssp45-carbine-kit/">https://silo-airsoft.com/product/silo-ssp45-carbine-kit/</a><br /><br />- SNIPER: <a rel="nofollow" target="blank" href="https://novritsch.com/product/novritsch-ssg10-airsoft-sniper-rifle/?nov=2y6b">https://novritsch.com/product/novritsch-ssg10-airsoft-sniper-rifle/?nov=2y6b</a><br />- Assault rifle of choice: <a rel="nofollow" target="blank" href="http://novritsch.com/product/ssr15-electric-assault-rifle/?nov=2y6b">http://novritsch.com/product/ssr15-electric-assault-rifle/?nov=2y6b</a><br />- BBs: <a rel="nofollow" target="blank" href="https://silo-airsoft.com/product/046g-sniper-bio-bbs/">https://silo-airsoft.com/product/046g-sniper-bio-bbs/</a><br />- GUNSKIN: <a rel="nofollow" target="blank" href="https://silo-airsoft.com/product-category/camo-wrap/">https://silo-airsoft.com/product-category/camo-wrap/</a><br />- PISTOL: <a rel="nofollow" target="blank" href="https://eu.novritsch.com/product/novritsch-airsoft-pistol/?nov=2y6b">https://eu.novritsch.com/product/novritsch-airsoft-pistol/?nov=2y6b</a><br />- SCOPE: <a rel="nofollow" target="blank" href="https://silo-airsoft.com/product/silo-scope-set/">https://silo-airsoft.com/product/silo-scope-set/</a><br />- SCOPECAM: <a rel="nofollow" target="blank" href="https://silo-airsoft.com/product/runcam-scopecam/">https://silo-airsoft.com/product/runcam-scopecam/</a><br />- EYE PROTECTION GLASSES (fog free): <a rel="nofollow" target="blank" href="https://silo-airsoft.com/product/pyramex-i-force/">https://silo-airsoft.com/product/pyramex-i-force/</a><br /><br />*Full gear list available over at: <a rel="nofollow" target="blank" href="https://silo-airsoft.com/silos-gear-list/">https://silo-airsoft.com/silos-gear-list/</a> 👍🏻<br /><br />--------------------------------------------------<br /><br />Fort Knox (airsoft field): <a rel="nofollow" target="blank" href="https://goo.gl/GWuvdu">https://goo.gl/GWuvdu</a><br /><br />Social Media<br />●Facebook: <a rel="nofollow" target="blank" href="https://goo.gl/KMbtcE">https://goo.gl/KMbtcE</a><br />●Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/silo_entertainment/">https://www.instagram.com/silo_entertainment/</a><br />●Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/SiloOnYoutube">https://twitter.com/SiloOnYoutube</a><br /><br /><br />Music used:<br />Production Music courtesy of Epidemic Sound: <a rel="nofollow" target="blank" href="http://www.epidemicsound.com">http://www.epidemicsound.com</a><br /><br />Business Inquiries &amp; Contact: service@silo-airsoft.com{% endraw %}
