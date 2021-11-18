@@ -1,0 +1,15 @@
+---
+title: "Sci-Fi Short Film “Populace\" | DUST Exclusive"
+image: "https:\/\/i.ytimg.com\/vi\/mu1KHJRyOHE\/hqdefault.jpg"
+vid_id: "mu1KHJRyOHE"
+categories: "Film-Animation"
+tags: ["sci-fi","short film","dust"]
+date: "2021-11-18T05:06:41+03:00"
+vid_date: "2017-04-13T14:00:03Z"
+duration: "PT13M26S"
+viewcount: "216151"
+likeCount: "3139"
+dislikeCount: "368"
+channel: "DUST"
+---
+{% raw %}In a world sputtering under ecological ruin and self imposed eugenics one couple search for some hope in their lives. <br /><br />&quot;Populace&quot; by Aaron Bevan-Bailey<br /><br />Subscribe to the DUST Newsletter: <a rel="nofollow" target="blank" href="https://bit.ly/signal_newsletter">https://bit.ly/signal_newsletter</a><br /><br />#DUST #scifi #shortfilm<br /><br />About DUST:<br />DUST presents thought-provoking science fiction content, exploring the future of humanity through the lens of science and technology. From timeless classics to cutting-edge movies, series, short films, and podcasts, DUST acquires, produces and distributes all content types.<br /><br />For more about the star Jamie Pigott check out his website: <a rel="nofollow" target="blank" href="http://jamiepigott.com">http://jamiepigott.com</a> <br /><br />Connect with DUST<br />Website: <a rel="nofollow" target="blank" href="http://www.watchdust.com">http://www.watchdust.com</a><br />Sign-up for DUST newsletter: <a rel="nofollow" target="blank" href="http://eepurl.com/b_SKAz">http://eepurl.com/b_SKAz</a><br />Watch DUST on your TV: Available on Roku, Samsung TV, Apple TV, Android TV...and more<br />Watch more on YouTube: <a rel="nofollow" target="blank" href="http://bit.ly/2amTSen">http://bit.ly/2amTSen</a><br />Follow Us on Facebook: <a rel="nofollow" target="blank" href="http://bit.ly/2aqYgtZ">http://bit.ly/2aqYgtZ</a><br />Follow Us on Instagram: <a rel="nofollow" target="blank" href="http://bit.ly/2amAhRt">http://bit.ly/2amAhRt</a><br /><br />Listen to the DUST podcast:<br />Apple: <a rel="nofollow" target="blank" href="http://bit.ly/DUST-Audio">http://bit.ly/DUST-Audio</a><br />Spotify: <a rel="nofollow" target="blank" href="http://bit.ly/DUST-Spotify">http://bit.ly/DUST-Spotify</a><br />Stitcher: <a rel="nofollow" target="blank" href="http://bit.ly/DUST-Stitcher">http://bit.ly/DUST-Stitcher</a><br />Castbox: <a rel="nofollow" target="blank" href="http://bit.ly/DUST-Castbox">http://bit.ly/DUST-Castbox</a> <br />iHeart: <a rel="nofollow" target="blank" href="http://bit.ly/DUST-iHeart">http://bit.ly/DUST-iHeart</a><br /><br />Connect with Populace:<br />Follow Populace on Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/populacemovie">https://www.facebook.com/populacemovie</a><br /><br />About Gunpowder + Sky:<br />Creating content that resonates and impacts pop culture conversation, by empowering creators to take risks and experiment relentlessly in the pursuit of novel stories and formats.<br /><br />Sci-Fi Short Film “Populace&quot; | DUST<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watchdust">https://www.youtube.com/watchdust</a>{% endraw %}
