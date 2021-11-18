@@ -1,0 +1,15 @@
+---
+title: "Victory Is Yours (LIVE) - Bethel Music | VICTORY"
+image: "https:\/\/i.ytimg.com\/vi\/ZCJKL0bP1bE\/hqdefault.jpg"
+vid_id: "ZCJKL0bP1bE"
+categories: "Music"
+tags: ["bethel music","bethel church","bethel"]
+date: "2021-11-18T10:07:34+03:00"
+vid_date: "2019-01-06T17:00:03Z"
+duration: "PT5M48S"
+viewcount: "4548226"
+likeCount: "32459"
+dislikeCount: "762"
+channel: "Bethel Music"
+---
+{% raw %}&quot;Victory Is Yours&quot; sung by Bethany Wohrle live at Bethel Church<br /><br />VICTORY Album Available everywhere now:<br />Spotify | <a rel="nofollow" target="blank" href="https://bethelmusic.lnk.to/VictoryID/spotify">https://bethelmusic.lnk.to/VictoryID/spotify</a><br />Itunes | <a rel="nofollow" target="blank" href="https://bethelmusic.lnk.to/VictoryID/itunes">https://bethelmusic.lnk.to/VictoryID/itunes</a><br />Apple Music | <a rel="nofollow" target="blank" href="https://bethelmusic.lnk.to/VictoryYC/applemusic">https://bethelmusic.lnk.to/VictoryYC/applemusic</a><br />Amazon | <a rel="nofollow" target="blank" href="https://bethelmusic.lnk.to/VictoryYC/amazon">https://bethelmusic.lnk.to/VictoryYC/amazon</a><br /><br />Subscribe for the latest videos and songs: <a rel="nofollow" target="blank" href="http://bit.ly/BMsubscribe">http://bit.ly/BMsubscribe</a><br /><br />Visit VICTORY website: bethelmusic.com/victory<br /><br />Get the chord chart: <a rel="nofollow" target="blank" href="https://bethelmusic.com/chords-and-lyrics/victory-is-yours/">https://bethelmusic.com/chords-and-lyrics/victory-is-yours/</a><br /><br />Stay Connected: <br />Instagram | <a rel="nofollow" target="blank" href="https://www.instagram.com/bethelmusic/">https://www.instagram.com/bethelmusic/</a><br />Facebook | <a rel="nofollow" target="blank" href="https://www.facebook.com/bethelmusic">https://www.facebook.com/bethelmusic</a><br />Twitter | <a rel="nofollow" target="blank" href="https://twitter.com/bethelmusic">https://twitter.com/bethelmusic</a><br />BM Website | <a rel="nofollow" target="blank" href="https://bethelmusic.com/">https://bethelmusic.com/</a> <br /><br /><br />Lyrics:<br /><br />Verse 1<br />Our fight is with weapons unseen <br />Your enemies crash to their knees<br />As we rise up in worship<br />When trials unleash like a flood<br />The battle belongs to our God<br />As we cry out in worship<br /><br />Chorus<br />The victory is Yours <br />You’re riding on the storm<br />Your name is unfailing<br />Though kingdoms rise and fall<br />Your throne withstands it all<br />Your name is unshaken<br /><br />Verse 2<br />What hell meant to break me has failed<br />Now nothing will silence my praise <br />I will cry out in worship<br />The walls of the prison will shake <br />The chain breaking King will rise to save<br />As we cry out in worship<br /><br />Bridge<br />You roar like thunder<br />Nothing can tame<br />A God all powerful<br />All powerful<br />We pull down Heaven<br />With shouts of praise<br />A God all powerful<br />All powerful<br /><br />Victory Is Yours<br />Written by Brian Johnson / Ben Fielding / Matt Crocker / Reuben Morgan<br /><br />#victoryisyours #victory #bethelmusic{% endraw %}
