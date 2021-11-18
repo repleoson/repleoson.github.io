@@ -1,0 +1,15 @@
+---
+title: "EBONY - Glossy (ÁUDIO OFICIAL) (Prod. Hoffmxn)"
+image: "https:\/\/i.ytimg.com\/vi\/-xvG5JgUqWM\/hqdefault.jpg"
+vid_id: "-xvG5JgUqWM"
+categories: "Music"
+tags: ["ebony","bitch","queen"]
+date: "2021-11-18T11:46:38+03:00"
+vid_date: "2019-05-13T22:53:46Z"
+duration: "PT2M2S"
+viewcount: "289502"
+likeCount: "15801"
+dislikeCount: "68"
+channel: "EBONY"
+---
+{% raw %}►▸ EBONY<br /><br />Twitter: <a rel="nofollow" target="blank" href="https://www.twitter.com/baddiebony">https://www.twitter.com/baddiebony</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/baddiebony">https://www.instagram.com/baddiebony</a><br />TikTok:  @baddiebony<br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/QGdaEbony">https://www.facebook.com/QGdaEbony</a><br /><br />►▸ OUÇA<br /><br />Spotify: <a rel="nofollow" target="blank" href="https://bit.ly/ebonyspotify">https://bit.ly/ebonyspotify</a><br />Deezer: <a rel="nofollow" target="blank" href="https://bit.ly/ebonydeezer">https://bit.ly/ebonydeezer</a><br />Tidal: <a rel="nofollow" target="blank" href="https://bit.ly/ebonytidal">https://bit.ly/ebonytidal</a><br /><br />►▸ Hoffmxn:<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/hoffmxn">https://www.instagram.com/hoffmxn</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/hoffmxn">https://twitter.com/hoffmxn</a><br /><br />►▸ LETRA<br /><br />Me liga as nove pra quando da dez eu ja ta dancando pra tu, ele me chama de baby, de anjo, de bitch e de boo <br />fica a vontade que na minha base tem glock comida e naruto<br />tu me desafia me chama de cria por isso que eu gosto de tu<br />poderosa chefona pique scarface bolada fumando um charuto<br />tu tony montana e eu mia wallace combina<br />mas sao de dois mundos<br /><br />eu lembro da festa eu lembro das drogas <br />nao lembro se foi isso tudo<br />tava tudo rodando meu salto era alto ouvi voce gritando no fundo<br />&quot;abre a porra do carro abre a porra do carro que eu acho que ela usou muito&quot;<br /><br />Fumando haxixe<br />Sentando por cima <br />Ele trata minha pussy como codeína <br />Ele sabe que eu janto todas essas mina <br />Ele é viciante como cocaina <br />Preciso ser a sua preferida <br />usando unha rosa e cara de bandida<br />Eu porto minha glock de noite e dia <br />E ninguém desconfia pq eu sou bonita<br /><br />Se a rua cobrar não me chama de cria <br />A preta ganhou olha que ironia <br />Eu cresci na rua aprendi com a <br />pista <br />Se é dia de baile duas horas nos pia <br />Eles só reclamam e não sabem minha trilha <br />quero dar dinheiro pra minha família <br /><br />Quem sabe um dia até ter uma filha<br />E a filha da filha já vai nascer rica <br />Se tu tá na onda se solta e rabisca <br />Me chame de gringa igual Queen Latifa <br />Eu tenho talento e alguns só tem pica <br />E gravar um hit eu já risquei da lista <br /><br />Eu sou tipo a Lolita perdida no gueto <br />eu sou tipo uma Barbie que fala dialeto<br />Eu sou tipo a DelRey mas pintada de preto <br />o terror das patricia isso eu bato no peito<br /><br />#EBONY #Glossy{% endraw %}
