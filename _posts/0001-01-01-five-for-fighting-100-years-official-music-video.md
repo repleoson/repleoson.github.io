@@ -1,0 +1,15 @@
+---
+title: "Five for Fighting - 100 Years (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/tR-qQcNT_fY\/hqdefault.jpg"
+vid_id: "tR-qQcNT_fY"
+categories: "Music"
+tags: ["100 Years lyrics","what if","acoustic"]
+date: "2021-11-19T03:20:51+03:00"
+vid_date: "2009-10-03T04:44:47Z"
+duration: "PT4M3S"
+viewcount: "58105930"
+likeCount: "221360"
+dislikeCount: "6693"
+channel: "fiveforfightingVEVO"
+---
+{% raw %}Five For Fighting official music video for '100 Years'. Click to listen to Five For Fighting on Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/FiveFFSpotify?IQid=FiveFF100">http://smarturl.it/FiveFFSpotify?IQid=FiveFF100</a><br /><br />As featured on The Battle for Everything. Click to buy the track or album via iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/TBFEFiveFF?IQid=FiveFF100">http://smarturl.it/TBFEFiveFF?IQid=FiveFF100</a><br />Google Play: <a rel="nofollow" target="blank" href="http://smarturl.it/100YGPlay?IQid=FiveFF100">http://smarturl.it/100YGPlay?IQid=FiveFF100</a><br />Amazon: <a rel="nofollow" target="blank" href="http://smarturl.it/TBFEAmazon?IQid=FiveFF100">http://smarturl.it/TBFEAmazon?IQid=FiveFF100</a><br /><br />More from Five For Fighting<br />Superman (It's Not Easy): <a rel="nofollow" target="blank" href="https://youtu.be/GRz4FY0ZcwI">https://youtu.be/GRz4FY0ZcwI</a><br />The Riddle: <a rel="nofollow" target="blank" href="https://youtu.be/4BtqElO1OX4">https://youtu.be/4BtqElO1OX4</a><br />World: <a rel="nofollow" target="blank" href="https://youtu.be/1JDY1KvoQYk">https://youtu.be/1JDY1KvoQYk</a><br /><br />More great 00s videos here: <a rel="nofollow" target="blank" href="http://smarturl.it/Ultimate00?IQid=FiveFF100">http://smarturl.it/Ultimate00?IQid=FiveFF100</a><br /><br />Follow Five For Fighting<br />Website: <a rel="nofollow" target="blank" href="http://www.fiveforfighting.com/">http://www.fiveforfighting.com/</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/fiveforfighting">https://www.facebook.com/fiveforfighting</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/johnondrasik">https://twitter.com/johnondrasik</a><br /><br />Subscribe to Five For Fighting on YouTube: <a rel="nofollow" target="blank" href="http://smarturl.it/FFFSub?IQid=FiveFF100">http://smarturl.it/FFFSub?IQid=FiveFF100</a><br /><br />---------<br /><br />Lyrics:<br /><br />I'm 15 for a moment<br />Caught in between 10 and 20<br />And I'm just dreaming<br />Counting the ways to where you are<br /><br />I'm 22 for a moment<br />And she feels better than ever<br />And we're on fire<br />Making our way back from Mars<br /><br />15 there's still time for you<br />Time to buy and time to lose<br />15, there's never a wish better than this<br />When you only got a hundred years to live<br /><br />I'm 33 for a moment<br />Still the man, but you see I'm a they<br />A kid on the way, babe.<br />A family on my mind<br /><br />#FiveForFighting #100Years #Vevo{% endraw %}
