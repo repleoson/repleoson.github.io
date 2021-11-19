@@ -1,0 +1,15 @@
+---
+title: "Noisily Festival of Music and Arts 2017"
+image: "https:\/\/i.ytimg.com\/vi\/5YPlhtlZk5k\/hqdefault.jpg"
+vid_id: "5YPlhtlZk5k"
+categories: "Music"
+tags: ["Psytrance","Progressive Trance","Progressive Psytrance"]
+date: "2021-11-19T21:13:15+03:00"
+vid_date: "2017-06-13T07:29:59Z"
+duration: "PT6M3S"
+viewcount: "7217"
+likeCount: "57"
+dislikeCount: "0"
+channel: "Psychedelic Universe"
+---
+{% raw %}➤ Subscribe: <a rel="nofollow" target="blank" href="http://bit.ly/PsyUniverseSubscribe">http://bit.ly/PsyUniverseSubscribe</a>  <br />➤ More info: <a rel="nofollow" target="blank" href="http://trancentral.tv/noisily-festival/">http://trancentral.tv/noisily-festival/</a> <br />➤ Facebook Festival page: <a rel="nofollow" target="blank" href="https://www.facebook.com/noisilyfestival/">https://www.facebook.com/noisilyfestival/</a><br /><br />Parallel Universes<br />================<br />Progressive Universe: <a rel="nofollow" target="blank" href="http://bit.ly/ProgUniverseSubscribe">http://bit.ly/ProgUniverseSubscribe</a><br />Soundtracked Universe: <a rel="nofollow" target="blank" href="http://bit.ly/SoundtrackedUniverseSub">http://bit.ly/SoundtrackedUniverseSub</a><br />SoundCloud: <a rel="nofollow" target="blank" href="http://bit.ly/SoundCloudPsychedelicUniverse">http://bit.ly/SoundCloudPsychedelicUniverse</a><br /><br />😎Psychedelic fashion, art, jewelry &amp; accessories: <a rel="nofollow" target="blank" href="https://trancentralshop.com/">https://trancentralshop.com/</a><br /><br />Follow Trancentral <br />===============<br />Website: <a rel="nofollow" target="blank" href="http://trancentral.tv">http://trancentral.tv</a><br />YouTube: <a rel="nofollow" target="blank" href="http://bit.ly/TrancentralSubscribe">http://bit.ly/TrancentralSubscribe</a><br />Spotify: <a rel="nofollow" target="blank" href="http://bit.ly/TrancentralSpotify">http://bit.ly/TrancentralSpotify</a><br />Chill Space Spotify: <a rel="nofollow" target="blank" href="https://bit.ly/ChillSpaceSpotify">https://bit.ly/ChillSpaceSpotify</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/TrancentralTV">https://www.facebook.com/TrancentralTV</a><br /><br />This Channel is a part of the Glide Bros. Network<br />Glide Bros. LTD: <a rel="nofollow" target="blank" href="http://www.glidebros.com">http://www.glidebros.com</a><br /><br />★★★ Promote and Spread Psychedelic Trance Worldwide! ★★★<br />#Psytrance #PsychedelicTrance #PsychedelicUniverse<br />This channel was opened in March 2013 with the purpose to promote the Psy-Trance artists &amp; spread their awe-inspiring music worldwide! It features all the latest from your favorite artists and projects, and also revive classic tracks and albums from the past, every once in a while. I founded this channel for the love I have for Psytrance - a genre I walk hand in hand with since before it was even created. since the era of the Dark '80s, to Techno, Goa Trance &amp; to today's style. <br />I live &amp; breathe Psytrance &amp; I dedicate this channel to those who share the same love!{% endraw %}
