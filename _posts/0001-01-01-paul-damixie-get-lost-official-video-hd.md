@@ -1,0 +1,15 @@
+---
+title: "Paul Damixie - Get Lost [Official video HD]"
+image: "https:\/\/i.ytimg.com\/vi\/Q9fNNJuJxrQ\/hqdefault.jpg"
+vid_id: "Q9fNNJuJxrQ"
+categories: "Music"
+tags: ["get lost","get lost paul damixie","paul damixie get lost"]
+date: "2021-11-19T13:38:44+03:00"
+vid_date: "2017-04-13T16:00:16Z"
+duration: "PT3M17S"
+viewcount: "2439750"
+likeCount: "28663"
+dislikeCount: "908"
+channel: "HaHaHa Production"
+---
+{% raw %}Paul Damixie - Get Lost [Official video HD]<br />Paul Damixie released the music video for his new smashing single `Get Lost`. <br /><br />Stream or get track: <br />Spotify: <a rel="nofollow" target="blank" href="https://hahaha-production.lnk.to/GetLostID/spotify">https://hahaha-production.lnk.to/GetLostID/spotify</a><br />iTunes: <a rel="nofollow" target="blank" href="https://hahaha-production.lnk.to/GetLostID/itunes">https://hahaha-production.lnk.to/GetLostID/itunes</a><br />Apple Music:<a rel="nofollow" target="blank" href="https://hahaha-production.lnk.to/GetLostID/applemusic">https://hahaha-production.lnk.to/GetLostID/applemusic</a><br />Deezer: <a rel="nofollow" target="blank" href="https://hahaha-production.lnk.to/GetLostID/deezer">https://hahaha-production.lnk.to/GetLostID/deezer</a><br />Google Play:<a rel="nofollow" target="blank" href="https://hahaha-production.lnk.to/GetLostID/google-play">https://hahaha-production.lnk.to/GetLostID/google-play</a><br /><br />Produced by HaHaHa Production ®/ Cat Music<br />Directed by: Alex Ceausu<br /><br />For concerts: booking@hahahaproduction.com<br />Licensing: licensing@hahahaproduction.com<br /><br />Lyrics:<br /><br />Why the long face?<br />Baby, bad days don't last long.<br />Let's leave this place, hide away, come along!<br />Just let the city lights be a second sunrise,<br />We can do it!<br />Boy we can own the night<br />No need for stopping signs,<br />Don't deny it!<br /><br />Let me get lost,<br />Lose it like I'm Jimmy Dean!<br />Let me get lost,<br />Never find my sanity!<br />Let me get lost,<br />Seize this opportunity!<br />Let me get lost,<br />Lose yourself in finding me!<br /><br />Paul Damixie Online:<br />Like: <a rel="nofollow" target="blank" href="http://facebook.com/pauldamixie">http://facebook.com/pauldamixie</a><br />Listen: <a rel="nofollow" target="blank" href="http://soundcloud.com/pauldamixie">http://soundcloud.com/pauldamixie</a><br />Twitter: <a rel="nofollow" target="blank" href="http://twitter.com/pauldamixie">http://twitter.com/pauldamixie</a><br /><br />HaHaHa Production Online:<br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/hahaha_production/">https://instagram.com/hahaha_production/</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/hahahaproduction/">https://www.facebook.com/hahahaproduction/</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/HaHaHaTeam">https://twitter.com/HaHaHaTeam</a><br /><br />HaHaHa Production ®. Contact: office [at] hahahaproduction.com, 256 Basarabia Boulevard, 3rd District, Bucharest, Romania.<br />All rights reserved. Unauthorized reproduction is a violation of applicable laws.{% endraw %}
