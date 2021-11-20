@@ -1,0 +1,15 @@
+---
+title: "*RANDOM PACK OPENING* With A Variety of 25 Football Card Packs! So Many Rookies!"
+image: "https:\/\/i.ytimg.com\/vi\/pPkPge_hjT8\/hqdefault.jpg"
+vid_id: "pPkPge_hjT8"
+categories: "Sports"
+tags: ["football cards","random football pack opening","2020 value packs"]
+date: "2021-11-20T04:39:24+03:00"
+vid_date: "2021-11-19T20:30:03Z"
+duration: "PT26M26S"
+viewcount: "995"
+likeCount: "87"
+dislikeCount: "1"
+channel: "Vikings95"
+---
+{% raw %}Another Random Football Card Pack Opening is HERE! We have 25 different football card packs to open in this video from a variety of Retail products such as Mega Boxes, Blaster Boxes, and Cello / Value Packs! Random pack openings are always fun as you really never know what you're going to get.. but can be VERY hit or miss in general. In this random pack opening, we saw some 2020 Select, Chronicles, contenders, donruss, absolute, etc.. and some 2021 Prizm draft, chronicles draft, Score, Donruss, and more! It was a lot of fun as always opening up a bunch of random football card packs! Random pack Openings are a great time in general!<br /><br />So.. how do you think I did? To be expected out of a bunch of retail football packs? Sadly this does seem to be the new norm without many &quot;hits&quot; in retail products, where it used to be a guaranteed hit per blaster box.. regardless, onto the next opening!<br /><br />If anyone is curious, here's the link to my favorite eBay search: <a rel="nofollow" target="blank" href="https://ebay.us/FUPPLs">https://ebay.us/FUPPLs</a><br /><br />Find my Channel Membership Here: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCvDXF6GqEXWYC76CfCsE7Yg/join">https://www.youtube.com/channel/UCvDXF6GqEXWYC76CfCsE7Yg/join</a><br /><br />Vikings95 Apparel: <a rel="nofollow" target="blank" href="https://amzn.to/2RQbjMA">https://amzn.to/2RQbjMA</a><br /><br />Best way to contact me is through instagram DM:<br />Instagram - @Vikings95_cards<br />Facebook - <a rel="nofollow" target="blank" href="https://www.facebook.com/Vikings95Football/">https://www.facebook.com/Vikings95Football/</a><br />email - Vikings95.cards@gmail.com<br /><br />Inked Gaming Custom Mat: <a rel="nofollow" target="blank" href="https://prz.io/OJKO6BFL">https://prz.io/OJKO6BFL</a><br /><br />I have created my own website, <a rel="nofollow" target="blank" href="https://vikings95cards.com/">https://vikings95cards.com/</a> if you'd like to check it out! <br /><br />*Affiliate Disclaimer*<br />I am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. As an Amazon Associate, I earn from qualifying purchases. I also participate in the eBay Partner Network affiliate program, and am authorized by eBay to retrieve all the listings for relevant listings appearing on eBay and present them to you in an easy-to-use format. I earn from qualifying purchases. Lastly, I am an Affiliate for Inked Gaming Mats and Walmart, and I earn from qualifying purchases.{% endraw %}
