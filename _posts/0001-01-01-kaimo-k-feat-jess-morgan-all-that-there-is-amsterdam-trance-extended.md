@@ -1,0 +1,15 @@
+---
+title: "Kaimo K feat. Jess Morgan - All That There Is [Amsterdam Trance] Extended"
+image: "https:\/\/i.ytimg.com\/vi\/gkP32pnzhdA\/hqdefault.jpg"
+vid_id: "gkP32pnzhdA"
+categories: "Music"
+tags: ["Vocal Trance","TRANCE 2020","Trance 2019"]
+date: "2021-11-20T12:21:41+03:00"
+vid_date: "2021-11-19T15:00:17Z"
+duration: "PT7M27S"
+viewcount: "1819"
+likeCount: "166"
+dislikeCount: "4"
+channel: "RazNitzanMusic"
+---
+{% raw %}For more Trance: <a rel="nofollow" target="blank" href="https://RazNitzan.lnk.to/RNMSpotify">https://RazNitzan.lnk.to/RNMSpotify</a><br />Subscribe to our Youtube Channel: <a rel="nofollow" target="blank" href="http://bit.ly/2jNse3f">http://bit.ly/2jNse3f</a><br />Download or Stream: <a rel="nofollow" target="blank" href="https://RazNitzan.lnk.to/AllThatThereIsYD">https://RazNitzan.lnk.to/AllThatThereIsYD</a><br /><br />Next up on Amsterdam Trance Records, Kaimo K and Jess Morgan reunite once again here on 'All That There Is'. Pure Vocal Trance bliss!<br /><br />Enjoy and PLAY LOUD!<br /><br />PARTNER CHANNELS:<br />@Vocal Trance <br />@Progressive Trance <br />@UpliftingTrance <br /><br />▶<a rel="nofollow" target="blank" href="https://www.RazNitzanMusic.com">https://www.RazNitzanMusic.com</a><br />▶<a rel="nofollow" target="blank" href="https://RazNitzan.lnk.to/RNMSpotify">https://RazNitzan.lnk.to/RNMSpotify</a><br />▶<a rel="nofollow" target="blank" href="https://www.twitter.com/RazNitzan">https://www.twitter.com/RazNitzan</a><br />▶<a rel="nofollow" target="blank" href="https://www.facebook.com/RazNitzanMusic">https://www.facebook.com/RazNitzanMusic</a><br />▶<a rel="nofollow" target="blank" href="https://www.youtube.com/RazNitzanMusic">https://www.youtube.com/RazNitzanMusic</a> <br />▶<a rel="nofollow" target="blank" href="https://www.instagram.com/RazNitzanMusic">https://www.instagram.com/RazNitzanMusic</a><br />▶<a rel="nofollow" target="blank" href="https://soundcloud.com/raznitzan">https://soundcloud.com/raznitzan</a><br /><br />▶<a rel="nofollow" target="blank" href="https://twitter.com/AmsterdamTrance">https://twitter.com/AmsterdamTrance</a><br />▶<a rel="nofollow" target="blank" href="https://www.facebook.com/Amsterdam.Trance">https://www.facebook.com/Amsterdam.Trance</a><br />▶<a rel="nofollow" target="blank" href="https://www.instagram.com/AmsterdamTranceRecords">https://www.instagram.com/AmsterdamTranceRecords</a><br />▶<a rel="nofollow" target="blank" href="https://soundcloud.com/AmsterdamTranceRecords">https://soundcloud.com/AmsterdamTranceRecords</a><br /><br />LYRICS:<br />What if I told you<br />Heaven doesn't exist<br />What if I know you<br />That's just a dream they've sold you<br />What if I show you<br />All that there is<br /><br />What if I found you<br />So maybe you would find me too<br />Maybe you would find me too<br />What if I know you<br />You're all that there is<br /><br />All that there is<br />All that there is<br />Everything you feel right now<br />It's all that there is<br />What if I<br />Needed you<br />It's all that there is. <br /><br />Copyright © 2021 by RazNitzanMusic (RNM)<br />#VocalTrance2021 #Trance #UpliftingTrance{% endraw %}
