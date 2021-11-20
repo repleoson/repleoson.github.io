@@ -1,0 +1,15 @@
+---
+title: "What A $200,000 Bed Really Feels Like"
+image: "https:\/\/i.ytimg.com\/vi\/r43uUEoGmyg\/hqdefault.jpg"
+vid_id: "r43uUEoGmyg"
+categories: "People-Blogs"
+tags: ["Insider","Bedding","Home"]
+date: "2021-11-20T23:02:24+03:00"
+vid_date: "2020-07-03T17:00:14Z"
+duration: "PT9M4S"
+viewcount: "132720"
+likeCount: "2980"
+dislikeCount: "182"
+channel: "Insider"
+---
+{% raw %}This ultra-luxurious bed costs $200,000 and is made by the Swedish bed makers Hästens. The company makes the most expensive beds in the world. They call this bed the Vividus. We took a look at every detail of the Vividus that makes it stand out from other beds on the market. Most surprising is the fact that the bed is constructed of layer upon layer of horse-tail hair. Insider's Emily Christian also headed to the brand's New York City flagship to try out its signature bed test with the Vividus and uncover what a night's sleep would really be like on the extravagant mattress. <br /><br />MORE INSIDER VIDEOS:<br />7 Artsy Ways To Improve Your Home Decor<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=D-9EGFIykNU">https://www.youtube.com/watch?v=D-9EGFIykNU</a><br />How Luxury Wallpaper Is Made<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=ToksgxuSHnw">https://www.youtube.com/watch?v=ToksgxuSHnw</a><br />Why This Clock Costs $1 Million<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=DJuTvxGxZvI">https://www.youtube.com/watch?v=DJuTvxGxZvI</a><br /><br />------------------------------------------------------<br /><br />#Bedding #Home #Insider<br /><br />Insider is great journalism about what passionate people actually want to know. That’s everything from news to food, celebrity to science, politics to sports and all the rest. It’s smart. It’s fearless. It’s fun. We push the boundaries of digital storytelling. Our mission is to inform and inspire. <br /><br />Subscribe to our channel and visit us at: <a rel="nofollow" target="blank" href="https://www.insider.com">https://www.insider.com</a><br />Insider on Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/insider/">https://www.facebook.com/insider/</a><br />Insider on Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/insider/">https://www.instagram.com/insider/</a><br />Insider on Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/thisisinsider">https://twitter.com/thisisinsider</a><br />Insider on Snapchat: <a rel="nofollow" target="blank" href="https://www.snapchat.com/discover/Insider/4020934530">https://www.snapchat.com/discover/Insider/4020934530</a><br />Insider on Amazon Prime: <a rel="nofollow" target="blank" href="https://www.amazon.com/v/thisisinsider">https://www.amazon.com/v/thisisinsider</a><br />Insider on TikTok: <a rel="nofollow" target="blank" href="https://www.tiktok.com/@insider">https://www.tiktok.com/@insider</a><br />Insider on Dailymotion: <a rel="nofollow" target="blank" href="https://www.dailymotion.com/INSIDER">https://www.dailymotion.com/INSIDER</a><br /><br />What A $200,000 Bed Really Feels Like{% endraw %}
