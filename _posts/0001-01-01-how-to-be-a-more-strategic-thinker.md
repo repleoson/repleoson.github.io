@@ -1,0 +1,15 @@
+---
+title: "How to be a more strategic thinker"
+image: "https:\/\/i.ytimg.com\/vi\/FqffqlDllKU\/hqdefault.jpg"
+vid_id: "FqffqlDllKU"
+categories: "Education"
+tags: ["thomas frank","productivity","how to learn"]
+date: "2021-11-20T04:55:27+03:00"
+vid_date: "2020-06-01T16:36:10Z"
+duration: "PT9M7S"
+viewcount: "215290"
+likeCount: "11621"
+dislikeCount: "214"
+channel: "Thomas Frank"
+---
+{% raw %}Being a strategic, critical thinker requires having the ability to look ahead, predict what might happen, and then be prepared. Today, we'll look at a technique that can help you a more accurate forward-thinker.<br /><br />Start using Notion: <a rel="nofollow" target="blank" href="https://bit.ly/thomasnotion">https://bit.ly/thomasnotion</a><br /><br />Here's a template version of my budget modeler spreadsheet: <a rel="nofollow" target="blank" href="https://collegeinfogeek.com/go/budget-tracker-2020/">https://collegeinfogeek.com/go/budget-tracker-2020/</a><br /><br />🎸My music channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=vDptkei3Hu8">https://www.youtube.com/watch?v=vDptkei3Hu8</a><br /><br />📗Get my book &quot;10 Steps to Earning Awesome Grades&quot; FREE: <br /><a rel="nofollow" target="blank" href="https://collegeinfogeek.com/get-better-grades/">https://collegeinfogeek.com/get-better-grades/</a><br /><br />🐦Follow Me:<br />Instagram ➔ <a rel="nofollow" target="blank" href="https://instagram.com/tomfrankly">https://instagram.com/tomfrankly</a><br />Twitter ➔ <a rel="nofollow" target="blank" href="https://twitter.com/tomfrankly">https://twitter.com/tomfrankly</a><br />Podcast ➔ <a rel="nofollow" target="blank" href="https://www.youtube.com/TheCollegeInfoGeekPodcast">https://www.youtube.com/TheCollegeInfoGeekPodcast</a><br />Spotify Study Playlist ➔ <a rel="nofollow" target="blank" href="https://open.spotify.com/user/thomasfrank09/playlist/4ETfiRPHVmUFLF6q0g8Fux?si=IPfx3dAgQ1SIUwhh5YEQMQ">https://open.spotify.com/user/thomasfrank09/playlist/4ETfiRPHVmUFLF6q0g8Fux?si=IPfx3dAgQ1SIUwhh5YEQMQ</a><br /><br />📡Subscribe to My Channel:<br /><a rel="nofollow" target="blank" href="http://buff.ly/1vQP5ar">http://buff.ly/1vQP5ar</a><br /><br />Huge thanks to Notion for sponsoring this video and supporting my channel!<br /><br />🎥My Video Gear:<br /><a rel="nofollow" target="blank" href="https://www.amazon.com/shop/thomasfrank">https://www.amazon.com/shop/thomasfrank</a><br /><br />🎧Background music via Musicbed. Get a 30-day free trial of awesome music for your videos: <a rel="nofollow" target="blank" href="https://mscbd.fm/thmsfr">https://mscbd.fm/thmsfr</a><br /><br />💰 I'm fortunate enough to work with great sponsors who support my work, so I don't use Patreon or any other crowdfunding service. However, if you'd like to support a worthy cause, consider donating to help more children get access to a high-quality education: <a rel="nofollow" target="blank" href="https://fundraise.pencilsofpromise.org/fundraiser/1489730">https://fundraise.pencilsofpromise.org/fundraiser/1489730</a>{% endraw %}
