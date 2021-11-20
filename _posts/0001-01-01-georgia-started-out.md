@@ -1,0 +1,15 @@
+---
+title: "Georgia - Started Out"
+image: "https:\/\/i.ytimg.com\/vi\/ZL8kUiT3838\/hqdefault.jpg"
+vid_id: "ZL8kUiT3838"
+categories: "Music"
+tags: ["georgia","started","out"]
+date: "2021-11-20T04:22:20+03:00"
+vid_date: "2018-11-07T18:22:54Z"
+duration: "PT3M43S"
+viewcount: "188928"
+likeCount: "2375"
+dislikeCount: "68"
+channel: "David Dean Burkhart"
+---
+{% raw %}Georgia - &quot;Started Out&quot; is out now on Domino Record Co.<br />Subscribe to Georgia on YouTube: <a rel="nofollow" target="blank" href="http://smarturl.it/GeorgiaYT">http://smarturl.it/GeorgiaYT</a> <br /><br />&quot;Started Out&quot;:<br />Stream &amp; Save: <a rel="nofollow" target="blank" href="http://smarturl.it/StartedOutStrm">http://smarturl.it/StartedOutStrm</a><br />Download: <a rel="nofollow" target="blank" href="http://smarturl.it/StartedOutDL">http://smarturl.it/StartedOutDL</a><br />Watch the official music video: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=vFnnxmb7Z9g">https://www.youtube.com/watch?v=vFnnxmb7Z9g</a><br /><br />Follow Georgia: <br />YouTube: <a rel="nofollow" target="blank" href="http://smarturl.it/GeorgiaYT">http://smarturl.it/GeorgiaYT</a> <br />Facebook: <a rel="nofollow" target="blank" href="http://smarturl.it/GeorgiaFB">http://smarturl.it/GeorgiaFB</a> <br />Twitter: <a rel="nofollow" target="blank" href="http://smarturl.it/GeorgiaTW">http://smarturl.it/GeorgiaTW</a> <br />Instagram: <a rel="nofollow" target="blank" href="http://smarturl.it/GeorgiaIN">http://smarturl.it/GeorgiaIN</a> <br />Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/GeorgiaSP">http://smarturl.it/GeorgiaSP</a> <br />Apple Music: <a rel="nofollow" target="blank" href="http://smarturl.it/GeorgiaAM">http://smarturl.it/GeorgiaAM</a> <br /><br />Follow Domino Record Co:<br />YouTube: <a rel="nofollow" target="blank" href="http://smarturl.it/DominoYT">http://smarturl.it/DominoYT</a><br />Website: <a rel="nofollow" target="blank" href="http://smarturl.it/DominoRecordCo">http://smarturl.it/DominoRecordCo</a><br />Facebook: <a rel="nofollow" target="blank" href="http://smarturl.it/DominoFB">http://smarturl.it/DominoFB</a><br />Twitter: <a rel="nofollow" target="blank" href="http://smarturl.it/DominoTW">http://smarturl.it/DominoTW</a><br />Instagram: <a rel="nofollow" target="blank" href="http://smarturl.it/DominoIN">http://smarturl.it/DominoIN</a><br /><br />For more new music, follow my weekly Spotify playlist &quot;Compact Cassette&quot; (<a rel="nofollow" target="blank" href="https://open.spotify.com/user/daviddeanburkhart/playlist/6lzG8MsMBoVEpulGS747M6)">https://open.spotify.com/user/daviddeanburkhart/playlist/6lzG8MsMBoVEpulGS747M6)</a><br /><br />Me:<br /><a rel="nofollow" target="blank" href="https://www.facebook.com/daviddeanburkhart">https://www.facebook.com/daviddeanburkhart</a><br /><a rel="nofollow" target="blank" href="https://open.spotify.com/user/daviddeanburkhart">https://open.spotify.com/user/daviddeanburkhart</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/DavidDBurkhart">https://twitter.com/DavidDBurkhart</a>{% endraw %}
