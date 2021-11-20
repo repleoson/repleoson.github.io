@@ -1,0 +1,15 @@
+---
+title: "LITTLE BIG — A LOT OF MONEY (OST «КРЫСИНЫЕ БЕГА»)"
+image: "https:\/\/i.ytimg.com\/vi\/H1pegfbdWkQ\/hqdefault.jpg"
+vid_id: "H1pegfbdWkQ"
+categories: "Music"
+tags: ["кликклак","клик клак","трэш"]
+date: "2021-11-20T20:27:36+03:00"
+vid_date: "2021-11-17T11:30:00Z"
+duration: "PT2M7S"
+viewcount: "1665099"
+likeCount: "133693"
+dislikeCount: "6493"
+channel: "КЛИККЛАК"
+---
+{% raw %}Слушать/скачать: <a rel="nofollow" target="blank" href="https://LittleBig.lnk.to/ALotOfMoney">https://LittleBig.lnk.to/ALotOfMoney</a><br /><br />Смотреть проект КРЫСИНЫЕ БЕГА: <a rel="nofollow" target="blank" href="https://clck.ru/YtDHi">https://clck.ru/YtDHi</a><br /><br />Lyrics: Iliya Prusikin<br />Music: Viktor Sibrinin, Iliya Prusikin, Lubim Homchuk<br /><br />LITTLE BIG Production:<br />Director: Alina Pasok<br />DOP: Alexander Pavlov<br />Executive Producer: Ekaterina Mironova<br />Artist Manager: Ekaterina Timofeeva<br />Style: Koshka prishla<br />Stylist Assistant: Alla Efremova<br />Make-up Artist: Sonya Miro<br />Hair Artist: Mariam Osmanova<br />Lightening crew: Zakhar Rodomskiy, Ayur Shanarov<br />Editing: Alina Pasok, Dmitriy Novikov<br />Colorist: Aleksey Avramchuk<br />VFX: Maxim Semyonov<br /><br />Starring:<br />Саша Быков<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/bboysansay">https://www.instagram.com/bboysansay</a><br />Нигатив<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/niggativ_v/">https://www.instagram.com/niggativ_v/</a><br />Илья Прусикин<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/iliyaprusikin/">https://www.instagram.com/iliyaprusikin/</a><br />Эльдар Джарахов<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/dlgreez">https://www.instagram.com/dlgreez</a><br />Юра Музыченко<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/yra_muzichenko">https://www.instagram.com/yra_muzichenko</a><br />Андрей Старый<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/stariyx">https://www.instagram.com/stariyx</a><br />Данила Поперечный<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/spoontamer/">https://www.instagram.com/spoontamer/</a><br />Satyr<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/satyrshow/">https://www.instagram.com/satyrshow/</a><br />Софья Таюрская<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/sonyatayurskaya/">https://www.instagram.com/sonyatayurskaya/</a><br />Лиза Василенко<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/elizabethvasilenko/">https://www.instagram.com/elizabethvasilenko/</a><br />Полина Чистякова<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/_poposha_/">https://www.instagram.com/_poposha_/</a><br />Даня Милохин<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/danya_milokhin/">https://www.instagram.com/danya_milokhin/</a><br /><br />Special Thanks: <br />Vanya Fedotov{% endraw %}
