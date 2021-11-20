@@ -1,0 +1,15 @@
+---
+title: "Ben Platt - In Case You Don't Live Forever (Lyrics)"
+image: "https:\/\/i.ytimg.com\/vi\/vnmaVRGkVUc\/hqdefault.jpg"
+vid_id: "vnmaVRGkVUc"
+categories: "Music"
+tags: ["Mellow","Mellow Music","Mellow Songs"]
+date: "2021-11-20T09:31:49+03:00"
+vid_date: "2020-03-19T16:30:04Z"
+duration: "PT3M50S"
+viewcount: "2160306"
+likeCount: "68669"
+dislikeCount: "436"
+channel: "Mellow"
+---
+{% raw %}Ben Platt - In Case You Don't Live Forever (Lyrics)<br />Click the 🔔 to stay updated on the latest uploads!<br /><br /><br />Stream/DL:<br /><a rel="nofollow" target="blank" href="https://benplatt.lnk.to/SingToMeInsteadID">https://benplatt.lnk.to/SingToMeInsteadID</a><br /><br />Follow Ben Platt:<br /><a rel="nofollow" target="blank" href="http://benplattmusic.com">http://benplattmusic.com</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/bensplatt">https://twitter.com/bensplatt</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/bensplatt">https://www.instagram.com/bensplatt</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/BenPlattOfficial">https://www.facebook.com/BenPlattOfficial</a><br /><br /><br />📜 Lyrics:<br /><br />[Verse 1]<br />You put all your faith in my dreams<br />You gave me the world that I wanted<br />What did I do to deserve you?<br />I follow your steps with my feet<br />I walk on the road that you started<br />I need you to know that I heard you, every word<br /><br />[Pre-Chorus]<br />I've waited way too long to say<br />Everything you mean to me<br /><br />[Chorus]<br />In case you don’t live forever, let me tell you now<br />I love you more than you'll ever wrap your head around<br />In case you don't live forever, let me tell you the truth<br />I’m everything that I am because of you<br /><br />[Verse 2]<br />I, I've carried this song in my mind<br />Listen, it's echoing in me<br />But I haven't helped you to hear it<br />We, we've only got so much time<br />I'm pretty sure it would kill me<br />If you didn't know the pieces of me are pieces of you<br /><br />[Pre-Chorus]<br />I've waited way too long to say<br />Everything you mean to me<br /><br />[Chorus]<br />In case you don’t live forever, let me tell you now<br />I love you more than you’ll ever wrap your head around<br />In case you don't live forever, let me tell you the truth<br />I’m everything that I am because of you<br /><br />[Bridge]<br />I have a hero whenever I need one<br />I just look up to you and I see one<br />I'm a man 'cause you taught me to be one<br /><br />[Chorus]<br />In case you don't live forever, let me tell you now<br />I love you more than you’ll ever wrap your head around<br />In case you don't live forever, let me tell you the truth<br />I'm everything that I am<br /><br />[Outro]<br />Whoa, whoa<br />In case you don't live forever, let me tell you the truth<br />As long as I'm here as I am, so are you<br /><br /><br />#BenPlatt #InCaseYouDontLiveForever #Mellow{% endraw %}
