@@ -1,0 +1,15 @@
+---
+title: "THE GANG Live @ Supremacy 2021"
+image: "https:\/\/i.ytimg.com\/vi\/4NUbKnkhyTU\/hqdefault.jpg"
+vid_id: "4NUbKnkhyTU"
+categories: "Music"
+tags: ["sickmode","rooler","gang"]
+date: "2021-11-20T17:47:40+03:00"
+vid_date: "2021-10-21T15:00:03Z"
+duration: "PT31M21S"
+viewcount: "320057"
+likeCount: "10458"
+dislikeCount: "128"
+channel: "Art of Dance"
+---
+{% raw %}Finally cooled down but ready to get fired up again! This devastating duo shocked our senses. Watch the set of Sickmode and Rooler as THE GANG Live at Supremacy now!<br /><br />FOLLOW THE SUPREMACY PLAYLIST ON SPOTIFY<br /><a rel="nofollow" target="blank" href="http://lnk.to/Supremacy">http://lnk.to/Supremacy</a><br /><br />SEE YOU NEXT YEAR<br />See you all next year at the next edition of Supremacy! Attend the official Facebook event at <a rel="nofollow" target="blank" href="https://www.supremacy.nl/2022.">https://www.supremacy.nl/2022.</a> <br /><br />SUPREMACY <br />24 September 2022<br />Brabanthallen, 's Hertogenbosch<br /><a rel="nofollow" target="blank" href="http://supremacy.nl">http://supremacy.nl</a><br /><br />NEWSLETTER<br />Want to be the first to hear about upcoming Supremacy editions, event updates, the line-up, anthem and more? Subscribe to the Supremacy newsletter to make sure you don’t miss out on anything: <a rel="nofollow" target="blank" href="https://www.supremacy.nl/newsletter.">https://www.supremacy.nl/newsletter.</a><br /><br />FOLLOW SICKMODE ONLINE<br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/SICKMODEDJ">https://www.facebook.com/SICKMODEDJ</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/sickmodedj/">https://www.instagram.com/sickmodedj/</a><br />YouTube: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCfpFuqySTqYh-u3ymgBJM8Q">https://www.youtube.com/channel/UCfpFuqySTqYh-u3ymgBJM8Q</a><br /><br />FOLLOW ROOLER ONLINE<br /><a rel="nofollow" target="blank" href="https://aggressiverecords.nl/roolerofficial">https://aggressiverecords.nl/roolerofficial</a><br /><br />FOLLOW THE SUPREMACY PLAYLIST<br />Follow the Supremacy playlist on Spotify for the most vicious tracks at <a rel="nofollow" target="blank" href="http://lnk.to/Supremacy">http://lnk.to/Supremacy</a><br /><br />TRACKLIST<br />01. Sickmode - HEY X (THIS IS SICK SHOW EDIT)<br />02. Rooler &amp; Sickmode - GANG (THE GANG LIVE EDIT)<br />03. Rooler - DISCOTEK (THE GANG LIVE EDIT)<br />04. Sickmode &amp; Rooler - LET THE BASS KICK<br />05. Rooler &amp; Villain - HAMMERTIME<br />06. Sickmode - KLAPLONGEN (THE GANG LIVE EDIT)<br />07. Rooler &amp; Sickmode - TOO COLD<br />08. Sickmode - TBA<br />09. Rooler - LOVE U BABY<br />10. Sickmode - MAKE IT POP (THE GANG LIVE EDIT)<br />11. Sickmode - LAMBO (THE GANG LIVE EDIT)<br />12. Sickmode &amp; Rooler - FIND YOU (WALK AWAY)<br />13. DJ BASIK - KINGPIN (ROOLER EDIT)<br />14. Sickmode &amp; Mish - ONE AND ONLY<br />15. Frontliner &amp; Rooler - STAY WOKE (ft MC Jeff)<br />16. Rooler - BOSS (THE GANG LIVE EDIT)<br />17. Sickmode &amp; Rooler - TOO HOT (THE GANG LIVE EDIT)<br />18. High Level - Lalalalalala (SICKMODE EDIT){% endraw %}
