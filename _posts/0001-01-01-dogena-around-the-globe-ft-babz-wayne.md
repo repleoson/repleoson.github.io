@@ -1,0 +1,15 @@
+---
+title: "Dogena - Around The Globe (ft. Babz Wayne)"
+image: "https:\/\/i.ytimg.com\/vi\/lId_kP6gS40\/hqdefault.jpg"
+vid_id: "lId_kP6gS40"
+categories: "Music"
+tags: ["Dogena","Around","Globe"]
+date: "2021-11-20T11:27:18+03:00"
+vid_date: "2016-09-26T05:44:43Z"
+duration: "PT3M6S"
+viewcount: "273749"
+likeCount: "5033"
+dislikeCount: "116"
+channel: "Diversity"
+---
+{% raw %}♫ Free Download<br />➥ <a rel="nofollow" target="blank" href="https://theartistunion.com/tracks/445e37">https://theartistunion.com/tracks/445e37</a><br /> <br />★ Dogena<br />Soundcloud → <a rel="nofollow" target="blank" href="https://soundcloud.com/dogena">https://soundcloud.com/dogena</a><br />Facebook → <a rel="nofollow" target="blank" href="https://www.facebook.com/dogenamusic">https://www.facebook.com/dogenamusic</a><br />Youtube → <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCtagdno3ppoWqapx6dHf-Iw">https://www.youtube.com/channel/UCtagdno3ppoWqapx6dHf-Iw</a><br /><br />★ Babz Wayne<br />Soundcloud → <a rel="nofollow" target="blank" href="https://soundcloud.com/babzwayne">https://soundcloud.com/babzwayne</a><br />Facebook → <a rel="nofollow" target="blank" href="https://www.facebook.com/babzwaynemusic">https://www.facebook.com/babzwaynemusic</a><br />Twitter → <a rel="nofollow" target="blank" href="https://twitter.com/Babz_Wayne">https://twitter.com/Babz_Wayne</a><br /><br />▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬<br /><br />★ Background: <a rel="nofollow" target="blank" href="http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=53837858">http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=53837858</a><br />• Artwork by noricopo <br /><a rel="nofollow" target="blank" href="http://www.pixiv.net/member.php?id=2131305">http://www.pixiv.net/member.php?id=2131305</a> <br /><a rel="nofollow" target="blank" href="http://noricopo.wix.com/noricopo">http://noricopo.wix.com/noricopo</a> <br /><a rel="nofollow" target="blank" href="https://twitter.com/pon52_">https://twitter.com/pon52_</a> <br /><br />▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬<br /><br />★ Be my Patron<br /><a rel="nofollow" target="blank" href="https://www.patreon.com/diversity">https://www.patreon.com/diversity</a><br /><br />© Diversity<br />Twitter → <a rel="nofollow" target="blank" href="http://div-r.com/tw">http://div-r.com/tw</a><br />Spotify → <a rel="nofollow" target="blank" href="http://div-r.com/stf">http://div-r.com/stf</a><br />Website → <a rel="nofollow" target="blank" href="http://www.diversityrecordings.com/">http://www.diversityrecordings.com/</a><br />Youtube → <a rel="nofollow" target="blank" href="http://div-r.com/yt">http://div-r.com/yt</a><br />Facebook → <a rel="nofollow" target="blank" href="http://div-r.com/fb">http://div-r.com/fb</a><br />Soundcloud → <a rel="nofollow" target="blank" href="http://div-r.com/sc">http://div-r.com/sc</a><br /><br />▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬<br /><br />If any producer or label has an issue with any of the uploads please get in contact (info@diversityrecordings.com) and it will be deleted immediately (this includes artists of the images used){% endraw %}
