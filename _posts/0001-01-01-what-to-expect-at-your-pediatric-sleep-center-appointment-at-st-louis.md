@@ -1,0 +1,15 @@
+---
+title: "What to Expect at Your Pediatric Sleep Center Appointment at St. Louis Children's Hospital"
+image: "https:\/\/i.ytimg.com\/vi\/H1359kRK6mk\/hqdefault.jpg"
+vid_id: "H1359kRK6mk"
+categories: "Nonprofits-Activism"
+tags: ["pediatric sleep study","sleep center","st. louis children's hospital"]
+date: "2021-11-21T15:10:32+03:00"
+vid_date: "2016-07-01T14:40:20Z"
+duration: "PT6M5S"
+viewcount: "49523374"
+likeCount: "141282"
+dislikeCount: "22547"
+channel: "St. Louis Children's Hospital"
+---
+{% raw %}If your child has been referred for a sleep study, you can be rest assured that the St. Louis Children’s Hospital Sleep Center staff will provide child-focused care while calming any fears your child may have about his or her study.<br /><br />At St. Louis Children's Hospital, we believe that every sleepover should be a fun and enjoyable experience for all. That’s why each sleep appointment is met with the same love and care that kids have at home.<br /><br />The Pediatric Sleep Center at St. Louis Children’s Hospital seeks to provide help for children suffering from a variety of sleep related issues. Since sleep is such an essential component of a child’s development, it is paramount to do everything possible in order to help a child achieve the best quality of sleep. <br /><br />The wide array of sleep related issues that St. Louis Children’s Hospital is able to treat as a part of our Sleep Lab include:<br />Central Apnea<br />Central alveolar hypoventilation<br />Obstructive Apnea Syndrome<br />Chronic Respiratory Failure<br />Narcolepsy <br />Rhythmic Movement Disorders <br /><br />To learn more about the sleep center at St. Louis Children's Hospital, visit <a rel="nofollow" target="blank" href="http://www.stlouischildrens.org/sleepcenter">http://www.stlouischildrens.org/sleepcenter</a> <br /><br />Learn more about St. Louis Children’s Hospital –<br />Find a Physician, Get Directions, Request an Appointment, See current ER Wait Times<br /><a rel="nofollow" target="blank" href="http://bit.ly/2jsCMno">http://bit.ly/2jsCMno</a> <br /> <br />Want to hear more from St. Louis Children’s Hospital?<br /> <br />Subscribe to the St Louis Children’s Hospital YouTube Channel:<br /><a rel="nofollow" target="blank" href="http://bit.ly/2ahGj1c">http://bit.ly/2ahGj1c</a><br /> <br />Like us on Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/stlchildrens">https://www.facebook.com/stlchildrens</a><br />Follow us on Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/STLChildrens">https://twitter.com/STLChildrens</a><br />Visit Children’s MomDocs (a blog by mom physicians at St Louis Children’s Hospital and Washington University School of Medicine): <a rel="nofollow" target="blank" href="http://bit.ly/2jRFCPX">http://bit.ly/2jRFCPX</a><br /><br />Learn More About Donating on YouTube: <a rel="nofollow" target="blank" href="https://support.google.com/youtube/?p=donate_FAQ">https://support.google.com/youtube/?p=donate_FAQ</a>{% endraw %}
