@@ -1,0 +1,15 @@
+---
+title: "This I Believe (The Creed) - Hillsong Worship"
+image: "https:\/\/i.ytimg.com\/vi\/FtUNQpu2b7Q\/hqdefault.jpg"
+vid_id: "FtUNQpu2b7Q"
+categories: "Music"
+tags: ["Christian","Jesus","Apostles Creed"]
+date: "2021-11-22T00:51:24+03:00"
+vid_date: "2014-09-26T04:10:28Z"
+duration: "PT6M45S"
+viewcount: "45339080"
+likeCount: "324502"
+dislikeCount: "6495"
+channel: "Hillsong Worship"
+---
+{% raw %}Recorded Live at Hillsong Conference in Sydney 2014.  This song is based on the Apostles Creed and is a unifying bold declaration of our faith in Jesus Christ.  We pray this song encourages you and your Church.<br /><br />Stay connected:<br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/hillsongworship">https://instagram.com/hillsongworship</a><br />Facebook: <a rel="nofollow" target="blank" href="https://facebook.com/hillsongworship">https://facebook.com/hillsongworship</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/hillsongworship">https://twitter.com/hillsongworship</a> <br />Website: <a rel="nofollow" target="blank" href="https://hillsong.com/worship">https://hillsong.com/worship</a><br /><br />VERSE 1<br />Our Father everlasting<br />The all creating One<br />God Almighty<br />Through Your Holy Spirit<br />Conceiving Christ the Son<br />Jesus our Saviour<br /><br />CHORUS<br />I believe in God our Father<br />I believe in Christ the Son<br />I believe in the Holy Spirit<br />Our God is three in One<br />I believe in the resurrection<br />That we will rise again<br />For I believe<br />In the Name of Jesus<br /><br />VERSE 2<br />Our Judge and our Defender<br />Suffered and crucified<br />Forgiveness is in You<br />Descended into darkness<br />You rose in glorious life<br />Forever seated high<br /><br />BRIDGE<br />I believe in You<br />I believe You rose again<br />I believe that Jesus Christ is Lord<br /><br />CHORUS 2:<br />I believe in life eternal<br />I believe in the virgin birth<br />I believe in the saints’ communion<br />And in Your holy Church<br />I believe in the resurrection<br />When Jesus comes again<br />For I believe in the Name of Jesus<br /><br />CCLI: 7018338<br />Words And Music By Matt Crocker &amp; Ben Fielding<br />© 2014 Hillsong Music Publishing<br /><br /><a rel="nofollow" target="blank" href="http://smarturl.it/noothernamedvd">http://smarturl.it/noothernamedvd</a><br /><a rel="nofollow" target="blank" href="http://hillsong.com/worship">http://hillsong.com/worship</a><br /><a rel="nofollow" target="blank" href="http://facebook.com/hillsongworship">http://facebook.com/hillsongworship</a><br /><a rel="nofollow" target="blank" href="http://twitter.com/hillsongworship">http://twitter.com/hillsongworship</a><br /><a rel="nofollow" target="blank" href="http://instagram.com/hillsongworship">http://instagram.com/hillsongworship</a><br /><br />Full audio also available at <a rel="nofollow" target="blank" href="http://smarturl.it/NoOtherNameAlbum">http://smarturl.it/NoOtherNameAlbum</a>{% endraw %}
