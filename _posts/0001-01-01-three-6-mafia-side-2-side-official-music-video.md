@@ -1,0 +1,15 @@
+---
+title: "Three 6 Mafia - Side 2 Side (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/Ucy02Iw9MV4\/hqdefault.jpg"
+vid_id: "Ucy02Iw9MV4"
+categories: "Music"
+tags: ["three 6 mafia live","side 2 side","da mafia 6ix"]
+date: "2021-11-21T16:16:42+03:00"
+vid_date: "2009-10-03T04:48:20Z"
+duration: "PT3M36S"
+viewcount: "17105045"
+likeCount: "100758"
+dislikeCount: "3964"
+channel: "Three6MafiaVEVO"
+---
+{% raw %}Three 6 Mafia's official music video for 'Side 2 Side'. Click to listen to Three 6 Mafia on Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/Three6MafiaSpotify?IQid=36MS2S">http://smarturl.it/Three6MafiaSpotify?IQid=36MS2S</a><br /><br />As featured on Most Known Unknown. Click to buy the track or album via iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/36MMKUiTunes?IQid=36MS2S">http://smarturl.it/36MMKUiTunes?IQid=36MS2S</a><br />Google Play: <a rel="nofollow" target="blank" href="http://smarturl.it/36MS2Splay?IQid=36MS2S">http://smarturl.it/36MS2Splay?IQid=36MS2S</a><br />Amazon: <a rel="nofollow" target="blank" href="http://smarturl.it/T6MMKUamz?IQid=36MS2S">http://smarturl.it/T6MMKUamz?IQid=36MS2S</a><br /><br />More from Three 6 Mafia<br />Sippin On Some Syrup: <a rel="nofollow" target="blank" href="https://youtu.be/lOWKGXpl9E0">https://youtu.be/lOWKGXpl9E0</a><br />Stay Fly: <a rel="nofollow" target="blank" href="https://youtu.be/vBjzAdpZzf0">https://youtu.be/vBjzAdpZzf0</a><br />Tear Da Club Up '97: <a rel="nofollow" target="blank" href="https://youtu.be/s0G9jPaZSKw">https://youtu.be/s0G9jPaZSKw</a><br /><br />Follow Three 6 Mafia<br />Website: <a rel="nofollow" target="blank" href="http://www.damafia6ix.com/">http://www.damafia6ix.com/</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/DaMafia6ix">https://www.facebook.com/DaMafia6ix</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/damafia6ix">https://twitter.com/damafia6ix</a><br /><br />Subscribe to Three 6 Mafia on YouTube: <a rel="nofollow" target="blank" href="http://smarturl.it/36MafiaSubscribe?IQid=36MS2S">http://smarturl.it/36MafiaSubscribe?IQid=36MS2S</a><br /><br />More great HipHop videos here: <a rel="nofollow" target="blank" href="http://smarturl.it/HipHopUrban?IQid=36MS2S">http://smarturl.it/HipHopUrban?IQid=36MS2S</a><br /><br />---------<br /><br />Lyrics:<br /><br />Yeah... This a dance song for all my niggaz in the club<br />that don't dance... Just be in the back arms folded...<br />Blunt in the mouth... Cap pulled down just scoping everything<br />Know what I'm sayin? Just in the cut... Watching you haters<br />With a tone on em...<br /><br />I'm in the club posted up (up) got my arms folded<br />Blunt in my mouth and these haters I'm scoping I'm just<br />Twisting my body from side 2 side (I'm just)<br />Twisting my body from side 2 side<br />I'm in the club posted up (up) got my arms folded<br />Fitted pulled down and these haters I'm scoping I'm just<br />Twisting my body from side 2 side (I'm just)<br />Twisting my body from side 2 side<br /><br />#Three6Mafia #Side2Side #Vevo{% endraw %}
