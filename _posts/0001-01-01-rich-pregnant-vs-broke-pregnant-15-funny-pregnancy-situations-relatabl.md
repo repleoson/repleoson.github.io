@@ -1,0 +1,15 @@
+---
+title: "RICH Pregnant VS BROKE Pregnant - 15 Funny Pregnancy Situations | Relatable by La La Life Emoji"
+image: "https:\/\/i.ytimg.com\/vi\/Tu9uIEBe1bs\/hqdefault.jpg"
+vid_id: "Tu9uIEBe1bs"
+categories: "Entertainment"
+tags: ["funny","comedy","emoji"]
+date: "2021-11-21T05:39:38+03:00"
+vid_date: "2021-11-20T12:14:32Z"
+duration: "PT15M44S"
+viewcount: "88431"
+likeCount: "1145"
+dislikeCount: "124"
+channel: "La La Life Emoji"
+---
+{% raw %}We don't choose whether we are born RICH or BROKE! We don't know what our FOOD, CLOTHING, TOYS will be. But the most interesting thing is that rich and poor mothers have… THE SAME problems! They share the same mood swings. And each of them wants her child to be the happiest! See more in our new FUNNY video!<br /><br />#animoji #fun #comedy #musical #rich #broke #pregnant #food #clothing <br /><br />❤️❤️❤️ Like this video and subscribe to our channel! <a rel="nofollow" target="blank" href="https://bit.ly/2HzIC4A">https://bit.ly/2HzIC4A</a><br />Turn on the Notification Bell  😉🔔🔔🔔<br /><br />Share and subscribe if you like the video:<br /> @La La Life <br /> @La La Life Emoji <br /> @La La Life Games  <br /><br />MUSIC 🎸🤘🎼🎵<br /><a rel="nofollow" target="blank" href="https://open.spotify.com/playlist/1cn14lHqIGqj5JTm9twoLZ?si=c766287fd35742fb">https://open.spotify.com/playlist/1cn14lHqIGqj5JTm9twoLZ?si=c766287fd35742fb</a><br />Spotify: <a rel="nofollow" target="blank" href="https://spoti.fi/37u8FFo">https://spoti.fi/37u8FFo</a><br />iTunes: <a rel="nofollow" target="blank" href="https://apple.co/3juCo3u">https://apple.co/3juCo3u</a><br />Google Music: <a rel="nofollow" target="blank" href="https://bit.ly/3me5Fkp">https://bit.ly/3me5Fkp</a><br /><br />MERCH 🎁 🎁 🎁<br />La La Life SHOP: <a rel="nofollow" target="blank" href="https://amzn.to/2IrvS0r">https://amzn.to/2IrvS0r</a><br /><br />Music by TheSoul Music: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCPo7CKRiDGn4h-H0RK5JdfA">https://www.youtube.com/channel/UCPo7CKRiDGn4h-H0RK5JdfA</a><br /><br />Chapters:<br />00:00 Pregnant<br />00:57 Shopping <br />02:12 Rich VS Broke <br />03:15 Tiktok<br />05:08 Prank<br />05:40 Sport<br />07:08 FOOD<br />07:54 Photos<br />09:13 Music<br />10:32 False alarm<br />12:12 Baby is coming<br />12:47 Party <br />14:21 Pregnancy progress<br /><br />–––––––––<br />All product and company names shown in the video are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.<br /><br />This video is made for entertainment purposes. We do not make any warranties about the completeness, safety, and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer's responsibility to use judgment, care, and precautions if one plans to replicate.<br /><br />The following video might feature activity performed by our actors within a controlled environment - please use judgment, care, and precaution if you plan to replicate.{% endraw %}
