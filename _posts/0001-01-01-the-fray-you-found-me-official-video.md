@@ -1,0 +1,15 @@
+---
+title: "The Fray - You Found Me (Official VIdeo)"
+image: "https:\/\/i.ytimg.com\/vi\/jFg_8u87zT0\/hqdefault.jpg"
+vid_id: "jFg_8u87zT0"
+categories: "Music"
+tags: ["You Found Me live","TheFrayvevo","acoustic"]
+date: "2021-11-21T15:54:02+03:00"
+vid_date: "2009-10-03T04:56:40Z"
+duration: "PT4M1S"
+viewcount: "124372316"
+likeCount: "690228"
+dislikeCount: "13141"
+channel: "thefrayVEVO"
+---
+{% raw %}The Fray's official music video for 'You Found Me'. <br /><br />Click to listen to The Fray on Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/TheFraySpotify?IQi...">http://smarturl.it/TheFraySpotify?IQi...</a><br /><br />As featured on The Collection. Click to buy the track or album via iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/TheFrayCollection?...">http://smarturl.it/TheFrayCollection?...</a><br />Google Play: <a rel="nofollow" target="blank" href="http://smarturl.it/YFMGPlay?IQid=TheF...">http://smarturl.it/YFMGPlay?IQid=TheF...</a><br />Amazon: <a rel="nofollow" target="blank" href="http://smarturl.it/TCTFAmazon?IQid=Th...">http://smarturl.it/TCTFAmazon?IQid=Th...</a><br /><br />More from The Fray<br />Break Your Plans: <a rel="nofollow" target="blank" href="https://youtu.be/4FopKgAntiA">https://youtu.be/4FopKgAntiA</a><br />How To Save a Life: <a rel="nofollow" target="blank" href="https://youtu.be/cjVQ36NhbMk">https://youtu.be/cjVQ36NhbMk</a><br />Over My Head (Cable Car): <a rel="nofollow" target="blank" href="https://youtu.be/fFRkpvvop3I">https://youtu.be/fFRkpvvop3I</a><br /><br />More great Global Hits here: <a rel="nofollow" target="blank" href="http://smarturl.it/GlobalHits?IQid=Th...">http://smarturl.it/GlobalHits?IQid=Th...</a><br /><br />Follow The Fray<br />Website: <a rel="nofollow" target="blank" href="http://www.thefray.com/">http://www.thefray.com/</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/TheFray">https://www.facebook.com/TheFray</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/thefray">https://twitter.com/thefray</a><br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/thefray">https://instagram.com/thefray</a><br /><br />Subscribe to The Fray on YouTube: <a rel="nofollow" target="blank" href="http://smarturl.it/TheFraySub?IQid=Th...">http://smarturl.it/TheFraySub?IQid=Th...</a><br /><br />---------<br /><br />Lyrics:<br /><br />I found God<br />On the corner of First and Amistad<br />Where the west<br />Was all but won<br />All alone<br />Smoking his last cigarette<br />I said, Where you been?<br />He said, Ask anything.<br /><br />Where were you<br />When everything was falling apart?<br />All my days<br />Were spent by the telephone<br />That never rang<br />And all I needed was a call<br />That never came<br />To the corner of First and Amistad<br /><br />Lost and insecure<br />You found me, you found me<br />Lyin' on the floor<br />Surrounded, surrounded<br />Why'd you have to wait?<br />Where were you? Where were you?<br />Just a little late<br />You found me, you found me&quot;<br /><br />#TheFray #YouFoundMe #Vevo #Pop #VevoOfficial{% endraw %}
