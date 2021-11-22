@@ -1,0 +1,15 @@
+---
+title: "Prabhupada 0232 - There are Jealous Enemies of God Also. They are Called Demons"
+image: "https:\/\/i.ytimg.com\/vi\/_by7YUZoWyo\/hqdefault.jpg"
+vid_id: "_by7YUZoWyo"
+categories: "People-Blogs"
+tags: ["Prabhupada","There","Jealous"]
+date: "2021-11-22T12:59:20+03:00"
+vid_date: "2018-01-15T17:21:10Z"
+duration: "PT7M11S"
+viewcount: "86"
+likeCount: "4"
+dislikeCount: "0"
+channel: "Vanipedia Videos in English - Prabhupada Speaks"
+---
+{% raw %}Vanipedia Transcription of video in English<br /><a rel="nofollow" target="blank" href="https://vanipedia.org/wiki/Prabhupada_0232_-_There_are_Jealous_Enemies_of_God_Also._They_are_Called_Demons">https://vanipedia.org/wiki/Prabhupada_0232_-_There_are_Jealous_Enemies_of_God_Also._They_are_Called_Demons</a><br /><br />To get involved in this Multi-language subtitle project<br /><a rel="nofollow" target="blank" href="https://vanimedia.org/wiki/Multi-language_Subtitle_Project">https://vanimedia.org/wiki/Multi-language_Subtitle_Project</a><br /><br />Multi-language Vanipedia Pages with Text, Audio and Video Links <br /><a rel="nofollow" target="blank" href="https://vanipedia.org/wiki/Category:Languages_with_Total_Pages">https://vanipedia.org/wiki/Category:Languages_with_Total_Pages</a><br /><br />To offer services  (Web Programming, Design, Translation, Research, Writing, Promotion, Team Facilitating etc.)  to help build Srila Prabhupada's Vani-temple (VaniPedia) contact us at <br /><a rel="nofollow" target="blank" href="https://www.vanipedia.org/wiki/Vanipedia:Contact">https://www.vanipedia.org/wiki/Vanipedia:Contact</a><br /><br />Vanimedia Videos with Multilanguge Subtitles<br />By Language <br /><a rel="nofollow" target="blank" href="https://vanimedia.org/wiki/YouTube_Playlists_for_Vanipedia_-_by_Language">https://vanimedia.org/wiki/YouTube_Playlists_for_Vanipedia_-_by_Language</a><br />By Type <br /><a rel="nofollow" target="blank" href="https://vanimedia.org/wiki/YouTube_Playlists_for_Vanipedia_-_by_Type">https://vanimedia.org/wiki/YouTube_Playlists_for_Vanipedia_-_by_Type</a><br />By Theme<br /><a rel="nofollow" target="blank" href="https://vanimedia.org/wiki/YouTube_Playlists_for_Vanipedia_-_by_Theme">https://vanimedia.org/wiki/YouTube_Playlists_for_Vanipedia_-_by_Theme</a><br /><br />Vanimedia Videos with Hardcoded Subtitles<br />By Language<br /><a rel="nofollow" target="blank" href="https://vanimedia.org/wiki/YouTube_Playlists_for_Vanimedia_Hardcoded_Subtitles_-_by_Language">https://vanimedia.org/wiki/YouTube_Playlists_for_Vanimedia_Hardcoded_Subtitles_-_by_Language</a><br />By Type <br /><a rel="nofollow" target="blank" href="https://vanimedia.org/wiki/YouTube_Playlists_for_Vanimedia_Hardcoded_Subtitles_-_by_Type">https://vanimedia.org/wiki/YouTube_Playlists_for_Vanimedia_Hardcoded_Subtitles_-_by_Type</a><br />By Theme<br /><a rel="nofollow" target="blank" href="https://vanimedia.org/wiki/YouTube_Playlists_for_Vanimedia_Hardcoded_Subtitles_-_by_Theme">https://vanimedia.org/wiki/YouTube_Playlists_for_Vanimedia_Hardcoded_Subtitles_-_by_Theme</a><br />Description Modified on 20-jan-2018{% endraw %}
