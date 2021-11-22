@@ -1,0 +1,15 @@
+---
+title: "English Phrasal Verbs: Mess Up and Sort Out"
+image: "https:\/\/i.ytimg.com\/vi\/9UNsZslz4Kk\/hqdefault.jpg"
+vid_id: "9UNsZslz4Kk"
+categories: "Education"
+tags: ["english","learn english","fun english"]
+date: "2021-11-22T18:12:24+03:00"
+vid_date: "2016-05-10T22:19:23Z"
+duration: "PT5M6S"
+viewcount: "40059"
+likeCount: "1290"
+dislikeCount: "8"
+channel: "RealLife English"
+---
+{% raw %}1. Why am I watching this? Hello and good question. Well, phrasal verbs are REALLY common in the English language, and they are a great way to help your English sound much more natural and fluent. Unfortunately they are a little hard to remember when you don’t have an opportunity to learn them in a real life situation. So, I guess that’s one reason.<br /><br />2. Why are you teaching them in opposites? That is another great question! So, our brain has a tendency to remember opposites a lot better than synonymous words. For example, it’s much easer to remember ‘big and small’ than it is to remember ‘big and large.’ Remember, opposites attract, it’s physics hehe.<br /><br />3. Who are you and why should I watch your videos? Ok, you are asking a lot of questions, but that’s cool. My name is Chad, I am a 30 year old Australian English teacher that has been teaching in Brazil and online for the past 10 years. Although I am Australian my accent is very neutral and most people don’t recognize where I am from. I am also one of the co founders of RealLife English, an online English community that connects and helps English learners from all over the world. <br /><br />4. Why are you doing that? Well, I believe that with the growth of global internet access, and the more interconnected the world is becoming, the need to have one centralized language is crucial. Being able to understand and communicate in English will give so many people huge opportunities in this world to get a better education, a better job, a better life, AND a much broader perspective on the world.<br /><br />5. Can I help? Yes, of course you can. So, right now our platform is temporarily unavailable because we are making some BIG improvements, but you can still sign up (link below) and very shortly we will be opening the platform again. You can also help by subscribing to our Youtube channel, and liking all of our social media channels, see below.<br /><br />Sharing the love:<br /><br />★ YOUTUBE: <a rel="nofollow" target="blank" href="https://www.youtube.com/RealLifeEnglishBH">https://www.youtube.com/RealLifeEnglishBH</a><br />★ WEBSITE: <a rel="nofollow" target="blank" href="http://www.RealLifeGlobal.com">http://www.RealLifeGlobal.com</a> <br />★ PLATFORM: <a rel="nofollow" target="blank" href="http://reallifeglobal.com/coming-soon/">http://reallifeglobal.com/coming-soon/</a><br />★ FACEBOOK: <a rel="nofollow" target="blank" href="https://www.facebook.com/GetRealLifeEnglish/">https://www.facebook.com/GetRealLifeEnglish/</a><br />★ TWITTER: @reallifeglobal<br />★ INSTAGRAM: @reallife_english<br /><br />☯For Business Inquiries contact: fluencyteam@reallifeglobal.com<br /><br />SONG:  KNO 'Nasty Filhty'{% endraw %}
