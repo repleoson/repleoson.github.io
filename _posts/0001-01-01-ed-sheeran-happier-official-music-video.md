@@ -1,0 +1,15 @@
+---
+title: "Ed Sheeran - Happier (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/iWZmdoY1aTE\/hqdefault.jpg"
+vid_id: "iWZmdoY1aTE"
+categories: "Music"
+tags: ["Ed Sheeran","Happier","Ed Sheeran Happier"]
+date: "2021-11-22T15:07:15+03:00"
+vid_date: "2018-04-27T08:40:14Z"
+duration: "PT3M36S"
+viewcount: "374160299"
+likeCount: "2846335"
+dislikeCount: "79752"
+channel: "Ed Sheeran"
+---
+{% raw %}The official music video for Ed Sheeran - Happier<br />The new album &quot;=&quot; is out now - listen here: <a rel="nofollow" target="blank" href="https://es.lnk.to/equals">https://es.lnk.to/equals</a><br /> <br />Taken from the studio album ÷ (divide) released in 2017, which featured the hit singles 'Castle on the Hill', 'Shape of You', 'Galway Girl', ‘Perfect’ &amp; 'Happier'. <br /> <br />Subscribe to the Ed Sheeran channel for all the best and latest official music videos, behind the scenes and live performances.  <br /><a rel="nofollow" target="blank" href="http://bit.ly/SubscribeToEdSheeran">http://bit.ly/SubscribeToEdSheeran</a> <br /> <br />See more official videos from Ed Sheeran here: <br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=ryJgDL9jzKk&amp;list=PLjp0AEEJ0-fGKG_3skl0e1FQlJfnx-TJz">https://www.youtube.com/watch?v=ryJgDL9jzKk&amp;list=PLjp0AEEJ0-fGKG_3skl0e1FQlJfnx-TJz</a> <br /><br />Listen to more from the album ÷ (divide): <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLjp0AEEJ0-fGi7bkjrGhBLUF9NMraL9cL">https://www.youtube.com/playlist?list=PLjp0AEEJ0-fGi7bkjrGhBLUF9NMraL9cL</a> <br /> <br />Follow Ed Sheeran on:<br />Facebook: <a rel="nofollow" target="blank" href="http://www.facebook.com/EdSheeranMusic">http://www.facebook.com/EdSheeranMusic</a>  <br />Twitter: <a rel="nofollow" target="blank" href="http://twitter.com/edsheeran">http://twitter.com/edsheeran</a>  <br />Instagram: <a rel="nofollow" target="blank" href="http://instagram.com/teddysphotos">http://instagram.com/teddysphotos</a>  <br />Official Website: <a rel="nofollow" target="blank" href="http://edsheeran.com">http://edsheeran.com</a>  <br />  <br />About Ed Sheeran: <br />Ed Sheeran may be the quintessential pop star of the 2010s: an internationally acclaimed, multi-award winning singer/songwriter who seems to acknowledge no boundaries between styles or eras with elements of folk, hip-hop, pop, dance, soul, and rock woven throughout his music. <br /><br />His incredible catalogue includes the studio albums ‘+’ (plus), ‘x’ (multiply) and ‘÷’ (divide) which spawned hit singles such as ‘The A team’ , ’Lego House’, ‘Sing', ‘Thinking Out Loud’, ‘Photograph’, ‘Shape Of You’, ‘Castle on The Hill’ and ‘Perfect’. <br /> <br />In 2019, Ed Sheeran released the genre-spanning ‘No.6 Collaborations Project’ which featured a wide-range of artists including ‘Justin Bieber’, ‘Camilla’ Cabello’, ‘Travis Scott’, ‘Eminem’, ‘Cardi B, ‘Paulo Londra’, ‘Bruno Mars’ and ‘Stormzy’ amongst many others, producing hits such as ‘I Don’t Care’, ‘Beautiful People’, ‘South of The Border’ and ‘Take Me Back To London’. <br /> <br />#EdSheeran #Happier #divide{% endraw %}
