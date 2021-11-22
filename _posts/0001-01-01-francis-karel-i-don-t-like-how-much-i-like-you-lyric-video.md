@@ -1,0 +1,15 @@
+---
+title: "Francis Karel -  I Don't Like How Much I Like You (Lyric Video)"
+image: "https:\/\/i.ytimg.com\/vi\/R8xrX5O0NWs\/hqdefault.jpg"
+vid_id: "R8xrX5O0NWs"
+categories: "Music"
+tags: ["francis karel","francis","karel"]
+date: "2021-11-22T09:56:43+03:00"
+vid_date: "2021-11-18T05:00:07Z"
+duration: "PT2M45S"
+viewcount: "7954"
+likeCount: "1207"
+dislikeCount: "5"
+channel: "Francis Karel"
+---
+{% raw %}Stream or download &quot;I Don't Like How Much I Like You&quot; here: <a rel="nofollow" target="blank" href="http://ffm.to/idlhmily">http://ffm.to/idlhmily</a><br /><br />Subscribe on YouTube - <a rel="nofollow" target="blank" href="http://bit.ly/FrancisKarelYouTube">http://bit.ly/FrancisKarelYouTube</a><br /><br />Follow Francis Karel:<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/francis_karel/">https://www.instagram.com/francis_karel/</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/franciskarel">https://twitter.com/franciskarel</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/FrancisKarelOfficial">https://www.facebook.com/FrancisKarelOfficial</a><br /><a rel="nofollow" target="blank" href="https://www.tiktok.com/@franciskarelofficial">https://www.tiktok.com/@franciskarelofficial</a><br /><br />Lyrics:<br />You caught me off guard<br />You flipped the switch<br />Found a missing piece<br />With a different fit<br />Really thought I had you solved<br />Till you changed the game<br />Caught me off guard<br />And I’m okay with it<br /><br />Keep my phone near my bed case you call me<br />You’re in my head almost always<br />Tugging on my strings, know it’s gonna sting<br />Overthinking up til the morning<br />You should’ve come with a warning<br />I won’t get no sleep til I come clean<br /><br />I don’t wish this on anyone else<br />Cause it hurts so good I’m losing myself<br />I know if I don’t act now somebody will<br />I know if I don’t run we’ll be standing still<br />I don’t like<br />I don’t like how much I like you<br />I don’t like how much I….<br /><br />Drunk with friends<br />November night<br />When I got cold<br />We got too close and went inside<br />Did you feel what I felt<br />Were you just being nice<br />Confused as hell<br />But I don’t mind<br /><br />Keep my phone near my bed case you call me<br />You’re in my head almost always<br />Tugging on my strings, know it’s gonna sting<br />Overthinking up til the morning<br />You should’ve come with a warning<br />I won’t get no sleep til I come clean<br /><br />I don’t wish this on anyone else,<br />Cause it hurts so good I’m losing myself<br />I know if I don’t act now somebody will<br />I know if I don’t run we’ll be standing still<br />I don’t like<br />I don’t like how much I like you<br />I don’t like how much I….<br /><br />Like...you<br />Like...you<br />Like...you<br />I don’t like how much I like you<br />Like...you<br />Like...you<br />Like...you<br />I don’t like how much I….<br /><br /><br />#franciskarel{% endraw %}
