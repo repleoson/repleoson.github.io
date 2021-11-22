@@ -1,0 +1,15 @@
+---
+title: "ALL KITS vs INFECTED"
+image: "https:\/\/i.ytimg.com\/vi\/6ptzjfukgWY\/hqdefault.jpg"
+vid_id: "6ptzjfukgWY"
+categories: "Gaming"
+tags: ["roblox bedwars","roblox bedwars update","roblox bedwars infected"]
+date: "2021-11-22T13:15:24+03:00"
+vid_date: "2021-11-21T04:52:43Z"
+duration: "PT40M45S"
+viewcount: "107863"
+likeCount: "2478"
+dislikeCount: "44"
+channel: "DV Plays"
+---
+{% raw %}I compared all kits against Infected in the new Roblox BedWars Infected LTM! This video is LONG, so many kits... enjoy!<br /><br />More Roblox BedWars videos: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PL_4RUgbW9hU-RQyH4Njz5nOKZP47BQxpw">https://www.youtube.com/playlist?list=PL_4RUgbW9hU-RQyH4Njz5nOKZP47BQxpw</a><br /><br />👍 Help me reach 500k Subscribers! <a rel="nofollow" target="blank" href="https://www.youtube.com/c/darkvipertv?sub_confirmation=1">https://www.youtube.com/c/darkvipertv?sub_confirmation=1</a><br />⭐ Use Star Code &quot;DV&quot; when buying Robux, Gift Cards or Premium!<br /><br />🔥 DV Shoulder Buddy UGC: <a rel="nofollow" target="blank" href="https://www.roblox.com/catalog/6718380106/DV-Shoulder-Buddy">https://www.roblox.com/catalog/6718380106/DV-Shoulder-Buddy</a><br />🔥 DV Cloak of Shadows UGC: <a rel="nofollow" target="blank" href="https://www.roblox.com/catalog/6101339024/Cloak-of-Shadows">https://www.roblox.com/catalog/6101339024/Cloak-of-Shadows</a><br /><br />👍 DV Plays 2 Channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/dvplays2">https://www.youtube.com/dvplays2</a><br />👍 DV Talks Channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/dvtalks">https://www.youtube.com/dvtalks</a><br />💬 Discord: <a rel="nofollow" target="blank" href="https://discord.gg/dvplays">https://discord.gg/dvplays</a><br />💬 Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/darkviper">https://twitter.com/darkviper</a><br />💬 Guilded: <a rel="nofollow" target="blank" href="https://guilded.gg/dvplays">https://guilded.gg/dvplays</a><br />📷 Tiktok: <a rel="nofollow" target="blank" href="https://tiktok.com/@usestarcodedv">https://tiktok.com/@usestarcodedv</a><br />📷 Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/dvplays">https://instagram.com/dvplays</a><br />⭐ Join DV Plays Membership! <a rel="nofollow" target="blank" href="https://www.youtube.com/darkvipertv/join">https://www.youtube.com/darkvipertv/join</a><br /><br />🟥 DVwastaken on Roblox: <a rel="nofollow" target="blank" href="https://www.roblox.com/users/964088769/profile">https://www.roblox.com/users/964088769/profile</a><br />👑 Roblox Group: <a rel="nofollow" target="blank" href="https://www.roblox.com/groups/7044789/DV-Plays-Official">https://www.roblox.com/groups/7044789/DV-Plays-Official</a><br />☘️ Get 20% Off Venatos Products using Code &quot;DV&quot;: <a rel="nofollow" target="blank" href="https://venatos.com/">https://venatos.com/</a><br /><br />#robloxbedwars #dvwastaken{% endraw %}
