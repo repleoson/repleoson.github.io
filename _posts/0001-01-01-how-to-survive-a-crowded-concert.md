@@ -1,0 +1,15 @@
+---
+title: "How to Survive a Crowded Concert"
+image: "https:\/\/i.ytimg.com\/vi\/kF5YjBOd9oY\/hqdefault.jpg"
+vid_id: "kF5YjBOd9oY"
+categories: "Education"
+tags: ["survive","how to survive","survival"]
+date: "2021-11-23T19:56:06+03:00"
+vid_date: "2021-11-23T16:17:00Z"
+duration: "PT5M42S"
+viewcount: "2334"
+likeCount: "257"
+dislikeCount: "4"
+channel: "How to Survive"
+---
+{% raw %}You're in the front row, and your favorite song comes on. Suddenly you're surrounded by people who are violently pushing and shoving. You try to get away from them. But as the song builds up, more and more people start joining in on the pushing. And now you can't find your way out of the crowd.<br />You're stuck in a mosh pit. How can you escape without getting hurt? So what should you do if you get stuck in one? Are there any unwritten rules? Where is the safest place to go?<br /><br />00:00 Surviving a Crowded Concert <br />02:01 #1 Go With the Flow<br />02:34 #2 Don't crowd-surf<br />03:00 #3 Wait It Out<br />03:18 #4 Learn how to mosh<br />04:17 #5 Watch out for each other<br /><br />Transcript and sources:  <a rel="nofollow" target="blank" href="https://whatifshow.com/how-to-survive-a-crowded-concert/">https://whatifshow.com/how-to-survive-a-crowded-concert/</a><br /><br />Questions or concerns? Contact us at <a rel="nofollow" target="blank" href="https://underknown.com/contact/">https://underknown.com/contact/</a><br /><br />Produced by the makers of What If. Check out our other channels:<br />What If - <a rel="nofollow" target="blank" href="https://bit.ly/youtube-What-If">https://bit.ly/youtube-What-If</a><br />Your Body on: <a rel="nofollow" target="blank" href="https://bit.ly/your-body-on-show">https://bit.ly/your-body-on-show</a><br />Crazy Creatures: <a rel="nofollow" target="blank" href="https://bit.ly/crazy-creatures-show">https://bit.ly/crazy-creatures-show</a><br /><br />Whether it’s an earthquake, mudslide or shark attack, survive whatever awaits you. How To Survive shows how to endure life-threatening moments with science and survivor stories.<br /><br />Note: This video is not intended to be a substitute for professional advice, diagnosis, or treatment. Always seek the advice of your physician or another qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have seen on this channel. If you think you may have an emergency, call your doctor, the ambulance or the police immediately. Underknown does not recommend or endorse any specific tests, physicians, products, procedures, opinions, or other information that may be mentioned in this video. Reliance on any information provided by Underknown is solely at your own risk.<br /><br />An Underknown show: <a rel="nofollow" target="blank" href="https://underknown.com">https://underknown.com</a><br />Contact us at <a rel="nofollow" target="blank" href="https://underknown.com/contact/">https://underknown.com/contact/</a><br /><br />#howtosurvive #moshpit #crowdedconcert{% endraw %}
