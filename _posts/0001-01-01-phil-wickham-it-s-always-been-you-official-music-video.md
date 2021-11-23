@@ -1,0 +1,15 @@
+---
+title: "Phil Wickham - It's Always Been You (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/BDURInx_GUk\/hqdefault.jpg"
+vid_id: "BDURInx_GUk"
+categories: "Music"
+tags: ["Fair Trade\/Columbia","Gospel\/Christian","It's Always Been You"]
+date: "2021-11-23T08:54:09+03:00"
+vid_date: "2021-05-14T17:00:15Z"
+duration: "PT4M13S"
+viewcount: "3218962"
+likeCount: "85015"
+dislikeCount: "704"
+channel: "PhilWickhamVEVO"
+---
+{% raw %}The official music video for &quot;It's Always Been You&quot; by Phil Wickham.<br /><br />Listen wherever you find music: <a rel="nofollow" target="blank" href="https://smarturl.it/ItsAlwaysBeenYou">https://smarturl.it/ItsAlwaysBeenYou</a><br />Don't forget to SUBSCRIBE: <a rel="nofollow" target="blank" href="https://smarturl.it/PWYouTubeSubscribe">https://smarturl.it/PWYouTubeSubscribe</a><br />Connect With Phil Wickham:<br />Website: <a rel="nofollow" target="blank" href="http://smarturl.it/PW-Website">http://smarturl.it/PW-Website</a><br />Facebook: <a rel="nofollow" target="blank" href="http://smarturl.it/PW-Facebook">http://smarturl.it/PW-Facebook</a><br />Twitter: <a rel="nofollow" target="blank" href="http://smarturl.it/PW-Twitter">http://smarturl.it/PW-Twitter</a><br />Instagram: <a rel="nofollow" target="blank" href="http://smarturl.it/PW-Instagram">http://smarturl.it/PW-Instagram</a><br />Lyrics<br /><br />You saw me first<br />You let me in when I was at my worst<br />The moment when I heard you say my name<br />It’s the first time in so long I’m not afraid<br />I’m not afraid<br /><br />You are the voice that calms<br />The storm inside me<br />Castle walls that stand around me<br />All this time my guardian was You<br />You are the light that shines in every tunnel<br />There in the past You’ll be there tomorrow<br />All my life Your love was breaking through<br /><br />It’s always been You<br />It’s always been You<br /><br />My northern star<br />Your love will be the compass of my heart<br />Oh I just want to be right where You are<br />Right where You are<br /><br />You are the voice that calms<br />The storm inside me<br />Castle walls that stand around me<br />All this time my guardian was You<br />You are the light that shines in every tunnel<br />There in the past You’ll be there tomorrow<br />All my life Your love was breaking through<br /><br />It’s always been You<br />And it’s always been You<br />It’s always been You<br />It’s always been You<br /><br /><br />Who stood with me in the fire<br />It was You it was always You<br />Who pulled me out of the water<br />It was You it was always You<br />And who carried me on their shoulders<br />It was You I know it’s You<br /><br />You are the voice that calms<br />The storm inside me<br />Castle walls that stand around me<br />All this time my guardian was You<br />You are the light that shines in every tunnel<br />There in the past You’ll be there tomorrow<br />All my life Your love was breaking through<br /><br />It’s always been You<br />And it’s always been You<br />It’s always been You<br />It’s always been You<br />It’s always been You{% endraw %}
