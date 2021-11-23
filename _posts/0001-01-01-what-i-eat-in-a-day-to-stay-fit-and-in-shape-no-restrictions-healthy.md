@@ -1,0 +1,15 @@
+---
+title: "WHAT I EAT IN A DAY to stay fit and in shape (no restrictions + healthy)"
+image: "https:\/\/i.ytimg.com\/vi\/YqL4aUDgxA4\/hqdefault.jpg"
+vid_id: "YqL4aUDgxA4"
+categories: "Entertainment"
+tags: ["gains by brains","gainsbybrains","what I eat"]
+date: "2021-11-23T11:41:48+03:00"
+vid_date: "2021-11-17T22:43:23Z"
+duration: "PT16M39S"
+viewcount: "95820"
+likeCount: "4101"
+dislikeCount: "37"
+channel: "GAINSBYBRAINS"
+---
+{% raw %}full day of eating where i'm making 2 ingredients bagels, home-made jam, rice bowl with chicken and avocado and a Thai curry! ohh did i mention the apple muffins? sooo good! I'll like the recipe below<br /><br />shop gymshark black friday deals here: <a rel="nofollow" target="blank" href="https://gym.sh/shop-gainsbybrains2">https://gym.sh/shop-gainsbybrains2</a><br />the follow along workout I did: <a rel="nofollow" target="blank" href="https://youtu.be/tfPoEnaCBjg">https://youtu.be/tfPoEnaCBjg</a><br /><br />2 ingredients bagels: <br />sift 210 g of whole wheat self-rising flour<br />add 280 g non-fat greek yoghurt<br />kneah the dough, roll into shape<br />optional: brush egg &amp; add seeds<br />bake around 20-22 min at 180C/350F or until golden brown<br /><br />home-made jam: <br />heat up 2 cups frozen fruits<br />add 2 tbsp chia seeds &amp; bit of lemon juice<br />let it cool &amp; add to container<br />apple muffins: <a rel="nofollow" target="blank" href="https://cookieandkate.com/healthy-apple-muffins-recipe/">https://cookieandkate.com/healthy-apple-muffins-recipe/</a><br /><br />GET MY WORKOUT PROGRAMS: <a rel="nofollow" target="blank" href="https://gainsbybrains.com/collections/guides">https://gainsbybrains.com/collections/guides</a><br /><br />for daily workout inspo, follow me on instagram <a rel="nofollow" target="blank" href="https://instagram.com/gainsbybrains​​">https://instagram.com/gainsbybrains​​</a><br /><br />FREE MACRO CALCULATOR: <a rel="nofollow" target="blank" href="https://gainsbybrains.com/pages/macro-calculator">https://gainsbybrains.com/pages/macro-calculator</a><br /><br />shop gymshark here: <a rel="nofollow" target="blank" href="https://gym.sh/shop-gainsbybrains2">https://gym.sh/shop-gainsbybrains2</a><br />shop women's best products here: <a rel="nofollow" target="blank" href="https://womens.best/GainsByBrains​​​​">https://womens.best/GainsByBrains​​​​</a> <br />use code: Sophie20 for 20% off WB products :)<br /><br />first episode of my level up series: <a rel="nofollow" target="blank" href="https://youtu.be/UCIbQHe4LVo">https://youtu.be/UCIbQHe4LVo</a><br /><br />be my friend on<br />» instagram gainsbybrains<br />» snapchat gainsbybrains<br />» twitter gainsbybrains<br />» tiktok gainsbybrains<br /><br />music from epidemic sound<br />www.epidemicsound.com<br />music from artlist<br />www.artlist.io<br /><br />this video is not sponsored! Gymshark is an affiliate link (thank so much for shopping through my link, appreciate it so so much). Women's Best is not an affiliate link, but shopping through it &amp; using my code does help me working with the brand! xx{% endraw %}
