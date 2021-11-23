@@ -1,0 +1,15 @@
+---
+title: "Anticipate or expect?"
+image: "https:\/\/i.ytimg.com\/vi\/8VTAFD7bBeI\/hqdefault.jpg"
+vid_id: "8VTAFD7bBeI"
+categories: "Education"
+tags: ["Business","writing","Dr Clare Lynch"]
+date: "2021-11-23T23:53:39+03:00"
+vid_date: "2017-04-10T11:45:08Z"
+duration: "PT1M51S"
+viewcount: "9290"
+likeCount: "293"
+dislikeCount: "7"
+channel: "Dr Clare Lynch"
+---
+{% raw %}Join the Doris and Bertie Writing School at <a rel="nofollow" target="blank" href="https://training.dorisandbertie.com/">https://training.dorisandbertie.com/</a> - and get unlimited access to hundreds of exclusive videos, templates and cheat sheets - with the following courses: <br /><br />Writing with Confidence: Writing Beginner to Writing Pro <br />Email Etiquette: Write More Effective Emails at Work <br />Complete Punctuation: Novice to Pro <br />Proofread Like a Pro <br />Report Writing Made Simple <br />Business Writing for Busy People <br />Freelance Copywriting: How to Succeed as an Elite Copywriter <br />Remote Working: How to Succeed In The New Workplace <br />Sentence Surgery: How to Polish to Perfection <br /><br />Get your free copy of my ebook 200 Writing Tips when you subscribe to my newsletter: <a rel="nofollow" target="blank" href="https://www.dorisandbertie.com/newsletter">https://www.dorisandbertie.com/newsletter</a><br /><br />..........................................................................<br /><br />Anticipate or expect. Is there a difference in meaning?<br /><br />Many people use them interchangeably. But strictly speaking they have slightly different meanings.<br /><br />If you expect something, you believe it will happen. <br /><br />For example:<br /><br />&quot;We’re expecting snow later on.&quot;<br /><br />In other words, we believe it will snow later on.<br /><br />In contrast, anticipate means not merely to expect or believe something will happen. <br /><br />It means to prepare for that thing happening. <br /><br />For example:<br /><br />&quot;Anticipating snow, we packed our ski jackets.&quot;<br /><br />In other words, because we expected snow, we prepared ourselves for it.<br /><br />To remember the difference, it helps to know where the word ‘anticipate’ comes from.<br /><br />Which is the Latin word 'anticapere', meaning ‘to take action in advance’. <br /><br />And the ‘anti’ in anticipate comes from Latin ‘ante’ meaning ‘before’.<br /><br />We see it in other words, for example:<br /><br />Antechamber - a small room before a main room<br /><br />Antipasti - a delicious selection of little dishes that Italians eat before a meal.<br /><br />And ‘ante’ - the bet you place in poker before play begins. <br /><br />So remember, anticipate means not merely to expect something, but to do something before it happens.<br /><br />These days, many people use ‘anticipate’ and ‘expect’ interchangeably. But if you’re writing for careful readers, you’d be wise to observe the difference. <br /><br />I’m Dr Clare Lynch of Doris and Bertie. Subscribe to the channel for more quick writing tips.{% endraw %}
