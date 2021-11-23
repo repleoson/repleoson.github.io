@@ -1,0 +1,15 @@
+---
+title: "How To Write A Project Specification"
+image: "https:\/\/i.ytimg.com\/vi\/MCXi4KtRTG0\/hqdefault.jpg"
+vid_id: "MCXi4KtRTG0"
+categories: "Science-Technology"
+tags: ["outsourcing","offshore","web development"]
+date: "2021-11-24T02:19:47+03:00"
+vid_date: "2013-07-26T15:25:05Z"
+duration: "PT6M22S"
+viewcount: "169813"
+likeCount: "1289"
+dislikeCount: "65"
+channel: "SourceSeek"
+---
+{% raw %}In this video, Dave describes a basic brainstorming approach that anyone can use to write requirement and specification documents.<br /><br /><a rel="nofollow" target="blank" href="http://www.SourceSeek.com">http://www.SourceSeek.com</a> - Connect WIth Top Offshore Software Teams<br /><br />SourceSeek (www.sourceseek.com) matches your software projects for free with trusted dev teams in the U.S. and around the world.<br /><br />Whether you're a startup founder, small-business owner, or Fortune 100 manager, you need to get it right the first time.<br /><br />But too often, software projects fail, resulting in wasted time and money. SourceSeek is here to help you keep your project on-time and on-budget, and your development partners highly motivated.<br /><br />Our founder, Dave Hecker, is one of the foremost experts on outsourcing software, web, and mobile development projects. We're passionate about teaching both clients and vendors what they can do to ensure the success of their projects.<br /><br />Here's what we do, in as little as two weeks:<br /><br />- Quickly and efficiently assess a client's needs<br />- Intelligently match you to a dev team for your product or project needs<br />- Co-pilot to help you optimize distributed teams and see instant results<br /><br />SourceSeek is free for clients; we find you the best teams and the perfect match. It's that simple.<br /><br />Watch all our videos, send us feedback, and tell us about your project at <a rel="nofollow" target="blank" href="http://www.sourceseek.com/get-started-now/.">http://www.sourceseek.com/get-started-now/.</a><br /><br />SUBSCRIBE NOW FOR MORE OUTSOURCING VIDEO TIPS AND NEWS!<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/subscription_center?add_user=sourceseek">https://www.youtube.com/subscription_center?add_user=sourceseek</a><br /><br />LET'S CONNECT!<br />Google+ ► <a rel="nofollow" target="blank" href="http://google.com/+Sourceseek">http://google.com/+Sourceseek</a><br />Facebook ► <a rel="nofollow" target="blank" href="http://facebook.com/SourceSeek">http://facebook.com/SourceSeek</a><br />Twitter ► <a rel="nofollow" target="blank" href="http://twitter.com/SourceSeek">http://twitter.com/SourceSeek</a><br />Linkedin ► <a rel="nofollow" target="blank" href="https://www.linkedin.com/company/sourceseek">https://www.linkedin.com/company/sourceseek</a><br />Pinterest ► <a rel="nofollow" target="blank" href="http://www.pinterest.com/SourceSeek">http://www.pinterest.com/SourceSeek</a><br />SourceSeek ► <a rel="nofollow" target="blank" href="http://www.sourceseek.com">http://www.sourceseek.com</a>{% endraw %}
