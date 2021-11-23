@@ -1,0 +1,15 @@
+---
+title: "DISCO-80 \/Various artists\/ 25 ORIGINAL HITS OF THE 80'S"
+image: "https:\/\/i.ytimg.com\/vi\/4bElMPdJuNQ\/hqdefault.jpg"
+vid_id: "4bElMPdJuNQ"
+categories: "Music"
+tags: ["patefon","mp3","muzika"]
+date: "2021-11-23T03:07:17+03:00"
+vid_date: "2015-10-23T16:11:56Z"
+duration: "PT2H7M55S"
+viewcount: "23137162"
+likeCount: "110121"
+dislikeCount: "13306"
+channel: "PatefonChannel"
+---
+{% raw %}♫ GOLDEN HITS of DISCO 80/90 <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=K9G3OSrAT-E">https://www.youtube.com/watch?v=K9G3OSrAT-E</a><br />♫ BAD BOYS BLUE - 30 GREATEST HITS  <a rel="nofollow" target="blank" href="https://youtu.be/ysORKGM_YGI">https://youtu.be/ysORKGM_YGI</a> <br />♫ Boney M &amp; Bobby Farrell - Disco Collection <a rel="nofollow" target="blank" href="https://youtu.be/RcM7Ov2KSzI">https://youtu.be/RcM7Ov2KSzI</a><br />♫ FANCY - The Original Hit Collection  <a rel="nofollow" target="blank" href="https://youtu.be/VfmcC8xqpRA">https://youtu.be/VfmcC8xqpRA</a><br />♫ HADDAWAY - ТНЕ GREATEST HITS   <a rel="nofollow" target="blank" href="https://youtu.be/aJxOiPRovEU">https://youtu.be/aJxOiPRovEU</a><br />♫ LONDONBEAT - 25 GREATEST HITS   <a rel="nofollow" target="blank" href="https://youtu.be/LWVe9r4IUFo">https://youtu.be/LWVe9r4IUFo</a><br />♫ Mr. PRESIDENT - THE GREATEST HITS  <a rel="nofollow" target="blank" href="https://youtu.be/jIcAtmiUb_4">https://youtu.be/jIcAtmiUb_4</a><br />♫ Toto CUTUGNO - 30 GREATEST HITS  <a rel="nofollow" target="blank" href="https://youtu.be/CosKJrDkZ-Y">https://youtu.be/CosKJrDkZ-Y</a><br /><br />======================================================<br />DISCO-80 /Various artists/25 ORIGINAL HITS OF THE 80^S <br /><br />01.Bad Boys Blue - Pretty Young Girl 00:00:10<br />02. Lian Ross - Say You'll Never 00:05:57<br />03. Righeira - Vamos a la playa 00:12:38<br />04. Toto Cutugno - L'italiano 00:16:15<br />05. Patty Ryan - You're My Love (My Life) 00:20:13<br />06. Fancy - I Can't Live Without You (Lonely Nights) 00:24:41<br />07. Lian Ross - You're My Heart, You're My Soul 00:30:17<br />08. Ricchi &amp; Poveri - Se mi innamoro 00:37:02<br />09. Bad Boys Blue - You're A Woman 00:40:33<br />10. Ken Laszlo - Tonight 00:44:30<br />11. Joy - Valerie 00:48:20<br />12. Toto Cutugno - L'ete' indien (Africa) con voce originale di Joe 1D assin 00:52:28<br />13. Radiorama - Yeti 00:57:44<br />14. Linda Jo Rizzo - Fly Me High 01:03:26<br />15. Bobby Farrell - Sunny 01:10:46<br />16. Tony Esposito - Kalimba De Luna 01:14:56<br />17. K.B. Caps - Catch Me Now I'm Falling 01:19:58<br />18. Grant Miller - (Find My) Tracks In The Snow 01:26:35<br />19. Toto Cutugno - Amore No 01:31:41<br />20. Mike Mareen - Lady Ecstasy 01:35:30<br />21. Pupo - Su Di Noi 01:41:07<br />22. Mozzart - Money 01:44:55<br />23. Dj's Project - How Are You 01:50:48<br />24. Charlie G. - Love Plays Tricks 01:58:20<br />25. Riccardo Fogli - Malinconia 02:03:48<br /><br /><br />======================================================<br /><br />Subscribe: <a rel="nofollow" target="blank" href="http://bit.ly/patefonchannel">http://bit.ly/patefonchannel</a>{% endraw %}
