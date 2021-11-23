@@ -1,0 +1,15 @@
+---
+title: "Learn Colors For Babies | World of Colors | Baby Einstein"
+image: "https:\/\/i.ytimg.com\/vi\/juvzhf0ARAQ\/hqdefault.jpg"
+vid_id: "juvzhf0ARAQ"
+categories: "Education"
+tags: ["baby einstein","einstein baby","babyeinstein"]
+date: "2021-11-24T02:09:03+03:00"
+vid_date: "2020-03-09T14:00:08Z"
+duration: "PT22M52S"
+viewcount: "6629376"
+likeCount: "9463"
+dislikeCount: "5419"
+channel: "Baby Einstein"
+---
+{% raw %}Share a rainbow of sights and sounds with your baby as you discover the wonders of color together! Join puppet host &quot;Vincent Van Goat&quot; as he creates six Van Gogh masterpieces exploring red, green, blue, yellow, orange, and purple. World Of Colors is a spirited celebration of creative expression.<br /><br />Original Release Date: August 12, 2000<br /><br />You can start familiarizing your toddler with colors today! In world of colors your baby will learn a multitude of new colors in a simple, easy, and digestible way. <br /><br />About Baby Einstein: <br />Born from the belief that the future belongs to the curious, Baby Einstein helps parents cultivate curiosity – within their children and themselves – through experiences of shared discovery and creativity. Why? Because curiosity motivates us to learn and adapt. It compels us to be open to possibility and confident in our skills. Curiosity is essential for succeeding in our ever-changing world and creating a better one.<br /> <br />Curious for more? <br />Baby Einstein also offers a wide variety of toys and gear, from baby bouncers and play gyms to books and musical toys, available at retailers around the world. Explore our collection of baby toys &amp; gear here: <a rel="nofollow" target="blank" href="http://bit.ly/2JOYgsy">http://bit.ly/2JOYgsy</a><br /><br />Connect with Baby Einstein: <br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/BabyEinstein/">https://www.facebook.com/BabyEinstein/</a>   <br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/babyeinstein/">https://www.instagram.com/babyeinstein/</a>  <br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/babyeinstein">https://twitter.com/babyeinstein</a>  <br />Pinterest: <a rel="nofollow" target="blank" href="https://www.pinterest.com/babyeinstein/">https://www.pinterest.com/babyeinstein/</a> <br />Website: <a rel="nofollow" target="blank" href="http://www.babyeinstein.com">http://www.babyeinstein.com</a><br /><br />Need parenting inspiration? Take notes from DIY tutorials, monthly milestone videos, and families just like you. <br /><br />Watch Baby Einstein’s most popular uploads here: <a rel="nofollow" target="blank" href="http://bit.ly/2LmRJ69">http://bit.ly/2LmRJ69</a><br /><br />Subscribe today and click the bell to keep up with our latest discoveries, explorations, and creations. <a rel="nofollow" target="blank" href="http://bit.ly/2laTzel">http://bit.ly/2laTzel</a><br /><br />Add the Baby Einstein Channel on your Roku Device for more content: bit.ly/39GLlll{% endraw %}
