@@ -1,0 +1,15 @@
+---
+title: "trying out OHUHU markers for the first time!"
+image: "https:\/\/i.ytimg.com\/vi\/C92mJgdvTEE\/hqdefault.jpg"
+vid_id: "C92mJgdvTEE"
+categories: "Film-Animation"
+tags: ["Ohuhu markers","Alcohol markers","Draw with me"]
+date: "2021-11-24T12:38:15+03:00"
+vid_date: "2021-11-22T16:33:25Z"
+duration: "PT8M9S"
+viewcount: "12547"
+likeCount: "2025"
+dislikeCount: "9"
+channel: "Likelihood Art"
+---
+{% raw %}Ty for 339k! <br /><br />Today I am playing with markers I was sent, and its going well! I hope you enjoy watching my process  :)<br /><br /><br /><br />✨watch in HD✨<br /><br />➽───────────────❥<br />✿ Ohuhu Links!<br /><br />Ohuhu 120 Colours Double Tipped Markers (Brush &amp; Chisel Tip) <br />(UK) <a rel="nofollow" target="blank" href="https://www.amazon.co.uk/dp/B07X3TBQ8F">https://www.amazon.co.uk/dp/B07X3TBQ8F</a><br /> <br />Ohuhu Hardback Sketchbook 210 x 210mm<br />(UK) <a rel="nofollow" target="blank" href="https://www.amazon.co.uk/dp/B0831B8CZM">https://www.amazon.co.uk/dp/B0831B8CZM</a><br /><br /><br /> - - - - - - - - - - - - - - - - <br />ﾟ✧ Other materials used:<br /><br />Uni Pin Fineliner - <a rel="nofollow" target="blank" href="https://www.amazon.de/dp/B07DGJ2B3K/ref=cm_sw_r_cp_api_glt_i_7XPSDZG423KWR1FGW42B?_encoding=UTF8&amp;psc=1">https://www.amazon.de/dp/B07DGJ2B3K/ref=cm_sw_r_cp_api_glt_i_7XPSDZG423KWR1FGW42B?_encoding=UTF8&amp;psc=1</a><br /><br />Pilot Color Eno Lead- <a rel="nofollow" target="blank" href="https://www.jetpens.com/Pilot-Color-Eno-Neox-Erasable-Lead-0.7-mm-Pink/pd/1173">https://www.jetpens.com/Pilot-Color-Eno-Neox-Erasable-Lead-0.7-mm-Pink/pd/1173</a><br /><br />Kuru toga mechanical pencil- <a rel="nofollow" target="blank" href="https://www.amazon.co.uk/dp/B0189IZJH8/ref=cm_sw_r_cp_api_glt_fabc_SWVD12D64K4YCV4BEBAQ?_encoding=UTF8&amp;psc=1">https://www.amazon.co.uk/dp/B0189IZJH8/ref=cm_sw_r_cp_api_glt_fabc_SWVD12D64K4YCV4BEBAQ?_encoding=UTF8&amp;psc=1</a><br /><br /><br /> - - - - - - - - - - - - - - - - <br /><br />My instagram: <a rel="nofollow" target="blank" href="https://instagram.com/likelihood_art?igshid=1xuv4b7gugzfq">https://instagram.com/likelihood_art?igshid=1xuv4b7gugzfq</a><br />My twitter: <a rel="nofollow" target="blank" href="https://twitter.com/likelihood_art">https://twitter.com/likelihood_art</a><br /><br /> - - - - - - - - - - - - - - - - <br />✯ Editing app : VLLO premium &amp; Final Cut Pro X<br />✯ Camera : iPhone 11<br />✯ Ipad Pro 2020 &amp; Apple Pencil 2nd gen<br />✯ Procreate &amp; Clip Studio Paint EX<br /><br /> - - - - - - - - - - - - - - - - <br />🎼 🎵<br />Music by Kevatta - can't feel a thing - <a rel="nofollow" target="blank" href="https://thmatc.co/?l=9906C438">https://thmatc.co/?l=9906C438</a><br />Music by Mr. Jello - Timeless Memory - <a rel="nofollow" target="blank" href="https://thmatc.co/?l=F103D3D3">https://thmatc.co/?l=F103D3D3</a><br /><br /> - - - - - - - - - - - - - - - - <br /><br />💌For business only: likelihoodart@gmail.com<br /><br /><br />（╹◡╹）{% endraw %}
