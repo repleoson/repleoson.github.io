@@ -1,0 +1,15 @@
+---
+title: "Filip Rudan - He's Not The One"
+image: "https:\/\/i.ytimg.com\/vi\/YQbrQilp2oY\/hqdefault.jpg"
+vid_id: "YQbrQilp2oY"
+categories: "Music"
+tags: ["Filip Rudan","Filip","Rudan"]
+date: "2021-11-24T13:58:39+03:00"
+vid_date: "2021-10-29T16:00:12Z"
+duration: "PT2M58S"
+viewcount: "129193"
+likeCount: "7224"
+dislikeCount: "39"
+channel: "FilipRudanVEVO"
+---
+{% raw %}New single “He's Not The One” Out Now: <a rel="nofollow" target="blank" href="https://filiprudan.lnk.to/HesNotTheOne">https://filiprudan.lnk.to/HesNotTheOne</a><br /><br />Follow Filip Rudan:<br /><br />Instagram: <a rel="nofollow" target="blank" href="https://filiprudan.lnk.to/instagramID">https://filiprudan.lnk.to/instagramID</a>  <br />Facebook: <a rel="nofollow" target="blank" href="https://filiprudan.lnk.to/facebookID">https://filiprudan.lnk.to/facebookID</a><br />Spotify: <a rel="nofollow" target="blank" href="https://filiprudan.lnk.to/spotifyID">https://filiprudan.lnk.to/spotifyID</a>  <br />Apple Music: <a rel="nofollow" target="blank" href="https://filiprudan.lnk.to/applemusicID">https://filiprudan.lnk.to/applemusicID</a> <br />Deezer: <a rel="nofollow" target="blank" href="https://filiprudan.lnk.to/deezerID">https://filiprudan.lnk.to/deezerID</a><br />YouTube: <a rel="nofollow" target="blank" href="https://filiprudan.lnk.to/youtubeID">https://filiprudan.lnk.to/youtubeID</a><br /><br />VIDEO:<br />Video made by Beyond Pines Films<br />Script by: Tara Turopoljac, Filip Rudan &amp; Dinko Šimac<br />Produced by: Romana Pavliša, Tara Turopoljac<br />Directed by: Dinko Šimac<br />Camera by: Dinko Šimac<br />Assistants: Tara Turopoljac, Romana Pavliša, Nela Kliček<br />MUA: Dorotea Hrenek<br />Photography by: Petra Mikšik<br />Costumes by: Ana Nikačević. Tara Turopoljac<br />CAST: Melody Martišković, Matija Gašpari<br /><br />AUDIO:<br />Music by: Filip Rudan<br />Lyrics by: Filip Rudan<br />Arranged and Produced by: Filip Rudan &amp; Hrvoje Domazet<br />Mastered by: Mischa Janisch / Sunshine Mastering<br /><br />LYRICS:<br />Cause he's not the one<br />That you've been searching for<br />All this time<br />And I can see it in your eyes<br />They look straight through mine<br />Just by saying my name<br />Many times<br /><br />He's not the one <br />He’s not the one<br /><br />Cause you deserve someone better<br />C’mon say your prayers girl<br />Imma show you how it’s done<br />And every time it gets better<br />Our bodies mend so well together<br />Be mine forever and ever and ever<br />Cause I can see it in your eyes<br />When you say you wanna be mine<br />By calling his name <br /><br />Cause he's not the one<br />No he’s not the one<br />Cause he's not the one <br />(Always say that you need somebody<br />Always say that you need someone)<br />And he’ll never be never be never be enough <br /><br /><br />Published by Adria High Energy Edition administered by Universal Music Publishing / Canal Music Publishing B.V. administered by Universal Music Publishing<br /><br />#FilipRudan #HesNotTheOne<br /><br />Music video by Filip Rudan performing 'He's Not The One’ © 2021 Universal Music GmbH. A Universal Music Hrvatska Release.{% endraw %}
