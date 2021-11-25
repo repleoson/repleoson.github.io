@@ -1,0 +1,15 @@
+---
+title: "This is Why Men and Women Can't EVER be EQUAL"
+image: "https:\/\/i.ytimg.com\/vi\/GG6xNiLXnA8\/hqdefault.jpg"
+vid_id: "GG6xNiLXnA8"
+categories: "People-Blogs"
+tags: ["entrepreneurs in cars","playing to win","before the train wreck"]
+date: "2021-11-25T23:13:25+03:00"
+vid_date: "2021-01-29T21:29:38Z"
+duration: "PT8M54S"
+viewcount: "140200"
+likeCount: "5667"
+dislikeCount: "93"
+channel: "Rich Cooper Clips"
+---
+{% raw %}In this video we talk about why men and women can't be equal, and how women have double standards when it comes to dating<br /><br />CHANNEL SPONSOR:  You're showering anyways, so why not buy handmade soap from a sponsor that supports the creation of my content.  Use code &quot;COOPER&quot; at checkout and Get 10% off Tactical Soap mentioned here:  <a rel="nofollow" target="blank" href="http://bit.ly/2jQEZbz">http://bit.ly/2jQEZbz</a><br /><br />GET MY BOOK - &quot;The Unplugged Alpha&quot;  <a rel="nofollow" target="blank" href="https://amzn.to/3fIVW3J">https://amzn.to/3fIVW3J</a><br /><br />MY MAIN CHANNEL:  <a rel="nofollow" target="blank" href="https://www.youtube.com/EntrepreneursInCars">https://www.youtube.com/EntrepreneursInCars</a><br /><br />AMAZON BOOKS &amp; PRODUCTS I LIKE:  www.amazon.com/shop/influencer-a03634c5<br /><br />JOIN MY MENS COMMUNITY:  support the channel, get premium videos, my private Facebook community &amp; exclusive content:  <a rel="nofollow" target="blank" href="http://www.entrepreneursincars.com/community">http://www.entrepreneursincars.com/community</a><br /><br />REQUEST A VIDEO:  <a rel="nofollow" target="blank" href="https://entrepreneursincars.com/request">https://entrepreneursincars.com/request</a><br /><br />GET 1 on 1 COACHING WITH ME:  <a rel="nofollow" target="blank" href="https://clarity.fm/richardcooper">https://clarity.fm/richardcooper</a><br /><br />GET A FREE CHAPTER FROM MY BOOK:  <a rel="nofollow" target="blank" href="https://entrepreneursincars.com/red-flags/">https://entrepreneursincars.com/red-flags/</a><br /><br />Send business/sponsorship inquiries to EntrepreneursinCars@gmail.com<br /><br />======================================================<br /><br />Bitcoin Donations<br /><br />BTC address:  <br />1L1AUHgPeEWXr5AeG6eStRpHsa93FBSNuk<br /><br />======================================================<br /><br />FAQs<br />That thing on my wall:  <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=nD4cd...">https://www.youtube.com/watch?v=nD4cd...</a><br /><br />What I do for a living:  <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=IAJDu...">https://www.youtube.com/watch?v=IAJDu...</a><br /><br />======================================================<br /><br />© Richard Cooper - For all business inquires contact EntrepreneursinCars@Gmail.com <br /><br />This video is not to be reproduced without prior authorization. The original YouTube video may be distributed &amp; embedded, if required.<br /><br />#Men #Women #GenderInequality{% endraw %}
