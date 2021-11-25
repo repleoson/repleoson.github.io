@@ -1,0 +1,15 @@
+---
+title: "Outsiders - Completely Different"
+image: "https:\/\/i.ytimg.com\/vi\/7nZ-ZxTvwD0\/hqdefault.jpg"
+vid_id: "7nZ-ZxTvwD0"
+categories: "Entertainment"
+tags: ["Psychedelic trance"]
+date: "2021-11-25T14:27:33+03:00"
+vid_date: "2014-01-29T18:32:29Z"
+duration: "PT6M59S"
+viewcount: "112818"
+likeCount: "1668"
+dislikeCount: "22"
+channel: "MrLemilica"
+---
+{% raw %}No Copyright intended, for promotional use only!   If any upload shall be deleted, please contact me and it will be taken off straight away!  Artist: VA; Album: VA - Trancendance Prologue; Release: Jan. 2014; Label: BMSS Records; Genre: Psychedelic; Style: Psytrance; Buy: <a rel="nofollow" target="blank" href="http://www.psyshop.com/shop/CDs/bms/bms1cd008.html">http://www.psyshop.com/shop/CDs/bms/bms1cd008.html</a>                    Outsiders is the exciting project of two significant producers based in sunny Israel - Haim Lev &amp; Guy Malka.<br />The Outsiders name has been fast developing and their releases have been backed and supported by an impressive number of international covering pretty much of the the top international circuit.Outsiders have released a bundle of successful original releases and a bountiful collaboration &amp; remix tracks from the likes of Tristan, Symbolic, Laughing Buddha, Avalon, Electric Universe, Rinkadink, Burn In Noise, to name few. The Outsiders sound is always evolving and is highly influenced by the duos global interactions...  <a rel="nofollow" target="blank" href="http://soundcloud.com/outsidersmusic">http://soundcloud.com/outsidersmusic</a>  <a rel="nofollow" target="blank" href="http://www.facebook.com/outsidersofficial">http://www.facebook.com/outsidersofficial</a>  <a rel="nofollow" target="blank" href="https://www.youtube.com/user/OutsidersOfficial1">https://www.youtube.com/user/OutsidersOfficial1</a>  Worldwide                                                                                          About: <a rel="nofollow" target="blank" href="http://soundcloud.com/bmss-records">http://soundcloud.com/bmss-records</a>  <a rel="nofollow" target="blank" href="http://www.bmss.eu/">http://www.bmss.eu/</a>  <a rel="nofollow" target="blank" href="https://www.facebook.com/BMSSRecords">https://www.facebook.com/BMSSRecords</a>  <a rel="nofollow" target="blank" href="http://www.youtube.com/user/BMSSRecords">http://www.youtube.com/user/BMSSRecords</a>  <a rel="nofollow" target="blank" href="http://www.beatport.com/label/bmss-records/18305">http://www.beatport.com/label/bmss-records/18305</a>  <a rel="nofollow" target="blank" href="http://bmssrecords.bandcamp.com/">http://bmssrecords.bandcamp.com/</a>  <a rel="nofollow" target="blank" href="http://www.psyshop.com/shop/CDs/bms/">http://www.psyshop.com/shop/CDs/bms/</a>  <br /><br />Trancentral ► Spotify: <a rel="nofollow" target="blank" href="http://bit.ly/TrancentralSpotify">http://bit.ly/TrancentralSpotify</a><br /><br />😎Psychedelic fashion, art, jewelry &amp; accessories: <a rel="nofollow" target="blank" href="https://trancentralshop.com/">https://trancentralshop.com/</a>{% endraw %}
