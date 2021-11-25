@@ -1,0 +1,15 @@
+---
+title: "Diagnosis: From The New York Times Column | Official Trailer | Netflix"
+image: "https:\/\/i.ytimg.com\/vi\/v4pi6hGbo8Y\/hqdefault.jpg"
+vid_id: "v4pi6hGbo8Y"
+categories: "Entertainment"
+tags: ["Diagnosis","Netflix","The New York Times"]
+date: "2021-11-25T17:59:38+03:00"
+vid_date: "2019-07-22T13:30:11Z"
+duration: "PT2M20S"
+viewcount: "216454"
+likeCount: "3627"
+dislikeCount: "80"
+channel: "Netflix"
+---
+{% raw %}Based on Dr. Lisa Sanders’ popular column in The New York Times Magazine, Diagnosis follows various patients on their respective journeys toward finding a diagnosis, and potentially a cure, for their mysterious illnesses. By combining the power of global crowdsourcing, social media, and established medical expertise, each case is untangled with illuminating new insights that had previously eluded doctors. From award-winning executive producers Scott Rudin, Simon Chinn and Jonathan Chinn, and in association with The New York Times, Diagnosis explores the life-changing impact of receiving a diagnosis for individuals who’ve been searching for answers, and the healing that comes with connecting with others who can empathize with their experiences. Only on Netflix August 16.<br /><br />Watch Diagnosis, Only on Netflix:<br /><a rel="nofollow" target="blank" href="https://www.netflix.com/title/80201543">https://www.netflix.com/title/80201543</a><br /><br />SUBSCRIBE: <a rel="nofollow" target="blank" href="http://bit.ly/29qBUt7">http://bit.ly/29qBUt7</a><br /><br />About Netflix:<br />Netflix is the world's leading internet entertainment service with over 151 million paid memberships in over 190 countries enjoying TV series, documentaries and feature films across a wide variety of genres and languages. Members can watch as much as they want, anytime, anywhere, on any internet-connected screen. Members can play, pause and resume watching, all without commercials or commitments.<br /><br />Connect with Netflix Online:<br />Visit Netflix WEBSITE: <a rel="nofollow" target="blank" href="http://nflx.it/29BcWb5">http://nflx.it/29BcWb5</a><br />Like Netflix Kids on FACEBOOK: <a rel="nofollow" target="blank" href="http://bit.ly/NetflixFamily">http://bit.ly/NetflixFamily</a><br />Like Netflix on FACEBOOK: <a rel="nofollow" target="blank" href="http://bit.ly/29kkAtN">http://bit.ly/29kkAtN</a><br />Follow Netflix on TWITTER: <a rel="nofollow" target="blank" href="http://bit.ly/29gswqd">http://bit.ly/29gswqd</a><br />Follow Netflix on INSTAGRAM: <a rel="nofollow" target="blank" href="http://bit.ly/29oO4UP">http://bit.ly/29oO4UP</a><br />Follow Netflix on TUMBLR: <a rel="nofollow" target="blank" href="http://bit.ly/29kkemT">http://bit.ly/29kkemT</a><br /><br />Diagnosis | Official Trailer | Netflix<br /><a rel="nofollow" target="blank" href="http://youtube.com/netflix">http://youtube.com/netflix</a><br /><br />Dr. Lisa Sanders crowdsources diagnoses for rare and mysterious medical conditions in a documentary series based on her New York Times Magazine column.{% endraw %}
