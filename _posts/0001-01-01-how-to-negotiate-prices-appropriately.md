@@ -1,0 +1,15 @@
+---
+title: "How to Negotiate Prices Appropriately?"
+image: "https:\/\/i.ytimg.com\/vi\/ZkKObd3wFVc\/hqdefault.jpg"
+vid_id: "ZkKObd3wFVc"
+categories: "Education"
+tags: ["How to Negotiate Prices Appropriately?","price objections","garyvee"]
+date: "2021-11-25T19:53:41+03:00"
+vid_date: "2017-03-06T23:20:26Z"
+duration: "PT3M15S"
+viewcount: "48653"
+likeCount: "821"
+dislikeCount: "70"
+channel: "GaryVee TV"
+---
+{% raw %}► Q: How do you handle price objections when attempting to close a sale?<br /><br />► Watch full the #Askgaryvee episode here: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=3esHlM0cBx4">https://www.youtube.com/watch?v=3esHlM0cBx4</a><br /><br />► Looking for a specific question or answer? Check out my business Search Engine: <a rel="nofollow" target="blank" href="http://ask.garyvaynerchuk.com">http://ask.garyvaynerchuk.com</a><br /><br />► Subscribe to #AskGaryVee Here - <a rel="nofollow" target="blank" href="https://www.youtube.com/c/EntrepreneurshipAnswered?sub_confirmation=1">https://www.youtube.com/c/EntrepreneurshipAnswered?sub_confirmation=1</a><br /><br />--<br />The #AskGaryVee Show is one entrepreneur's take on leadership, social media, self-awareness, winning, marketing, venture capital, arbitrage, digital media, influencers, company culture, start-ups, attention, content, management, empathy, legacy, parenting, family business, crushing, storytelling, thanking, jabbing, right hooking, hustling, and the New York Jets.<br /><br />Gary Vaynerchuk is a serial entrepreneur.  Fresh out of college he took his family wine business Wine Library and grew it from a $3M to a $60M business in just five years. Now he runs VaynerMedia, one of the world's hottest digital agencies. Along the way he became a prolific angel investor and venture capitalist, investing in companies like Facebook, Twitter, Tumblr, Uber, and Birchbox before eventually co-founding his own VC.<br /><br />Find Gary here:<br /><br />Instagram: <a rel="nofollow" target="blank" href="http://instagram.com/garyvee">http://instagram.com/garyvee</a><br />Facebook: <a rel="nofollow" target="blank" href="http://facebook.com/gary">http://facebook.com/gary</a><br />Snapchat: <a rel="nofollow" target="blank" href="https://www.snapchat.com/add/garyvee">https://www.snapchat.com/add/garyvee</a><br />Website: <a rel="nofollow" target="blank" href="http://garyvaynerchuk.com">http://garyvaynerchuk.com</a><br />Soundcloud | <a rel="nofollow" target="blank" href="https://soundcloud.com/garyvee/">https://soundcloud.com/garyvee/</a><br />Twitter: <a rel="nofollow" target="blank" href="http://twitter.com/garyvee">http://twitter.com/garyvee</a><br />Medium: <a rel="nofollow" target="blank" href="http://medium.com/@garyvee">http://medium.com/@garyvee</a><br />Podcast: <a rel="nofollow" target="blank" href="http://garyvaynerchuk.com/podcast">http://garyvaynerchuk.com/podcast</a><br />Wine Library: <a rel="nofollow" target="blank" href="http://winelibrary.com">http://winelibrary.com</a><br />--{% endraw %}
