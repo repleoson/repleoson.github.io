@@ -1,0 +1,15 @@
+---
+title: "Coat of Many Colors by Dolly Parton play along with scrolling guitar chords and lyrics"
+image: "https:\/\/i.ytimg.com\/vi\/sYowCegE9Y0\/hqdefault.jpg"
+vid_id: "sYowCegE9Y0"
+categories: "Entertainment"
+tags: ["chord song","guitar lesson","how to play"]
+date: "2021-11-25T15:16:30+03:00"
+vid_date: "2020-10-09T17:00:11Z"
+duration: "PT3M4S"
+viewcount: "98797"
+likeCount: "949"
+dislikeCount: "88"
+channel: "Joanne Cooper"
+---
+{% raw %}FREE APPS <a rel="nofollow" target="blank" href="https://go.playiit.com/iOSapp">https://go.playiit.com/iOSapp</a> <a rel="nofollow" target="blank" href="https://go.playiit.com/ANDROIDapp">https://go.playiit.com/ANDROIDapp</a><br />FREE Songbook <a rel="nofollow" target="blank" href="https://www.playiit.com/free-stuff/">https://www.playiit.com/free-stuff/</a><br />Join www.playiit.com and become the guitar player you've always wanted to be<br />Join the Facebook song a day challenge <a rel="nofollow" target="blank" href="https://www.facebook.com/groups/song.a.day.challenge">https://www.facebook.com/groups/song.a.day.challenge</a>  <br />Join my Patreon here <br /><a rel="nofollow" target="blank" href="https://www.patreon.com/joannecooper">https://www.patreon.com/joannecooper</a><br />Download the videos to your own device here<br /><a rel="nofollow" target="blank" href="https://joannecooper.co.za/product/691427">https://joannecooper.co.za/product/691427</a>  <br /><br /><br /><br />Request your own song here<br /><br /><a rel="nofollow" target="blank" href="https://www.fiverr.com/share/k9kBy">https://www.fiverr.com/share/k9kBy</a><br /><br /><br /><br />Subscribe for more videos from Joanne Cooper <a rel="nofollow" target="blank" href="http://bit.ly/2iovZI5">http://bit.ly/2iovZI5</a><br /><br /><br /><br />Listen to more of Joanne Cooper's music!<br /><br />iTunes :<a rel="nofollow" target="blank" href="http://apple.co/2jfjmzo">http://apple.co/2jfjmzo</a><br /><br />Spotify: <a rel="nofollow" target="blank" href="http://spoti.fi/2j2VsaW">http://spoti.fi/2j2VsaW</a><br /><br />Amazon: <a rel="nofollow" target="blank" href="http://amzn.to/2iPTGdj">http://amzn.to/2iPTGdj</a><br /><br /><br /><br />Follow Joanne Cooper:<br /><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/JoanneCooperMusician">https://www.facebook.com/JoanneCooperMusician</a><br /><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/JoanneCooperSA">https://twitter.com/JoanneCooperSA</a><br /><br />Website: <a rel="nofollow" target="blank" href="http://www.joannecooper.co.za">http://www.joannecooper.co.za</a><br /><br /><br /><br />Welcome to Joanne Cooper's official YouTube channel! On this channel, you’ll find a variety of play-along, karaoke and sing along videos with lyrics and scrolling chords, including pop-rock, R&amp;B, hip hop, piano, acoustic, and electropop genres from Taylor Swift, Katy Perry, ABBA, and more. If you like music, singing along, learning songs, or karaoke, sing along to them in style with, your number one source for YouTube play-along videos.{% endraw %}
