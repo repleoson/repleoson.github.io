@@ -1,0 +1,15 @@
+---
+title: "Mayday五月天 [ 勇敢Braveness ] Official Music Video"
+image: "https:\/\/i.ytimg.com\/vi\/3wrto8oJu5A\/hqdefault.jpg"
+vid_id: "3wrto8oJu5A"
+categories: "Music"
+tags: ["五月天","mayday","有些事現在不做 一輩子都不會做了"]
+date: "2021-11-26T00:57:06+03:00"
+vid_date: "2015-12-31T15:55:01Z"
+duration: "PT4M50S"
+viewcount: "17082984"
+likeCount: "54534"
+dislikeCount: "1412"
+channel: "相信音樂BinMusic"
+---
+{% raw %}★[ 五月天 2016 第一天第一刻勇敢之歌 ]★<br />黑暗過去，苦盡甘來。<br />一起在一起，勇敢再勇敢。<br />Happy New Year. 2016 Brave New Day.<br />Mayday, with you 勇敢再勇敢...<br /><br /><br />--------------------------------------------------------------------------------<br />「不管咱是天才抑是奴才  只有拼著 所有氣力<br />　挑戰無情的世間  一天一冬 一世人到永遠<br />　一遍擱一遍」<br />--------------------------------------------------------------------------------<br /><br /><br /><br /><br />勇敢<br />詞：阿信 ｜ 曲：怪獸 ｜ 編曲演奏：五月天 ｜ 導演：鄧勇星+詹凱<br /><br />敢講這是失去希望的時代<br />敢講這是失去期待的所在<br />敢講咱一世人只有忍耐 只有憤慨 只有無奈<br />只有目屎無人知 吞落腹肚內<br /><br />看到心願慢慢變成不甘願<br />才知期待未當靜靜的等待<br />不管咱是天才抑是奴才 只有拼著 所有氣力<br />挑戰無情的世間 一天一冬 一世人到永遠<br />一遍擱一遍<br /><br />不知影 誰在安排 命運好歹 一人攏一款<br />有時陣 想欲放棄 想欲怨嘆 想欲流目屎<br /><br />等一天 黑暗過去 苦盡甘來 人生滋味才了解<br />為著彼個將來<br />要自己 勇敢再勇敢<br /><br />若有一天若我消失在世間<br />若有我的故事給誰人熟識<br />不管阮是成功抑是失敗 我的名字 號做勇敢<br />唱作美麗的歌曲 一字一句 一世人到永遠<br />一遍擱一遍<br /><br />不知影 誰在安排 命運好歹 一人攏一款<br />有時陣 想欲放棄 想欲怨嘆 想欲流目屎<br /><br />等一天 黑暗過去 苦盡甘來 人生滋味才了解<br />為著彼個將來<br />要自己 勇敢再勇敢<br /><br />風無情 雨無情 命運也無情<br />若有膽 若有心 風雨算什麼<br />飄浪一生 就要攀過 最高的海浪<br /><br />不知影 誰在安排 命運好歹 一人攏一款<br />有時陣 想欲放棄 想欲怨嘆 想欲流目屎<br /><br />等一天 黑暗過去 苦盡甘來 人生滋味才了解<br />為著彼個將來<br />要自己 勇敢再勇敢<br /><br /><br /><br />製作人：五月天<br />編曲演奏：五月天+Cola Kai<br />和音演唱：黃士杰+Cola Kai<br />弦樂編寫演奏：李琪弦樂團<br />管樂編寫：怪獸<br />錄/混音：黃士杰 @五月天錄音室<br />鼓技師：余璨宇<br />吉他技師：陳俊豪<br />製作助理：江昆餘+柯弗奇<br />母帶後期製作：Brad Blackwood @Euphonic Masters<br /><br /><br /><br /><br /><br /><br /><br />‥‥訂閱・相信‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥<br />▶訂閱相信音樂YouTube官方頻道 Subscribe YouTube<br />-- MV首播、新歌搶先聽、獨家花絮<br /><a rel="nofollow" target="blank" href="http://www.youtube.com/binmusictaipei">http://www.youtube.com/binmusictaipei</a><br /><br /><br />Mayday: <br />★FB(CN)：<a rel="nofollow" target="blank" href="https://www.facebook.com/imayday555">https://www.facebook.com/imayday555</a><br />★Twitter(EN)：<a rel="nofollow" target="blank" href="https://twitter.com/Mayday_EN">https://twitter.com/Mayday_EN</a><br />★WEIBO：<a rel="nofollow" target="blank" href="http://weibo.com/mayday">http://weibo.com/mayday</a><br />★YouTube：<a rel="nofollow" target="blank" href="http://goo.gl/dR6yLm">http://goo.gl/dR6yLm</a><br />★iTunes：<a rel="nofollow" target="blank" href="http://goo.gl/qmfEbo">http://goo.gl/qmfEbo</a><br />★Spotify：<a rel="nofollow" target="blank" href="http://goo.gl/5pDCi7">http://goo.gl/5pDCi7</a> <br />★KKBOX：<a rel="nofollow" target="blank" href="http://goo.gl/AcQpzZ">http://goo.gl/AcQpzZ</a><br />★Omusic：<a rel="nofollow" target="blank" href="http://goo.gl/2huU2z">http://goo.gl/2huU2z</a><br />★myMusic：<a rel="nofollow" target="blank" href="http://goo.gl/oB8xGR">http://goo.gl/oB8xGR</a>{% endraw %}
