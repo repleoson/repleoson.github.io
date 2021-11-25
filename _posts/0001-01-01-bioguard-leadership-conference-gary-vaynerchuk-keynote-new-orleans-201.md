@@ -1,0 +1,15 @@
+---
+title: "BioGuard Leadership Conference Gary Vaynerchuk Keynote | New Orleans 2017"
+image: "https:\/\/i.ytimg.com\/vi\/7d00h0pNPF8\/hqdefault.jpg"
+vid_id: "7d00h0pNPF8"
+categories: "People-Blogs"
+tags: ["Gary Vaynerchuk","Garyvee","business"]
+date: "2021-11-25T08:43:05+03:00"
+vid_date: "2017-02-12T18:48:38Z"
+duration: "PT1H36M20S"
+viewcount: "133936"
+likeCount: "2040"
+dislikeCount: "64"
+channel: "GaryVee"
+---
+{% raw %}--<br />► Subscribe to My Channel Here <a rel="nofollow" target="blank" href="http://www.youtube.com/subscription_center?add_user=GaryVaynerchuk">http://www.youtube.com/subscription_center?add_user=GaryVaynerchuk</a><br />--<br />Gary Vaynerchuk is a serial entrepreneur and the CEO and founder of VaynerMedia, a full-service digital agency servicing Fortune 500 clients across the company’s 5 locations. Gary is also a prolific public speaker, venture capitalist, 4-time New York Times Bestselling Author, and has been named to both Crain’s and Fortune’s 40 Under 40 lists.<br /><br />Gary is the host of the #AskGaryVee Show, a business and marketing focused Q&amp;A video show and podcast, as well as DailyVee, a docu-series highlighting what it’s like to be a CEO, investor, speaker, and public figure in today’s digital age. <br /><br />Make sure to stay tuned for Gary’s latest project Planet of the Apps, Apple’s very first video series, where Gary will be a judge alongside Will.I.Am, Jessica Alba, and Gwyneth Paltrow. <br />----<br />Thank you for watching this video. I hope that you keep up with the daily videos I post on the channel, subscribe, and share your learnings with those that need to hear it. Your comments are my oxygen, so please take a second and say ‘Hey’ ;).<br />----<br /><br />Subscribe to my VIP Newsletter for exclusive content and weekly giveaways here: <a rel="nofollow" target="blank" href="http://garyvee.com/GARYVIP">http://garyvee.com/GARYVIP</a><br /><br />Follow Me Online Here:<br /><br />Instagram: <a rel="nofollow" target="blank" href="http://instagram.com/garyvee">http://instagram.com/garyvee</a><br />Facebook: <a rel="nofollow" target="blank" href="http://facebook.com/gary">http://facebook.com/gary</a><br />Snapchat: <a rel="nofollow" target="blank" href="https://www.snapchat.com/add/garyvee">https://www.snapchat.com/add/garyvee</a><br />Website: <a rel="nofollow" target="blank" href="http://garyvaynerchuk.com">http://garyvaynerchuk.com</a><br />Soundcloud | <a rel="nofollow" target="blank" href="https://soundcloud.com/garyvee/">https://soundcloud.com/garyvee/</a><br />Twitter: <a rel="nofollow" target="blank" href="http://twitter.com/garyvee">http://twitter.com/garyvee</a><br />Medium: <a rel="nofollow" target="blank" href="http://medium.com/@garyvee">http://medium.com/@garyvee</a><br />Planet of the Apps | <a rel="nofollow" target="blank" href="http://planetoftheapps.com">http://planetoftheapps.com</a><br />iTunes Podcast | <a rel="nofollow" target="blank" href="http://apple.co/1QxEM7m">http://apple.co/1QxEM7m</a><br />Wine Library | <a rel="nofollow" target="blank" href="http://winelibrary.com">http://winelibrary.com</a>{% endraw %}
