@@ -1,0 +1,15 @@
+---
+title: "Da Youngstas - Pass Da Mic"
+image: "https:\/\/i.ytimg.com\/vi\/dXrsuQ1-Bsw\/hqdefault.jpg"
+vid_id: "dXrsuQ1-Bsw"
+categories: "Music"
+tags: ["music","hip","hop"]
+date: "2021-11-26T02:08:34+03:00"
+vid_date: "2011-10-01T01:20:40Z"
+duration: "PT4M13S"
+viewcount: "1415752"
+likeCount: "24003"
+dislikeCount: "412"
+channel: "UPROXX Video"
+---
+{% raw %}Video version is the &quot;Pete Rock Remix&quot; from the 1992 Single...[Artist info below].....<br /><br />Get Da Youngstas' Music:<br /><a rel="nofollow" target="blank" href="http://www.amazon.com/Da-Youngstas/e/B000AQ1FDA/ref=ntt_mus_dp_pel">http://www.amazon.com/Da-Youngstas/e/B000AQ1FDA/ref=ntt_mus_dp_pel</a><br />&amp;<br /><a rel="nofollow" target="blank" href="http://itunes.apple.com/us/artist/da-youngstas/id15533623">http://itunes.apple.com/us/artist/da-youngstas/id15533623</a><br /><br />Da Youngstas were a hip-hop trio that consisted of two brothers, Taji &quot;Taj Mahal&quot; Goodman and Qu'ran Goodman, and their cousin Tarik Dawson, hailing from Philadelphia.<br /><br />The Goodman brothers are the sons of Lawrence &quot;LG&quot; Goodman, CEO of Pop Art Records and one of Philadelphia hip-hop's founding fathers.<br /><br />Da Youngstas' debut album, 1992's Somethin' 4 da Youngstas was unfortunately overshadowed by the explosive success of their kiddie counterparts Kris Kross. However, the trio was able to garner a strong reputation in hip hop's underground due to the fact that, unlike similar child acts of the day, they wrote their own lyrics.<br /><br />Its second album, 1993's The Aftermath, featured grand influences from Das EFX and Onyx, as Da Youngstas boasted a more aggressive and dexterous rhyming style and had production support from some of hip hop's heavyweights such as DJ Premier, the Beatnuts, Marley Marl, and Pete Rock. Hardcore tracks such as &quot;Wild Child&quot; and &quot;Crewz Pop&quot; won them a bigger following; notably, Qu'ran began producing beats for the song &quot;Da Hood,&quot; foreshadowing a future career as a producer. Some of the songs on the album had been directed to Kris Kross in songs Crewz Pop and Lyrical Stick Up Kids due to the beef they had going on with the group.<br /><br />Da Youngstas' third album, 1994's No Mercy, is often regarded as its best. It contains the group's most successful single, &quot;Hip Hop Ride,&quot; a sunny ode to hip hop music, which peaked at #21 on the Hot Rap Singles charts and #68 on the Billboard Hot 100. This time, most of the production work was left to Marley Marl, K-Def &amp; Dante &quot;Destro&quot; Barton.<br /><br />The group released its final album in 1995—I'll Make You Famous—that found them referring to themselves as the Illy Funkstaz, a nickname that the group had used sporadically during its last two albums. It contained the Mobb Deep-featured single &quot;Bloodshed and War.&quot; The album was the least successful of the group's releases, and nothing has been heard from the group since.<br /><br />Extended &amp; Updated Info:<br /><a rel="nofollow" target="blank" href="http://en.wikipedia.org/wiki/Da_Youngstas">http://en.wikipedia.org/wiki/Da_Youngstas</a>{% endraw %}
