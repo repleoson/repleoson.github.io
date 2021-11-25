@@ -1,0 +1,15 @@
+---
+title: "Organisational Structures Explained"
+image: "https:\/\/i.ytimg.com\/vi\/LCAAivdxVTU\/hqdefault.jpg"
+vid_id: "LCAAivdxVTU"
+categories: "Education"
+tags: ["GCSE Revision","Alevel revision","btec revision"]
+date: "2021-11-25T22:15:21+03:00"
+vid_date: "2020-05-31T08:00:05Z"
+duration: "PT7M57S"
+viewcount: "82167"
+likeCount: "1073"
+dislikeCount: "36"
+channel: "Two Teachers"
+---
+{% raw %}Watch this video if you want to understand organisational structures. <br /><br />SUBSCRIBE: <a rel="nofollow" target="blank" href="https://www.youtube.com/c/TwoTeachers?sub_confirmation=1">https://www.youtube.com/c/TwoTeachers?sub_confirmation=1</a><br /><br />The video covers 3 types of organisational structure; hierarchical structure, flat structure and matrix structure. They are all shown in the form of an organisational chart.<br /><br />Businesses use organisational structures to illustrate job roles and responsibilities. Organisational structures show who each employee reports to in their job and depending on an organisation’s size, vision and requirements, the structure type will vary. In this video we cover 3 types of organisational structure, the features of those structures along with some advantages and disadvantages of using that particular structure.<br />There are a few key words that are important to understand before looking at an organisational chart. These are;<br /><br />Span of control. This is the number of employees that a manager has responsibility for<br /><br />Chain of command . The route by which instructions and communications flow from the top to the bottom of the business, it shows who answer to who<br /><br />Subordinates. This is basically members of staff that work for a manager, they under that managers span of control and are below them in the chain of command.<br /><br />The video covers each of these in detail and is great for GCSE revision or A level and BTEC business.<br /><br />If you want to apply your new found knowledge of organisational structures then download the free activity sheet here: <br /><a rel="nofollow" target="blank" href="https://www.twoteachers.co.uk/organisational-structures-activity">https://www.twoteachers.co.uk/organisational-structures-activity</a><br /><br />If you are interested in business, then subscribe to our YouTube Channel for lots more Business Studies content. Videos are uploaded weekly, so why not learn everything there is to know about the world of business: <a rel="nofollow" target="blank" href="http://www.youtube.com/c/TwoTeachers">http://www.youtube.com/c/TwoTeachers</a><br /><br />Follow us on the following socials to see even more Business Studies content: <br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/twoteachersbusiness">https://www.instagram.com/twoteachersbusiness</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/TwoTeachersBusiness">https://www.facebook.com/TwoTeachersBusiness</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/TwoTeachersBiz">https://twitter.com/TwoTeachersBiz</a><br /><br />#BusinessStudies #GCSEBusinessStudies{% endraw %}
