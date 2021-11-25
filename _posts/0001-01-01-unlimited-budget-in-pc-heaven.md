@@ -1,0 +1,15 @@
+---
+title: "Unlimited Budget in PC Heaven"
+image: "https:\/\/i.ytimg.com\/vi\/IJ4JnhDHFZs\/hqdefault.jpg"
+vid_id: "IJ4JnhDHFZs"
+categories: "Gaming"
+tags: ["ultimate pc build","building the ultimate pc","epic top of the line pc"]
+date: "2021-11-25T10:14:30+03:00"
+vid_date: "2021-11-24T17:00:22Z"
+duration: "PT8M12S"
+viewcount: "42529"
+likeCount: "4776"
+dislikeCount: "48"
+channel: "Basically Homeless"
+---
+{% raw %}No-limit pc build at the Tustin CA Micro Center location + 4 second drone shot. New Customers Exclusive – Get a Free 240gb SSD at Micro Center: <a rel="nofollow" target="blank" href="https://micro.center/54e0a3">https://micro.center/54e0a3</a><br /><br />In this video I build the ultimate gaming PC with an Intel 12900k, DDR5, and an Asus RTX 3090. I think right now is the perfect time to build a gaming PC with 12th gen intel processors. More fps means more pOWAAAAA which means you're better at the game. <br /><br />World's Largest Gaming Setup + World's Cleanest Gaming setup coming soon. <br /><br />Check out my last video where I turned a fridge innto a gaming PC<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=UCT8nyGx3xQ">https://www.youtube.com/watch?v=UCT8nyGx3xQ</a><br /><br /><br /><br />PARTS LIST:<br />Micro Center Custom PC Builder: <a rel="nofollow" target="blank" href="https://micro.center/072366">https://micro.center/072366</a><br />Intel Core i9-12900K: <a rel="nofollow" target="blank" href="https://micro.center/c731363">https://micro.center/c731363</a><br />ASUS Z690-A Prime DDR5 ATX Motherboard: <a rel="nofollow" target="blank" href="https://micro.center/84bc7d">https://micro.center/84bc7d</a><br />ASUS GeForce RTX 3090 Strix Overclocked Graphics Card: <a rel="nofollow" target="blank" href="https://micro.center/0499cb">https://micro.center/0499cb</a><br />Corsair Dominator Platinum RGB 32GB (2 x 16GB) DDR5-5200 PC5-41600 CL38: <a rel="nofollow" target="blank" href="https://micro.center/ac31bc">https://micro.center/ac31bc</a><br />WD Black SN850 500GB M.2 NVMe: <a rel="nofollow" target="blank" href="https://micro.center/ae4107">https://micro.center/ae4107</a><br />SilverStone SX1000 80 Plus Platinum SFX-L Fully Modular Power Supply: <a rel="nofollow" target="blank" href="https://micro.center/a14b0a">https://micro.center/a14b0a</a><br />Lian Li O11D Mini Tempered Glass ATX Mini Tower Computer Case – Snow: <a rel="nofollow" target="blank" href="https://micro.center/fc00e3">https://micro.center/fc00e3</a><br />NZXT Kraken Z63 280mm RGB CPU Water Cooling Kit: <a rel="nofollow" target="blank" href="https://micro.center/5f39ee">https://micro.center/5f39ee</a><br />NZXT AER RGB 2 Fluid Dynamic Bearing 120mm Case Fan: <a rel="nofollow" target="blank" href="https://micro.center/50040e">https://micro.center/50040e</a><br />Lian Li Strimer Plus Triple 8-Pin ARGB GPU Extension Cable: <a rel="nofollow" target="blank" href="https://micro.center/0d09dc">https://micro.center/0d09dc</a><br /><br /><br /><br />Thanks for watching, God bless ya!{% endraw %}
