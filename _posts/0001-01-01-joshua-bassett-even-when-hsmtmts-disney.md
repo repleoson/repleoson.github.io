@@ -1,0 +1,15 @@
+---
+title: "Joshua Bassett - Even When (HSMTMTS | Disney+)"
+image: "https:\/\/i.ytimg.com\/vi\/3dLlGNQd_no\/hqdefault.jpg"
+vid_id: "3dLlGNQd_no"
+categories: "Music"
+tags: ["Joshua","Bassett","Even"]
+date: "2021-11-26T05:30:17+03:00"
+vid_date: "2021-05-28T16:00:01Z"
+duration: "PT1M53S"
+viewcount: "737523"
+likeCount: "25818"
+dislikeCount: "141"
+channel: "DisneyMusicVEVO"
+---
+{% raw %}Ricky's song for Nini! Watch Joshua Bassett (Ricky) perform “Even When” in the official music video from High School Musical: The Musical: The Series!<br /><br />▶️ Stream High School Musical: The Musical: The Series only on Disney+.<br /><a rel="nofollow" target="blank" href="https://disneymusic.co/JoinDisneyPlus?iqid=dmvevo.hsmtmts2">https://disneymusic.co/JoinDisneyPlus?iqid=dmvevo.hsmtmts2</a><br /><br />▶️ Watch all High School Musical: The Musical: The Series music videos here: <a rel="nofollow" target="blank" href="https://disneymusic.co/hsm/vevo?iqid=dmvevo.hsmtmts2">https://disneymusic.co/hsm/vevo?iqid=dmvevo.hsmtmts2</a><br /><br />Subscribe to DisneyMusicVEVO 🔔 for all the latest Disney music videos:<br /><a rel="nofollow" target="blank" href="https://disneymusic.co/disneymusicYT?iqid=dmvevo.hsmtmts2">https://disneymusic.co/disneymusicYT?iqid=dmvevo.hsmtmts2</a><br /><br />Disney+ is the only place to stream your favorites from Disney, Pixar, Marvel, Star Wars, National Geographic and more. Access it all here: <a rel="nofollow" target="blank" href="https://disneymusic.co/JoinDisneyPlus?iqid=dmvevo.hsmtmts2">https://disneymusic.co/JoinDisneyPlus?iqid=dmvevo.hsmtmts2</a><br /><br />For more updates, subscribe to Disney+, Disney, Pixar, Marvel, Star Wars, and National Geographic. <br /><br />Follow Disney+ for the latest:<br />Disney+: <a rel="nofollow" target="blank" href="https://www.disneyplus.com">https://www.disneyplus.com</a><br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/DisneyPlus">https://instagram.com/DisneyPlus</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/DisneyPlus">https://twitter.com/DisneyPlus</a><br />Facebook: <a rel="nofollow" target="blank" href="https://facebook.com/DisneyPlus">https://facebook.com/DisneyPlus</a><br /><br />Follow Disney Music: <br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/disneymusic">https://instagram.com/disneymusic</a> <br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/disneymusic">https://twitter.com/disneymusic</a> <br />Facebook: <a rel="nofollow" target="blank" href="https://facebook.com/disneymusic">https://facebook.com/disneymusic</a> <br />TikTok: <a rel="nofollow" target="blank" href="https://tiktok.com/@disneymusic">https://tiktok.com/@disneymusic</a><br /><br />#EvenWhen #HSMTMTS #JoshuaBassett<br /><br />Music video by Joshua Bassett performing Even When (HSMTMTS | Disney+). © 2021 Walt Disney Records<br /><br /><a rel="nofollow" target="blank" href="http://vevo.ly/VwaJlg">http://vevo.ly/VwaJlg</a>{% endraw %}
